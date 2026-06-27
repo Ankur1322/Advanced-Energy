@@ -1,0 +1,5 @@
+Subproduct Name: Capacitor Chargers
+Category: AC-DC Power Supply Units
+Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/
+Description:
+Enhance your pulsed-power applications with Advanced Energy’s capacitor chargers, which include the High Power C series offering fast-rise charging power and the Flexicharge ensuring superb pulse-to-pulse repeatability and user power limit control.

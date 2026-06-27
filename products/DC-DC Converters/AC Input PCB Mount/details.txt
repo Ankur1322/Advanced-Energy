@@ -1,0 +1,5 @@
+Subproduct Name: AC Input PCB Mount
+Category: DC-DC Converters
+Source Link: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/
+Description:
+Best suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.

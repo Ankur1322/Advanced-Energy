@@ -1,0 +1,5 @@
+Subproduct Name: Temperature Sensing
+Category: Sense and Measurement
+Source Link: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Description:
+Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
