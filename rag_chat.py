@@ -30,7 +30,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 
 import chromadb
 import google.generativeai as genai
-from embed_to_chroma import COLLECTION_NAME, DB_DIR, TfidfSvdEmbeddingFunction
+from embed_to_chroma import COLLECTION_NAME, DB_DIR, SentenceTransformerEmbeddingFunction
 
 
 USING_MOCK = False
@@ -107,7 +107,7 @@ def get_llm_response_with_retry(prompt: str, context: str, query: str, retries: 
 
 
 def ask_question(query: str, db_dir: Path, n_results: int = 5) -> str:
-    ef = TfidfSvdEmbeddingFunction.load(db_dir / "embedding_model.pkl")
+    ef = SentenceTransformerEmbeddingFunction()
 
     client = chromadb.PersistentClient(path=str(db_dir))
     collection = client.get_or_create_collection(

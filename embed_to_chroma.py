@@ -67,27 +67,6 @@ class TfidfSvdEmbeddingFunction(EmbeddingFunction):
         normalized = reduced / norms
         return normalized.tolist()
 
-    def save(self, path: Path) -> None:
-        import pickle
-        data = {
-            "vectorizer": self._vectorizer,
-            "svd": self._svd,
-            "dim": self._dim,
-            "fitted": self._fitted,
-        }
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_bytes(pickle.dumps(data))
-
-    @classmethod
-    def load(cls, path: Path) -> "TfidfSvdEmbeddingFunction":
-        import pickle
-        data = pickle.loads(path.read_bytes())
-        ef = cls(dim=data["dim"])
-        ef._vectorizer = data["vectorizer"]
-        ef._svd = data["svd"]
-        ef._fitted = data["fitted"]
-        return ef
-
 
 def parse_details(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
@@ -211,18 +190,13 @@ def embed(products_dir: Path, db_dir: Path) -> None:
     ef = TfidfSvdEmbeddingFunction(dim=EMBEDDING_DIM)
     ef.fit([d["text"] for d in all_docs])
 
-    model_path = db_dir / "embedding_model.pkl"
-    db_dir.mkdir(parents=True, exist_ok=True)
-    ef.save(model_path)
-    print(f"  -> Saved embedding model to {model_path}")
-
     print(f"Initialising ChromaDB at {db_dir} ...")
     client = chromadb.PersistentClient(path=str(db_dir))
 
     try:
         client.delete_collection(COLLECTION_NAME)
         print(f"  -> Deleted old collection (dimension mismatch possible)")
-    except Exception:
+    except ValueError:
         pass
 
     print(f"Creating collection '{COLLECTION_NAME}' ...")
