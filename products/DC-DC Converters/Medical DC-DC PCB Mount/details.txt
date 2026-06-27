@@ -1,0 +1,5 @@
+Subproduct Name: Medical DC-DC PCB Mount
+Category: DC-DC Converters
+Source Link: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/
+Description:
+Keep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.

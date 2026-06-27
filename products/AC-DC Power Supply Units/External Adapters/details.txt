@@ -1,0 +1,5 @@
+Subproduct Name: External Adapters
+Category: AC-DC Power Supply Units
+Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Description:
+A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
