@@ -1,5 +1,0 @@
-Subproduct Name: Systems Greater than 5 kV
-Category: High Voltage Amplifiers
-Source Link: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-greater-than-5-kv/
-Description:
-Increase voltage with our high voltage amplifiers. Our high-performance amplifiers requiring voltages greater than 5 kV, and up to 50 kV

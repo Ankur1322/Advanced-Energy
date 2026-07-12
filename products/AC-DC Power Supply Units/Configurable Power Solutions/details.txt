@@ -1,5 +1,0 @@
-Subproduct Name: Configurable Power Solutions
-Category: AC-DC Power Supply Units
-Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
-Description:
-Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.

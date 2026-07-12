@@ -1,5 +1,0 @@
-Subproduct Name: Industrial DC-DC PCB Mount
-Category: DC-DC Converters
-Source Link: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
-Description:
-Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.

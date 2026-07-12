@@ -1,5 +1,0 @@
-Subproduct Name: Front End PSUs AC-Input
-Category: AC-DC Power Supply Units
-Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
-Description:
-Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.

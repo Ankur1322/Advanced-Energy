@@ -1,5 +1,0 @@
-Subproduct Name: Conduction Cooled IP Sealed Power Supplies
-Category: AC-DC Power Supply Units
-Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/
-Description:
-Global-ready conduction cooled power supplies offer wide operating temperatures, IP64 protection & adaptable mounting, perfect for medical and indoor applications.

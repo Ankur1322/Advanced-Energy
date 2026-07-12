@@ -1,5 +1,0 @@
-Subproduct Name: 400Vdc input DC-DC PCB Mount
-Category: DC-DC Converters
-Source Link: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/
-Description:
-Achieve cost-effective and efficient means of implementing high-voltage and low-loss DC power distribution systems using our application-specific, low-profile power supplies. These isolated converter modules are intended for use with power factor correction (PFC) modules.

@@ -1,8 +1,0 @@
-Category: High Voltage Power Supplies
-Total Subproducts: 5
-
-1. E-Chuck
-2. High Power
-3. Low Power
-4. Modules
-5. UltraVolt High Voltage PCB Mount

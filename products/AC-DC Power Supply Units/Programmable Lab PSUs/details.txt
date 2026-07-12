@@ -1,5 +1,0 @@
-Subproduct Name: Programmable Lab PSUs
-Category: AC-DC Power Supply Units
-Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/programmable-lab-psus/
-Description:
-Get accurate voltage and current reports with our 12-bit D/A and A/D converter-embedded programmable DC power supplies. Our iLS600 and iLS1500 series offer a single power output of 600 W and 1,500 W.
