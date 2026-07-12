@@ -1,0 +1,5 @@
+Subproduct Name: DIN Rail PSUs
+Category: AC-DC Power Supply Units
+Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/din-rail-psus/
+Description:
+Our ADN-C series provides a compact and efficient solution for industrial applications. Our power supplies are available in single-phase DIN rail—which maximizes per-rail power density with its slim form factor—and three-phase DIN rail for heavy-duty industrial applications.

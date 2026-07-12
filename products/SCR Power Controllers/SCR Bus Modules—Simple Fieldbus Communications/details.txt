@@ -1,0 +1,5 @@
+Subproduct Name: SCR Bus Modules—Simple Fieldbus Communications
+Category: SCR Power Controllers
+Source Link: https://www.advancedenergy.com/en-us/products/scr-power-controllers/bus-module/
+Description:
+Advanced Bus Modules—Process Automation Fieldbus Integration

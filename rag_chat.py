@@ -30,7 +30,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 
 import chromadb
 import google.generativeai as genai
-from embed_to_chroma import COLLECTION_NAME, DB_DIR, TfidfSvdEmbeddingFunction
+from embed_to_chroma import COLLECTION_NAME, DB_DIR, SentenceTransformerEmbeddingFunction
 
 
 USING_MOCK = False
@@ -107,19 +107,15 @@ def get_llm_response_with_retry(prompt: str, context: str, query: str, retries: 
 
 
 def ask_question(query: str, db_dir: Path, n_results: int = 5) -> str:
-    # Load the fitted embedding model
-    model_path = db_dir / "embedding_model.pkl"
-    if not model_path.exists():
-        print(f"Error: Embedding model not found at {model_path}. Run embed_to_chroma.py first.")
-        sys.exit(1)
-    ef = TfidfSvdEmbeddingFunction.load(model_path)
+    ef = SentenceTransformerEmbeddingFunction()
 
     client = chromadb.PersistentClient(path=str(db_dir))
-    collection = client.get_or_create_collection(name=COLLECTION_NAME)
+    collection = client.get_or_create_collection(
+        name=COLLECTION_NAME,
+        embedding_function=ef,
+    )
 
-    # Compute query embedding manually, avoid ChromaDB serializing our ef
-    query_emb = ef([query])
-    results = collection.query(query_embeddings=query_emb, n_results=n_results)
+    results = collection.query(query_texts=[query], n_results=n_results)
 
     context_blocks = []
     for idx, (doc, meta) in enumerate(zip(results["documents"][0], results["metadatas"][0]), 1):
@@ -136,40 +132,17 @@ def ask_question(query: str, db_dir: Path, n_results: int = 5) -> str:
 
     context = "\n".join(context_blocks)
 
-    # If retrieval returned nothing useful, short-circuit before calling the LLM
-    if not context.strip():
-        return "I don't have enough information in the available documents to answer that question."
-
     prompt = f"""You are an expert product assistant for Advanced Energy.
+Use the following retrieved context to answer the user's question.
+If the retrieved context does not contain enough information to answer, answer with what you can, and be honest about missing details.
+Always mention the specific product names and categories when answering.
 
-You must answer ONLY using the information provided in the retrieved context below.
-Do not use any external knowledge, prior training data, or general information about
-Advanced Energy, its products, or the industry — even if you believe you know the answer.
-
-Rules you must follow strictly:
-1. Only use facts explicitly present in the retrieved context to answer the user's question.
-2. If the retrieved context does not contain enough information to answer the question,
-   respond with: "I don't have enough information in the available documents to answer
-   that question." Do not guess, infer, or fill gaps using outside knowledge.
-3. Never fabricate product names, specifications, categories, or details that are not
-   present in the retrieved context.
-4. If the question is unrelated to the retrieved context or to Advanced Energy's products,
-   respond with: "I can only answer questions based on the provided product documentation."
-5. Always mention the specific product name(s) and category/categories exactly as they
-   appear in the retrieved context when answering.
-6. Do not speculate about information that might exist elsewhere (e.g., "you might find
-   this on the website" or "typically these products..."). Stick strictly to what is given.
-7. If multiple retrieved chunks conflict, point out the discrepancy rather than resolving
-   it using your own judgment.
-
-Retrieved Context:
+CONTEXT:
 {context}
 
-User Question:
-{query}
+USER QUESTION: {query}
 
-Answer using only the above context, following all rules strictly.
-"""
+ANSWER:"""
 
     return get_llm_response_with_retry(prompt, context, query)
 

@@ -1,99 +1,36 @@
-# -----------------------------
-# Python
-# -----------------------------
+# Python cache
 __pycache__/
 *.py[cod]
 *.pyo
-*.pyd
-*$py.class
-*.so
 
-# -----------------------------
 # Virtual environments
-# -----------------------------
 venv/
 .venv/
 env/
-ENV/
 
-# -----------------------------
-# Environment variables / API keys
-# -----------------------------
+# Environment variables
 .env
-.env.*
-.env.local
 
-# -----------------------------
-# VS Code / IDE
-# -----------------------------
+# VS Code
 .vscode/
-.idea/
-*.swp
-*.swo
 
-# -----------------------------
-# Scraped product data
-# (regenerable via scraper.py)
-# -----------------------------
-output/
-products/
-
-# -----------------------------
-# ChromaDB + embedding model
-# (regenerable via embed_to_chroma.py)
-# -----------------------------
+# ChromaDB
 chroma_db/
-chroma_db/**
 *.sqlite3
-*.pkl
 
-# -----------------------------
-# Scraper state / resume tracking
-# -----------------------------
-.scraper_state.json
-
-# -----------------------------
-# Streamlit
-# -----------------------------
-.streamlit/
-
-# -----------------------------
 # Logs
-# -----------------------------
 *.log
-scraper.log
 
-# -----------------------------
-# macOS / Windows
-# -----------------------------
+# macOS
 .DS_Store
-Thumbs.db
 
-# -----------------------------
-# Build / Packaging
-# -----------------------------
+# Build files
 build/
 dist/
 *.egg-info/
-.eggs/
-pip-wheel-metadata/
 
-# -----------------------------
 # Jupyter
-# -----------------------------
 .ipynb_checkpoints/
 
-# -----------------------------
-# Testing
-# -----------------------------
+# Test cache
 .pytest_cache/
-.coverage
-.coverage.*
-htmlcov/
-.mypy_cache/
-.ruff_cache/
-
-# -----------------------------
-# Misc
-# -----------------------------
-.cache/

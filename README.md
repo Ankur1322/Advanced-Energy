@@ -77,39 +77,13 @@ python scraper.py --verbose
 python scraper.py --output ae_data --delay 1 --verbose
 ```
 
-### Full RAG Workflow
-
-**Step 1: Scrape products**
-```bash
-python scraper.py --output products --delay 0.5
-```
-
-**Step 2: Embed to ChromaDB**
-```bash
-python embed_to_chroma.py --products-dir products --db-dir chroma_db
-```
-
-**Step 3: Run CLI chatbot**
-```bash
-export GEMINI_API_KEY="your_api_key_here"  # Optional
-python rag_chat.py --interactive
-```
-
-**Step 3 (Alternative): Run Streamlit web UI** ⭐
-```bash
-export GEMINI_API_KEY="your_api_key_here"  # Optional
-streamlit run streamlit_app.py
-```
-
-The Streamlit app provides:
-- 🎨 **Beautiful web interface** for asking questions
-- 💬 **Chat history** with all previous questions and answers
-- 📄 **Retrieved context viewer** showing document sources
-- ⚙️ **Configurable settings** (API key, retrieval count)
-- 🤖 **Mock mode** for testing without API key
-
 ## Notes
 
+- **Missing descriptions**: If the scraper cannot extract a description from a sub-product page (e.g. the page uses an unusual layout or requires JavaScript), it writes `Not found` in the description field. The folder and other fields are still created.
+- **Missing links**: If a sub-product has no dedicated page link, the source link field will read `Not found` and the scraper will not attempt a page fetch — the folder and a `details.txt` are still created with whatever data is available.
+- **Rate limiting**: The script waits `--delay` seconds between sub-product page requests (default 0.5 s) to avoid overwhelming the server.
+- **Retries**: HTTP requests are retried up to 3 times with exponential backoff on transient failures.
+- **Folder names**: All filesystem-incompatible characters are automatically sanitised (e.g. `\/:*?"<>|` → `-`).
 
 ## Dependencies
 

@@ -1,0 +1,5 @@
+Subproduct Name: Open-Frame, Low Power AC-DC Power Supplies
+Category: AC-DC Power Supply Units
+Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Description:
+Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
