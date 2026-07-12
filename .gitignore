@@ -1,36 +1,101 @@
-# Python cache
+cat > .gitignore << 'EOF'
+# -----------------------------
+# Python
+# -----------------------------
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
+*$py.class
+*.so
 
+# -----------------------------
 # Virtual environments
+# -----------------------------
 venv/
 .venv/
 env/
+ENV/
 
-# Environment variables
+# -----------------------------
+# Environment variables / API keys
+# -----------------------------
 .env
+.env.*
+.env.local
 
-# VS Code
+# -----------------------------
+# VS Code / IDE
+# -----------------------------
 .vscode/
+.idea/
+*.swp
+*.swo
 
-# ChromaDB
+# -----------------------------
+# Scraped product data
+# (regenerable via scraper.py)
+# -----------------------------
+output/
+products/
+
+# -----------------------------
+# ChromaDB + embedding model
+# (regenerable via embed_to_chroma.py)
+# -----------------------------
 chroma_db/
+chroma_db/**
 *.sqlite3
+*.pkl
 
+# -----------------------------
+# Scraper state / resume tracking
+# -----------------------------
+.scraper_state.json
+
+# -----------------------------
+# Streamlit
+# -----------------------------
+.streamlit/
+
+# -----------------------------
 # Logs
+# -----------------------------
 *.log
+scraper.log
 
-# macOS
+# -----------------------------
+# macOS / Windows
+# -----------------------------
 .DS_Store
+Thumbs.db
 
-# Build files
+# -----------------------------
+# Build / Packaging
+# -----------------------------
 build/
 dist/
 *.egg-info/
+.eggs/
+pip-wheel-metadata/
 
+# -----------------------------
 # Jupyter
+# -----------------------------
 .ipynb_checkpoints/
 
-# Test cache
+# -----------------------------
+# Testing
+# -----------------------------
 .pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# -----------------------------
+# Misc
+# -----------------------------
+.cache/
+EOF

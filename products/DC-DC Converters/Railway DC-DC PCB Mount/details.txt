@@ -1,5 +1,0 @@
-Subproduct Name: Railway DC-DC PCB Mount
-Category: DC-DC Converters
-Source Link: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/
-Description:
-Featuring a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.

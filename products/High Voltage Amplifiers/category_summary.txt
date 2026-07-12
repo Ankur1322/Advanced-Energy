@@ -1,6 +1,0 @@
-Category: High Voltage Amplifiers
-Total Subproducts: 3
-
-1. Systems Up To 5 kV
-2. Systems Greater than 5 kV
-3. Modified Standard and Custom Power Solutions

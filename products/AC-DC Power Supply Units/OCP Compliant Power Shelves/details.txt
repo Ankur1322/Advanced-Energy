@@ -1,5 +1,0 @@
-Subproduct Name: OCP Compliant Power Shelves
-Category: AC-DC Power Supply Units
-Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/
-Description:
-Advanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.

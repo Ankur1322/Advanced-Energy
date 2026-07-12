@@ -1,5 +1,0 @@
-Subproduct Name: Telecom Isolated DC-DC Brick Converters
-Category: DC-DC Converters
-Source Link: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
-Description:
-Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.

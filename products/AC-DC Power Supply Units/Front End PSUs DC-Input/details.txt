@@ -1,5 +1,0 @@
-Subproduct Name: Front End PSUs DC-Input
-Category: AC-DC Power Supply Units
-Source Link: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/dc-dc-front-end-psu/
-Description:
-Futureproof your system design with our CRPS series’ path provision for power capacity flexibility. Our products include bulk front-end DS series housed in a 1U high rack-mounting enclosure with a short form factor that frees up system space.

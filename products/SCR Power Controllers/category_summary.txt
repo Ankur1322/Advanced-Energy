@@ -1,5 +1,0 @@
-Category: SCR Power Controllers
-Total Subproducts: 2
-
-1. Thyro Family
-2. SCR Bus Modules—Simple Fieldbus Communications
