@@ -2,40 +2,48 @@
 """
 Advanced Energy Products → ChromaDB Embedder
 =============================================
-Reads the scraped product hierarchy under products/ and creates
-vector embeddings in a persistent ChromaDB collection.
-
-Uses TF-IDF + SVD (scikit-learn) for fully offline embeddings
-with no model download required.
-
-Two document types are embedded:
-  1. Sub-product details  (from each details.txt)
-  2. Category summaries   (from each category_summary.txt)
-
-Usage:
-    python embed_to_chroma.py
-    python embed_to_chroma.py --products-dir products --db-dir chroma_db
+Reads the recursively scraped product hierarchy under output/ (every
+leaf folder containing a single product_details.txt) and creates vector
+embeddings in a persistent ChromaDB collection.
 """
 
 import argparse
+import hashlib
 import re
 import sys
 import warnings
 from pathlib import Path
+from typing import Dict, List, Tuple
 
 warnings.filterwarnings("ignore")
 
 import chromadb
+import chromadb.errors
 import numpy as np
 from chromadb.api.types import EmbeddingFunction
 from sklearn.decomposition import TruncatedSVD
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-PRODUCTS_DIR = Path("products")
+PRODUCTS_DIR = Path("output")
 DB_DIR = Path("chroma_db")
 COLLECTION_NAME = "ae_products"
 EMBEDDING_DIM = 128
+
+LIST_HEADER_RE = re.compile(
+    r"^(Features|Specifications|Applications|Benefits|Downloads|PDF Links|Images|Related Products):\s*(.*)$"
+)
+FIELD_KEY_MAP = {
+    "Features": "features",
+    "Specifications": "specifications",
+    "Applications": "applications",
+    "Benefits": "benefits",
+    "Downloads": "downloads",
+    "PDF Links": "pdf_links",
+    "Images": "images",
+    "Related Products": "related_products",
+}
+PAIR_FIELDS = {"downloads", "images", "related_products"}
 
 
 class TfidfSvdEmbeddingFunction(EmbeddingFunction):
@@ -67,128 +75,243 @@ class TfidfSvdEmbeddingFunction(EmbeddingFunction):
         normalized = reduced / norms
         return normalized.tolist()
 
+    def save(self, path: Path) -> None:
+        import pickle
+        data = {
+            "vectorizer": self._vectorizer,
+            "svd": self._svd,
+            "dim": self._dim,
+            "fitted": self._fitted,
+        }
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(pickle.dumps(data))
 
-def parse_details(path: Path) -> dict:
-    text = path.read_text(encoding="utf-8")
-    fields: dict[str, str] = {}
-    current_key = None
-    current_lines: list[str] = []
-
-    for line in text.splitlines():
-        m = re.match(r"^([A-Za-z ]+):\s*(.*)", line)
-        if m:
-            if current_key:
-                fields[current_key] = "\n".join(current_lines).strip()
-            current_key = m.group(1).strip()
-            current_lines = [m.group(2).strip()]
-        else:
-            current_lines.append(line)
-
-    if current_key:
-        fields[current_key] = "\n".join(current_lines).strip()
-
-    return fields
-
-
-def parse_category_summary(path: Path) -> dict:
-    text = path.read_text(encoding="utf-8")
-    fields: dict[str, str] = {}
-
-    for line in text.splitlines():
-        m = re.match(r"^(Category|Total Subproducts):\s*(.*)", line)
-        if m:
-            fields[m.group(1)] = m.group(2).strip()
-
-    subproducts = []
-    for line in text.splitlines():
-        m = re.match(r"^\d+\.\s+(.+)", line)
-        if m:
-            subproducts.append(m.group(1).strip())
-
-    if subproducts:
-        fields["Subproducts List"] = "; ".join(subproducts)
-
-    return fields
+    @classmethod
+    def load(cls, path: Path) -> "TfidfSvdEmbeddingFunction":
+        import pickle
+        data = pickle.loads(path.read_bytes())
+        ef = cls(dim=data["dim"])
+        ef._vectorizer = data["vectorizer"]
+        ef._svd = data["svd"]
+        ef._fitted = data["fitted"]
+        return ef
 
 
 def _slug(name: str) -> str:
-    return re.sub(r"[^a-zA-Z0-9_-]", "_", name).strip("_")[:120]
+    return re.sub(r"[^a-zA-Z0-9_-]", "_", name).strip("_")[:60]
 
 
-def load_all_documents(products_dir: Path):
-    sub_docs = []
-    cat_docs = []
+def _doc_id(prefix: str, parts: List[str]) -> str:
+    readable = "_".join(_slug(p) for p in parts)[:80]
+    full_path = "|".join(parts)
+    digest = hashlib.sha1(full_path.encode("utf-8")).hexdigest()[:12]
+    return f"{prefix}_{readable}_{digest}"
 
-    for category_dir in sorted(products_dir.iterdir()):
-        if not category_dir.is_dir():
+
+def parse_product_details(text: str) -> dict:
+    data = {
+        "hierarchy": [], "product_name": "", "product_url": "",
+        "description": "Not found", "features": [], "specifications": [],
+        "applications": [], "benefits": [], "downloads": [], "pdf_links": [],
+        "images": [], "related_products": [], "breadcrumb": [],
+    }
+    section = None
+    current_cat = None
+    current_list_key = None
+    collecting_description = False
+    description_lines: List[str] = []
+
+    for raw_line in text.splitlines():
+        stripped = raw_line.strip()
+
+        if stripped == "HIERARCHY (root to product, chronological order)":
+            section = "hierarchy"
+            continue
+        if stripped.startswith("FINAL PRODUCT"):
+            section = "product"
+            continue
+        if stripped == "NAVIGATION PATH (Breadcrumb)":
+            if collecting_description:
+                data["description"] = " ".join(description_lines).strip() or "Not found"
+                collecting_description = False
+                description_lines = []
+            section = "breadcrumb"
+            continue
+        if stripped.startswith("---") or stripped.startswith("==="):
             continue
 
-        summary_path = category_dir / "category_summary.txt"
-        if summary_path.exists():
-            cat_fields = parse_category_summary(summary_path)
-            cat_name = cat_fields.get("Category", category_dir.name)
-            doc_text = (
-                f"Category: {cat_name}\n"
-                f"Total Subproducts: {cat_fields.get('Total Subproducts', 'N/A')}\n"
-                f"Subproducts: {cat_fields.get('Subproducts List', 'N/A')}"
-            )
-            cat_docs.append({
-                "id": f"cat_{_slug(cat_name)}",
-                "text": doc_text,
-                "metadata": {
-                    "type": "category_summary",
-                    "category": cat_name,
-                },
+        if section == "hierarchy":
+            m = re.match(r"^\[Level (\d+)\] Category Name:\s*(.*)", stripped)
+            if m:
+                current_cat = {"level": int(m.group(1)), "name": m.group(2).strip(), "url": "", "description": ""}
+                data["hierarchy"].append(current_cat)
+            elif stripped.startswith("Category URL:") and current_cat is not None:
+                current_cat["url"] = stripped.split("Category URL:", 1)[1].strip()
+            elif stripped.startswith("Category Description:") and current_cat is not None:
+                current_cat["description"] = stripped.split("Category Description:", 1)[1].strip()
+            elif stripped and current_cat is not None and not stripped.startswith("["):
+                current_cat["description"] = (current_cat["description"] + " " + stripped).strip()
+
+        elif section == "product":
+            list_match = LIST_HEADER_RE.match(stripped)
+            if stripped.startswith("Product Name:"):
+                data["product_name"] = stripped.split("Product Name:", 1)[1].strip()
+            elif stripped.startswith("Product URL:"):
+                data["product_url"] = stripped.split("Product URL:", 1)[1].strip()
+            elif stripped == "Complete Product Description:":
+                collecting_description = True
+                description_lines = []
+                current_list_key = None
+            elif list_match:
+                if collecting_description:
+                    data["description"] = " ".join(description_lines).strip() or "Not found"
+                    collecting_description = False
+                    description_lines = []
+                title, rest = list_match.group(1), list_match.group(2).strip()
+                key = FIELD_KEY_MAP[title]
+                current_list_key = None if rest.lower() == "not found" else key
+            elif current_list_key and stripped.startswith("- "):
+                item = stripped[2:].strip()
+                if item:
+                    if current_list_key in PAIR_FIELDS and ": " in item:
+                        label, _, url = item.partition(": ")
+                        data[current_list_key].append((label.strip(), url.strip()))
+                    elif current_list_key in PAIR_FIELDS:
+                        data[current_list_key].append((item, ""))
+                    else:
+                        data[current_list_key].append(item)
+            elif collecting_description and stripped:
+                description_lines.append(stripped)
+
+        elif section == "breadcrumb":
+            if stripped and stripped != "\u2193":
+                data["breadcrumb"].append(stripped)
+
+    if collecting_description and description_lines:
+        data["description"] = " ".join(description_lines).strip()
+
+    return data
+
+
+def load_all_documents(products_dir: Path) -> Tuple[list, list]:
+    sub_docs = []
+    category_map: Dict[Tuple[str, ...], dict] = {}
+
+    detail_files = sorted(products_dir.rglob("product_details.txt"))
+    for path in detail_files:
+        text = path.read_text(encoding="utf-8")
+        info = parse_product_details(text)
+
+        product_name = info["product_name"] or path.parent.name
+        hierarchy = info["hierarchy"]
+        breadcrumb_names = [h["name"] for h in hierarchy]
+        category_path_str = " > ".join(breadcrumb_names) if breadcrumb_names else "Unknown"
+        top_category = (
+            hierarchy[1]["name"] if len(hierarchy) > 1
+            else (hierarchy[0]["name"] if hierarchy else "Uncategorized")
+        )
+
+        doc_text_parts = [
+            f"Product Name: {product_name}",
+            f"Category Path: {category_path_str}",
+            f"Product URL: {info['product_url'] or 'Not found'}",
+            f"Description: {info['description']}",
+        ]
+        if info["features"]:
+            doc_text_parts.append("Features: " + "; ".join(info["features"]))
+        if info["specifications"]:
+            doc_text_parts.append("Specifications: " + "; ".join(info["specifications"]))
+        if info["applications"]:
+            doc_text_parts.append("Applications: " + "; ".join(info["applications"]))
+        if info["benefits"]:
+            doc_text_parts.append("Benefits: " + "; ".join(info["benefits"]))
+        if info["related_products"]:
+            related_names = "; ".join(name for name, _ in info["related_products"] if name)
+            if related_names:
+                doc_text_parts.append("Related Products: " + related_names)
+
+        doc_text = "\n".join(doc_text_parts)
+        rel_parts = list(path.relative_to(products_dir).parts[:-1])
+        doc_id = _doc_id("product", rel_parts)
+
+        sub_docs.append({
+            "id": doc_id,
+            "text": doc_text,
+            "metadata": {
+                "type": "product_detail",
+                "category": top_category,
+                "category_path": category_path_str,
+                "subproduct": product_name,
+                "source_link": info["product_url"] or "Not found",
+                "level": hierarchy[-1]["level"] + 1 if hierarchy else 0,
+            },
+        })
+
+        path_key: Tuple[str, ...] = ()
+        for cat in hierarchy:
+            path_key = path_key + (cat["name"],)
+            entry = category_map.setdefault(path_key, {
+                "name": cat["name"], "description": "", "url": cat.get("url", ""),
+                "level": cat["level"], "products": set(),
             })
+            if not entry["description"] and cat.get("description") and cat["description"] != "Not found":
+                entry["description"] = cat["description"]
+            entry["products"].add(product_name)
 
-        for sub_dir in sorted(category_dir.iterdir()):
-            if not sub_dir.is_dir():
-                continue
-
-            details_path = sub_dir / "details.txt"
-            if not details_path.exists():
-                continue
-
-            fields = parse_details(details_path)
-            sub_name = fields.get("Subproduct Name", sub_dir.name)
-            cat_name = fields.get("Category", category_dir.name)
-            description = fields.get("Description", "Not found")
-            source_link = fields.get("Source Link", "Not found")
-
-            doc_text = (
-                f"Subproduct Name: {sub_name}\n"
-                f"Category: {cat_name}\n"
-                f"Source Link: {source_link}\n"
-                f"Description: {description}"
-            )
-
-            sub_docs.append({
-                "id": f"sub_{_slug(cat_name)}_{_slug(sub_name)}",
-                "text": doc_text,
-                "metadata": {
-                    "type": "subproduct_detail",
-                    "category": cat_name,
-                    "subproduct": sub_name,
-                    "source_link": source_link,
-                },
-            })
+    cat_docs = []
+    for path_key, entry in category_map.items():
+        products_list = "; ".join(sorted(entry["products"]))
+        doc_text = (
+            f"Category: {entry['name']}\n"
+            f"Category Path: {' > '.join(path_key)}\n"
+            f"Description: {entry['description'] or 'Not found'}\n"
+            f"Total Products: {len(entry['products'])}\n"
+            f"Products: {products_list}"
+        )
+        cat_docs.append({
+            "id": _doc_id("cat", list(path_key)),
+            "text": doc_text,
+            "metadata": {
+                "type": "category_summary",
+                "category": entry["name"],
+                "category_path": " > ".join(path_key),
+                "level": entry["level"],
+            },
+        })
 
     return sub_docs, cat_docs
 
 
 def embed(products_dir: Path, db_dir: Path) -> None:
-    print(f"Loading documents from {products_dir} ...")
+    print(f"Scanning {products_dir} for product_details.txt files (any depth) ...")
     sub_docs, cat_docs = load_all_documents(products_dir)
     all_docs = cat_docs + sub_docs
-    print(f"  -> {len(cat_docs)} category summaries, {len(sub_docs)} sub-product details = {len(all_docs)} total")
+    print(f"  -> {len(cat_docs)} category summaries, {len(sub_docs)} product details = {len(all_docs)} total")
 
     if not all_docs:
         print("No documents found. Nothing to embed.")
         sys.exit(1)
 
+    all_ids = [d["id"] for d in all_docs]
+    if len(all_ids) != len(set(all_ids)):
+        seen, dupes = set(), set()
+        for _id in all_ids:
+            if _id in seen:
+                dupes.add(_id)
+            seen.add(_id)
+        print(f"ERROR: {len(dupes)} duplicate document IDs detected before insert:")
+        for d in list(dupes)[:10]:
+            print(f"  - {d}")
+        sys.exit(1)
+
     print(f"Fitting TF-IDF + SVD embedding function ({EMBEDDING_DIM} dimensions) ...")
     ef = TfidfSvdEmbeddingFunction(dim=EMBEDDING_DIM)
     ef.fit([d["text"] for d in all_docs])
+
+    model_path = db_dir / "embedding_model.pkl"
+    db_dir.mkdir(parents=True, exist_ok=True)
+    ef.save(model_path)
+    print(f"  -> Saved embedding model to {model_path}")
 
     print(f"Initialising ChromaDB at {db_dir} ...")
     client = chromadb.PersistentClient(path=str(db_dir))
@@ -196,7 +319,7 @@ def embed(products_dir: Path, db_dir: Path) -> None:
     try:
         client.delete_collection(COLLECTION_NAME)
         print(f"  -> Deleted old collection (dimension mismatch possible)")
-    except ValueError:
+    except (ValueError, chromadb.errors.NotFoundError):
         pass
 
     print(f"Creating collection '{COLLECTION_NAME}' ...")
@@ -218,20 +341,6 @@ def embed(products_dir: Path, db_dir: Path) -> None:
 
     count = collection.count()
     print(f"\nDone. Collection '{COLLECTION_NAME}' now has {count} documents.")
-
-    print("\n--- Quick verification: top 3 results for 'high voltage power supply' ---")
-    results = collection.query(query_texts=["high voltage power supply"], n_results=3)
-    for idx, (doc, meta) in enumerate(zip(results["documents"][0], results["metadatas"][0]), 1):
-        print(f"\n  {idx}. [{meta.get('type')}] {meta.get('category', '')} / {meta.get('subproduct', '')}")
-        preview = doc[:200].replace("\n", " ")
-        print(f"     {preview}...")
-
-    print("\n--- Quick verification: top 3 results for 'plasma RF generator' ---")
-    results2 = collection.query(query_texts=["plasma RF generator"], n_results=3)
-    for idx, (doc, meta) in enumerate(zip(results2["documents"][0], results2["metadatas"][0]), 1):
-        print(f"\n  {idx}. [{meta.get('type')}] {meta.get('category', '')} / {meta.get('subproduct', '')}")
-        preview = doc[:200].replace("\n", " ")
-        print(f"     {preview}...")
 
 
 def main() -> None:
