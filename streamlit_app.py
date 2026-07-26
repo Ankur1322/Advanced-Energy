@@ -34,171 +34,215 @@ st.set_page_config(
 )
 
 # ============================================================================
-# Custom Styling — light, warm, Claude-inspired layout
+# Custom Styling — deep indigo/slate dark theme, amber-violet accent
 # ============================================================================
 st.markdown(
     """
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
 
-        /* ---- Global light theme ---- */
+        :root {
+            --bg: #0E1016;
+            --surface: #171A23;
+            --surface-2: #1E2230;
+            --border: #2A2E3D;
+            --text: #E8E9EE;
+            --muted: #8B90A3;
+            --accent-1: #F5A85B;
+            --accent-2: #8B7CF6;
+            --accent-grad: linear-gradient(135deg, #F5A85B 0%, #EF6F8E 45%, #8B7CF6 100%);
+            --success: #34D399;
+        }
+
         .stApp {
-            background-color: #F7F5F0;
-            color: #2B2A27;
+            background: var(--bg);
+            color: var(--text);
             font-family: 'Inter', sans-serif;
         }
         #MainMenu, footer, header {visibility: hidden;}
 
         /* ---- Sidebar ---- */
         section[data-testid="stSidebar"] {
-            background-color: #FBFAF7;
-            border-right: 1px solid #E8E6DE;
+            background: var(--surface);
+            border-right: 1px solid var(--border);
         }
-        section[data-testid="stSidebar"] * { color: #2B2A27; }
+        section[data-testid="stSidebar"] * { color: var(--text); }
 
-        /* Sidebar nav-style buttons (New chat / Chats) */
         section[data-testid="stSidebar"] .stButton button {
             width: 100%;
             text-align: left;
             background-color: transparent;
-            color: #2B2A27;
-            border: none;
-            border-radius: 8px;
-            padding: 0.5rem 0.7rem;
+            color: var(--text);
+            border: 1px solid transparent;
+            border-radius: 10px;
+            padding: 0.55rem 0.75rem;
             font-weight: 500;
-            font-size: 0.92rem;
+            font-size: 0.9rem;
+            transition: all 0.15s ease;
         }
         section[data-testid="stSidebar"] .stButton button:hover {
-            background-color: #EFEDE5;
+            background-color: var(--surface-2);
+            border-color: var(--border);
         }
         section[data-testid="stSidebar"] .stButton button:focus:not(:active) {
-            border: none;
             box-shadow: none;
         }
 
-        /* Configuration expanders styled as clean rounded rows */
         section[data-testid="stSidebar"] div[data-testid="stExpander"] {
-            background-color: #FFFFFF;
-            border: 1px solid #E8E6DE;
-            border-radius: 10px;
-            margin-bottom: 8px;
+            background-color: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            margin-bottom: 10px;
         }
         section[data-testid="stSidebar"] details summary {
             font-weight: 500;
-            font-size: 0.88rem;
-            padding: 4px 2px;
+            font-size: 0.86rem;
+            padding: 6px 4px;
         }
 
         .ae-section-label {
-            color: #A6A399;
+            color: var(--muted);
             font-size: 0.68rem;
-            letter-spacing: 0.09em;
+            letter-spacing: 0.1em;
             text-transform: uppercase;
-            margin: 18px 4px 8px 4px;
+            margin: 20px 4px 10px 4px;
+            font-weight: 600;
         }
 
         /* ---- Logo mark ---- */
         .ae-logo-wrap {
             display: flex;
-            flex-direction: column;
             align-items: center;
-            gap: 6px;
-            margin: 6px 0 22px 0;
+            gap: 10px;
+            padding: 4px 2px 20px 2px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 16px;
         }
         .ae-logo-badge {
-            width: 42px;
-            height: 42px;
-            border-radius: 12px;
-            background: linear-gradient(135deg, #17B2A0, #2E86DE);
+            width: 38px;
+            height: 38px;
+            border-radius: 11px;
+            background: var(--accent-grad);
             display: flex;
             align-items: center;
             justify-content: center;
-            box-shadow: 0 2px 6px rgba(23,178,160,0.35);
+            box-shadow: 0 4px 14px rgba(245, 168, 91, 0.25);
+            flex-shrink: 0;
+        }
+        .ae-logo-title {
+            font-family: 'Sora', sans-serif;
+            font-weight: 600;
+            font-size: 0.95rem;
+            color: var(--text);
+            line-height: 1.1;
         }
         .ae-logo-tagline {
-            font-size: 0.70rem;
-            color: #A6A399;
-            letter-spacing: 0.02em;
+            font-size: 0.68rem;
+            color: var(--muted);
+            margin-top: 2px;
         }
 
         /* ---- Chats list ---- */
         .ae-chat-item {
-            padding: 7px 10px;
-            border-radius: 8px;
+            padding: 8px 10px;
+            border-radius: 9px;
             font-size: 0.85rem;
-            color: #55534C;
-            margin-bottom: 2px;
+            color: #B7BACB;
+            margin-bottom: 3px;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
             cursor: pointer;
+            border: 1px solid transparent;
         }
-        .ae-chat-item:hover { background-color: #EFEDE5; }
-        .ae-chat-item.active { background-color: #EAF6F5; color: #12938A; font-weight: 500; }
+        .ae-chat-item:hover { background-color: var(--surface-2); }
+        .ae-chat-item.active {
+            background-color: rgba(139, 124, 246, 0.12);
+            border-color: rgba(139, 124, 246, 0.35);
+            color: #C9C1FB;
+            font-weight: 500;
+        }
 
         /* ---- Center greeting ---- */
         .ae-hero {
             text-align: center;
-            margin-top: 8vh;
-            margin-bottom: 1.6rem;
+            margin-top: 7vh;
+            margin-bottom: 1.8rem;
+        }
+        .ae-hero .ae-hero-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 54px;
+            height: 54px;
+            border-radius: 16px;
+            background: var(--accent-grad);
+            box-shadow: 0 8px 24px rgba(245, 168, 91, 0.25);
+            margin-bottom: 18px;
+            font-size: 1.5rem;
         }
         .ae-hero h1 {
-            font-family: 'Lora', serif;
-            font-style: italic;
-            font-weight: 500;
-            font-size: 2.3rem;
-            color: #2B2A27;
-            margin-bottom: 0.3rem;
+            font-family: 'Sora', sans-serif;
+            font-weight: 700;
+            font-size: 2.1rem;
+            color: var(--text);
+            margin-bottom: 0.4rem;
+            letter-spacing: -0.02em;
         }
         .ae-hero p {
-            color: #8A8778;
+            color: var(--muted);
             font-size: 0.95rem;
         }
 
         /* ---- Input card (form) ---- */
         div[data-testid="stForm"] {
-            background-color: #FFFFFF;
-            border: 1px solid #E4E1D6;
-            border-radius: 18px;
-            padding: 14px 18px 10px 18px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+            background-color: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 12px 16px 8px 16px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.25);
             max-width: 760px;
             margin: 0 auto;
         }
         div[data-testid="stForm"] div[data-testid="stTextInput"] input {
             background-color: transparent;
             border: none;
-            color: #2B2A27;
-            font-size: 1.02rem;
-            padding: 4px 2px;
+            color: var(--text);
+            font-size: 1rem;
+            padding: 6px 4px;
         }
         div[data-testid="stForm"] div[data-testid="stTextInput"] input:focus {
             box-shadow: none;
             outline: none;
         }
         div[data-testid="stForm"] div[data-testid="stTextInput"] {
-            border-bottom: 1px solid #F0EEE6;
+            border-bottom: 1px solid var(--border);
             padding-bottom: 8px;
             margin-bottom: 6px;
+        }
+        div[data-testid="stForm"] div[data-testid="stTextInput"] input::placeholder {
+            color: var(--muted);
         }
 
         .ae-icon-btn {
             width: 30px;
             height: 30px;
-            border-radius: 50%;
-            border: 1px solid #E4E1D6;
+            border-radius: 9px;
+            border: 1px solid var(--border);
             display: flex;
             align-items: center;
             justify-content: center;
-            color: #8A8778;
-            font-size: 0.95rem;
+            color: var(--muted);
+            font-size: 0.9rem;
+            background: var(--surface-2);
         }
         .ae-search-pill {
-            border: 1px solid #E4E1D6;
+            border: 1px solid var(--border);
+            background: var(--surface-2);
             border-radius: 20px;
             padding: 5px 12px;
-            font-size: 0.82rem;
-            color: #8A8778;
+            font-size: 0.8rem;
+            color: var(--muted);
             display: inline-flex;
             align-items: center;
             gap: 4px;
@@ -207,43 +251,99 @@ st.markdown(
 
         div[data-testid="stForm"] button[kind="formSubmitButton"],
         div[data-testid="stForm"] button[data-testid="stFormSubmitButton"] {
-            background: linear-gradient(135deg, #17B2A0, #2E86DE) !important;
-            color: #fff !important;
-            border-radius: 50% !important;
-            width: 34px !important;
-            height: 34px !important;
+            background: var(--accent-grad) !important;
+            color: #1A1206 !important;
+            border-radius: 11px !important;
+            width: 36px !important;
+            height: 36px !important;
             border: none !important;
             padding: 0 !important;
-            font-weight: 600;
+            font-weight: 700;
         }
 
         /* Quick-prompt pills */
-        .ae-pill-row { display: flex; gap: 8px; justify-content: center; margin-top: 14px; flex-wrap: wrap; }
+        .ae-pill-row { display: flex; gap: 10px; justify-content: center; margin-top: 16px; flex-wrap: wrap; }
         div[data-testid="column"] .stButton button {
-            background-color: #FFFFFF;
-            border: 1px solid #E4E1D6;
+            background-color: var(--surface);
+            border: 1px solid var(--border);
             border-radius: 20px;
-            color: #55534C;
+            color: #B7BACB;
             font-size: 0.82rem;
-            padding: 6px 14px;
+            padding: 7px 15px;
+            transition: all 0.15s ease;
         }
         div[data-testid="column"] .stButton button:hover {
-            border-color: #17B2A0;
-            color: #12938A;
+            border-color: var(--accent-2);
+            color: #C9C1FB;
+            background-color: rgba(139, 124, 246, 0.08);
         }
 
-        /* ---- Answer card ---- */
+        /* ---- Message bubbles ---- */
+        .ae-msg-row { display: flex; gap: 12px; margin-bottom: 22px; align-items: flex-start; }
+        .ae-msg-row.user { flex-direction: row-reverse; }
+
+        .ae-avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: 9px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.95rem;
+            flex-shrink: 0;
+        }
+        .ae-avatar.assistant { background: var(--accent-grad); }
+        .ae-avatar.user { background: var(--surface-2); border: 1px solid var(--border); }
+
+        .ae-msg-bubble {
+            max-width: 78%;
+            padding: 12px 16px;
+            border-radius: 14px;
+            font-size: 0.92rem;
+            line-height: 1.65;
+        }
+        .ae-msg-bubble.assistant {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-top-left-radius: 4px;
+            color: var(--text);
+        }
+        .ae-msg-bubble.user {
+            background: rgba(139, 124, 246, 0.12);
+            border: 1px solid rgba(139, 124, 246, 0.3);
+            border-top-right-radius: 4px;
+            color: #E4E1FB;
+        }
+
+        /* ---- Sources badge row ---- */
+        .ae-source-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 4px 10px;
+            font-size: 0.75rem;
+            color: var(--muted);
+            margin: 2px 4px 2px 0;
+        }
+
+        /* ---- Answer / context cards ---- */
         div[data-testid="stVerticalBlockBorderWrapper"] {
-            background-color: #FFFFFF;
-            border: 1px solid #E8E6DE !important;
+            background-color: var(--surface);
+            border: 1px solid var(--border) !important;
             border-radius: 14px;
         }
 
         /* ---- Tabs ---- */
-        button[data-baseweb="tab"] { color: #8A8778; }
-        button[data-baseweb="tab"][aria-selected="true"] { color: #12938A; }
+        button[data-baseweb="tab"] { color: var(--muted); }
+        button[data-baseweb="tab"][aria-selected="true"] { color: var(--accent-2); }
+        div[data-baseweb="tab-highlight"] { background-color: var(--accent-2) !important; }
 
-        h1, h2, h3 { color: #2B2A27; font-family: 'Inter', sans-serif; }
+        h1, h2, h3 { color: var(--text); font-family: 'Sora', sans-serif; }
+
+        hr { border-color: var(--border) !important; }
     </style>
     """,
     unsafe_allow_html=True,
@@ -252,11 +352,14 @@ st.markdown(
 LOGO_HTML = """
 <div class="ae-logo-wrap">
     <div class="ae-logo-badge">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M13 2L3 14h7l-1 8 11-14h-8l1-6z" fill="white"/>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13 2L3 14h7l-1 8 11-14h-8l1-6z" fill="#1A1206"/>
         </svg>
     </div>
-    <div class="ae-logo-tagline">Product Assistant</div>
+    <div>
+        <div class="ae-logo-title">Advanced Energy</div>
+        <div class="ae-logo-tagline">Product Assistant</div>
+    </div>
 </div>
 """
 
@@ -463,8 +566,6 @@ with st.sidebar:
                 label = entry["question"]
                 if len(label) > 30:
                     label = label[:30] + "…"
-                is_active = st.session_state.selected_chat_index == real_idx
-                css_class = "ae-chat-item active" if is_active else "ae-chat-item"
                 if st.button(label, key=f"chat_item_{real_idx}", use_container_width=True):
                     st.session_state.selected_chat_index = real_idx
                     st.rerun()
@@ -523,13 +624,14 @@ if not st.session_state.db_loaded:
         st.stop()
 
 # ============================================================================
-# Main Content — centered greeting + rounded input card (Claude-style)
+# Main Content — centered greeting + rounded input card
 # ============================================================================
 if not st.session_state.chat_history:
     st.markdown(
         """
         <div class='ae-hero'>
-            <h1>⚡ Ask about our products</h1>
+            <div class="ae-hero-badge">⚡</div>
+            <h1>Ask about our products</h1>
             <p>Answers are generated only from Advanced Energy's product documentation.</p>
         </div>
         """,
@@ -590,7 +692,7 @@ if submitted and query:
             st.stop()
 
 # ============================================================================
-# Display Results
+# Display Results — chat-bubble style
 # ============================================================================
 if st.session_state.chat_history:
     display_idx = (
@@ -600,10 +702,42 @@ if st.session_state.chat_history:
     )
     displayed = st.session_state.chat_history[display_idx]
 
-    st.divider()
-    st.subheader("Answer")
-    with st.container(border=True):
-        st.markdown(displayed["answer"])
+    st.markdown("<div style='max-width: 820px; margin: 24px auto 0 auto;'>", unsafe_allow_html=True)
+
+    # User question bubble
+    st.markdown(
+        f"""
+        <div class="ae-msg-row user">
+            <div class="ae-avatar user">🧑</div>
+            <div class="ae-msg-bubble user">{displayed['question']}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    # Assistant answer bubble
+    st.markdown(
+        f"""
+        <div class="ae-msg-row assistant">
+            <div class="ae-avatar assistant">⚡</div>
+            <div class="ae-msg-bubble assistant">{displayed['answer']}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    # Source pills summary
+    if displayed["context_blocks"]:
+        pills_html = "".join(
+            f"<span class='ae-source-pill'>📄 {b['subproduct'] or b['category'] or 'Source ' + str(b['index'])}</span>"
+            for b in displayed["context_blocks"]
+        )
+        st.markdown(
+            f"<div style='margin: 4px 0 20px 44px;'>{pills_html}</div>",
+            unsafe_allow_html=True,
+        )
+
+    st.markdown("</div>", unsafe_allow_html=True)
 
     st.divider()
     st.subheader("Retrieved Context")
