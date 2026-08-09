@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AE BOT - In-Context Intelligence</title>
+  
+  <!-- Font Integrations -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- Ionicons for High-Quality Icons -->
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+  <!-- Modern Styling Sheets -->
+  <link rel="stylesheet" href="style.css?v=2.0">
+
+  <!-- GSAP for Buttery-Smooth Animations -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  
+  <!-- Three.js for Liquid Fluid (Watery) Interactive Background -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+
+  <!-- Three.js Liquid Fluid Background Canvas -->
+  <canvas id="three-bg"></canvas>
+
+  <!-- Main Unified Two-Tiered App Wrapper -->
+  <div class="app-container">
+    
+    <!-- TIER 1: PRIMARY SIDEBAR (Narrow Column - Left) -->
+    <aside class="primary-sidebar">
+      <div class="sidebar-top">
+        <div class="brand-logo">
+          <ion-icon name="flash" class="brand-logo-icon"></ion-icon>
+        </div>
+      </div>
+      
+      <div class="sidebar-divider"></div>
+      
+      <nav class="primary-nav">
+        <a href="#" class="primary-nav-item active" data-submenu="hub" title="Chat Hub">
+          <ion-icon name="chatbubbles-outline"></ion-icon>
+        </a>
+        <a href="#" class="primary-nav-item" data-submenu="datasources" title="Data Sources">
+          <ion-icon name="server-outline"></ion-icon>
+        </a>
+        <a href="#" class="primary-nav-item" data-submenu="tasks" title="Ingestion Tasks">
+          <ion-icon name="checkbox-outline"></ion-icon>
+        </a>
+        <a href="#" class="primary-nav-item" data-submenu="configure" title="Configure Engine">
+          <ion-icon name="options-outline"></ion-icon>
+        </a>
+        <a href="#" class="primary-nav-item" data-submenu="train" title="Model Training">
+          <ion-icon name="school-outline"></ion-icon>
+        </a>
+      </nav>
+      
+      <div class="sidebar-divider"></div>
+      
+      <div class="sidebar-bottom">
+        <a href="#" class="utility-icon" id="settings-shortcut" title="System Settings">
+          <ion-icon name="settings-outline"></ion-icon>
+        </a>
+        <button class="dark-mode-toggle" id="theme-toggle-btn" title="Toggle Appearance">
+          <ion-icon name="moon-outline" id="theme-icon"></ion-icon>
+        </button>
+      </div>
+    </aside>
+
+    <!-- TIER 2: SECONDARY SIDEBAR (Submenu Column - Right) -->
+    <aside class="secondary-sidebar">
+      <header class="submenu-header">
+        <span class="submenu-title">AE BOT</span>
+      </header>
+      
+      <div class="submenu-scroll-area">
+        <!-- Collapsible Submenu Group -->
+        <div class="submenu-group">
+          <div class="submenu-group-header" id="knowledge-group-header">
+            <span>KNOWLEDGE Base</span>
+            <ion-icon name="chevron-down-outline" class="chevron-icon" id="knowledge-chevron"></ion-icon>
+          </div>
+          
+          <div class="submenu-items-list" id="knowledge-group-items">
+            <a href="#" class="submenu-item active" data-subtab="hub">
+              <ion-icon name="grid-outline"></ion-icon>
+              <span>Hub</span>
+            </a>
+            <a href="#" class="submenu-item" data-subtab="datasources">
+              <ion-icon name="cloud-download-outline"></ion-icon>
+              <span>Data sources</span>
+            </a>
+            <a href="#" class="submenu-item" data-subtab="tasks">
+              <ion-icon name="checkbox-outline"></ion-icon>
+              <span>Tasks</span>
+            </a>
+            <a href="#" class="submenu-item" data-subtab="configure">
+              <ion-icon name="key-outline"></ion-icon>
+              <span>Configure</span>
+            </a>
+            <a href="#" class="submenu-item" data-subtab="train">
+              <ion-icon name="hardware-chip-outline"></ion-icon>
+              <span>Train AI</span>
+            </a>
+          </div>
+        </div>
+        
+        <!-- Live System Summary Widget -->
+        <div class="sidebar-status-widget">
+          <div class="widget-header-mini">
+            <span class="pulse-dot"></span>
+            <span>GRID TELEMETRY</span>
+          </div>
+          <div class="status-metric">
+            <span class="metric-label">Profiles</span>
+            <span class="metric-value" id="telemetry-profiles">296</span>
+          </div>
+          <div class="status-metric">
+            <span class="metric-label">Latency</span>
+            <span class="metric-value">4.2ms</span>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Floating Collapse/Expand trigger button (Notion-style, always visible!) -->
+    <button id="sidebar-collapse-btn" class="floating-collapse-btn" title="Collapse Sidebar">
+      <ion-icon name="chevron-back-outline" id="collapse-icon"></ion-icon>
+    </button>
+
+    <!-- TIER 3: MAIN DYNAMIC CONTENT PANEL -->
+    <main class="content-panel">
+      
+      <!-- Panel Header -->
+      <header class="panel-header">
+        <div class="header-title">
+          <h1 id="main-view-title">AE BOT</h1>
+          <p id="main-view-subtitle">In-Context Artificial Intelligence Assistant</p>
+        </div>
+        <div class="header-actions">
+          <div class="engine-badge active" id="badge-engine-state">
+            <span class="badge-dot"></span>
+            <span id="badge-engine-text">ENGINE ACTIVE</span>
+          </div>
+        </div>
+      </header>
+
+      <!-- VIEW 1: COGNITIVE CHAT HUB (Default active) -->
+      <div class="view-content active" id="view-hub">
+        <div class="chat-layout">
+          <!-- Chat Messages Area -->
+          <div class="chat-messages" id="chat-messages-container">
+            <div class="message system-message">
+              <div class="message-content">
+                <div class="system-avatar">
+                  <ion-icon name="flash"></ion-icon>
+                </div>
+                <div class="message-text">
+                  <h3>AE BOT Cognitive Hub Connected</h3>
+                  <p>Welcome. I am **AE BOT**, your technical intelligence partner. I have direct semantic access to the entire parsed products catalog of **AE**.</p>
+                  <p>Query specifications, product categories, standard custom power setups, and plasma configurations directly. I will retrieve the exact ground-truth datasheets and synthesize precise answers.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Chat Input Form -->
+          <div class="chat-input-area">
+            <form id="chat-form">
+              <div class="chat-input-glass"></div>
+              <input type="text" id="chat-input" placeholder="Query AE product catalog..." autocomplete="off">
+              <button type="submit" class="btn-send">
+                <ion-icon name="paper-plane-outline"></ion-icon>
+                <span>SEND</span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- VIEW 2: DATA SOURCES (Folder/Category stats and Taxonomy Tree) -->
+      <div class="view-content" id="view-datasources">
+        <div class="view-scroll-area">
+          <div class="datasources-grid">
+            <div class="ios-widget">
+              <h3>Ingested Categories</h3>
+              <div class="widget-large-num" id="datasource-categories-count">9</div>
+              <p>Segmented industrial sectors</p>
+            </div>
+            <div class="ios-widget">
+              <h3>Parsed Leaf Nodes</h3>
+              <div class="widget-large-num" id="datasource-products-count">296</div>
+              <p>Individual product specifications</p>
+            </div>
+            <div class="ios-widget">
+              <h3>Database Storage</h3>
+              <div class="widget-large-num" style="color: var(--accent-purple)">ChromaDB</div>
+              <p>Persistent local vector store</p>
+            </div>
+          </div>
+
+          <div class="taxonomy-card">
+            <div class="taxonomy-card-header">
+              <h2>Product Taxonomy Matrix</h2>
+              <div class="taxonomy-search">
+                <ion-icon name="search-outline"></ion-icon>
+                <input type="text" id="taxonomy-search-input" placeholder="Filter hierarchy...">
+              </div>
+            </div>
+            <div class="taxonomy-pre-wrapper">
+              <pre id="taxonomy-hierarchy-text">Loading taxonomy tree...</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- VIEW 3: TASKS (Process logs and Scraper tools) -->
+      <div class="view-content" id="view-tasks">
+        <div class="view-scroll-area">
+          <div class="tasks-layout">
+            <div class="task-card">
+              <div class="task-card-header">
+                <div class="task-card-title">
+                  <ion-icon name="sync-circle-outline" class="task-icon rotate"></ion-icon>
+                  <h3>Crawler & Ingestion Engine</h3>
+                </div>
+                <span class="task-status idle">IDLE</span>
+              </div>
+              <p>Monitors advancedenergy.com product catalog. The scraper has successfully mapped 296 complete sub-product leaf profiles into the local disk.</p>
+              <div class="task-meta">
+                <span>**Last Sync:** Sunday, Aug 9, 2026</span>
+                <span>**Frequency:** Manual Trigger</span>
+              </div>
+            </div>
+
+            <div class="task-card">
+              <div class="task-card-header">
+                <div class="task-card-title">
+                  <ion-icon name="finger-print-outline" class="task-icon"></ion-icon>
+                  <h3>Vector Space Alignment</h3>
+                </div>
+                <span class="task-status complete">VALID</span>
+              </div>
+              <p>Normalizes raw text details using TF-IDF and SVD, then indexes them in local SQLite schemas inside ChromaDB.</p>
+              <div class="task-meta">
+                <span>**Model File:** embedding_model.pkl</span>
+                <span>**Collection:** ae_products (128-dim)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- VIEW 4: CONFIGURE (Gemini API Key input) -->
+      <div class="view-content" id="view-configure">
+        <div class="view-scroll-area">
+          <div class="configure-layout">
+            <div class="ios-card full-width">
+              <div class="ios-card-header">
+                <ion-icon name="key-outline" class="card-icon-amber"></ion-icon>
+                <h2>Gemini API Authorization</h2>
+              </div>
+              <p class="subtitle">Enter your Google Gemini API Key here. Once activated, AE BOT moves from Offline Mock mode to full cognitive conversational answering.</p>
+              
+              <div class="api-key-panel">
+                <div class="panel-input-wrapper">
+                  <ion-icon name="shield-lock-outline"></ion-icon>
+                  <input type="password" id="configure-api-key-input" placeholder="Paste your GEMINI_API_KEY here...">
+                </div>
+                <button class="btn-activate" id="configure-api-key-submit">ACTIVATE GENERATIVE ENGINE</button>
+              </div>
+              <p class="help-text">Your API key is processed in memory and never logged, sent to external loggers, or saved to public repositories.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- VIEW 5: TRAIN AI (Model details & fit options) -->
+      <div class="view-content" id="view-train">
+        <div class="view-scroll-area">
+          <div class="train-layout">
+            <div class="ios-card">
+              <div class="ios-card-header">
+                <ion-icon name="git-branch-outline" class="card-icon-purple"></ion-icon>
+                <h2>Vectorization Pipeline (TF-IDF + SVD)</h2>
+              </div>
+              <p class="subtitle">Examine the mathematical parameters under which the corpus files are projected into high-dimensional vector grids.</p>
+              
+              <div class="pipeline-details">
+                <div class="pipeline-spec">
+                  <span class="spec-label">Dimensionality</span>
+                  <span class="spec-val">128 dense dimensions</span>
+                </div>
+                <div class="pipeline-spec">
+                  <span class="spec-label">N-gram Range</span>
+                  <span class="spec-val">(1, 2) unigrams + bigrams</span>
+                </div>
+                <div class="pipeline-spec">
+                  <span class="spec-label">Stop Words</span>
+                  <span class="spec-val">English Standard</span>
+                </div>
+                <div class="pipeline-spec">
+                  <span class="spec-label">Sublinear Term Freq</span>
+                  <span class="spec-val">Enabled (logarithmic scaling)</span>
+                </div>
+              </div>
+              
+              <p class="pipeline-theory">This custom model performs fully offline embeddings on your local system without any network transmission, maximizing performance and keeping search speeds sub-5ms.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- Client JavaScript -->
+  <script src="app.js?v=2.0"></script>
+</body>
+</html>

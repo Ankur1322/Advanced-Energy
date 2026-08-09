@@ -234,6 +234,11 @@ def load_all_documents(products_dir: Path) -> Tuple[list, list]:
         rel_parts = list(path.relative_to(products_dir).parts[:-1])
         doc_id = _doc_id("product", rel_parts)
 
+        primary_img = "Not found"
+        if info["images"]:
+            first_img = info["images"][0]
+            primary_img = first_img[1] if isinstance(first_img, (list, tuple)) and len(first_img) > 1 else (first_img[0] if isinstance(first_img, (list, tuple)) else str(first_img))
+
         sub_docs.append({
             "id": doc_id,
             "text": doc_text,
@@ -243,6 +248,7 @@ def load_all_documents(products_dir: Path) -> Tuple[list, list]:
                 "category_path": category_path_str,
                 "subproduct": product_name,
                 "source_link": info["product_url"] or "Not found",
+                "image_url": primary_img or "Not found",
                 "level": hierarchy[-1]["level"] + 1 if hierarchy else 0,
             },
         })

@@ -164,6 +164,46 @@ def extract_categories(soup: BeautifulSoup) -> list[dict]:
     return categories
 
 
+def extract_subproduct_image(soup: BeautifulSoup) -> str:
+    """Given a sub-product page soup, try to extract the main product image URL.
+
+    Strategy:
+    1. Look for og:image meta tag (highly reliable for primary product image).
+    2. Look for twitter:image meta tag.
+    3. Look for standard img tags inside typical product hero containers.
+    4. Resolve as absolute URL.
+    """
+    # 1. Open Graph image tag
+    og_img = soup.find("meta", attrs={"property": "og:image"})
+    if og_img and og_img.get("content", "").strip():
+        return urljoin(BASE_URL, og_img["content"].strip())
+        
+    # 2. Twitter image tag
+    tw_img = soup.find("meta", attrs={"name": "twitter:image"})
+    if tw_img and tw_img.get("content", "").strip():
+        return urljoin(BASE_URL, tw_img["content"].strip())
+
+    # 3. Look in typical product image wrapper divs
+    for container_class in [
+        re.compile(r"product.*image", re.I),
+        re.compile(r"hero.*image", re.I),
+        re.compile(r"gallery", re.I)
+    ]:
+        div = soup.find("div", class_=container_class)
+        if div:
+            img = div.find("img")
+            if img and img.get("src"):
+                return urljoin(BASE_URL, img["src"])
+
+    # 4. Fallback: look for the first img tag with products in src
+    for img in soup.find_all("img"):
+        src = img.get("src", "")
+        if "products" in src or "images" in src:
+            return urljoin(BASE_URL, src)
+
+    return "Not found"
+
+
 def extract_subproduct_description(soup: BeautifulSoup) -> str:
     """Given a sub-product page soup, try to extract a short clean description.
 
@@ -204,21 +244,66 @@ def extract_subproduct_description(soup: BeautifulSoup) -> str:
 # Filesystem builders
 # ---------------------------------------------------------------------------
 def write_details(
-    path: Path,
+    sub_path: Path,
     sub_name: str,
     cat_name: str,
     source_url: str,
     description: str,
+    image_url: str = "Not found",
 ) -> None:
-    """Write the details.txt file for a single sub-product."""
+    """Write both details.txt and product_details.txt with a rich layout."""
     content = textwrap.dedent(f"""\
-        Subproduct Name: {sub_name}
-        Category: {cat_name}
-        Source Link: {source_url or 'Not found'}
-        Description:
+        ==============================================================================
+        PRODUCT DETAILS: {sub_name}
+        ==============================================================================
+
+        ------------------------------------------------------------------------------
+        HIERARCHY (root to product, chronological order)
+        ------------------------------------------------------------------------------
+        [Level 0] Category Name: Products
+        Category URL: {PRODUCTS_URL}
+        Category Description: Find reliable power supplies and sensing products.
+
+        [Level 1] Category Name: {cat_name}
+        Category URL: {source_url or 'Not found'}
+
+        ------------------------------------------------------------------------------
+        FINAL PRODUCT (Level 2)
+        ------------------------------------------------------------------------------
+        Product Name: {sub_name}
+        Product URL: {source_url or 'Not found'}
+
+        Complete Product Description:
         {description}
+
+        Features: Not found
+
+        Specifications: Not found
+
+        Applications: Not found
+
+        Benefits: Not found
+
+        Downloads: Not found
+
+        PDF Links: Not found
+
+        Images:
+          - Image: {image_url or 'Not found'}
+
+        Related Products: Not found
+
+        ------------------------------------------------------------------------------
+        NAVIGATION PATH (Breadcrumb)
+        ------------------------------------------------------------------------------
+        Products
+          ↓
+        {cat_name}
+          ↓
+        {sub_name}
     """)
-    path.write_text(content, encoding="utf-8")
+    sub_path.joinpath("product_details.txt").write_text(content, encoding="utf-8")
+    sub_path.joinpath("details.txt").write_text(content, encoding="utf-8")
 
 
 def write_category_summary(path: Path, cat_name: str, sub_names: list[str]) -> None:
@@ -310,18 +395,20 @@ def run_scraper(output_root: Path, delay: float) -> None:
 
             LOG.info("  (%d/%d) %s", sub_idx, len(cat["subproducts"]), sub_name)
 
-            # Try to fetch the sub-product page for a description
+            # Try to fetch the sub-product page for description and image
             description = "Not found"
+            image_url = "Not found"
             if sub_url:
                 LOG.debug("  → %s", sub_url)
                 sub_soup = fetch_page(sub_url, session)
                 if sub_soup:
                     description = extract_subproduct_description(sub_soup)
+                    image_url = extract_subproduct_image(sub_soup)
                 # Be polite
                 time.sleep(delay)
 
-            # Write details.txt
-            write_details(sub_path / "details.txt", sub_name, cat_name, sub_url, description)
+            # Write details files
+            write_details(sub_path, sub_name, cat_name, sub_url, description, image_url)
             sub_names.append(sub_name)
             LOG.info("    saved: %s", sub_name)
 
