@@ -74,6 +74,24 @@ node server.js
 ```
 The application will be live at: **http://localhost:3000**
 
+### Production deployment
+
+The included `dashboard/Dockerfile` packages the Node dashboard and Python RAG engine. Build from the repository root:
+
+```bash
+docker build -f dashboard/Dockerfile -t advanced-energy-bot .
+docker run --rm -p 3000:3000 \
+  -e GEMINI_API_KEY=your_api_key_here \
+  -v advanced-energy-memory:/app/data \
+  advanced-energy-bot
+```
+
+Set `PORT`, `PYTHON_PATH`, `QUERY_TIMEOUT_MS`, and `MAX_MEMORY_TURNS` as needed. Keep `GEMINI_API_KEY` server-side in production; the browser key field is retained only for local testing. The `/app/data` volume preserves conversations across restarts.
+
+### Conversation memory
+
+Each browser gets a stable conversation ID in `localStorage`. The server stores at most `MAX_MEMORY_TURNS` turns per conversation (20 by default), truncates individual messages to 4,000 characters, and sends only the last 12 turns to Gemini. This keeps prompt size and memory usage bounded while preserving recent context. To reset a browser conversation, clear the `ae_bot_conversation_id` local-storage item.
+
 ### Step 4: Configure the Bot
 1. Open the dashboard in your browser.
 2. Click the Settings / Gear icon or navigate to the **Configure** tab.

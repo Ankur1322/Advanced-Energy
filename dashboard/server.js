@@ -3,17 +3,47 @@ const cors = require('cors');
 const { spawn } = require('child_process');
 const path = require('path');
 const fs = require('fs');
-require('dotenv').config();
+const crypto = require('crypto');
+require('dotenv').config({ path: path.join(__dirname, '.env') });
+require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Path configuration
-const PROJECT_ROOT = '/home/ankur/Documents/Advanced Energy';
-const PYTHON_VENV_PATH = path.join(PROJECT_ROOT, '.venv/bin/python3');
+const PROJECT_ROOT = path.resolve(__dirname, '..');
+const PYTHON_VENV_PATH = process.env.PYTHON_PATH || path.join(PROJECT_ROOT, '.venv', 'bin', 'python3');
 const QUERY_API_PATH = path.join(PROJECT_ROOT, 'query_api.py');
 const TREE_FILE_PATH = path.join(PROJECT_ROOT, 'all_products_tree.txt');
 const PRODUCTS_OUTPUT_DIR = path.join(PROJECT_ROOT, 'output');
+const MEMORY_FILE_PATH = process.env.MEMORY_FILE || path.join(PROJECT_ROOT, 'data', 'conversations.json');
+const MAX_TURNS = Number(process.env.MAX_MEMORY_TURNS || 20);
+const MAX_MESSAGE_CHARS = 4000;
+const MEMORY_TTL_MS = 1000 * 60 * 60 * 24 * 30;
+
+const conversations = new Map();
+try {
+  if (fs.existsSync(MEMORY_FILE_PATH)) {
+    const saved = JSON.parse(fs.readFileSync(MEMORY_FILE_PATH, 'utf8'));
+    for (const [id, turns] of Object.entries(saved)) {
+      if (Array.isArray(turns)) conversations.set(id, turns.slice(-MAX_TURNS * 2));
+    }
+  }
+} catch (error) {
+  console.warn('Conversation memory could not be loaded:', error.message);
+}
+
+function saveConversations() {
+  const directory = path.dirname(MEMORY_FILE_PATH);
+  fs.mkdirSync(directory, { recursive: true });
+  const tempPath = `${MEMORY_FILE_PATH}.tmp`;
+  fs.writeFileSync(tempPath, JSON.stringify(Object.fromEntries(conversations)), 'utf8');
+  fs.renameSync(tempPath, MEMORY_FILE_PATH);
+}
+
+function cleanText(value) {
+  return typeof value === 'string' ? value.trim().slice(0, MAX_MESSAGE_CHARS) : '';
+}
 
 app.use(cors());
 app.use(express.json());
@@ -76,13 +106,15 @@ app.get('/api/status', (req, res) => {
 
 // 2. Chat / Q&A RAG Query Endpoint
 app.post('/api/chat', (req, res) => {
-  const { query, apiKey } = req.body;
+  const query = cleanText(req.body?.query);
   if (!query) {
     return res.status(400).json({ error: 'Query is required' });
   }
 
-  // Use frontend-supplied API key, fallback to server's env key
-  const activeApiKey = (apiKey || process.env.GEMINI_API_KEY || '').trim();
+  const conversationId = cleanText(req.body?.conversationId) || crypto.randomUUID();
+  const history = (conversations.get(conversationId) || []).slice(-MAX_TURNS * 2);
+  // Prefer the server-side secret. Client-provided keys are supported for local testing only.
+  const activeApiKey = (process.env.GEMINI_API_KEY || req.body?.apiKey || '').trim();
 
   // Spawn Python bridge
   const env = { ...process.env };
@@ -94,9 +126,16 @@ app.post('/api/chat', (req, res) => {
 
   console.log(`Executing RAG query: "${query}" (API Key provided: ${!!activeApiKey})`);
 
-  const pyProcess = spawn(PYTHON_VENV_PATH, [QUERY_API_PATH, query], {
+  const pythonPath = fs.existsSync(PYTHON_VENV_PATH) ? PYTHON_VENV_PATH : (process.env.PYTHON || 'python3');
+  const pyProcess = spawn(pythonPath, [QUERY_API_PATH, query, JSON.stringify(history)], {
     cwd: PROJECT_ROOT,
-    env
+    env,
+    stdio: ['ignore', 'pipe', 'pipe']
+  });
+  const timeout = setTimeout(() => pyProcess.kill('SIGTERM'), Number(process.env.QUERY_TIMEOUT_MS || 90000));
+  pyProcess.on('error', (error) => {
+    clearTimeout(timeout);
+    if (!res.headersSent) res.status(500).json({ error: 'Unable to start AI engine', details: error.message });
   });
 
   let stdoutData = '';
@@ -111,6 +150,7 @@ app.post('/api/chat', (req, res) => {
   });
 
   pyProcess.on('close', (code) => {
+    clearTimeout(timeout);
     if (code !== 0) {
       console.error(`Python script failed with exit code ${code}`);
       console.error(`Stderr: ${stderrData}`);
@@ -122,7 +162,14 @@ app.post('/api/chat', (req, res) => {
 
     try {
       const jsonResponse = JSON.parse(stdoutData.trim());
-      res.json(jsonResponse);
+      const answer = cleanText(jsonResponse.answer);
+      const turns = [...history,
+        { role: 'user', content: query, at: new Date().toISOString() },
+        { role: 'assistant', content: answer, at: new Date().toISOString() }
+      ].slice(-MAX_TURNS * 2);
+      conversations.set(conversationId, turns);
+      saveConversations();
+      res.json({ ...jsonResponse, conversationId });
     } catch (err) {
       console.error('Failed to parse Python JSON output:', stdoutData);
       res.status(500).json({

@@ -51,6 +51,11 @@ chroma_db/
 *.pkl
 
 # -----------------------------
+# Runtime application data
+# -----------------------------
+data/
+
+# -----------------------------
 # Scraper state / resume tracking
 # -----------------------------
 .scraper_state.json

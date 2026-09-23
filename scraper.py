@@ -177,7 +177,7 @@ def extract_subproduct_image(soup: BeautifulSoup) -> str:
     og_img = soup.find("meta", attrs={"property": "og:image"})
     if og_img and og_img.get("content", "").strip():
         return urljoin(BASE_URL, og_img["content"].strip())
-        
+
     # 2. Twitter image tag
     tw_img = soup.find("meta", attrs={"name": "twitter:image"})
     if tw_img and tw_img.get("content", "").strip():

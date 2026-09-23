@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+*.py[cod]
+node_modules
+dashboard/node_modules
+.env
+.env.*
+.gitignore
+.code-review-graph
+
+data

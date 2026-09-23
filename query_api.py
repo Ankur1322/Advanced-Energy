@@ -12,6 +12,7 @@ import sys
 import json
 import warnings
 from pathlib import Path
+from functools import lru_cache
 
 warnings.filterwarnings("ignore")
 
@@ -19,43 +20,55 @@ import chromadb
 import google.generativeai as genai
 from embed_to_chroma import COLLECTION_NAME, DB_DIR, TfidfSvdEmbeddingFunction
 
+@lru_cache(maxsize=1)
+def load_retriever():
+    """Load the expensive local embedding model and Chroma client once per worker."""
+    db_dir = DB_DIR
+    ef = TfidfSvdEmbeddingFunction.load(db_dir / "embedding_model.pkl")
+    client = chromadb.PersistentClient(path=str(db_dir))
+    collection = client.get_or_create_collection(name=COLLECTION_NAME, embedding_function=ef)
+    return collection
+
+
 def main():
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 2 or not sys.argv[1].strip():
         print(json.dumps({"error": "No query provided"}))
         sys.exit(1)
-        
-    query = sys.argv[1]
-    
+
+    query = sys.argv[1].strip()
+    try:
+        history = json.loads(sys.argv[2]) if len(sys.argv) > 2 else []
+        if not isinstance(history, list):
+            history = []
+    except (json.JSONDecodeError, TypeError):
+        history = []
+
     # Check Gemini API Key
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     using_mock = not api_key
-    
+
     if api_key:
         try:
-            genai.configure(api_key=api_key)
+            getattr(genai, "configure")(api_key=api_key)
         except Exception as e:
             using_mock = True
 
     try:
-        db_dir = DB_DIR
-        ef = TfidfSvdEmbeddingFunction.load(db_dir / "embedding_model.pkl")
-        client = chromadb.PersistentClient(path=str(db_dir))
-        collection = client.get_or_create_collection(
-            name=COLLECTION_NAME,
-            embedding_function=ef,
-        )
-        
+        collection = load_retriever()
         results = collection.query(query_texts=[query], n_results=5)
-        
+
         sources = []
         context_blocks = []
-        for idx, (doc, meta) in enumerate(zip(results["documents"][0], results["metadatas"][0]), 1):
+        documents = (results.get("documents") or [[]])[0] or []
+        metadatas = (results.get("metadatas") or [[]])[0] or []
+        for idx, (doc, meta) in enumerate(zip(documents, metadatas), 1):
+            meta = meta or {}
             category = meta.get("category", "")
             subproduct = meta.get("subproduct", "")
             description = meta.get("description", "")
             url = meta.get("source_link", "Not found")
             image_url = meta.get("image_url", "Not found")
-            
+
             sources.append({
                 "id": idx,
                 "category": category,
@@ -65,19 +78,21 @@ def main():
                 "image_url": image_url,
                 "content": doc
             })
-            
+
             block = f"--- Context Source {idx} ---\n"
             if category: block += f"Category: {category}\n"
             if subproduct: block += f"Subproduct: {subproduct}\n"
             if image_url and image_url != "Not found": block += f"Image URL: {image_url}\n"
             block += f"Content:\n{doc}\n"
             context_blocks.append(block)
-            
+
         context = "\n".join(context_blocks)
-        
+
         if using_mock:
             # Generate structured mock response
             answer = "🤖 **[Offline Mock Mode Active]**\n\n"
+            if not sources:
+                answer += "No matching products were found in the local database.\n"
             answer += "Here are the most relevant matching products found in the Advanced Energy database:\n\n"
             for src in sources[:3]:
                 answer += f"### {src['subproduct']}\n"
@@ -89,12 +104,20 @@ def main():
                 answer += "---\n\n"
             answer += "\n*(To unlock real AI-generated conversational answers, please configure your `GEMINI_API_KEY` inside the sidebar settings!)*"
         else:
+            prior_turns = "\n".join(
+                f"{item.get('role', 'user').upper()}: {str(item.get('content', ''))[:1200]}"
+                for item in history[-12:]
+                if isinstance(item, dict) and item.get('content')
+            )
             prompt = f"""You are an expert product assistant for Advanced Energy.
-Use the following retrieved context to answer the user's question.
+Use the following retrieved context and conversation history to answer the user's question.
+Conversation history (may be empty):
+{prior_turns}
+
+Retrieved context:
 If the retrieved context does not contain enough information to answer, answer with what you can, and be honest about missing details.
 Always mention the specific product names and categories when answering.
 
-CONTEXT:
 {context}
 
 USER QUESTION: {query}
@@ -111,7 +134,7 @@ ANSWER:"""
             answer = ""
             for model_name in models_to_try:
                 try:
-                    model = genai.GenerativeModel(model_name)
+                    model = getattr(genai, "GenerativeModel")(model_name)
                     response = model.generate_content(prompt)
                     answer = response.text
                     break
@@ -119,13 +142,13 @@ ANSWER:"""
                     continue
             if not answer:
                 raise Exception("Could not generate answer from any Gemini model.")
-                
+
         print(json.dumps({
             "answer": answer,
             "sources": sources,
             "using_mock": using_mock
         }, indent=2))
-        
+
     except Exception as e:
         print(json.dumps({"error": str(e)}))
         sys.exit(1)

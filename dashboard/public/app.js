@@ -628,6 +628,9 @@ const initGsapCascade = () => {
 // ============================================================================
 const initChatOrchestration = () => {
   const chatForm = document.querySelector('#chat-form');
+  const conversationStorageKey = 'ae_bot_conversation_id';
+  let conversationId = localStorage.getItem(conversationStorageKey) || crypto.randomUUID();
+  localStorage.setItem(conversationStorageKey, conversationId);
   const chatInput = document.querySelector('#chat-input');
   const chatMessages = document.querySelector('#chat-messages-container');
 
@@ -648,7 +651,7 @@ const initChatOrchestration = () => {
       const res = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: queryText, apiKey })
+        body: JSON.stringify({ query: queryText, apiKey, conversationId })
       });
 
       removeTypingLoader(loaderId);
@@ -660,6 +663,10 @@ const initChatOrchestration = () => {
       }
 
       const data = await res.json();
+      if (data.conversationId) {
+        conversationId = data.conversationId;
+        localStorage.setItem(conversationStorageKey, conversationId);
+      }
       appendAiResponse(data);
 
     } catch (err) {
