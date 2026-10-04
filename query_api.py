@@ -82,7 +82,6 @@ def main():
             block = f"--- Context Source {idx} ---\n"
             if category: block += f"Category: {category}\n"
             if subproduct: block += f"Subproduct: {subproduct}\n"
-            if image_url and image_url != "Not found": block += f"Image URL: {image_url}\n"
             block += f"Content:\n{doc}\n"
             context_blocks.append(block)
 
@@ -117,6 +116,7 @@ Conversation history (may be empty):
 Retrieved context:
 If the retrieved context does not contain enough information to answer, answer with what you can, and be honest about missing details.
 Always mention the specific product names and categories when answering.
+Do not print raw image URLs in the answer. Product images are rendered separately by the dashboard.
 
 {context}
 

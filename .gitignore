@@ -34,6 +34,7 @@ ENV/
 # -----------------------------
 .vscode/
 .idea/
+.code-review-graph/
 *.swp
 *.swo
 
@@ -70,6 +71,19 @@ data/
 # -----------------------------
 *.log
 scraper.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# -----------------------------
+# Browser test artifacts
+# -----------------------------
+test-results/
+playwright-report/
+playwright/.cache/
+screenshots/
+videos/
 
 # -----------------------------
 # macOS / Windows

@@ -36,6 +36,40 @@ USER_AGENT = (
     "Mozilla/5.0 (compatible; AE-ProductScraper/1.0; "
     "+https://github.com/example/ae-scraper)"
 )
+IMAGE_ATTRS = (
+    "src",
+    "data-src",
+    "data-lazy-src",
+    "data-original",
+    "data-image",
+    "data-bg",
+    "poster",
+)
+GENERIC_IMAGE_HINTS = (
+    "ae_logo",
+    "logo",
+    "wechat",
+    "qr",
+    "support-image",
+    "ae-placholder",
+    "placeholder",
+    "/technical-content/",
+    "brochure",
+    "whitepaper",
+    "application-note",
+    "pdf.png",
+)
+PRODUCT_IMAGE_HINTS = (
+    "product",
+    "series",
+    "thumbnail",
+    "fr-wp",
+    "fl-wp",
+    "bb-wp",
+    "t300x300",
+    "t700x700",
+    "getattachment",
+)
 
 # ---------------------------------------------------------------------------
 # Logging setup
@@ -168,40 +202,110 @@ def extract_subproduct_image(soup: BeautifulSoup) -> str:
     """Given a sub-product page soup, try to extract the main product image URL.
 
     Strategy:
-    1. Look for og:image meta tag (highly reliable for primary product image).
-    2. Look for twitter:image meta tag.
-    3. Look for standard img tags inside typical product hero containers.
+    1. Collect Open Graph/Twitter image meta tags.
+    2. Collect lazy-loaded images from src/data-src/srcset style attributes.
+    3. Prefer product/gallery/series-card images over logos, placeholders, and
+       generic support/technical-content artwork.
     4. Resolve as absolute URL.
     """
-    # 1. Open Graph image tag
-    og_img = soup.find("meta", attrs={"property": "og:image"})
-    if og_img and og_img.get("content", "").strip():
-        return urljoin(BASE_URL, og_img["content"].strip())
-
-    # 2. Twitter image tag
-    tw_img = soup.find("meta", attrs={"name": "twitter:image"})
-    if tw_img and tw_img.get("content", "").strip():
-        return urljoin(BASE_URL, tw_img["content"].strip())
-
-    # 3. Look in typical product image wrapper divs
-    for container_class in [
-        re.compile(r"product.*image", re.I),
-        re.compile(r"hero.*image", re.I),
-        re.compile(r"gallery", re.I)
-    ]:
-        div = soup.find("div", class_=container_class)
-        if div:
-            img = div.find("img")
-            if img and img.get("src"):
-                return urljoin(BASE_URL, img["src"])
-
-    # 4. Fallback: look for the first img tag with products in src
-    for img in soup.find_all("img"):
-        src = img.get("src", "")
-        if "products" in src or "images" in src:
-            return urljoin(BASE_URL, src)
+    images = extract_subproduct_images(soup, limit=1)
+    if images:
+        return images[0]
 
     return "Not found"
+
+
+def _first_srcset_url(srcset: str) -> str:
+    """Return the first URL from an HTML srcset attribute."""
+    if not srcset:
+        return ""
+    first_candidate = srcset.split(",", 1)[0].strip()
+    return first_candidate.split(" ", 1)[0].strip()
+
+
+def _image_score(url: str, context: str) -> int:
+    """Score image candidates so real product photos beat generic assets."""
+    haystack = f"{url} {context}".lower()
+
+    if not url:
+        return -100
+    if url.lower().startswith("data:"):
+        return -100
+    if url.lower().split("?", 1)[0].endswith(".svg"):
+        return -50
+
+    score = 0
+    for hint in PRODUCT_IMAGE_HINTS:
+        if hint in haystack:
+            score += 10
+    for hint in GENERIC_IMAGE_HINTS:
+        if hint in haystack:
+            score -= 25
+    if any(ext in url.lower().split("?", 1)[0] for ext in (".jpg", ".jpeg", ".png", ".webp")):
+        score += 5
+    return score
+
+
+def _add_image_candidate(
+    candidates: list[tuple[int, int, str]],
+    seen: set[str],
+    raw_url: str,
+    context: str,
+    position: int,
+) -> None:
+    """Normalize and append one image candidate if it is worth considering."""
+    if not raw_url:
+        return
+    absolute_url = urljoin(BASE_URL, raw_url.strip())
+    if absolute_url in seen:
+        return
+    seen.add(absolute_url)
+    candidates.append((_image_score(absolute_url, context), position, absolute_url))
+
+
+def extract_subproduct_images(soup: BeautifulSoup, limit: int = 5) -> list[str]:
+    """Extract ranked product image URLs from a sub-product page."""
+    candidates: list[tuple[int, int, str]] = []
+    seen: set[str] = set()
+    position = 0
+
+    for attrs in (
+        {"property": "og:image"},
+        {"property": "og:image:secure_url"},
+        {"name": "twitter:image"},
+        {"name": "twitter:image:src"},
+    ):
+        meta = soup.find("meta", attrs=attrs)
+        if meta and meta.get("content", "").strip():
+            _add_image_candidate(candidates, seen, meta["content"], " ".join(attrs.values()), position)
+            position += 1
+
+    preferred_containers = soup.find_all(
+        ["section", "div", "figure"],
+        class_=re.compile(r"(product|hero|gallery|carousel|series|image)", re.I),
+    )
+    for container in preferred_containers:
+        context = " ".join(container.get("class", []))
+        for img in container.find_all("img"):
+            img_context = f"{context} {' '.join(img.get('class', []))} {img.get('alt', '')}"
+            for attr in IMAGE_ATTRS:
+                _add_image_candidate(candidates, seen, img.get(attr, ""), img_context, position)
+            _add_image_candidate(candidates, seen, _first_srcset_url(img.get("srcset", "")), img_context, position)
+            _add_image_candidate(candidates, seen, _first_srcset_url(img.get("data-srcset", "")), img_context, position)
+            position += 1
+
+    for img in soup.find_all("img"):
+        context = f"{' '.join(img.get('class', []))} {img.get('alt', '')}"
+        for attr in IMAGE_ATTRS:
+            _add_image_candidate(candidates, seen, img.get(attr, ""), context, position)
+        _add_image_candidate(candidates, seen, _first_srcset_url(img.get("srcset", "")), context, position)
+        _add_image_candidate(candidates, seen, _first_srcset_url(img.get("data-srcset", "")), context, position)
+        position += 1
+
+    usable = [item for item in candidates if item[0] >= 0]
+    fallback = candidates if candidates else []
+    ranked = sorted(usable or fallback, key=lambda item: (-item[0], item[1]))
+    return [url for _, _, url in ranked[:limit]]
 
 
 def extract_subproduct_description(soup: BeautifulSoup) -> str:
@@ -249,9 +353,13 @@ def write_details(
     cat_name: str,
     source_url: str,
     description: str,
-    image_url: str = "Not found",
+    image_url: str | list[str] = "Not found",
 ) -> None:
     """Write both details.txt and product_details.txt with a rich layout."""
+    image_urls = image_url if isinstance(image_url, list) else [image_url]
+    image_urls = [url for url in image_urls if url and url != "Not found"]
+    image_lines = "\n".join(f"          - Image: {url}" for url in image_urls) or "          - Image: Not found"
+
     content = textwrap.dedent(f"""\
         ==============================================================================
         PRODUCT DETAILS: {sub_name}
@@ -289,7 +397,7 @@ def write_details(
         PDF Links: Not found
 
         Images:
-          - Image: {image_url or 'Not found'}
+{image_lines}
 
         Related Products: Not found
 
@@ -397,18 +505,18 @@ def run_scraper(output_root: Path, delay: float) -> None:
 
             # Try to fetch the sub-product page for description and image
             description = "Not found"
-            image_url = "Not found"
+            image_urls: list[str] = []
             if sub_url:
                 LOG.debug("  → %s", sub_url)
                 sub_soup = fetch_page(sub_url, session)
                 if sub_soup:
                     description = extract_subproduct_description(sub_soup)
-                    image_url = extract_subproduct_image(sub_soup)
+                    image_urls = extract_subproduct_images(sub_soup)
                 # Be polite
                 time.sleep(delay)
 
             # Write details files
-            write_details(sub_path, sub_name, cat_name, sub_url, description, image_url)
+            write_details(sub_path, sub_name, cat_name, sub_url, description, image_urls or "Not found")
             sub_names.append(sub_name)
             LOG.info("    saved: %s", sub_name)
 

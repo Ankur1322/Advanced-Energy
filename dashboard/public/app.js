@@ -752,6 +752,61 @@ const removeTypingLoader = (id) => {
   if (loader) loader.remove();
 };
 
+const escapeHtml = (value = '') => String(value)
+  .replace(/&/g, '&amp;')
+  .replace(/</g, '&lt;')
+  .replace(/>/g, '&gt;')
+  .replace(/"/g, '&quot;')
+  .replace(/'/g, '&#039;');
+
+const firstContentLine = (content = '', label = 'Description:') => {
+  const line = String(content)
+    .split('\n')
+    .find(item => item.trim().startsWith(label));
+  return line ? line.split(label, 2)[1].trim() : '';
+};
+
+const stripRawImageUrls = (text = '') => String(text)
+  .replace(/^\s*Image URL:\s*`?https?:\/\/\S+`?\s*$/gmi, '')
+  .replace(/^\s*[-*]\s*Image URL:\s*`?https?:\/\/\S+`?\s*$/gmi, '')
+  .trim();
+
+const renderProductPreviewCards = (sources = []) => {
+  const productSources = sources
+    .filter(src => src.image_url && src.image_url !== 'Not found')
+    .slice(0, 3);
+
+  if (!productSources.length) return '';
+
+  const cards = productSources.map(src => {
+    const productName = escapeHtml(String(src.subproduct || '').split('\n')[0] || 'Advanced Energy Product');
+    const category = escapeHtml(src.category || 'Advanced Energy');
+    const imageUrl = escapeHtml(src.image_url);
+    const productUrl = src.url && src.url !== 'Not found' ? escapeHtml(src.url) : '';
+    const description = escapeHtml(
+      src.description && src.description !== 'Not found'
+        ? src.description
+        : firstContentLine(src.content, 'Description:')
+    );
+
+    return `
+      <article class="chat-product-card">
+        <div class="chat-product-image-shell">
+          <img src="${imageUrl}" class="chat-product-image" alt="${productName}" loading="lazy" onerror="this.closest('.chat-product-image-shell').style.display='none'">
+        </div>
+        <div class="chat-product-details">
+          <div class="chat-product-category">${category}</div>
+          <h3>${productName}</h3>
+          ${description ? `<p>${description}</p>` : ''}
+          ${productUrl ? `<a href="${productUrl}" target="_blank" class="source-link-btn"><ion-icon name="open-outline"></ion-icon> View Product Page</a>` : ''}
+        </div>
+      </article>
+    `;
+  }).join('');
+
+  return `<div class="chat-product-grid">${cards}</div>`;
+};
+
 const appendAiResponse = (data) => {
   const { answer, sources } = data;
   const chatMessages = document.querySelector('#chat-messages-container');
@@ -769,16 +824,19 @@ const appendAiResponse = (data) => {
 
     sources.forEach(src => {
       const showImage = src.image_url && src.image_url !== 'Not found';
+      const subproduct = escapeHtml(String(src.subproduct || '').split('\n')[0]);
+      const imageUrl = escapeHtml(src.image_url || '');
+      const productUrl = src.url && src.url !== 'Not found' ? escapeHtml(src.url) : '';
       sourcesHtml += `
         <div class="source-item">
           <div class="source-toggle" onclick="toggleSourceContent(this)">
-            <span>Source ${src.id}: <strong>${src.subproduct.split('\n')[0]}</strong></span>
+            <span>Source ${src.id}: <strong>${subproduct}</strong></span>
             <span class="source-badge">RELEVANT</span>
           </div>
           <div class="source-content">
-            ${showImage ? `<div class="source-product-image-wrapper"><img src="${src.image_url}" class="source-product-image" alt="${src.subproduct}" onerror="this.style.display='none'"></div>` : ''}
-            <p>${src.content.trim()}</p>
-            ${src.url && src.url !== 'Not found' ? `<a href="${src.url}" target="_blank" class="source-link-btn"><ion-icon name="open-outline"></ion-icon> View Technical Datasheet</a>` : ''}
+            ${showImage ? `<div class="source-product-image-wrapper"><img src="${imageUrl}" class="source-product-image" alt="${subproduct}" onerror="this.style.display='none'"></div>` : ''}
+            <p>${escapeHtml(src.content || '').trim()}</p>
+            ${productUrl ? `<a href="${productUrl}" target="_blank" class="source-link-btn"><ion-icon name="open-outline"></ion-icon> View Product Page</a>` : ''}
           </div>
         </div>
       `;
@@ -790,7 +848,8 @@ const appendAiResponse = (data) => {
     `;
   }
 
-  const formattedAnswer = formatMarkdown(answer);
+  const formattedAnswer = formatMarkdown(stripRawImageUrls(answer));
+  const productCardsHtml = renderProductPreviewCards(sources || []);
 
   msgDiv.innerHTML = `
     <div class="message-content">
@@ -801,6 +860,7 @@ const appendAiResponse = (data) => {
         <div class="ai-answer-body">
           ${formattedAnswer}
         </div>
+        ${productCardsHtml}
         ${sourcesHtml}
       </div>
     </div>
