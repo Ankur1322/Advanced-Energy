@@ -1,0 +1,4 @@
+import type { MemoryProvider } from "./types";
+
+export interface Mem0LikeMemory { add(messages: Array<{ role: string; content: string }>, options: { user_id: string; run_id?: string }): Promise<unknown>; search(query: string, options: { user_id: string; limit?: number }): Promise<unknown>; }
+export class Mem0Adapter { constructor(private readonly memory: Mem0LikeMemory, private readonly provider: MemoryProvider) {} async add(messages: Array<{ role: string; content: string }>, userId: string, conversationId: string) { await this.memory.add(messages, { user_id: userId, run_id: conversationId }); return this.provider.search(messages.map((message) => message.content).join("\n"), userId, { limit: 8, conversationId }); } search(query: string, userId: string, limit = 8) { return this.memory.search(query, { user_id: userId, limit }); } }

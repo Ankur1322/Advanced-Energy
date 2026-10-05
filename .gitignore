@@ -13,6 +13,9 @@ __pycache__/
 # -----------------------------
 node_modules/
 dashboard/node_modules/
+memory-app/node_modules/
+memory-app/.vite/
+.turbo/
 
 # -----------------------------
 # Virtual environments
@@ -28,6 +31,8 @@ ENV/
 .env
 .env.*
 .env.local
+memory-app/.env
+memory-app/.env.*
 
 # -----------------------------
 # VS Code / IDE
@@ -96,9 +101,17 @@ Thumbs.db
 # -----------------------------
 build/
 dist/
+memory-app/dist/
 *.egg-info/
 .eggs/
 pip-wheel-metadata/
+*.tsbuildinfo
+
+# -----------------------------
+# Supabase local development
+# -----------------------------
+supabase/.temp/
+memory-app/supabase/.temp/
 
 # -----------------------------
 # Jupyter & Testing
