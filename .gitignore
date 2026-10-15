@@ -27,18 +27,24 @@ ENV/
 
 # -----------------------------
 # Environment variables / API keys
+.eslintcache
+.vercel/
 # -----------------------------
 .env
 .env.*
 .env.local
 memory-app/.env
 memory-app/.env.*
+!memory-app/.env.example
 
 # -----------------------------
+lerna-debug.log*
 # VS Code / IDE
 # -----------------------------
 .vscode/
 .idea/
+.coverage.*
+coverage/
 .code-review-graph/
 *.swp
 *.swo

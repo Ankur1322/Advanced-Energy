@@ -56,6 +56,22 @@ cd dashboard
 npm install
 ```
 
+### 3. Memory Chat App
+
+The `memory-app/` directory contains the Supabase-backed chat history and long-term memory UI.
+
+```bash
+cd memory-app
+npm install
+cp .env.example .env.local
+# Edit .env.local with your Supabase project URL and anon key
+npm run dev
+```
+
+The Vite app will be available at the local URL printed in the terminal. The database migration is at `memory-app/supabase/migrations/202610050001_long_term_memory.sql`; apply it to the Supabase project before using conversations, messages, or memory retrieval.
+
+For a production build, run `npm run typecheck && npm run build` from `memory-app`.
+
 ---
 
 ## Usage Guide
