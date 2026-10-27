@@ -1,0 +1,111 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedTE90 Series90 W Single Output External Power
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: TE SeriesITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/
+Category Description: The TE series is part of Advanced Energy's medical external power supplies and offers nine products under this family ranging from 10 W to 240 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedTE90 Series90 W Single Output External Power
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te90-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power TE90 series of desktop and wall-plug AC-DC external power adapter comprises four output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/8f987a82-526f-4d68-a8d2-b7cd2d626b8a/TE90-01%2011.9.22.pdf
+  - TE90 Datasheet: https://www.advancedenergy.com/getmedia/8f987a82-526f-4d68-a8d2-b7cd2d626b8a/ENG-TE90-01-8-26-24.pdf
+  - TE90 Demko Certificate: https://www.advancedenergy.com/getmedia/6075bcf8-f2e5-4e31-87bd-d5b1ab421c81/TE90_Demko_Cert.pdf
+  - TE90 EN62368-1 DEMKO Certificate: https://www.advancedenergy.com/getmedia/b9f3be58-de53-4f18-b31a-652a0932a8f2/TE90%20DEMKO%20Certificate_EN62368-1(20300906).pdf
+  - TE90 RoHS Certificate: https://www.advancedenergy.com/getmedia/bd76cb58-68dc-4d48-a3bf-8edee5e9bbe8/TE90_RoHS_Cert.pdf
+  - EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/e234d511-3e2d-4381-826d-407bb7336d4f/CE-TExx-and-MExx-Series-2020-EU-Rep-R2.pdf
+  - TE90 CB Certificate: https://www.advancedenergy.com/getmedia/c2addf7d-41d7-4af3-b452-007e51ab9d96/TE90_CB_Cert.pdf
+  - TE90 UL Certificate: https://www.advancedenergy.com/getmedia/346d9e2c-fe0a-450d-bf9a-11f1b9f25768/TE90_UL_Cert.pdf
+  - ME90 Application Note: https://www.advancedenergy.com/getmedia/1289fa88-f139-43a0-96de-b0c81e86fb39/AN-P011%20ME90%20External%20Power%20Supply.pdf
+  - Connector Options: https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c97ea09c-1785-4066-8a2a-d31512aa92a1/ME90-01%2011.25.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4825c327-da05-428b-a1fd-9e8c7cf3d566/ENG-SLE90-235-01%2012.09.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/8f987a82-526f-4d68-a8d2-b7cd2d626b8a/TE90-01%2011.9.22.pdf
+  - https://www.advancedenergy.com/getmedia/8f987a82-526f-4d68-a8d2-b7cd2d626b8a/ENG-TE90-01-8-26-24.pdf
+  - https://www.advancedenergy.com/getmedia/6075bcf8-f2e5-4e31-87bd-d5b1ab421c81/TE90_Demko_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/b9f3be58-de53-4f18-b31a-652a0932a8f2/TE90%20DEMKO%20Certificate_EN62368-1(20300906).pdf
+  - https://www.advancedenergy.com/getmedia/bd76cb58-68dc-4d48-a3bf-8edee5e9bbe8/TE90_RoHS_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/e234d511-3e2d-4381-826d-407bb7336d4f/CE-TExx-and-MExx-Series-2020-EU-Rep-R2.pdf
+  - https://www.advancedenergy.com/getmedia/c2addf7d-41d7-4af3-b452-007e51ab9d96/TE90_CB_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/346d9e2c-fe0a-450d-bf9a-11f1b9f25768/TE90_UL_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/1289fa88-f139-43a0-96de-b0c81e86fb39/AN-P011%20ME90%20External%20Power%20Supply.pdf
+  - https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+  - https://www.advancedenergy.com/getmedia/c97ea09c-1785-4066-8a2a-d31512aa92a1/ME90-01%2011.25.22.pdf
+  - https://www.advancedenergy.com/getmedia/4825c327-da05-428b-a1fd-9e8c7cf3d566/ENG-SLE90-235-01%2012.09.22.pdf
+  - https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/f9274243-2684-4758-8b0e-3deb00cc1123/TE90.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f9274243-2684-4758-8b0e-3deb00cc1123/TE90.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dee8010b-801b-45bb-a1dc-9f055c8768a8/TE60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/087ca1e6-761b-4479-87ce-886ab6879dd9/ME90.png
+  - Image: https://www.advancedenergy.com/getattachment/7ec26626-87e7-43e0-8734-df408a686edb/SLE90-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/68024c77-d78e-416d-a602-bde2aa7547e3/GE150-img-1601070209.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedTE60 Series60 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+  - FeaturedME90 Series90 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me90-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c97ea09c-1785-4066-8a2a-d31512aa92a1/ME90-01%2011.25.22.pdf
+  - FeaturedSLE90 Series90 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle90/
+  - Datasheet: https://www.advancedenergy.com/getmedia/4825c327-da05-428b-a1fd-9e8c7cf3d566/ENG-SLE90-235-01%2012.09.22.pdf
+  - FeaturedGE150 Series150 W Single Output External Medical & ITE Power Adapter: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/ge150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Routing / SwitchingNetwork routing and switching are essential to any network infrastructure, and Advanced Energy's power supply solutions are designed to meet these demanding needs.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/routing-switching/
+  - Explore Routing/Switching: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/routing-switching/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+TE SeriesITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+  ↓
+FeaturedTE90 Series90 W Single Output External Power

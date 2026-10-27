@@ -1,0 +1,127 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLumaDrive™ SystemsEnergy efficient and cost effective, our pre-wired systems includes 24, 36, 72, and 144 kW models for horticulture applications such as greenhouse and indoor growing, as well as industrial applications such as parking garages and warehouse environments. Their pre-wired designs provide the power you need without the hassles of on-site wiring. As part of an entire LED lighting system, this series eases setup, reduces fixture weight, simplifies maintenance with ground-level power and dimming controls, and enhances energy efficiency through native 3-phase power compatibility.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/
+Category Description: AE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+
+[Level 3] Category Name: LumaDrivePurchase complete turnkey solutions, or purchase system components separately for custom solutions
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/
+Category Description: LumaDrive Turnkey Power Systems
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLumaDrive™ SystemsEnergy efficient and cost effective, our pre-wired systems includes 24, 36, 72, and 144 kW models for horticulture applications such as greenhouse and indoor growing, as well as industrial applications such as parking garages and warehouse environments. Their pre-wired designs provide the power you need without the hassles of on-site wiring. As part of an entire LED lighting system, this series eases setup, reduces fixture weight, simplifies maintenance with ground-level power and dimming controls, and enhances energy efficiency through native 3-phase power compatibility.
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/lumadrive-systems/
+
+Complete Product Description:
+Energy efficient and cost effective, our pre-wired systems includes 24, 36, 72, and 144 kW models for horticulture applications such as greenhouse and indoor growing, as well as industrial applications such as parking garages and warehouse environments. Their pre-wired designs provide the power you need without the hassles of on-site wiring. As part of an entire LED lighting system, this series eases setup, reduces fixture weight, simplifies maintenance with ground-level power and dimming controls, and enhances energy efficiency through native 3-phase power compatibility.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - LumaDrive 19" Systems: https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-05-06-25.pdf
+  - LumaDrive 24kW Enclosure: https://www.advancedenergy.com/getmedia/8ea040dc-04bf-4e06-b5d3-4930d1af11a3/ENG-LCM24K-Greenhouse-08-08-24.pdf
+  - Power For Industrial & Commercial Lighting: https://www.advancedenergy.com/getmedia/4f88c058-29c5-40da-9a19-06ee1b95038a/ENG-Industrial-Commercial-Lighting-265-01-(1).pdf
+  - A Brief History of Phosphor Thermometry: https://www.advancedenergy.com/getmedia/3346e48c-64ea-485f-8f73-caedec71ff79/a-brief-history-of-phosphor-thermometry_meas-sci-tech-2019.pdf
+  - LumaDrive™ Turnkey Solutions for  Lighting Integrators: https://www.advancedenergy.com/getmedia/92c6c107-16bf-4c42-9b97-9a12d7cf80f8/ENG-LumaDrive-Case-Study-295-01-(1).pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-05-06-25.pdf
+  - https://www.advancedenergy.com/getmedia/8ea040dc-04bf-4e06-b5d3-4930d1af11a3/ENG-LCM24K-Greenhouse-08-08-24.pdf
+  - https://www.advancedenergy.com/getmedia/4f88c058-29c5-40da-9a19-06ee1b95038a/ENG-Industrial-Commercial-Lighting-265-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/3346e48c-64ea-485f-8f73-caedec71ff79/a-brief-history-of-phosphor-thermometry_meas-sci-tech-2019.pdf
+  - https://www.advancedenergy.com/getmedia/92c6c107-16bf-4c42-9b97-9a12d7cf80f8/ENG-LumaDrive-Case-Study-295-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d1fd116a-863a-432b-b245-b326e1e5c0ac/LumaDrive-PDP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6382945-d804-4c91-b0a7-380f906c588a/LCM-4-kW-Systems-Cabinet-1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/653e6a37-5fd4-4827-96ca-02395240dcd0/LCM-4-kW-Systems-Cabinet-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9052ace4-b306-406a-97ff-2bb2a36cffac/LCM-4-kW-Systems-Cabinet-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9b250b22-daed-484d-ba73-782637f57e05/LCM-4-kW-Systems-Cabinet-4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04747a8d-ff79-41fc-8081-8888f2149f4a/LCM-4-kW-Systems-Cabinet-5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b7977497-3ebf-47c4-a19b-1010ecaa28be/LumaDrive-Greenhouse-1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a38c3cca-77da-4bf6-9667-f79e037e422a/LumaDrive-Greenhouse-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2fc60524-803b-4b94-a144-ade13a965631/LumaDrive-Greenhouse-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b52e871f-0f25-49c7-928c-d176afc9f0cd/Rendering_1.jpg
+  - Image: https://img.youtube.com/vi/_7-O5XbDIYA/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d1fd116a-863a-432b-b245-b326e1e5c0ac/LumaDrive-PDP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6382945-d804-4c91-b0a7-380f906c588a/LCM-4-kW-Systems-Cabinet-1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/653e6a37-5fd4-4827-96ca-02395240dcd0/LCM-4-kW-Systems-Cabinet-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9052ace4-b306-406a-97ff-2bb2a36cffac/LCM-4-kW-Systems-Cabinet-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9b250b22-daed-484d-ba73-782637f57e05/LCM-4-kW-Systems-Cabinet-4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04747a8d-ff79-41fc-8081-8888f2149f4a/LCM-4-kW-Systems-Cabinet-5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b7977497-3ebf-47c4-a19b-1010ecaa28be/LumaDrive-Greenhouse-1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a38c3cca-77da-4bf6-9667-f79e037e422a/LumaDrive-Greenhouse-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2fc60524-803b-4b94-a144-ade13a965631/LumaDrive-Greenhouse-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b52e871f-0f25-49c7-928c-d176afc9f0cd/Rendering_1.jpg
+  - Image: https://img.youtube.com/vi/_7-O5XbDIYA/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d1fd116a-863a-432b-b245-b326e1e5c0ac/LumaDrive-PDP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6382945-d804-4c91-b0a7-380f906c588a/LCM-4-kW-Systems-Cabinet-1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/653e6a37-5fd4-4827-96ca-02395240dcd0/LCM-4-kW-Systems-Cabinet-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9052ace4-b306-406a-97ff-2bb2a36cffac/LCM-4-kW-Systems-Cabinet-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9b250b22-daed-484d-ba73-782637f57e05/LCM-4-kW-Systems-Cabinet-4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04747a8d-ff79-41fc-8081-8888f2149f4a/LCM-4-kW-Systems-Cabinet-5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b7977497-3ebf-47c4-a19b-1010ecaa28be/LumaDrive-Greenhouse-1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a38c3cca-77da-4bf6-9667-f79e037e422a/LumaDrive-Greenhouse-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2fc60524-803b-4b94-a144-ade13a965631/LumaDrive-Greenhouse-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b52e871f-0f25-49c7-928c-d176afc9f0cd/Rendering_1.jpg
+  - LumaDrive 25 kW Greenhouse Enclosure: https://i.ytimg.com/vi/g_rIHJ5kb2w/hqdefault.jpg
+  - LumaDrive™ Pre-wired Centralized Remote Driver Systems for Lighting: https://i.ytimg.com/vi/_7-O5XbDIYA/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5866427e-9f2a-44a3-b870-dbce7f41d7b1/6fe559910e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8ed922ad-a0ae-4af2-bada-d0be3b3d9847/LCC-family.jpg
+  - Image: https://www.advancedenergy.com/getattachment/24f416c4-d1d9-415a-bec9-d4a8cf83fce4/LCM12K_ang4_300-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/a0d142f5-ba8f-4267-8bb9-759e27757afd/Horticulture.png
+  - Image: https://www.advancedenergy.com/getattachment/a0d142f5-ba8f-4267-8bb9-759e27757afd/Horticulture.png
+  - Image: https://www.advancedenergy.com/getattachment/a8716d87-1461-4ef9-b53b-bbaff9a718a5/Industrial-Lighting.png
+  - Image: https://www.advancedenergy.com/getattachment/a8716d87-1461-4ef9-b53b-bbaff9a718a5/Industrial-Lighting.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLCM4000HV Series4000 W Bulk Front End Power Module: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm4000hv/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - FeaturedLCC SeriesAdvanced Energy's Embedded Power offers the LCC series of fanless, fully-enclosed AC-DC power supplies.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/lcc-family/
+  - FeaturedLCM 12 kW ShelvesLCM12K single output parallel redundant shelf: a centralized current source for medium- to large-scale LED lighting and horticulture: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/system-shelves/lcm-12k-shelf-7aae2be030b289adb84b108e175042b9/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+  - Horticulture LightingOur remote drivers power next-generation horticulture lighting system in grow rooms by reducing energy and installation costs.: https://www.advancedenergy.com/en-us/applications/industrial/horticulture/
+  - Explore Horticulture: https://www.advancedenergy.com/en-us/applications/industrial/horticulture/
+  - Industrial LightingIndustrial lighting involves demanding settings such as factories, warehouses, and outdoor areas. Our power supplies play a critical role in providing reliable and efficient power to ensure consistent illumination of nearly any lighting technology.: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/
+  - Explore Industrial Lighting: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+  ↓
+LumaDrivePurchase complete turnkey solutions, or purchase system components separately for custom solutions
+  ↓
+FeaturedLumaDrive™ SystemsEnergy efficient and cost effective, our pre-wired systems includes 24, 36, 72, and 144 kW models for horticulture applications such as greenhouse and indoor growing, as well as industrial applications such as parking garages and warehouse environments. Their pre-wired designs provide the power you need without the hassles of on-site wiring. As part of an entire LED lighting system, this series eases setup, reduces fixture weight, simplifies maintenance with ground-level power and dimming controls, and enhances energy efficiency through native 3-phase power compatibility.

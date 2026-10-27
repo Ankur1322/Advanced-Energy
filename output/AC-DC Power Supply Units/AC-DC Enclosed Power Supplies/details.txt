@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: AC-DC Enclosed Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: AC-DC Enclosed Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+
+Complete Product Description:
+Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/be5acc7a-9e97-4d24-8e03-ee334304d136/xsolo-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a979cbdd-7220-4954-8289-40d7c6097355/DF150-VF3.png
+  - Image: https://www.advancedenergy.com/getattachment/55886147-1bb9-45c6-a3b4-3c28eb4eb461/SLB1000-V1A.png
+  - Image: https://www.advancedenergy.com/getattachment/d748dee6-21c7-4395-a51a-5c67e8620981/TF3000-img-1518813531.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cd3e8a92-0c22-4594-b44f-2d2f03dc599c/LCM.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+AC-DC Enclosed Power Supplies

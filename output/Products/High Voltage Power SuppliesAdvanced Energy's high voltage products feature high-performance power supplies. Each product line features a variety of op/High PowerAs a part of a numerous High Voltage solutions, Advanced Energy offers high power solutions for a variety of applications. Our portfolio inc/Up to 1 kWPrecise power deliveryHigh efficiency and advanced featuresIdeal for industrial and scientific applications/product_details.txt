@@ -1,0 +1,64 @@
+==============================================================================
+PRODUCT DETAILS: Up to 1 kWPrecise power deliveryHigh efficiency and advanced featuresIdeal for industrial and scientific applications
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: High PowerAs a part of a numerous High Voltage solutions, Advanced Energy offers high power solutions for a variety of applications. Our portfolio includes High Power DC-DC converters and AC-DC power supplies, with output power ratings up to 10 kW.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-power/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Up to 1 kWPrecise power deliveryHigh efficiency and advanced featuresIdeal for industrial and scientific applications
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-power/up-to-1kw/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - MH100 Series Data Sheet: https://www.advancedenergy.com/getmedia/1ead61d5-622b-46d3-989d-e40f3529c161/ENG-HV-MH100-235-05-02-19-25.pdf
+  - OL400W Series Data Sheet: https://www.advancedenergy.com/getmedia/599a4b8a-424e-4ae8-9909-4ef933b6c09f/ENG-HV-OL400W-231-02-(2024-2-12).pdf
+  - OL600W Data Sheet: https://www.advancedenergy.com/getmedia/ce624ae1-d46d-423d-96da-e5bed5854d74/ENG-HV-OL600w-231-03-02-07-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/1ead61d5-622b-46d3-989d-e40f3529c161/ENG-HV-MH100-235-05-02-19-25.pdf
+  - https://www.advancedenergy.com/getmedia/599a4b8a-424e-4ae8-9909-4ef933b6c09f/ENG-HV-OL400W-231-02-(2024-2-12).pdf
+  - https://www.advancedenergy.com/getmedia/ce624ae1-d46d-423d-96da-e5bed5854d74/ENG-HV-OL600w-231-03-02-07-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/e83a0abc-87c0-48ea-a933-81c67df01ce8/up-to-1-kV-thumbnail-ol600w-1u-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+High PowerAs a part of a numerous High Voltage solutions, Advanced Energy offers high power solutions for a variety of applications. Our portfolio includes High Power DC-DC converters and AC-DC power supplies, with output power ratings up to 10 kW.
+  ↓
+Up to 1 kWPrecise power deliveryHigh efficiency and advanced featuresIdeal for industrial and scientific applications

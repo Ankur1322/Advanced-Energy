@@ -1,0 +1,49 @@
+==============================================================================
+PRODUCT DETAILS: Low Power
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power Supplies
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/low-power/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Low Power
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/low-power/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/73853d5e-0cf1-489d-aac6-8e79c5b1bdda/low-power-eg353-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c6738119-0661-4486-9346-470940ca97d5/low-power-eg353-fr-wp.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power Supplies
+  ↓
+Low Power

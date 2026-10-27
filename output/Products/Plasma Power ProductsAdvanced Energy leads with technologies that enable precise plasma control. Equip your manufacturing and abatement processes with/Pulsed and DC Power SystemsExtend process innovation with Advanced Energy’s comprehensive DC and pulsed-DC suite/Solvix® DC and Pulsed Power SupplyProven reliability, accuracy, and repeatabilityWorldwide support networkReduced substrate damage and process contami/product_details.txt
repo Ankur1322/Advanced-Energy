@@ -1,0 +1,80 @@
+==============================================================================
+PRODUCT DETAILS: Solvix® DC and Pulsed Power SupplyProven reliability, accuracy, and repeatabilityWorldwide support networkReduced substrate damage and process contaminationBest-in-class arc handlingDC and pulsed-DC unitsCurrent, power, and voltage regulation modesFlexible architectureAir coolingMultiple units configurable for high-power requirementsHigh peak-to-peak voltages (high-frequency models)Patented tapless wide output load impedance range (medium-frequency models)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/
+Category Description: Extend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Solvix® DC and Pulsed Power SupplyProven reliability, accuracy, and repeatabilityWorldwide support networkReduced substrate damage and process contaminationBest-in-class arc handlingDC and pulsed-DC unitsCurrent, power, and voltage regulation modesFlexible architectureAir coolingMultiple units configurable for high-power requirementsHigh peak-to-peak voltages (high-frequency models)Patented tapless wide output load impedance range (medium-frequency models)
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/solvix-series/
+
+Complete Product Description:
+Solvix DC and pulsed-DC power supplies for metallic and reactive sputtering provide precise control and proven reliability—backed by AE’s worldwide support network. Offering a wide range of power and frequency levels, pulsing, and multiple communications options, they offer a rugged and cost-effective solution for your unique process.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/af021ce8-c64c-46b4-a208-75d8cc9fcd17/ENG-Solvix-235-02_FINAL.pdf
+  - ENG-Solvix-235-02_FINAL View Resource: https://www.advancedenergy.com/getmedia/04898523-b5a2-4648-9e83-c35e16c182e3/ENG-Solvix-235-02_FINAL.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - ENG-Solvix-235-02_FINAL: https://www.advancedenergy.com/getmedia/04898523-b5a2-4648-9e83-c35e16c182e3/ENG-Solvix-235-02_FINAL.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/af021ce8-c64c-46b4-a208-75d8cc9fcd17/ENG-Solvix-235-02_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/04898523-b5a2-4648-9e83-c35e16c182e3/ENG-Solvix-235-02_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/04898523-b5a2-4648-9e83-c35e16c182e3/ENG-Solvix-235-02_FINAL.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/ba07db8a-9a1c-4796-abf6-a9fc86ee3ec4/SOLVIX-FL-TR.jpg
+  - Image: https://www.advancedenergy.com/getattachment/75eaab8b-66fe-4769-994a-281df329b517/SOLVIX-A1-TP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0a3c55a4-cc0c-485c-abda-b284322e7e91/SOLVIX-FS-TP.png
+  - Image: https://www.advancedenergy.com/getattachment/ba07db8a-9a1c-4796-abf6-a9fc86ee3ec4/SOLVIX-FL-TR.jpg
+  - Image: https://www.advancedenergy.com/getattachment/75eaab8b-66fe-4769-994a-281df329b517/SOLVIX-A1-TP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0a3c55a4-cc0c-485c-abda-b284322e7e91/SOLVIX-FS-TP.png
+  - Image: https://www.advancedenergy.com/getattachment/ba07db8a-9a1c-4796-abf6-a9fc86ee3ec4/SOLVIX-FL-TR.jpg
+  - Image: https://www.advancedenergy.com/getattachment/75eaab8b-66fe-4769-994a-281df329b517/SOLVIX-A1-TP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0a3c55a4-cc0c-485c-abda-b284322e7e91/SOLVIX-FS-TP.png
+  - Image: https://www.advancedenergy.com/images/technical-content/pdf.png
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/deposition/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+  ↓
+Solvix® DC and Pulsed Power SupplyProven reliability, accuracy, and repeatabilityWorldwide support networkReduced substrate damage and process contaminationBest-in-class arc handlingDC and pulsed-DC unitsCurrent, power, and voltage regulation modesFlexible architectureAir coolingMultiple units configurable for high-power requirementsHigh peak-to-peak voltages (high-frequency models)Patented tapless wide output load impedance range (medium-frequency models)

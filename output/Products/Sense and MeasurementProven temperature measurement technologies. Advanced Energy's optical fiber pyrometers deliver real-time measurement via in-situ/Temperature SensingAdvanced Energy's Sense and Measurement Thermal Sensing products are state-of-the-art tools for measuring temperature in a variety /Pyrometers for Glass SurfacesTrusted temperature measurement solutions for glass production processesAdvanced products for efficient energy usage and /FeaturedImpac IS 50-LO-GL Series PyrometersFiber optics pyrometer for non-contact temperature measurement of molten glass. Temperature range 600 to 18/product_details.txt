@@ -1,0 +1,124 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedImpac IS 50-LO/GL Series PyrometersFiber optics pyrometer for non-contact temperature measurement of molten glass. Temperature range 600 to 1800°C.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Pyrometers for Glass SurfacesTrusted temperature measurement solutions for glass production processesAdvanced products for efficient energy usage and improved productivity and product qualityHigh accuracy and long-term stability
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/pyrometers-for-glass-surfaces/
+Category Description: Choose from a wide range of non-contact pyrometers tailored to the glass industry's specific needs. Whether it be for flat glass or solar glass, container glassware, utility glassware, or technical glass, all of our pyrometers deliver fast and accurate temperature readings.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedImpac IS 50-LO/GL Series PyrometersFiber optics pyrometer for non-contact temperature measurement of molten glass. Temperature range 600 to 1800°C.
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/pyrometers-for-glass-surfaces/impac-50-lo-gl-series/
+
+Complete Product Description:
+The Impac® IS 50-LO/GL digital pyrometer is primarily used for temperature measurement of glass in tanks, working-end forehearths, and feeder applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/e0aa3a73-2d7a-4f29-9d83-8fc564a10bf4/en-op-is50logl-data-sheet.pdf
+  - Impac Electrical Accessories Brochure (769 KB): https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - DA 4000 Datenblatt (99 KB): https://www.advancedenergy.com/getmedia/dffa9f45-7f5a-48e7-8b4b-d4512bdac2ba/de-op-da4000-data-sheet.pdf
+  - DA 4000 Manual (332 KB): https://www.advancedenergy.com/getmedia/3a5328d1-e400-434f-b561-9cbef9805bbf/en-op-da4000_da4000-n_manual.pdf
+  - DA 4000 Data Sheet (105 KB): https://www.advancedenergy.com/getmedia/7ea26e74-29a0-41c0-a0d0-8df64da8508c/en-op-da4000_da4000-n-data-sheet.pdf
+  - Impac Mechanical Accessories Brochure (1 MB): https://www.advancedenergy.com/getmedia/46d97cb7-200a-4c86-b93b-f16267ab8eaa/en-op-impac-mechanical-accessories-brochure.pdf
+  - Impac Spannungsversorgungen Datenblatt (143 KB): https://www.advancedenergy.com/getmedia/e9fdffbe-c890-47d4-bb12-77b9d726e5c7/de-op-impac-powersupplies-data-sheet.pdf
+  - Power Supplies Data Sheet (156 KB): https://www.advancedenergy.com/getmedia/31463acb-f166-49b9-8bec-195c00375b6a/en-op-powersupplies_impac-pyrometers-data-sheet.pdf
+  - PI 6000 Datenblatt (389 KB): https://www.advancedenergy.com/getmedia/99dea52d-df53-4a7a-9cc2-0f5611ee528e/de-op-pi6000-data-sheet.pdf
+  - PI 6000 Controller Manual (2 MB): https://www.advancedenergy.com/getmedia/ba28294c-faa9-487b-8088-00d87f61ac60/en-op-pi6000_manual.pdf
+  - PI 6000 Controller Data Sheet (367 KB): https://www.advancedenergy.com/getmedia/9feac1f0-db72-418f-8209-d6afbcb58014/en-op-pi6000-data-sheet.pdf
+  - DA 6000 Datenblatt (133 KB): https://www.advancedenergy.com/getmedia/b71daa11-640e-4022-b00d-d415e4a78b4e/de-op-da6000-data-sheet.pdf
+  - DA 6000 Manual (1 MB): https://www.advancedenergy.com/getmedia/753e7919-6f22-417a-8b2c-0e41e0a3ae24/en-op-da6000_manual.pdf
+  - DA 6000 Data Sheet (146 KB): https://www.advancedenergy.com/getmedia/28d9afdb-335a-4139-a9e1-908214f31d52/en-op-da6000-data-sheet.pdf
+  - Glass Production Solutions Brochure: https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - Pyrometer Overview: https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - Pyrometer-Gesamtübersicht: https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - Temperaturmesslösungen für Glas Broschüre: https://www.advancedenergy.com/getmedia/24d77e9b-38f2-4991-a49e-467bd7706ff3/de-im-glass-overview-brochure.pdf
+  - 高温计概述 - 用于非接触式测温的高精度红外测温仪: https://www.advancedenergy.com/getmedia/1d37b78d-50f6-4f95-81e5-4bab4888a623/zho-op-pyrometer-overview-brochure.pdf
+  - Impac IS 50-LO/GL Data Sheet: https://www.advancedenergy.com/getmedia/e0aa3a73-2d7a-4f29-9d83-8fc564a10bf4/en-op-is50logl-data-sheet.pdf
+  - Impac IS 50-LO/GL Datenblatt: https://www.advancedenergy.com/getmedia/b9669f3f-8be2-47d0-837b-a0bb0fb70e01/de-op-is50logl-data-sheet.pdf
+  - Impac IS 50-LO/GL Manual: https://www.advancedenergy.com/getmedia/ad5c99f7-44e2-4d7e-8b7c-3ca23100ef1b/en-op-is50-logl-manual.pdf
+  - IMPAC IS 50-LO/GL: Stability and Reliability in Regenerator Monitoring: https://www.advancedenergy.com/getmedia/665983ab-f9e4-4c77-938f-3b0e514f05a2/ENG-Regenerator-Monitoring-Case-Study-295-01.pdf
+  - Temperature Measurement Quotation Request Form: https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/e0aa3a73-2d7a-4f29-9d83-8fc564a10bf4/en-op-is50logl-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/dffa9f45-7f5a-48e7-8b4b-d4512bdac2ba/de-op-da4000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/3a5328d1-e400-434f-b561-9cbef9805bbf/en-op-da4000_da4000-n_manual.pdf
+  - https://www.advancedenergy.com/getmedia/7ea26e74-29a0-41c0-a0d0-8df64da8508c/en-op-da4000_da4000-n-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/46d97cb7-200a-4c86-b93b-f16267ab8eaa/en-op-impac-mechanical-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/e9fdffbe-c890-47d4-bb12-77b9d726e5c7/de-op-impac-powersupplies-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/31463acb-f166-49b9-8bec-195c00375b6a/en-op-powersupplies_impac-pyrometers-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/99dea52d-df53-4a7a-9cc2-0f5611ee528e/de-op-pi6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/ba28294c-faa9-487b-8088-00d87f61ac60/en-op-pi6000_manual.pdf
+  - https://www.advancedenergy.com/getmedia/9feac1f0-db72-418f-8209-d6afbcb58014/en-op-pi6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b71daa11-640e-4022-b00d-d415e4a78b4e/de-op-da6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/753e7919-6f22-417a-8b2c-0e41e0a3ae24/en-op-da6000_manual.pdf
+  - https://www.advancedenergy.com/getmedia/28d9afdb-335a-4139-a9e1-908214f31d52/en-op-da6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/24d77e9b-38f2-4991-a49e-467bd7706ff3/de-im-glass-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/1d37b78d-50f6-4f95-81e5-4bab4888a623/zho-op-pyrometer-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/e0aa3a73-2d7a-4f29-9d83-8fc564a10bf4/en-op-is50logl-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b9669f3f-8be2-47d0-837b-a0bb0fb70e01/de-op-is50logl-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/ad5c99f7-44e2-4d7e-8b7c-3ca23100ef1b/en-op-is50-logl-manual.pdf
+  - https://www.advancedenergy.com/getmedia/665983ab-f9e4-4c77-938f-3b0e514f05a2/ENG-Regenerator-Monitoring-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/3907977d-665b-41e6-a2a8-6873e6cd504e/is50logl-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3907977d-665b-41e6-a2a8-6873e6cd504e/is50logl-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2975188d-a89f-4427-8a8c-fdd35b1a2a0a/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/721bf0f9-2cf3-40ef-92f4-43fbcc8c9ec9/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/3cc5740e-ac62-462b-8bde-79684e450664/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/34c65a76-1eb6-42dc-b6e7-ab090ecc881f/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/24753501-3c2b-4c60-a7b3-41c725538927/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/46279722-fb07-444e-95ae-1d191ae59e80/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/38b3d0c5-64f6-4fb6-a1e2-28a9d2c91359/Thumbnail.png
+  - Advanced Pyrometers: Enhancing Process Repeatability: https://i.ytimg.com/vi/teYgES8AyNk/hqdefault.jpg
+  - Solutions for Glass Industry Applications: https://i.ytimg.com/vi/a_zced9nEgo/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Pyrometers for Glass SurfacesTrusted temperature measurement solutions for glass production processesAdvanced products for efficient energy usage and improved productivity and product qualityHigh accuracy and long-term stability
+  ↓
+FeaturedImpac IS 50-LO/GL Series PyrometersFiber optics pyrometer for non-contact temperature measurement of molten glass. Temperature range 600 to 1800°C.

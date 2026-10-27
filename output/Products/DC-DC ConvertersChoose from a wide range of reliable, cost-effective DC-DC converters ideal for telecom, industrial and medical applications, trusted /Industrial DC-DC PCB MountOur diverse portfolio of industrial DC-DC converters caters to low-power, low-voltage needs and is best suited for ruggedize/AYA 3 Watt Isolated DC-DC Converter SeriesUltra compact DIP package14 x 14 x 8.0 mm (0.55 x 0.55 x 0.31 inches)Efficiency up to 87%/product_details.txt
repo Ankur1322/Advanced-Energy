@@ -1,0 +1,110 @@
+==============================================================================
+PRODUCT DETAILS: AYA 3 Watt Isolated DC-DC Converter SeriesUltra compact DIP package14 x 14 x 8.0 mm (0.55 x 0.55 x 0.31 inches)Efficiency up to 87%
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+Category Description: Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AYA 3 Watt Isolated DC-DC Converter SeriesUltra compact DIP package14 x 14 x 8.0 mm (0.55 x 0.55 x 0.31 inches)Efficiency up to 87%
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/aya-3-watt-isolated-dc-dc-converter/
+
+Complete Product Description:
+The AYA series isolated industrial DC-DC converters are suitable for a diverse range of low-power applications, including data communication, telecommunication and computer peripheral equipment, industrial automation, and mobile battery-powered systems.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/359f2d7b-eab1-4276-a5ff-fcbc2b63b291/aya3w_1472662476.pdf
+  - AYA 3 Watt Isolated DCDC Converter Datasheet: https://www.advancedenergy.com/getmedia/359f2d7b-eab1-4276-a5ff-fcbc2b63b291/aya3w_1472662476.pdf
+  - REACH CoC of AYA 3W: https://www.advancedenergy.com/getmedia/be2718db-b82b-461e-9a32-f57eafb9295f/reach_coc_169_aya_series_120111480579509_REACH.pdf
+  - Rohs CoC of AYA 3W: https://www.advancedenergy.com/getmedia/5b28ac63-46b7-40c0-a5a6-2a82604b136b/rohs2_coc_aya_series_120116_1480579410_rohs_.pdf
+  - AYA Series 3 Watt CE Cert: https://www.advancedenergy.com/getmedia/617f92a6-8b4b-421f-af36-7774614e1b56/aya01_series_ce_rev00_1474528624_cert.pdf
+  - AYA 3W Technical Reference Note: https://www.advancedenergy.com/getmedia/d5876c40-d404-402b-a29e-ec1c1cbde355/trn_dc-dc_aya_3w_release_1_0_1474611543_techref.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/71c6c5cd-5033-4d43-8e3d-8b5b18c40fde/ata_series_ds_79c25814fd.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a4a88636-25f6-47e7-be2c-2d10c691552c/asa6w_ds_1513100263.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/aee15w-m_ds_1497461005.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/359f2d7b-eab1-4276-a5ff-fcbc2b63b291/aya3w_1472662476.pdf
+  - https://www.advancedenergy.com/getmedia/359f2d7b-eab1-4276-a5ff-fcbc2b63b291/aya3w_1472662476.pdf
+  - https://www.advancedenergy.com/getmedia/be2718db-b82b-461e-9a32-f57eafb9295f/reach_coc_169_aya_series_120111480579509_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/5b28ac63-46b7-40c0-a5a6-2a82604b136b/rohs2_coc_aya_series_120116_1480579410_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/617f92a6-8b4b-421f-af36-7774614e1b56/aya01_series_ce_rev00_1474528624_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d5876c40-d404-402b-a29e-ec1c1cbde355/trn_dc-dc_aya_3w_release_1_0_1474611543_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - https://www.advancedenergy.com/getmedia/71c6c5cd-5033-4d43-8e3d-8b5b18c40fde/ata_series_ds_79c25814fd.pdf
+  - https://www.advancedenergy.com/getmedia/a4a88636-25f6-47e7-be2c-2d10c691552c/asa6w_ds_1513100263.pdf
+  - https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/aee15w-m_ds_1497461005.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d36c523f-2e27-4034-af2b-1bd8de7bbb84/465f30bb46.png
+  - Image: https://www.advancedenergy.com/getattachment/57606479-2388-4c35-a11f-ac78c6679d55/b360d9188c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d247b8b2-62c6-4d06-844a-2f14e7b58844/d96d4ca0d5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/24b2cb9e-ef0b-41f8-992f-d6fca6128d02/fbba439736.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d36c523f-2e27-4034-af2b-1bd8de7bbb84/465f30bb46.png
+  - Image: https://www.advancedenergy.com/getattachment/57606479-2388-4c35-a11f-ac78c6679d55/b360d9188c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d247b8b2-62c6-4d06-844a-2f14e7b58844/d96d4ca0d5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/24b2cb9e-ef0b-41f8-992f-d6fca6128d02/fbba439736.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d36c523f-2e27-4034-af2b-1bd8de7bbb84/465f30bb46.png
+  - Image: https://www.advancedenergy.com/getattachment/57606479-2388-4c35-a11f-ac78c6679d55/b360d9188c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d247b8b2-62c6-4d06-844a-2f14e7b58844/d96d4ca0d5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/24b2cb9e-ef0b-41f8-992f-d6fca6128d02/fbba439736.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fb64e7d2-577d-4397-827f-1cbdab3c6d87/5393b13e37.png
+  - Image: https://www.advancedenergy.com/getattachment/682d1a2f-4ff9-4e90-88c7-a893f7641228/ASA02A48.png
+  - Image: https://www.advancedenergy.com/getattachment/15a1d18a-86b6-4ab8-ac64-5c23325f2dbb/AXA.jpg
+  - Image: https://www.advancedenergy.com/getattachment/20de679c-ff10-449d-a0c4-697909e28706/AEE-15W-ang1_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ae90a402-e2df-452d-8817-27a5822d2805/IndustrialPrinting-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ae90a402-e2df-452d-8817-27a5822d2805/IndustrialPrinting-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedATA 3 Watt Isolated DC-DC Converter SeriesIndustrial DC-DC: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/ata-series-3-watt-isolated-dc-dc-converters/
+  - Datasheet: https://www.advancedenergy.com/getmedia/71c6c5cd-5033-4d43-8e3d-8b5b18c40fde/ata_series_ds_79c25814fd.pdf
+  - FeaturedASA 6W High I/P Wide Range Series6 W Isolated DC-DC Converters (High-Input): https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/asa/asa-6w-high-i-p-wide-range-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a4a88636-25f6-47e7-be2c-2d10c691552c/asa6w_ds_1513100263.pdf
+  - FeaturedAXAThe AXA series of high-input isolated DC-DC converters feature an ultra wide 4:1 input voltage range of 18 to 75 VDC or 9 to 36 VDC,  designed for use with nominal 48 V or 24 V supplies.: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/axa/
+  - FeaturedAEE 15 Watt Medical Series15 W Medical DC-DC Converter: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/aee/aee-15-watt-medical/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/aee15w-m_ds_1497461005.pdf
+  - Industrial PrintingIndustrial printers are complex systems incorporating various combinations of components. Our AC-DC power solutions support all the different voltages and power levels that are needed.: https://www.advancedenergy.com/en-us/applications/industrial/printing/industrial-printing/
+  - Explore Industrial Printing: https://www.advancedenergy.com/en-us/applications/industrial/printing/industrial-printing/
+  - Industrial and Collaborative RobotsModifiable AC-DC and DC-DC solutions for industrial and collaborative robots. Efficient, reliable power supplies support high-volume production and cut costs: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - Explore Industrial and Collaborative Robots: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+  ↓
+AYA 3 Watt Isolated DC-DC Converter SeriesUltra compact DIP package14 x 14 x 8.0 mm (0.55 x 0.55 x 0.31 inches)Efficiency up to 87%

@@ -1,0 +1,51 @@
+==============================================================================
+PRODUCT DETAILS: SCR Bus Modules—Simple Fieldbus Communications
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: SCR Power Controllers
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/bus-module/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: SCR Bus Modules—Simple Fieldbus Communications
+Product URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/bus-module/
+
+Complete Product Description:
+Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/3d944db6-a23e-4a9e-9207-03d204a5bee8/Thyro-DX7-(1).png
+  - Image: https://i.ytimg.com/vi/O_TW3ocDmUU/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aa8e624b-9d3b-4561-853d-8f602f446fd0/Thyro-DX9-(1).png?resizemode=force&maxsidesize=512
+  - Image: https://i.ytimg.com/vi/VZRgWn7OuJU/hqdefault.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+SCR Power Controllers
+  ↓
+SCR Bus Modules—Simple Fieldbus Communications

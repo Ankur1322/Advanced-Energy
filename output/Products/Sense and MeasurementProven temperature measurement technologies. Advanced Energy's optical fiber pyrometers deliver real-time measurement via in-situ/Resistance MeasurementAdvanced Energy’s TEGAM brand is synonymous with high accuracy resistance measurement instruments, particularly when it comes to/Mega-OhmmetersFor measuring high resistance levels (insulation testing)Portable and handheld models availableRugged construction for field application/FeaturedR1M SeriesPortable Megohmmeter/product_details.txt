@@ -1,0 +1,75 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedR1M SeriesPortable Megohmmeter
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/
+Category Description: Advanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+
+[Level 3] Category Name: Mega-OhmmetersFor measuring high resistance levels (insulation testing)Portable and handheld models availableRugged construction for field applications
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/mega-ohmmeters/
+Category Description: Advanced Energy’s mega-ohmmeters are tailored for measuring high resistance levels crucial in insulation-resistance evaluations.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedR1M SeriesPortable Megohmmeter
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/mega-ohmmeters/r1m-series/
+
+Complete Product Description:
+The Model R1M-A from Advanced Energy's TEGAM is a portable Megohmmeter designed to measure high values of resistance associated with the measurement of insulation resistance.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/485b3ff7-35e8-4459-9b39-479113012db4/R1M-A-909_RevBB.pdf
+  - R1M-A Datasheet: https://www.advancedenergy.com/getmedia/485b3ff7-35e8-4459-9b39-479113012db4/R1M-A-909_RevBB.pdf
+  - R1M-B Datasheet: https://www.advancedenergy.com/getmedia/8d30a044-b17a-4b30-8ad6-d513236904d2/R1M-B-909_RevBB.pdf
+  - R1M-A Manual: https://www.advancedenergy.com/getmedia/c28805fd-0d33-4c33-81ae-711c13014161/R1M-A-901-01-RevF.pdf
+  - R1M-A Manual (for units purchased prior to October 2013): https://www.advancedenergy.com/getmedia/c3d84acd-a589-4c46-868c-402c867e3da0/R1M-A-901-01-Rev-C02.pdf
+  - R1M-B Manual: https://www.advancedenergy.com/getmedia/2dc6e09f-e7c7-463a-b68f-9f7f5ffb7ba8/R1M-B-Manual.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/485b3ff7-35e8-4459-9b39-479113012db4/R1M-A-909_RevBB.pdf
+  - https://www.advancedenergy.com/getmedia/485b3ff7-35e8-4459-9b39-479113012db4/R1M-A-909_RevBB.pdf
+  - https://www.advancedenergy.com/getmedia/8d30a044-b17a-4b30-8ad6-d513236904d2/R1M-B-909_RevBB.pdf
+  - https://www.advancedenergy.com/getmedia/c28805fd-0d33-4c33-81ae-711c13014161/R1M-A-901-01-RevF.pdf
+  - https://www.advancedenergy.com/getmedia/c3d84acd-a589-4c46-868c-402c867e3da0/R1M-A-901-01-Rev-C02.pdf
+  - https://www.advancedenergy.com/getmedia/2dc6e09f-e7c7-463a-b68f-9f7f5ffb7ba8/R1M-B-Manual.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/8ba640e4-032e-4b25-b46f-3e8a1ccd636c/R1M-A-and-R1M-B.png
+  - Image: https://www.advancedenergy.com/getattachment/8ba640e4-032e-4b25-b46f-3e8a1ccd636c/R1M-A-and-R1M-B.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+  ↓
+Mega-OhmmetersFor measuring high resistance levels (insulation testing)Portable and handheld models availableRugged construction for field applications
+  ↓
+FeaturedR1M SeriesPortable Megohmmeter

@@ -1,0 +1,132 @@
+==============================================================================
+PRODUCT DETAILS: FeaturediHP20S Liquid CooledUp to 20 kW Configurable, Liquid-Cooled AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: 19” Rack MountPower ratings up to 30kW, 1600AUp to 8 outputs from 0.6 to 1000VDCSingle and 3-phase AC inputs
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/19”-rack-mount/
+Category Description: Configurable Products for 19" Rack Mount Applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturediHP20S Liquid CooledUp to 20 kW Configurable, Liquid-Cooled AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/19”-rack-mount/ihp24-liquid-cool/
+
+Complete Product Description:
+Up to 20 kW Configurable, Liquid-Cooled AC-DC Power Supplies
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/56c33c3a-3377-4ba5-8072-cf544ed468f9/ENG-iHP-Liquid-Cooled-10-31-2025.pdf
+  - iHP Series Brochure_Chinese Version Catalog: https://www.advancedenergy.com/getmedia/d63b8e25-38a6-4c14-8703-e92b7a45ada5/f2014876_-_ihp_brochure_sc_04-1493173860.pdf
+  - iHP Series Brochure_English Version Catalog: https://www.advancedenergy.com/getmedia/417c6548-cdc4-47fa-aa2b-229c4e2319fb/ihpbrochure-lr_1490626822.pdf
+  - iHP Series Brochure_Japanese Version Catalog: https://www.advancedenergy.com/getmedia/a4e87b4a-e2c0-4452-949c-6d1bf88f45d5/f2014876_-_ihp_brochure_jp_04-1494489985.pdf
+  - iHP Liquid Cooled Datasheet: https://www.advancedenergy.com/getmedia/56c33c3a-3377-4ba5-8072-cf544ed468f9/ENG-iHP-Liquid-Cooled-10-31-2025.pdf
+  - DK-53706-A2-UL Safety Certificate: https://www.advancedenergy.com/getmedia/8822f8c7-aefe-43bd-9b37-e6afff17d09e/dk-53706-a2-ul_1544208366_378.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/56c33c3a-3377-4ba5-8072-cf544ed468f9/ENG-iHP-Liquid-Cooled-10-31-2025.pdf
+  - https://www.advancedenergy.com/getmedia/d63b8e25-38a6-4c14-8703-e92b7a45ada5/f2014876_-_ihp_brochure_sc_04-1493173860.pdf
+  - https://www.advancedenergy.com/getmedia/417c6548-cdc4-47fa-aa2b-229c4e2319fb/ihpbrochure-lr_1490626822.pdf
+  - https://www.advancedenergy.com/getmedia/a4e87b4a-e2c0-4452-949c-6d1bf88f45d5/f2014876_-_ihp_brochure_jp_04-1494489985.pdf
+  - https://www.advancedenergy.com/getmedia/56c33c3a-3377-4ba5-8072-cf544ed468f9/ENG-iHP-Liquid-Cooled-10-31-2025.pdf
+  - https://www.advancedenergy.com/getmedia/8822f8c7-aefe-43bd-9b37-e6afff17d09e/dk-53706-a2-ul_1544208366_378.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b8a8b700-c6f3-45d0-a5d0-be9b882c6501/iHP-liquid-cooled.png
+  - Image: https://www.advancedenergy.com/getattachment/b8a8b700-c6f3-45d0-a5d0-be9b882c6501/iHP-liquid-cooled.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/07653bc5-acb0-4589-abe0-d0c9edbd744f/iHP-ECAT-ISOCOMM-3/
+  - Image: https://www.advancedenergy.com/getmetafile/77d71def-981a-4747-9a8b-91ada4539202/iHP-ECAT-ISOCOMM-3/
+  - Image: https://www.advancedenergy.com/images/config-pro.png
+  - iHP Group digital voltage source setup: https://i.ytimg.com/vi/d0YfJ3M7LWw/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a8c0d591-7600-4c71-ac52-35f73203af74/iHP24-30-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/db3a6b71-27ca-41f3-98c5-3ddd308789c9/iHP24S-30S-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/1262f61b-9149-4514-9aaf-1aacdca74415/iHP12-15-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b8a8b700-c6f3-45d0-a5d0-be9b882c6501/iHP-liquid-cooled.png
+  - Image: https://www.advancedenergy.com/getattachment/7a109327-100d-495c-b262-03151b2ebb08/iHP24-30.png
+  - Image: https://www.advancedenergy.com/getattachment/741516d5-e9d5-4362-a05d-c45f3253dea1/iHP24S-30S.jpg
+  - Image: https://www.advancedenergy.com/getattachment/25800e7b-0afc-4cc7-a511-dc49cf51f4be/iHP12-15.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturediHP24/30 Air Cooled24k to 30k W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp24-30/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - FeaturediHP24S/30S Air Cooled24k to 30k W Configurable, Short AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp24-30s/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - FeaturediHP12/15 Air Cooled12 to15 kW Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp12-15/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+19” Rack MountPower ratings up to 30kW, 1600AUp to 8 outputs from 0.6 to 1000VDCSingle and 3-phase AC inputs
+  ↓
+FeaturediHP20S Liquid CooledUp to 20 kW Configurable, Liquid-Cooled AC-DC Power Supplies

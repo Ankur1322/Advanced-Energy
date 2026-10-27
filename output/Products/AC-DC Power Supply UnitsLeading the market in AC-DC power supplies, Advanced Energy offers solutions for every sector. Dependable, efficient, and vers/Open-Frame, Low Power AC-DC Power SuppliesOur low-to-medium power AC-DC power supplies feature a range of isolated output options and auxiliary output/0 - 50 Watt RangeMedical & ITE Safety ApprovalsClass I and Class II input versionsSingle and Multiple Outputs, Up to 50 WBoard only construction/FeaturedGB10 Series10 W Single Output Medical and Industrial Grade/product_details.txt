@@ -1,0 +1,129 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedGB10 Series10 W Single Output Medical and Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 0 - 50 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 50 WBoard only construction
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/
+Category Description: Advanced Energy power supplies within the 0 to 50 W range play a vital role in powering a diverse array of electronic devices for medical and industrial applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedGB10 Series10 W Single Output Medical and Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/gb10-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power GB10 series of open-frame AT A GLANCE AC-DC power supplies comprises six single output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/fa7428db-9bfa-4c64-928d-0c9a6aacaf56/ENG-GB10-PCB%20Mount-09.08.23.pdf
+  - GB10 Datasheet: https://www.advancedenergy.com/getmedia/a384994d-aee9-4397-b849-93227a2e0b48/ENG-GB10-04-03-2025.pdf
+  - GB10 PCB-Mount Datasheet: https://www.advancedenergy.com/getmedia/fa7428db-9bfa-4c64-928d-0c9a6aacaf56/ENG-GB10-PCB-Mount-08-02-24.pdf
+  - GB10 & GB20 Medical Demko Certificate: https://www.advancedenergy.com/getmedia/66a8dc68-6970-41d4-ab75-124b10eb95fd/GB10%20&%2020%20Med%20Demko%20Cert.pdf
+  - GB10P Medical Demko Certificate: https://www.advancedenergy.com/getmedia/ea4369ed-9c40-466b-b99d-2d985ab074e6/GB10P%20Med%20Demko%20Cert.pdf
+  - GB10S HT Demko Certificate: https://www.advancedenergy.com/getmedia/9622e112-769b-4a1a-886b-793303e896ce/GB10SxxP%20HT%20Demko%20Cert.pdf
+  - GB10 REACH Statement: https://www.advancedenergy.com/getmedia/96e27d07-0a07-4277-b9d2-ded151fde634/GB10_REACH.pdf
+  - GB10 RoHS Certificate: https://www.advancedenergy.com/getmedia/32a138b7-d998-4fd8-8c1d-1a47119483fd/GB10_RoHS.pdf
+  - GB10 & 20 HT UL CofA: https://www.advancedenergy.com/getmedia/0f4748e2-9574-440d-abc9-093487b3593d/GB10%20&%2020%20HT%20UL%20CofA.pdf
+  - GB10 & GB20 HT CB Certificate: https://www.advancedenergy.com/getmedia/067f6e98-8f10-49ac-83ad-66da2d14ff45/GB10%20&%2020%20HT%20CB%20Cert.pdf
+  - GB10 & GB20 Medical CB Certificate Class I Ed 3.1: https://www.advancedenergy.com/getmedia/b2800e29-2b1c-4934-b285-d16d954bd551/GB10%20&%2020%20Med%20CB%20Cert%20Class%20I%20Ed%203.1.pdf
+  - GB10 & GB20 Medical CB Certificate Class II Ed 3.1: https://www.advancedenergy.com/getmedia/474cb9a1-b208-40a6-a4d7-ba25c0c9ef24/GB10%20&%2020%20Med%20CB%20Cert%20Class%20II%20Ed%203.1.pdf
+  - GB10 & GB20 Medical UL Certificate of Compliance: https://www.advancedenergy.com/getmedia/ed5fb505-4669-4e27-8f52-56e952e3db94/GB10%20&%2020%20Med%20UL%20Cert%20of%20Compliance.pdf
+  - GB10P Medical CB Certificate: https://www.advancedenergy.com/getmedia/2bc8eebb-c1e4-4d02-9f0b-8a388e258cfd/GB10P%20Med%20CB%20Cert.pdf
+  - GB10S HT CB Certificate: https://www.advancedenergy.com/getmedia/6b4c3e54-302e-4ecc-94d1-c01ecd0cc77a/GB10Sxx10P%20HT%20CB%20Cert.pdf
+  - GB10SxxP HT CB Cert includes 12W: https://www.advancedenergy.com/getmedia/98f5eb7a-bd89-4853-b25d-ee4567948b89/GB10SxxP%20HT%20CB%20Cert%20includes%2012W.pdf
+  - GB10 Application Note: https://www.advancedenergy.com/getmedia/cbc755c6-4135-4a0b-9283-32f16f4ede29/ENG-GB10-Open%20Frame-AN-09.08.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/25aa5d77-a716-47f9-a045-2f5628959f31/ENG-GB20-01%2001.30.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/caba0818-cda5-438e-a5d3-a47175d9de20/ENG-GB30-01%2001.30.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/cdad6eb1-e35d-4c3a-a11a-7e56977674e7/ENG-GB40-01-03-14-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/047da73f-b3ff-4f47-81d8-c5a7cf0e8b2d/ENG-GB60-235-01%2005.18.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/fa7428db-9bfa-4c64-928d-0c9a6aacaf56/ENG-GB10-PCB%20Mount-09.08.23.pdf
+  - https://www.advancedenergy.com/getmedia/a384994d-aee9-4397-b849-93227a2e0b48/ENG-GB10-04-03-2025.pdf
+  - https://www.advancedenergy.com/getmedia/fa7428db-9bfa-4c64-928d-0c9a6aacaf56/ENG-GB10-PCB-Mount-08-02-24.pdf
+  - https://www.advancedenergy.com/getmedia/66a8dc68-6970-41d4-ab75-124b10eb95fd/GB10%20&%2020%20Med%20Demko%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/ea4369ed-9c40-466b-b99d-2d985ab074e6/GB10P%20Med%20Demko%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/9622e112-769b-4a1a-886b-793303e896ce/GB10SxxP%20HT%20Demko%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/96e27d07-0a07-4277-b9d2-ded151fde634/GB10_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/32a138b7-d998-4fd8-8c1d-1a47119483fd/GB10_RoHS.pdf
+  - https://www.advancedenergy.com/getmedia/0f4748e2-9574-440d-abc9-093487b3593d/GB10%20&%2020%20HT%20UL%20CofA.pdf
+  - https://www.advancedenergy.com/getmedia/067f6e98-8f10-49ac-83ad-66da2d14ff45/GB10%20&%2020%20HT%20CB%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/b2800e29-2b1c-4934-b285-d16d954bd551/GB10%20&%2020%20Med%20CB%20Cert%20Class%20I%20Ed%203.1.pdf
+  - https://www.advancedenergy.com/getmedia/474cb9a1-b208-40a6-a4d7-ba25c0c9ef24/GB10%20&%2020%20Med%20CB%20Cert%20Class%20II%20Ed%203.1.pdf
+  - https://www.advancedenergy.com/getmedia/ed5fb505-4669-4e27-8f52-56e952e3db94/GB10%20&%2020%20Med%20UL%20Cert%20of%20Compliance.pdf
+  - https://www.advancedenergy.com/getmedia/2bc8eebb-c1e4-4d02-9f0b-8a388e258cfd/GB10P%20Med%20CB%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/6b4c3e54-302e-4ecc-94d1-c01ecd0cc77a/GB10Sxx10P%20HT%20CB%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/98f5eb7a-bd89-4853-b25d-ee4567948b89/GB10SxxP%20HT%20CB%20Cert%20includes%2012W.pdf
+  - https://www.advancedenergy.com/getmedia/cbc755c6-4135-4a0b-9283-32f16f4ede29/ENG-GB10-Open%20Frame-AN-09.08.23.pdf
+  - https://www.advancedenergy.com/getmedia/25aa5d77-a716-47f9-a045-2f5628959f31/ENG-GB20-01%2001.30.23.pdf
+  - https://www.advancedenergy.com/getmedia/caba0818-cda5-438e-a5d3-a47175d9de20/ENG-GB30-01%2001.30.23.pdf
+  - https://www.advancedenergy.com/getmedia/cdad6eb1-e35d-4c3a-a11a-7e56977674e7/ENG-GB40-01-03-14-23.pdf
+  - https://www.advancedenergy.com/getmedia/047da73f-b3ff-4f47-81d8-c5a7cf0e8b2d/ENG-GB60-235-01%2005.18.23.pdf
+
+Images:
+  - GB10 product image: https://www.advancedenergy.com/getattachment/680145fd-405b-43f0-8a4e-c7289f1d7dd6/GB10-img-1562796084.jpg
+  - GB10 product image: https://www.advancedenergy.com/getattachment/680145fd-405b-43f0-8a4e-c7289f1d7dd6/GB10-img-1562796084.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cdea4873-ba53-4a6e-bcc4-9a3fb49fd038/GB20-img-1533981812.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04bbb5d2-16c4-43c2-881d-cf6602033c9c/GB30-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/eaa8351c-4808-41b3-ac53-104bfa6a89ae/GB40-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/691a2d77-7647-4474-b87c-59fd1277a399/GB60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedGB20 Series20 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/gb20/
+  - Datasheet: https://www.advancedenergy.com/getmedia/25aa5d77-a716-47f9-a045-2f5628959f31/ENG-GB20-01%2001.30.23.pdf
+  - FeaturedGB30 Series30 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/gb30/
+  - Datasheet: https://www.advancedenergy.com/getmedia/caba0818-cda5-438e-a5d3-a47175d9de20/ENG-GB30-01%2001.30.23.pdf
+  - FeaturedGB40 Series40 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/gb40/
+  - Datasheet: https://www.advancedenergy.com/getmedia/cdad6eb1-e35d-4c3a-a11a-7e56977674e7/ENG-GB40-01-03-14-23.pdf
+  - FeaturedGB60 Series60 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/gb60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/047da73f-b3ff-4f47-81d8-c5a7cf0e8b2d/ENG-GB60-235-01%2005.18.23.pdf
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+0 - 50 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 50 WBoard only construction
+  ↓
+FeaturedGB10 Series10 W Single Output Medical and Industrial Grade

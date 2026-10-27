@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: RF Power Sensing
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Sense and Measurement
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: RF Power Sensing
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/
+
+Complete Product Description:
+Making accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/f644bacb-c812-41f4-8302-4ba235e494f0/HPC-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cac3813b-ec4c-4d10-9abb-2435b81a0424/1316A-495x222.png
+  - Image: https://www.advancedenergy.com/getattachment/2058c25d-9aad-4f34-8e3c-c8bc186ffd33/5540A-web-pic.JPG
+  - Image: https://www.advancedenergy.com/getattachment/0064dcd4-de20-437b-b6a8-5285394eded2/1830A-RF-Thermistor-Power-Meter-zoom-495x300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aa311da4-47d8-4897-a40f-b164ccc796de/TEG_AE_2818A-(1).png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and Measurement
+  ↓
+RF Power Sensing

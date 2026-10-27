@@ -1,0 +1,97 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedUV 400 & UVR 400 PyrometersDigital pyrometer with extremely short wavelength for true Wafer Surface Temperature and Reflectance Instrumentation for GaN-based MOCVD epitaxy processes. Temperature range 650 to 1300°C.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Semiconductor & Special Materials PyrometersCustomized high end pyrometers to address specific applications and materialsDedicated solutions for Semiconductor and Thin Film ApplicationsNext generation of temperature sensors developed specifically for GaN-based MOCVD epitaxy processes
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/special-materials-pyrometers/
+Category Description: Specialized pyrometers customized to address specific applications and materials
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedUV 400 & UVR 400 PyrometersDigital pyrometer with extremely short wavelength for true Wafer Surface Temperature and Reflectance Instrumentation for GaN-based MOCVD epitaxy processes. Temperature range 650 to 1300°C.
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/special-materials-pyrometers/uv-400/
+
+Complete Product Description:
+The UV 400 system is developed specifically for GaN-based MOCVD epitaxy processes.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/193a1031-c5c3-433b-a559-6a8da0d7745e/en-op-uv400-data-sheet.pdf
+  - Impac Electrical Accessories Brochure (769 KB): https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - Pyrometer Overview: https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - Pyrometer-Gesamtübersicht: https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - 高温计概述 - 用于非接触式测温的高精度红外测温仪: https://www.advancedenergy.com/getmedia/e17cd9df-7ed1-4650-9d8a-e96f14f8f50e/zho-op-pyrometer-overview-brochure.pdf
+  - UV 400 and UVR 400 Data Sheet: https://www.advancedenergy.com/getmedia/193a1031-c5c3-433b-a559-6a8da0d7745e/en-op-uv400-data-sheet.pdf
+  - UV 400 and UVR 400 Manual: https://www.advancedenergy.com/getmedia/c6c29fc9-b799-49a5-92bd-653bcf9926bf/en-op-uv400_manual.pdf
+  - MOCVD - LED Chips Application Note: https://www.advancedenergy.com/getmedia/17d7ad2a-7857-4c1c-8df5-8bf429f2ae8d/en-at-semiconductor-led-application-note.pdf
+  - Temperature Measurement Quotation Request Form: https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/193a1031-c5c3-433b-a559-6a8da0d7745e/en-op-uv400-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/e17cd9df-7ed1-4650-9d8a-e96f14f8f50e/zho-op-pyrometer-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/193a1031-c5c3-433b-a559-6a8da0d7745e/en-op-uv400-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c6c29fc9-b799-49a5-92bd-653bcf9926bf/en-op-uv400_manual.pdf
+  - https://www.advancedenergy.com/getmedia/17d7ad2a-7857-4c1c-8df5-8bf429f2ae8d/en-at-semiconductor-led-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/bf8d3195-faf4-44b7-8e6e-64693f5e3df1/uv400-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/65eeef2b-7daa-4f35-a042-4f16af694e98/uv400-2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d2f24fe-aa9e-470a-9ff1-80bccb82a8fb/uv400-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c07ddf37-81ec-4d24-8673-12428aba5054/uv400-2-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bf8d3195-faf4-44b7-8e6e-64693f5e3df1/uv400-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/65eeef2b-7daa-4f35-a042-4f16af694e98/uv400-2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d2f24fe-aa9e-470a-9ff1-80bccb82a8fb/uv400-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c07ddf37-81ec-4d24-8673-12428aba5054/uv400-2-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bf8d3195-faf4-44b7-8e6e-64693f5e3df1/uv400-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/65eeef2b-7daa-4f35-a042-4f16af694e98/uv400-2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d2f24fe-aa9e-470a-9ff1-80bccb82a8fb/uv400-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c07ddf37-81ec-4d24-8673-12428aba5054/uv400-2-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2975188d-a89f-4427-8a8c-fdd35b1a2a0a/Thumbnail.png
+  - Advanced Pyrometers: Enhancing Process Repeatability: https://i.ytimg.com/vi/teYgES8AyNk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Semiconductor & Special Materials PyrometersCustomized high end pyrometers to address specific applications and materialsDedicated solutions for Semiconductor and Thin Film ApplicationsNext generation of temperature sensors developed specifically for GaN-based MOCVD epitaxy processes
+  ↓
+FeaturedUV 400 & UVR 400 PyrometersDigital pyrometer with extremely short wavelength for true Wafer Surface Temperature and Reflectance Instrumentation for GaN-based MOCVD epitaxy processes. Temperature range 650 to 1300°C.

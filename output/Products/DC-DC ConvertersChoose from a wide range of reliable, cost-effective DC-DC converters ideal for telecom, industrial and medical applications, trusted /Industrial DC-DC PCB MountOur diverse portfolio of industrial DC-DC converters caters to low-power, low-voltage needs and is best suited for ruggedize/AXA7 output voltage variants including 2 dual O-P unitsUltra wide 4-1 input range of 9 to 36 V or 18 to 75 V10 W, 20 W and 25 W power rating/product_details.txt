@@ -1,0 +1,84 @@
+==============================================================================
+PRODUCT DETAILS: AXA7 output voltage variants including 2 dual O/P unitsUltra wide 4:1 input range of 9 to 36 V or 18 to 75 V10 W, 20 W and 25 W power rating
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+Category Description: Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AXA7 output voltage variants including 2 dual O/P unitsUltra wide 4:1 input range of 9 to 36 V or 18 to 75 V10 W, 20 W and 25 W power rating
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/axa/
+
+Complete Product Description:
+The AXA series of high-input isolated DC-DC converters feature an ultra wide 4:1 input voltage range of 18 to 75 VDC or 9 to 36 VDC,  designed for use with nominal 48 V or 24 V supplies.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - AXA 10W Series Data Sheet: https://www.advancedenergy.com/getmedia/420b228c-e146-4129-bde6-e280dabd6975/axa10w_1439829542.pdf
+  - AXA 20W Data Sheet: https://www.advancedenergy.com/getmedia/6bca1cef-4693-4c9e-8c99-b3b1a6e18007/axa20w_183fdc184d.pdf
+  - AXA 25W Datasheet: https://www.advancedenergy.com/getmedia/00e4beab-f55a-4f1c-ac35-2ad87b306e5a/axa25w_1467735571.pdf
+  - AXA 25W REACH cert: https://www.advancedenergy.com/getmedia/b7712d11-a8d2-4733-9aed-890e9a323002/reach_co_169_axa25_series_09061518525090_REACH.pdf
+  - AXA series REACH cert: https://www.advancedenergy.com/getmedia/7e512ba5-052b-4774-b82b-c75162971d7d/reach_163_coc_axaxx_series_071436823046_REACH.pdf
+  - AXA 25W RoHS cert: https://www.advancedenergy.com/getmedia/664782ba-5e0d-4c3d-8300-05c664333448/rohs2_coc_axa25_series_090616_1518525051_rohs_.pdf
+  - AXA series ROHS cert: https://www.advancedenergy.com/getmedia/af494db7-a29f-4d22-a174-5897fc60eb0b/rohs2_coc_axa_series_070215_1436823177_rohs_.pdf
+  - AXA 25W CSA Certificate: https://www.advancedenergy.com/getmedia/02aa9986-b129-49a1-89ce-342b2d6c7d2f/csa_cert_for_axa25w_series_1468997056_cert.pdf
+  - AXA series CSA cert: https://www.advancedenergy.com/getmedia/20b87cdc-c7c4-49d9-93c7-b035a0a73f32/2718273_cofc_1436823238_cert.pdf
+  - AXA Series CSA Certification (10W): https://www.advancedenergy.com/getmedia/0f4f7a15-8ccb-43d5-b7a0-ca20e63658c9/2718273_cofc_axa10w-only_1440523964_cert.pdf
+  - AXA 10W Technical Reference Note: https://www.advancedenergy.com/getmedia/b3c7b799-4f33-44d6-a71e-ee328b886f7f/trn_dc-dc_axa_10w_release_1_11467747595_techref.pdf
+  - AXA 20W Technical Reference Note: https://www.advancedenergy.com/getmedia/3b6a201f-6982-4863-8e9e-58487853560d/trn_dc-dc_axa_release_1_1_201510239931_techref.pdf
+  - AXA 25W Technical Reference Note: https://www.advancedenergy.com/getmedia/1ff9aea3-d19a-4e02-974c-cf6d1fc05b58/trn_dc-dc_axa_25w_release_1_0_1470209584_techref.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/420b228c-e146-4129-bde6-e280dabd6975/axa10w_1439829542.pdf
+  - https://www.advancedenergy.com/getmedia/6bca1cef-4693-4c9e-8c99-b3b1a6e18007/axa20w_183fdc184d.pdf
+  - https://www.advancedenergy.com/getmedia/00e4beab-f55a-4f1c-ac35-2ad87b306e5a/axa25w_1467735571.pdf
+  - https://www.advancedenergy.com/getmedia/b7712d11-a8d2-4733-9aed-890e9a323002/reach_co_169_axa25_series_09061518525090_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/7e512ba5-052b-4774-b82b-c75162971d7d/reach_163_coc_axaxx_series_071436823046_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/664782ba-5e0d-4c3d-8300-05c664333448/rohs2_coc_axa25_series_090616_1518525051_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/af494db7-a29f-4d22-a174-5897fc60eb0b/rohs2_coc_axa_series_070215_1436823177_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/02aa9986-b129-49a1-89ce-342b2d6c7d2f/csa_cert_for_axa25w_series_1468997056_cert.pdf
+  - https://www.advancedenergy.com/getmedia/20b87cdc-c7c4-49d9-93c7-b035a0a73f32/2718273_cofc_1436823238_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0f4f7a15-8ccb-43d5-b7a0-ca20e63658c9/2718273_cofc_axa10w-only_1440523964_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b3c7b799-4f33-44d6-a71e-ee328b886f7f/trn_dc-dc_axa_10w_release_1_11467747595_techref.pdf
+  - https://www.advancedenergy.com/getmedia/3b6a201f-6982-4863-8e9e-58487853560d/trn_dc-dc_axa_release_1_1_201510239931_techref.pdf
+  - https://www.advancedenergy.com/getmedia/1ff9aea3-d19a-4e02-974c-cf6d1fc05b58/trn_dc-dc_axa_25w_release_1_0_1470209584_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/15a1d18a-86b6-4ab8-ac64-5c23325f2dbb/AXA.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+  ↓
+AXA7 output voltage variants including 2 dual O/P unitsUltra wide 4:1 input range of 9 to 36 V or 18 to 75 V10 W, 20 W and 25 W power rating

@@ -1,0 +1,134 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedSLE36 Series36 W Single Output External Power Adapters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: SLE SeriesMedical & ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions (Class I > 48 W)5 V to 48 V Outputs, Up to 90 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/
+Category Description: The SLE series is part of Advanced Energy's Lean Line with 9 external power supply families ranging from 6 to 90 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedSLE36 Series36 W Single Output External Power Adapters
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle36n/
+
+Complete Product Description:
+Advanced Energy's SL Power SLE36 series of plug-in wall-mount AC-DC power adapters feature both medical and ITE safety approvals.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/451b6999-01ad-4dcc-b405-ce23c58dc553/ENG-SLE36N-235-01%2001.05.23.pdf
+  - SLE36N Datasheet: https://www.advancedenergy.com/getmedia/451b6999-01ad-4dcc-b405-ce23c58dc553/ENG-SLE36N-235-01%2001.05.23.pdf
+  - SLE36X Datasheet: https://www.advancedenergy.com/getmedia/5d6e1ea0-5ee0-4179-81cd-255664b04f5c/ENG-SLE36X-235-01%2001.05.23.pdf
+  - SLE36 REACH Certificate: https://www.advancedenergy.com/getmedia/4eafded6-32e5-459f-99d9-faa08c0992e9/SLPE36_REACH.pdf
+  - SLE36 RoHS Certificate: https://www.advancedenergy.com/getmedia/eea12fcb-31ce-4c4b-9afa-d335eaef5875/SLPE36_RoHS.pdf
+  - SLE Series CE Declaration: https://www.advancedenergy.com/getmedia/7bc1514c-c54a-4450-a856-584be6eff69f/CE%20SLE06%20to%2090%20Series%202022-01-13.pdf
+  - SLE Series Medical UL Certificate: https://www.advancedenergy.com/getmedia/0d68b6a2-5f4f-4f8d-b71c-3cd0d026f751/SLE%20Series_Med_UL%20Cert.pdf
+  - SLE Series UKCA Declaration: https://www.advancedenergy.com/getmedia/083ccb63-9879-4566-8821-fb220b66bce3/UKCA%20SLE06%20to%2090%20Series%202022-01-21.pdf
+  - SLE Series UL62368-1 Certificate: https://www.advancedenergy.com/getmedia/5874e315-5957-4088-9cd0-7f67b7a9d691/SLE06-36%20%20100100487%2062368-1.pdf
+  - SLE36 CB Certificate 60601: https://www.advancedenergy.com/getmedia/271c6bd0-9bf2-4b89-9ba4-9751236c333a/SLE36_B__CB_CERTIFICATE_60601.pdf
+  - SLE36 CB Certificate 60601: https://www.advancedenergy.com/getmedia/126a5887-ad45-4c53-818f-ca211c9c2fe8/SLE36_N_CB_CERTIFICATE_60601.pdf
+  - SLE36 CB Certificate 62368: https://www.advancedenergy.com/getmedia/1f786411-b4c5-4a35-acc9-7c62e0a3b7f5/SLE36_CB_CERTIFICATE_62368.pdf
+  - SLE36 Series EU 2020 CE Report: https://www.advancedenergy.com/getmedia/b099a1e4-391b-467f-a32e-80a7fdcf82c7/CE%20SLE36%20Series%202020%20EU%20Rep.pdf
+  - SLE36 UL Certificate: https://www.advancedenergy.com/getmedia/0aa882d9-858c-4dcf-9b74-504f32340bf3/SLE36%20UL%20Certificate.pdf
+  - SLE Series Value Proposition: https://www.advancedenergy.com/getmedia/a1a11ddd-7c33-4c9c-adaf-4bd9c08a3825/SLE_Series_Value_Proposition.pdf
+  - SLE36 UL Certificate View Resource: https://www.advancedenergy.com/getmedia/0aa882d9-858c-4dcf-9b74-504f32340bf3/SLE36%20UL%20Certificate.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/90e16464-210e-473c-8e98-5f17b45ce207/ENG-MENB1040-01%2004.28.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6c344ebc-a48a-4923-80f5-c66257e7afaa/ME40-01%2011.23.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/96376440-079b-4e81-bd54-b709841a2d45/TE40-01%2011.9.22.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/451b6999-01ad-4dcc-b405-ce23c58dc553/ENG-SLE36N-235-01%2001.05.23.pdf
+  - https://www.advancedenergy.com/getmedia/451b6999-01ad-4dcc-b405-ce23c58dc553/ENG-SLE36N-235-01%2001.05.23.pdf
+  - https://www.advancedenergy.com/getmedia/5d6e1ea0-5ee0-4179-81cd-255664b04f5c/ENG-SLE36X-235-01%2001.05.23.pdf
+  - https://www.advancedenergy.com/getmedia/4eafded6-32e5-459f-99d9-faa08c0992e9/SLPE36_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/eea12fcb-31ce-4c4b-9afa-d335eaef5875/SLPE36_RoHS.pdf
+  - https://www.advancedenergy.com/getmedia/7bc1514c-c54a-4450-a856-584be6eff69f/CE%20SLE06%20to%2090%20Series%202022-01-13.pdf
+  - https://www.advancedenergy.com/getmedia/0d68b6a2-5f4f-4f8d-b71c-3cd0d026f751/SLE%20Series_Med_UL%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/083ccb63-9879-4566-8821-fb220b66bce3/UKCA%20SLE06%20to%2090%20Series%202022-01-21.pdf
+  - https://www.advancedenergy.com/getmedia/5874e315-5957-4088-9cd0-7f67b7a9d691/SLE06-36%20%20100100487%2062368-1.pdf
+  - https://www.advancedenergy.com/getmedia/271c6bd0-9bf2-4b89-9ba4-9751236c333a/SLE36_B__CB_CERTIFICATE_60601.pdf
+  - https://www.advancedenergy.com/getmedia/126a5887-ad45-4c53-818f-ca211c9c2fe8/SLE36_N_CB_CERTIFICATE_60601.pdf
+  - https://www.advancedenergy.com/getmedia/1f786411-b4c5-4a35-acc9-7c62e0a3b7f5/SLE36_CB_CERTIFICATE_62368.pdf
+  - https://www.advancedenergy.com/getmedia/b099a1e4-391b-467f-a32e-80a7fdcf82c7/CE%20SLE36%20Series%202020%20EU%20Rep.pdf
+  - https://www.advancedenergy.com/getmedia/0aa882d9-858c-4dcf-9b74-504f32340bf3/SLE36%20UL%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/a1a11ddd-7c33-4c9c-adaf-4bd9c08a3825/SLE_Series_Value_Proposition.pdf
+  - https://www.advancedenergy.com/getmedia/0aa882d9-858c-4dcf-9b74-504f32340bf3/SLE36%20UL%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - https://www.advancedenergy.com/getmedia/90e16464-210e-473c-8e98-5f17b45ce207/ENG-MENB1040-01%2004.28.23.pdf
+  - https://www.advancedenergy.com/getmedia/6c344ebc-a48a-4923-80f5-c66257e7afaa/ME40-01%2011.23.22.pdf
+  - https://www.advancedenergy.com/getmedia/96376440-079b-4e81-bd54-b709841a2d45/TE40-01%2011.9.22.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/172c2ba6-ef06-41d2-8be5-3fa182c7254e/SLE36-img-1569957039.jpg
+  - Image: https://www.advancedenergy.com/getattachment/172c2ba6-ef06-41d2-8be5-3fa182c7254e/SLE36-img-1569957039.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/a4fec7a2-c6c9-4caf-af07-7a68df34996b/KT1001-img-1618327050.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/pdf.png
+  - Image: https://www.advancedenergy.com/getattachment/9ecc59e3-b34b-47b6-ad68-c44dac4cdb57/ME30.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d230e19b-9c9f-4963-9e01-47951d3ad9c9/MENB1040.png
+  - Image: https://www.advancedenergy.com/getattachment/196993ea-6326-4c0b-87e5-0cf860babdf8/ME40.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d46f8496-ae53-4c5a-8a16-92a8a769c24a/TE40.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedME30 Series20 to 30 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me30-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - FeaturedMENB1040 Series40 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/menb/menb1040-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/90e16464-210e-473c-8e98-5f17b45ce207/ENG-MENB1040-01%2004.28.23.pdf
+  - FeaturedME40 Series40 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me40-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6c344ebc-a48a-4923-80f5-c66257e7afaa/ME40-01%2011.23.22.pdf
+  - FeaturedTE40 Series40 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te40-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/96376440-079b-4e81-bd54-b709841a2d45/TE40-01%2011.9.22.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+SLE SeriesMedical & ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions (Class I > 48 W)5 V to 48 V Outputs, Up to 90 W
+  ↓
+FeaturedSLE36 Series36 W Single Output External Power Adapters

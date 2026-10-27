@@ -1,0 +1,127 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedSLB125 Series125 W Single Output Medical & Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 101 - 150 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsSingle and Multiple Outputs, Up to 150 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/
+Category Description: Advanced Energy power supplies within the 101 to 150 W range are the go-to choice for medium-scale electronic applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedSLB125 Series125 W Single Output Medical & Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/slb125-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power SLB125 medically-approved AT A GLANCE AC-DC power supplies are available with a nominal main output of 12 V, 15 V, 18 V, 24 V, 36 V, 48 V or 56 V. SLB125 power supplies provide up to 125 W with air flow.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/97b34354-f20f-45d5-be60-d4241c10350f/ENG-SLB125%20-04.12.23.pdf
+  - SLB125 Datasheet: https://www.advancedenergy.com/getmedia/97b34354-f20f-45d5-be60-d4241c10350f/ENG-SLB125-11-18-2025.pdf
+  - SLB125 Long Form Datasheet: https://www.advancedenergy.com/getmedia/d3cb1dd7-1d9c-4c4d-9e73-016dce7d79d8/ENG-SLB125-LFDS-11-18-23_1.pdf
+  - SLB125 HT Demko Certificate: https://www.advancedenergy.com/getmedia/c245e7c5-72f1-48a1-8d6d-479b11308bc8/SLB125%20HT%20Demko%20Cert.pdf
+  - SLB125S REACH Certificate: https://www.advancedenergy.com/getmedia/f51981e1-5158-4b44-bd4c-e273c4fcea08/SL%20Power%20REACH%20209%20SLB125S%20Series.pdf
+  - SLB125S RoHS Statement: https://www.advancedenergy.com/getmedia/29403ce9-2199-4f37-9801-b35d9722a6c6/RoHS%20statement%20SL%20Power%20SLB125S%20Series.pdf
+  - SLB125 HT CB Certificate Class I: https://www.advancedenergy.com/getmedia/41115177-7f02-49a0-9b46-1122370b8edc/SLB125%20HT%20CB%20Cert%20Class%20I.pdf
+  - SLB125 HT CB Certificate Class II: https://www.advancedenergy.com/getmedia/5a5aa4fb-e2b7-4719-abee-f7ceea583790/SLB125%20HT%20CB%20Cert%20Class%20II.pdf
+  - SLB125S HT UL Certificate: https://www.advancedenergy.com/getmedia/d586f70a-144a-4942-94a6-fdd271043905/SLB125s%20HT%20UL%20Cert%20of%20Compliance.pdf
+  - SLB125S HT UL Test Report: https://www.advancedenergy.com/getmedia/9f3168e7-b340-4ea9-9031-695e8b1ce94c/SLB125S%20HT%20UL%20CofA.pdf
+  - SLB125 Value Proposition: https://www.advancedenergy.com/getmedia/2558755f-e469-4753-9a05-6e7a5019490b/SLB125%20Value%20Proposition.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ba38184-2dda-4135-9ce9-91d8c28de808/ENG-GB130Q-01-10-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9dfc7e67-8c34-4781-967a-5e1ebd82faa7/ENG-MB120-08.24.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3b64fff3-1f2f-4abe-8ed3-1d21ba3f07a6/ENG-LB130S56K-08.25.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/97b34354-f20f-45d5-be60-d4241c10350f/ENG-SLB125%20-04.12.23.pdf
+  - https://www.advancedenergy.com/getmedia/97b34354-f20f-45d5-be60-d4241c10350f/ENG-SLB125-11-18-2025.pdf
+  - https://www.advancedenergy.com/getmedia/d3cb1dd7-1d9c-4c4d-9e73-016dce7d79d8/ENG-SLB125-LFDS-11-18-23_1.pdf
+  - https://www.advancedenergy.com/getmedia/c245e7c5-72f1-48a1-8d6d-479b11308bc8/SLB125%20HT%20Demko%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/f51981e1-5158-4b44-bd4c-e273c4fcea08/SL%20Power%20REACH%20209%20SLB125S%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/29403ce9-2199-4f37-9801-b35d9722a6c6/RoHS%20statement%20SL%20Power%20SLB125S%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/41115177-7f02-49a0-9b46-1122370b8edc/SLB125%20HT%20CB%20Cert%20Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/5a5aa4fb-e2b7-4719-abee-f7ceea583790/SLB125%20HT%20CB%20Cert%20Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/d586f70a-144a-4942-94a6-fdd271043905/SLB125s%20HT%20UL%20Cert%20of%20Compliance.pdf
+  - https://www.advancedenergy.com/getmedia/9f3168e7-b340-4ea9-9031-695e8b1ce94c/SLB125S%20HT%20UL%20CofA.pdf
+  - https://www.advancedenergy.com/getmedia/2558755f-e469-4753-9a05-6e7a5019490b/SLB125%20Value%20Proposition.pdf
+  - https://www.advancedenergy.com/getmedia/7ba38184-2dda-4135-9ce9-91d8c28de808/ENG-GB130Q-01-10-24.pdf
+  - https://www.advancedenergy.com/getmedia/9dfc7e67-8c34-4781-967a-5e1ebd82faa7/ENG-MB120-08.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/3b64fff3-1f2f-4abe-8ed3-1d21ba3f07a6/ENG-LB130S56K-08.25.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c9913ece-3184-40e9-8e7b-7b6ef55b256a/SLB125-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/61beb1ed-ee86-4df3-a7cd-e049032bfca3/SLB125-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ef2f52de-9d38-46ab-ba24-6ee9af9b948e/SLB125-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d8afc16-ce77-4631-ba78-2d6e52073e65/SLB125-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c9913ece-3184-40e9-8e7b-7b6ef55b256a/SLB125-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/61beb1ed-ee86-4df3-a7cd-e049032bfca3/SLB125-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ef2f52de-9d38-46ab-ba24-6ee9af9b948e/SLB125-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d8afc16-ce77-4631-ba78-2d6e52073e65/SLB125-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c9913ece-3184-40e9-8e7b-7b6ef55b256a/SLB125-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/61beb1ed-ee86-4df3-a7cd-e049032bfca3/SLB125-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ef2f52de-9d38-46ab-ba24-6ee9af9b948e/SLB125-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d8afc16-ce77-4631-ba78-2d6e52073e65/SLB125-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/da52adf4-b3a1-48ed-8e9f-a173370b40be/GB130Q-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/3ab301a1-130a-4fa1-b226-f0e0cbecb791/MB120-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/56000d79-600b-4e77-932d-0d8ec647d989/NGB150-img-1701071836.jpg
+  - Image: https://www.advancedenergy.com/getattachment/60281b79-b1d5-475a-8423-767a16e070e4/LB130S.jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedGB130Q Series130 W Quad Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/gb130q-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ba38184-2dda-4135-9ce9-91d8c28de808/ENG-GB130Q-01-10-24.pdf
+  - FeaturedMB120 Series120 W Single Output Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/mb120-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9dfc7e67-8c34-4781-967a-5e1ebd82faa7/ENG-MB120-08.24.23.pdf
+  - FeaturedNGB150 Series120/150 W Medical/Industrial: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/ngb150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - FeaturedLB130S Series130 W Single Output LED Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/lb130s-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3b64fff3-1f2f-4abe-8ed3-1d21ba3f07a6/ENG-LB130S56K-08.25.23.pdf
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Entertainment Lighting and AV ControlsInnovative lighting and precise control systems enhance performance atmosphere in motion picture, stage, and studio settings.: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - Explore Entertainment Lighting and AV Controls: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+101 - 150 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsSingle and Multiple Outputs, Up to 150 W
+  ↓
+FeaturedSLB125 Series125 W Single Output Medical & Industrial Grade

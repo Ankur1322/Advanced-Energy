@@ -1,0 +1,163 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedCNS650-MU Series650 W Open Frame AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 501 - 999 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsChassis mount constructionPeak power capabilities
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/
+Category Description: Advanced Energy power supplies within the 500 to 1000 W range provide even more power for energy-hungry applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedCNS650-MU Series650 W Open Frame AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/cns650-mu/
+
+Complete Product Description:
+The CNS650-MU series of single output open-frame AC-DC power supplies are offered in 12 V, 24 V, or 48 V outputs with +15% Trim range.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+  - Universal PMBus GUI User's Manual (5 MB): https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - Achieving EFT Compliance: A Case Study in Fluid Metering View Resource: https://www.advancedenergy.com/getmedia/fe9e7991-7c96-4a69-bdc3-36e478014030/ENG-Fluid-Metering-Case-Study-295-01.pdf
+  - CNS650-M Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/ENG-CNS650-M-02-11-25.pdf
+  - CNS653-MU REACH Declaration: https://www.advancedenergy.com/getmedia/16310201-da5d-4f78-8fcc-b9bb324a3cfb/cns653-mu_reach_coc_1515779438_REACH.pdf
+  - CNS655-MU REACH Declaration: https://www.advancedenergy.com/getmedia/3acfd7a1-99c6-48ea-ab33-27ffa66a6a90/cns655-mu_reach_coc_1515779474_REACH.pdf
+  - CNS658-MU REACH Declaration: https://www.advancedenergy.com/getmedia/a7174db4-d64e-44da-8731-1661bd88a6a9/cns658-mu_reach_coc_1515779509_REACH.pdf
+  - CNS653-ME RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/f2abed13-5900-4ac5-b8e6-a0aac840f57b/rohs2_coc_cns653-me_121815_1468566146_rohs_.pdf
+  - CNS653-MF RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/b1426859-dcbe-4e4e-b889-28b802c31692/rohs2_coc_cns653-mf_121815_1468566213_rohs_.pdf
+  - CNS653-MU RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/cb162113-6ab7-4cfc-9f75-bde628464a9c/rohs2_coc_cns653-mu_121815_1468566261_rohs_.pdf
+  - CNS655-MU RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/a79fd253-ba29-4018-b619-dda20425651c/rohs2_coc_cns655-mu_121815_1468565819_rohs_.pdf
+  - CNS658-MU RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/ed0f2cbc-9f64-4e44-8f76-1c103442a650/rohs2_coc_cns658-mu_010516_1467856328_rohs_.pdf
+  - CNS653-M#-XXX CB Certificate (IEC62368-1) Safety Certificate: https://www.advancedenergy.com/getmedia/d4997910-55ad-45a6-a89c-a1bbff909119/cns653-mx-xxx_iec62368-1_cb_c1474075474_cert.pdf
+  - CNS653-MU-401 CERTIFICATE OF CONFORMITY: https://www.advancedenergy.com/getmedia/7d6f9eea-1a01-473a-86f9-dd54721c85de/653-mu401_2926_rev_1_ce_1638975776_cert.pdf
+  - CNS653-MU-401 UKCA: https://www.advancedenergy.com/getmedia/87fc34ed-3fea-40b9-8f4f-321a4049e1ac/653-mu401_2935_rev_1_ukca_1638975853_cert.pdf
+  - CNS653-Mx CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/1b76242c-ca81-42e5-9d7c-4dcca8cedd57/cns653-mx-xxx_ce_1470279517_cert.pdf
+  - CNS653-Mx UKCA: https://www.advancedenergy.com/getmedia/66436292-301c-44ea-90f4-02c72e1acc6b/653_2932_rev_1_ukca_1638975336_cert.pdf
+  - CNS655 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/fdd5be3a-6068-4864-bfdb-2c61e36ef7db/cns655-mu-xxx_ce_1466768788_150.pdf
+  - CNS655 UKCA: https://www.advancedenergy.com/getmedia/b8146ae9-095d-4ab2-bd46-a483b8774aae/655_2933_rev_1_ukca_1638975436_cert.pdf
+  - CNS658 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/0fafd517-57e9-49ed-b2a1-5f22a1a9cfbb/cns658-mu-xxx_ce_1466768787_320.pdf
+  - CNS658 UKCA: https://www.advancedenergy.com/getmedia/f6f9a640-83d0-4a24-9186-481f5cf2d816/658_2934_rev_1_ukca_1638975602_cert.pdf
+  - CNS65X CB (ITE) Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/02b86657-d6c3-4f42-ad8e-6bb2113b7f15/cns65x-m_cb_certificate_1466768799_080.pdf
+  - CNS65X CB (Medical) Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/cb48faaf-bd2b-42de-bcb9-6d6fbfe4d99b/cns653-mx_655-mu_658-mu-xxx_sg1477531299_cert.pdf
+  - CNS65X CCC Certificate Cavite Safety Certificate: https://www.advancedenergy.com/getmedia/a80b9d11-280a-49e3-876e-ac1012a98d85/cns65x-mx_ccc_cv_1466768793_571.pdf
+  - CNS65X CCC Certificate Laguna Safety Certificate: https://www.advancedenergy.com/getmedia/e24b7181-558a-4efa-aac8-6f674b87fa04/cns65x-mx_ccc_lg_1466768791_468.pdf
+  - CNS65X Demko Certificate (EN62368-1) Safety Certificate: https://www.advancedenergy.com/getmedia/6a71902d-3831-4d10-b8e6-872753104679/cns65x-m_demko_certificate_1466768798_752.pdf
+  - CNS65X IEC 62368 CB Test Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/eccabf44-7646-43b0-8669-8c25d1114a6b/cns65x_cb_cert_1598869745_cert.pdf
+  - CNS65X TUV Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/addd4601-c8b2-4416-8c10-674f7d051986/cns65x-m_tuv_certificate_1466768796_978.pdf
+  - CNS65X UL ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/3b883e27-f44a-4538-96e8-092a35c14af3/cns65x-m_ul_60950-1_1466768793_771.pdf
+  - CNS65X UL Medical Cert ver 3.0 Safety Certificate: https://www.advancedenergy.com/getmedia/1c405562-3591-4f0a-ace7-7ffa5e257e6e/cns65x-m_es_60601-1_3_0_1466768796_674.pdf
+  - CNS65X UL Medical Cert ver 3.1 Safety Certificate: https://www.advancedenergy.com/getmedia/d41fd4e1-5d1f-4c7d-a54f-244ade12c004/cns653-mx_cns655-mu-xxx_es_6061477531200_cert.pdf
+  - CNS650-Mx Technical Reference Note: https://www.advancedenergy.com/getmedia/c7d05f86-c8f3-4563-8cb3-f3545c6a3821/TRN-AC-DC-CNS650-Release-2-7-(2025-11-04).pdf
+  - Achieving EFT Compliance: A Case Study in Fluid Metering: https://www.advancedenergy.com/getmedia/fe9e7991-7c96-4a69-bdc3-36e478014030/ENG-Fluid-Metering-Case-Study-295-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/523c3a48-079d-400a-8a66-c51cc14c314b/lcm600_ds_1487345909.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/68ce0197-499a-4410-b254-d221f8d113c7/lcc600_ds_9265bdb2d0.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+  - https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - https://www.advancedenergy.com/getmedia/fe9e7991-7c96-4a69-bdc3-36e478014030/ENG-Fluid-Metering-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/ENG-CNS650-M-02-11-25.pdf
+  - https://www.advancedenergy.com/getmedia/16310201-da5d-4f78-8fcc-b9bb324a3cfb/cns653-mu_reach_coc_1515779438_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/3acfd7a1-99c6-48ea-ab33-27ffa66a6a90/cns655-mu_reach_coc_1515779474_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/a7174db4-d64e-44da-8731-1661bd88a6a9/cns658-mu_reach_coc_1515779509_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/f2abed13-5900-4ac5-b8e6-a0aac840f57b/rohs2_coc_cns653-me_121815_1468566146_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/b1426859-dcbe-4e4e-b889-28b802c31692/rohs2_coc_cns653-mf_121815_1468566213_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/cb162113-6ab7-4cfc-9f75-bde628464a9c/rohs2_coc_cns653-mu_121815_1468566261_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a79fd253-ba29-4018-b619-dda20425651c/rohs2_coc_cns655-mu_121815_1468565819_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/ed0f2cbc-9f64-4e44-8f76-1c103442a650/rohs2_coc_cns658-mu_010516_1467856328_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d4997910-55ad-45a6-a89c-a1bbff909119/cns653-mx-xxx_iec62368-1_cb_c1474075474_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7d6f9eea-1a01-473a-86f9-dd54721c85de/653-mu401_2926_rev_1_ce_1638975776_cert.pdf
+  - https://www.advancedenergy.com/getmedia/87fc34ed-3fea-40b9-8f4f-321a4049e1ac/653-mu401_2935_rev_1_ukca_1638975853_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1b76242c-ca81-42e5-9d7c-4dcca8cedd57/cns653-mx-xxx_ce_1470279517_cert.pdf
+  - https://www.advancedenergy.com/getmedia/66436292-301c-44ea-90f4-02c72e1acc6b/653_2932_rev_1_ukca_1638975336_cert.pdf
+  - https://www.advancedenergy.com/getmedia/fdd5be3a-6068-4864-bfdb-2c61e36ef7db/cns655-mu-xxx_ce_1466768788_150.pdf
+  - https://www.advancedenergy.com/getmedia/b8146ae9-095d-4ab2-bd46-a483b8774aae/655_2933_rev_1_ukca_1638975436_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0fafd517-57e9-49ed-b2a1-5f22a1a9cfbb/cns658-mu-xxx_ce_1466768787_320.pdf
+  - https://www.advancedenergy.com/getmedia/f6f9a640-83d0-4a24-9186-481f5cf2d816/658_2934_rev_1_ukca_1638975602_cert.pdf
+  - https://www.advancedenergy.com/getmedia/02b86657-d6c3-4f42-ad8e-6bb2113b7f15/cns65x-m_cb_certificate_1466768799_080.pdf
+  - https://www.advancedenergy.com/getmedia/cb48faaf-bd2b-42de-bcb9-6d6fbfe4d99b/cns653-mx_655-mu_658-mu-xxx_sg1477531299_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a80b9d11-280a-49e3-876e-ac1012a98d85/cns65x-mx_ccc_cv_1466768793_571.pdf
+  - https://www.advancedenergy.com/getmedia/e24b7181-558a-4efa-aac8-6f674b87fa04/cns65x-mx_ccc_lg_1466768791_468.pdf
+  - https://www.advancedenergy.com/getmedia/6a71902d-3831-4d10-b8e6-872753104679/cns65x-m_demko_certificate_1466768798_752.pdf
+  - https://www.advancedenergy.com/getmedia/eccabf44-7646-43b0-8669-8c25d1114a6b/cns65x_cb_cert_1598869745_cert.pdf
+  - https://www.advancedenergy.com/getmedia/addd4601-c8b2-4416-8c10-674f7d051986/cns65x-m_tuv_certificate_1466768796_978.pdf
+  - https://www.advancedenergy.com/getmedia/3b883e27-f44a-4538-96e8-092a35c14af3/cns65x-m_ul_60950-1_1466768793_771.pdf
+  - https://www.advancedenergy.com/getmedia/1c405562-3591-4f0a-ace7-7ffa5e257e6e/cns65x-m_es_60601-1_3_0_1466768796_674.pdf
+  - https://www.advancedenergy.com/getmedia/d41fd4e1-5d1f-4c7d-a54f-244ade12c004/cns653-mx_cns655-mu-xxx_es_6061477531200_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c7d05f86-c8f3-4563-8cb3-f3545c6a3821/TRN-AC-DC-CNS650-Release-2-7-(2025-11-04).pdf
+  - https://www.advancedenergy.com/getmedia/fe9e7991-7c96-4a69-bdc3-36e478014030/ENG-Fluid-Metering-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/523c3a48-079d-400a-8a66-c51cc14c314b/lcm600_ds_1487345909.pdf
+  - https://www.advancedenergy.com/getmedia/68ce0197-499a-4410-b254-d221f8d113c7/lcc600_ds_9265bdb2d0.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b3f7e371-7183-4fc2-91b9-c67ddb41c504/0b0eafdd07.png
+  - Image: https://www.advancedenergy.com/getattachment/5b1f8780-e444-42f0-94ab-58301f823c51/6516866b8f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6235cf86-596c-4e1d-b573-873f78742cb4/94eb1a9f22.png
+  - Image: https://www.advancedenergy.com/getattachment/e8f6f3eb-8d06-49f0-bcc3-19408cf7948d/a37c794ba6.png
+  - Image: https://www.advancedenergy.com/getattachment/c33949aa-4658-4b83-899a-a507e5999a81/de53e81b2e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4a99a6e5-050c-402b-9cfc-31a09635a467/e010c8f9f3.png
+  - Image: https://img.youtube.com/vi/Kqy7noT6p18/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3f7e371-7183-4fc2-91b9-c67ddb41c504/0b0eafdd07.png
+  - Image: https://www.advancedenergy.com/getattachment/5b1f8780-e444-42f0-94ab-58301f823c51/6516866b8f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6235cf86-596c-4e1d-b573-873f78742cb4/94eb1a9f22.png
+  - Image: https://www.advancedenergy.com/getattachment/e8f6f3eb-8d06-49f0-bcc3-19408cf7948d/a37c794ba6.png
+  - Image: https://www.advancedenergy.com/getattachment/c33949aa-4658-4b83-899a-a507e5999a81/de53e81b2e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4a99a6e5-050c-402b-9cfc-31a09635a467/e010c8f9f3.png
+  - Image: https://img.youtube.com/vi/Kqy7noT6p18/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3f7e371-7183-4fc2-91b9-c67ddb41c504/0b0eafdd07.png
+  - Image: https://www.advancedenergy.com/getattachment/5b1f8780-e444-42f0-94ab-58301f823c51/6516866b8f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6235cf86-596c-4e1d-b573-873f78742cb4/94eb1a9f22.png
+  - Image: https://www.advancedenergy.com/getattachment/e8f6f3eb-8d06-49f0-bcc3-19408cf7948d/a37c794ba6.png
+  - Image: https://www.advancedenergy.com/getattachment/c33949aa-4658-4b83-899a-a507e5999a81/de53e81b2e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4a99a6e5-050c-402b-9cfc-31a09635a467/e010c8f9f3.png
+  - Image: https://www.advancedenergy.com/getattachment/f878926d-371b-4af5-b266-4f30e527bb35/pmbusgui_large.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/getattachment/361a097b-20f9-4dee-9d79-b601f930855a/a68ee17f64.jpg
+  - Image: https://www.advancedenergy.com/getattachment/74a2c35a-985d-42c8-bda9-70ce7bc5702e/f2ba107cee.png
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLCM600 Series600 W Front-End AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm600/
+  - Datasheet: https://www.advancedenergy.com/getmedia/523c3a48-079d-400a-8a66-c51cc14c314b/lcm600_ds_1487345909.pdf
+  - FeaturedLCC600 Series600 W Conduction Cooled AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/lcc-family/lcc600/
+  - Datasheet: https://www.advancedenergy.com/getmedia/68ce0197-499a-4410-b254-d221f8d113c7/lcc600_ds_9265bdb2d0.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+501 - 999 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsChassis mount constructionPeak power capabilities
+  ↓
+FeaturedCNS650-MU Series650 W Open Frame AC-DC Power Supplies

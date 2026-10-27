@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: RF Plasma Generators
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power Products
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: RF Plasma Generators
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/
+
+Complete Product Description:
+Choose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/eff6a1bf-93e7-4bef-bb78-0478257facca/aei_everest_fr_t700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/d7410e5b-fde7-4ec4-b8d2-cc3abdf758fd/paramountplus-mf5002-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/392ecaeb-09af-4466-b783-fa1e6ba6805a/apex-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eff6a1bf-93e7-4bef-bb78-0478257facca/aei_everest_fr_t700x700.png?resizemode=force&maxsidesize=408
+  - Image: https://www.advancedenergy.com/getattachment/ae207771-e982-463b-8472-09ca34526041/paramount_hf_fl_w.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power Products
+  ↓
+RF Plasma Generators

@@ -1,0 +1,97 @@
+==============================================================================
+PRODUCT DETAILS: Featured700 Series4-Wire Probes
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/
+Category Description: Advanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+
+[Level 3] Category Name: Test Probes4-wire Kelvin sensing probesTest probes for use with the 700 Series, R1L Series bond meters, and 1750 Series micro-ohmmetersAlso includes probe tips and accessories
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/
+Category Description: TEGAM offers a wide selection of 4-wire Kelvin sensing probes and clips.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: Featured700 Series4-Wire Probes
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/700-series/
+
+Complete Product Description:
+These 4-wire probes are used with the 700 Series handheld bond meters and milliohmmeters.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/TEG_720A_DS_RevAC.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6129f12b-351c-4c45-8432-8a1c0bc5d824/730A-909_RevAB.pdf
+  - 710A Datasheet: https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCC.pdf
+  - 720A Datasheet: https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/720A-909-AH.pdf
+  - BCP-10-909: https://www.advancedenergy.com/getmedia/f87c6aaa-807d-4d96-acc2-6fc675365ec0/BCP-10-909_Rev-A.pdf
+  - TEGAM 700 Series Probe Selector Guide: https://www.advancedenergy.com/getmedia/44335fb9-e1f6-49de-baa6-008ad9787383/eng-selector-guide-tegam-2025.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f73d2c43-5a6b-46b3-902d-ddcd405f6b95/1740-1750-Accessories-Sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+  - https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/TEG_720A_DS_RevAC.pdf
+  - https://www.advancedenergy.com/getmedia/6129f12b-351c-4c45-8432-8a1c0bc5d824/730A-909_RevAB.pdf
+  - https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCC.pdf
+  - https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/720A-909-AH.pdf
+  - https://www.advancedenergy.com/getmedia/f87c6aaa-807d-4d96-acc2-6fc675365ec0/BCP-10-909_Rev-A.pdf
+  - https://www.advancedenergy.com/getmedia/44335fb9-e1f6-49de-baa6-008ad9787383/eng-selector-guide-tegam-2025.pdf
+  - https://www.advancedenergy.com/getmedia/f73d2c43-5a6b-46b3-902d-ddcd405f6b95/1740-1750-Accessories-Sheet.pdf
+  - https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/4418f4e0-7b8f-4ca7-9cce-bf48a7bb79a4/TEGAM-Display-Probe.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4418f4e0-7b8f-4ca7-9cce-bf48a7bb79a4/TEGAM-Display-Probe.jpg
+  - 710A-Thumbnail: https://www.advancedenergy.com/getattachment/37f6a553-5c6d-4e54-a571-e1e2797cd402/TEG_AE_710A.png
+  - 720A Product: https://www.advancedenergy.com/getattachment/a4ae944a-08ab-4daf-b3e5-a0f58b201087/TEG_AE_720A.png
+  - 730A Product Image Thumb Nail: https://www.advancedenergy.com/getattachment/5111ebb1-8665-4a4f-932d-0735e8245291/TEG_AE_730A-495x491-(1).jpg
+  - TEGAM 700 Series Display Probe Tutorial: https://i.ytimg.com/vi/zhHUgDpoyOE/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b0dd05cf-8e8e-4713-89ec-3248b05fbc37/MCP1750-5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/425ff2c6-417f-48bf-8e9e-cddd7b49000f/SKP-8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured1750 Series Probes4-wire Kelvin probes and clips for precision resistance measurement: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/1750-series-probes/
+  - Datasheet: https://www.advancedenergy.com/getmedia/f73d2c43-5a6b-46b3-902d-ddcd405f6b95/1740-1750-Accessories-Sheet.pdf
+  - FeaturedR1L Series4-Wire Kelvin Probes: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/r1l-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - AutomotiveAdvanced Energy provides a range of products for unique test & measurement applications in the manufacturing of automobiles and components. These product applications include low-resistance measurement and thermal sensing.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+  ↓
+Test Probes4-wire Kelvin sensing probesTest probes for use with the 700 Series, R1L Series bond meters, and 1750 Series micro-ohmmetersAlso includes probe tips and accessories
+  ↓
+Featured700 Series4-Wire Probes

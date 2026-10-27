@@ -1,0 +1,134 @@
+==============================================================================
+PRODUCT DETAILS: Ascent AMS II Pulsed and DC Power SystemWater coolingModular and scalableEmbedded PowerInsight®  by Advanced Energy™ IoT intelligenceWide mains voltage rangeExpanded operating rangeArc Management System™ (AMS) technology — customer pre-sets for metal and ceramic targetsSet Point Compensation™ technologyArc-Sync™ technology — primary/secondary up to 12 unitsEthernet, EtherCAT®, Profibus ,RS-232/485, Ethernet/IP, and analog communications
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/
+Category Description: Extend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Ascent AMS II Pulsed and DC Power SystemWater coolingModular and scalableEmbedded PowerInsight®  by Advanced Energy™ IoT intelligenceWide mains voltage rangeExpanded operating rangeArc Management System™ (AMS) technology — customer pre-sets for metal and ceramic targetsSet Point Compensation™ technologyArc-Sync™ technology — primary/secondary up to 12 unitsEthernet, EtherCAT®, Profibus ,RS-232/485, Ethernet/IP, and analog communications
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/ascent-ams-ii/
+
+Complete Product Description:
+New materials and cathode designs increasingly challenge process stability and film repeatability. At the same time, larger deposition areas heighten power requirements and potential arc-related damage. Ascent® AMS II provides stable, repeatable power regardless of process setup or conditions.  Its Arc Management System™ (AMS) technology and onboard, embedded IoT intelligence maximize productivity and throughput. This low-noise, water-cooled design with expanded operating range also increases reliability, process capability, and installation flexibility.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/e376b487-2709-48c4-845b-06d37cdf2178/ENG-Ascent-AMS-II-235-01-(1).pdf
+  - Ascent® AMS II Brochure View Resource: https://www.advancedenergy.com/getmedia/e376b487-2709-48c4-845b-06d37cdf2178/ENG-Ascent-AMS-II-235-01-(1).pdf
+  - Ascent® DMS Brochure The Ascent® DMS series offers unprecedented power delivery ease and control for dual-magnetron sputtering, enabling precise tuning of film characteristics. View Resource: https://www.advancedenergy.com/getmedia/1f7f396b-0631-47f4-ba6d-074a0331818a/ENG-AscentDMS-231-07-(2).pdf
+  - Optimizing Static Deposition Processes White Paper View Resource: https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - Ascent® AMS II Brochure: https://www.advancedenergy.com/getmedia/e376b487-2709-48c4-845b-06d37cdf2178/ENG-Ascent-AMS-II-235-01-(1).pdf
+  - Ascent® DMS Brochure: https://www.advancedenergy.com/getmedia/1f7f396b-0631-47f4-ba6d-074a0331818a/ENG-AscentDMS-231-07-(2).pdf
+  - Optimizing Glass Process Stability, Throughput with the PowerInsight by Advanced Energy™ IoT Solution: https://www.advancedenergy.com/getmedia/1d5064ad-359e-4539-8a8c-7ad01ae802c8/en-glass-powerinsight-case-study.pdf
+  - Optimizing Static Deposition Processes White Paper: https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+  - Raising the Bar on Reactive Deposition Sputter Rates White Paper: https://www.advancedenergy.com/getmedia/6cee35c3-5e9f-4374-9608-be10567f5ca0/raising-bar-reactive-deposition-sputter-rates-white-paper.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/983b8eb1-44be-4da0-a989-290f535ca7a0/ENG-AscentDMS-231-07-(2).pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3fd39b3e-ef5f-4ba4-bd2c-928879497ef8/ascent-ap-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/e376b487-2709-48c4-845b-06d37cdf2178/ENG-Ascent-AMS-II-235-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/e376b487-2709-48c4-845b-06d37cdf2178/ENG-Ascent-AMS-II-235-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/1f7f396b-0631-47f4-ba6d-074a0331818a/ENG-AscentDMS-231-07-(2).pdf
+  - https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/e376b487-2709-48c4-845b-06d37cdf2178/ENG-Ascent-AMS-II-235-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/1f7f396b-0631-47f4-ba6d-074a0331818a/ENG-AscentDMS-231-07-(2).pdf
+  - https://www.advancedenergy.com/getmedia/1d5064ad-359e-4539-8a8c-7ad01ae802c8/en-glass-powerinsight-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/6cee35c3-5e9f-4374-9608-be10567f5ca0/raising-bar-reactive-deposition-sputter-rates-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/983b8eb1-44be-4da0-a989-290f535ca7a0/ENG-AscentDMS-231-07-(2).pdf
+  - https://www.advancedenergy.com/getmedia/3fd39b3e-ef5f-4ba4-bd2c-928879497ef8/ascent-ap-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/3502f10d-a123-4265-bcbc-df6940836a93/Ascent-AMS-II-V8-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/86fc34f6-b271-423a-8084-3f4243f174dc/Ascent-AMS-II-V9.png
+  - Image: https://www.advancedenergy.com/getattachment/1ef05e67-7d0d-4006-ab76-142df897ecee/Ascent-AMS-II-V10.png
+  - Image: https://www.advancedenergy.com/getattachment/ee152498-caa0-4246-9b85-dd62831ab8cc/Ascent-AMS-II-V11.png
+  - Image: https://www.advancedenergy.com/getattachment/60cdea83-eecd-4501-bdb0-6cabfde3e73f/Ascent-AMS-II-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/9b2c88a6-7a6c-4b54-af0f-129e8a0c2a8e/Ascent-AMS-II-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/d014d20a-be05-43e1-a919-d60ebb0d310f/Ascent-AMS-II-V6.png
+  - Image: https://img.youtube.com/vi/yHoE-EH4PU4/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3502f10d-a123-4265-bcbc-df6940836a93/Ascent-AMS-II-V8-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/86fc34f6-b271-423a-8084-3f4243f174dc/Ascent-AMS-II-V9.png
+  - Image: https://www.advancedenergy.com/getattachment/1ef05e67-7d0d-4006-ab76-142df897ecee/Ascent-AMS-II-V10.png
+  - Image: https://www.advancedenergy.com/getattachment/ee152498-caa0-4246-9b85-dd62831ab8cc/Ascent-AMS-II-V11.png
+  - Image: https://www.advancedenergy.com/getattachment/60cdea83-eecd-4501-bdb0-6cabfde3e73f/Ascent-AMS-II-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/9b2c88a6-7a6c-4b54-af0f-129e8a0c2a8e/Ascent-AMS-II-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/d014d20a-be05-43e1-a919-d60ebb0d310f/Ascent-AMS-II-V6.png
+  - Image: https://img.youtube.com/vi/yHoE-EH4PU4/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3502f10d-a123-4265-bcbc-df6940836a93/Ascent-AMS-II-V8-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/86fc34f6-b271-423a-8084-3f4243f174dc/Ascent-AMS-II-V9.png
+  - Image: https://www.advancedenergy.com/getattachment/1ef05e67-7d0d-4006-ab76-142df897ecee/Ascent-AMS-II-V10.png
+  - Image: https://www.advancedenergy.com/getattachment/ee152498-caa0-4246-9b85-dd62831ab8cc/Ascent-AMS-II-V11.png
+  - Image: https://www.advancedenergy.com/getattachment/60cdea83-eecd-4501-bdb0-6cabfde3e73f/Ascent-AMS-II-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/9b2c88a6-7a6c-4b54-af0f-129e8a0c2a8e/Ascent-AMS-II-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/d014d20a-be05-43e1-a919-d60ebb0d310f/Ascent-AMS-II-V6.png
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Exclusive Dynamic Reverse Pulsing Technology for Plasma Power: https://i.ytimg.com/vi/60BXAxFdbdY/hqdefault.jpg
+  - From Sand to Shine: Optimizing Glass Production and Coating: https://i.ytimg.com/vi/67VMhRxNI6w/hqdefault.jpg
+  - New Ascent® AMS II DC Plasma Power Supplies: https://i.ytimg.com/vi/yHoE-EH4PU4/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3ce8649a-34d6-49ed-9dfe-0db1413766c6/ascent-dms-60-silver-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f9e0cf72-1ade-41bd-8078-1c1409426173/ascent_sms_ap10_fl_w_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b22f125a-e2a4-4ea7-b737-09a97d504c6e/PINNACLE-FR-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAscent DMS Pulsed and DC Power SystemAdvanced Dual-Magnetron Sputtering Accessories: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/ascent-dms/
+  - Datasheet: https://www.advancedenergy.com/getmedia/983b8eb1-44be-4da0-a989-290f535ca7a0/ENG-AscentDMS-231-07-(2).pdf
+  - FeaturedAscent AP Pulsed and DC Power SystemUnprecedented Power Control for Single- and Dual-Magnetron Sputtering: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/ascent-ap/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3fd39b3e-ef5f-4ba4-bd2c-928879497ef8/ascent-ap-data-sheet.pdf
+  - FeaturedPinnacle III DC Power SupplyThe Most Recognized DC Power Supply for <= 20 kW Processes: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/pinnacle-iii/
+  - Datasheet: https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Solar PhotovoltaicsTo compete in today’s energy market, photovoltaic (PV) fabrication enterprises require solar manufacturing equipment that increases productivity and reduces costs.: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Explore Solar Photovoltaics: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+  ↓
+Ascent AMS II Pulsed and DC Power SystemWater coolingModular and scalableEmbedded PowerInsight®  by Advanced Energy™ IoT intelligenceWide mains voltage rangeExpanded operating rangeArc Management System™ (AMS) technology — customer pre-sets for metal and ceramic targetsSet Point Compensation™ technologyArc-Sync™ technology — primary/secondary up to 12 unitsEthernet, EtherCAT®, Profibus ,RS-232/485, Ethernet/IP, and analog communications

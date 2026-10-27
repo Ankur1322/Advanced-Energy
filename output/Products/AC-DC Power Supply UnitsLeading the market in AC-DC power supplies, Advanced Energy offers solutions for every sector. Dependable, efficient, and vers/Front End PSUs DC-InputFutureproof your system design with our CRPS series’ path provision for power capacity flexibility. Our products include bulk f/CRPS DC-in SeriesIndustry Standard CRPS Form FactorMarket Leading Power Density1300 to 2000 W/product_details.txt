@@ -1,0 +1,114 @@
+==============================================================================
+PRODUCT DETAILS: CRPS DC-in SeriesIndustry Standard CRPS Form FactorMarket Leading Power Density1300 to 2000 W
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs DC-InputFutureproof your system design with our CRPS series’ path provision for power capacity flexibility. Our products include bulk front-end DS series housed in a 1U high rack-mounting enclosure with a short form factor that frees up system space.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/dc-dc-front-end-psu/
+Category Description: Futureproof your system design with our CRPS series’ path provision for power capacity flexibility. Our products include bulk front-end DS series housed in a 1U high rack-mounting enclosure with a short form factor that frees up system space.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: CRPS DC-in SeriesIndustry Standard CRPS Form FactorMarket Leading Power Density1300 to 2000 W
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/dc-dc-front-end-psu/crps-dc-in-series/
+
+Complete Product Description:
+The CRPS DC-in Series from Advanced Energy is the ideal solution for businesses looking for a reliable and high-performance DC input power supply.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - CRPS Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/7ebc75c8-91ea-49e0-9ede-7b6029bf535f/crps_brochure_sc_1551452237.pdf
+  - CRPS Brochure - English Version: https://www.advancedenergy.com/getmedia/0175c847-11aa-4033-80b2-612353cd34ff/crps_brochure_1551452162.pdf
+  - CSU1300ADC Datasheet: https://www.advancedenergy.com/getmedia/5de61473-7b85-4c09-9cba-5d05f919fd56/eng-csu1300adc-235-01_10_12_211634088466.pdf
+  - CSU2000ADC Datasheet: https://www.advancedenergy.com/getmedia/2b6b853a-94ad-4228-9f67-c22a96b1375a/ENG-CSU2000ADC-3-600-03-18-24.pdf
+  - CSU1300ADC-3 BIS Certificate: https://www.advancedenergy.com/getmedia/cb7f2e3a-3bff-4401-a273-4077dc9dba69/CSU1300ADC-3,-CSU1300ADC-3F_BIS-R-41053511-50220_19NOV21.pdf
+  - CSU1300ADC-3 CB Certificate: https://www.advancedenergy.com/getmedia/09933ce9-2ba3-4b71-b547-4b9fc580d0ae/CSU1300ADC-3,-CSU1300ADC-3F_UL-CB_9NOV22.pdf
+  - CSU1300ADC-3 CCC ZS: https://www.advancedenergy.com/getmedia/04eb93f9-4fe6-4e4e-9244-8a5d28cc71ad/CSU1300ADC-3,-CSU1300ADC-3F_CCC-ZS_07MAR24.pdf
+  - CSU1300ADC-3 CE DoC: https://www.advancedenergy.com/getmedia/d0b61c26-35c9-448a-9780-70ad368cfe5a/CSU1300ADC-3,-CSU1300ADC-3F_CE_26AUG21.pdf
+  - CSU1300ADC-3 DEMKO Certificate: https://www.advancedenergy.com/getmedia/5024b8a0-c350-4bcb-a55c-74b4b5f3943d/CSU1300ADC-3,-CSU1300ADC-3F_DEMKO_25NOV21.pdf
+  - CSU1300ADC-3 KC (EMC): https://www.advancedenergy.com/getmedia/7e0a8f53-ded0-4f1e-ade4-c268f073e922/CSU1300ADC-3,-CSU1300ADC-3F_KCC_14DEC21.pdf
+  - CSU1300ADC-3 KC (Safety): https://www.advancedenergy.com/getmedia/87ea6872-c051-4422-b1fc-88708b48682a/CSU1300ADC-3,-CSU1300ADC-3F_KTL_29DEC21.pdf
+  - CSU1300ADC-3 UKCA: https://www.advancedenergy.com/getmedia/c9e54913-b347-4310-86da-faead1283d05/CSU1300ADC-3,-CSU1300ADC-3F_UKCA_26AUG21.pdf
+  - CSU1300ADC-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/2453cfef-444b-4f48-b7c8-22a762a62996/CSU1300ADC-3,-CSU1300ADC-3F_UL-CoC_211126.pdf
+  - CSU2000ADC-3 BIS Certificate: https://www.advancedenergy.com/getmedia/dd07574b-8331-429a-b444-2bf88f1324b7/CSU2000ADC-3_BIS-R-41053511-41000_201201.pdf
+  - CSU2000ADC-3 CB Certificate: https://www.advancedenergy.com/getmedia/934d1ad6-08c5-46f6-92b1-bf2c4028ebc8/CSU2000ADC-3,-CSU2000ADC-3H_UL-CB_220916.pdf
+  - CSU2000ADC-3 CE DoC: https://www.advancedenergy.com/getmedia/2adb0e6b-5cf5-4e6a-a3b8-5a7b9d0e22b5/CSU2000ADC-3,-CSU2000ADC-3H_CE_03DEC21.pdf
+  - CSU2000ADC-3 CQC ZS: https://www.advancedenergy.com/getmedia/fc486566-c46b-4950-9b0c-101dc487556e/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_CQC-ZS_240307.pdf
+  - CSU2000ADC-3 DEMKO Certificate: https://www.advancedenergy.com/getmedia/1d35ce9c-1996-40c4-85f4-3299bbc3375b/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_DEMKO_240926.pdf
+  - CSU2000ADC-3 KC (EMC): https://www.advancedenergy.com/getmedia/c542b0be-9f57-4684-95cd-de19fa8f2627/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_KCC_19JUN23.pdf
+  - CSU2000ADC-3 KC (Safety): https://www.advancedenergy.com/getmedia/f47758fb-1305-4697-be36-2f6004f7ca23/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_KTL_19OCT22.pdf
+  - CSU2000ADC-3 UKCA: https://www.advancedenergy.com/getmedia/c9e19224-810f-4df9-b35f-5931dbb0c124/CSU2000ADC-3,-CSU2000ADC-3H_UKCA_211129.pdf
+  - CSU2000ADC-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/16f865d1-6ff0-4757-995a-c98966049f54/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_UL-COC_26SEP22.pdf
+  - CSU1300ADC-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/429fb3e2-0422-4d4a-9e08-b6690e44fd3e/CSU1300ADC-3,-CSU1300ADC-3F-SIM.pdf
+  - CSU2000ADC-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/9823b1a1-5bd6-4bec-9ece-1efa34a3be08/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3-SIM.pdf
+  - CSU1300ADC-3 TRN: https://www.advancedenergy.com/getmedia/d3fc1d34-9f07-444c-b2b6-8f83e0dd01e8/TRN-DC-DC-CSU1300ADC-3-Release-1-0-(2023-05-17).pdf
+  - CSU2000ADC-3 Technical Reference Note: https://www.advancedenergy.com/getmedia/f5dc3583-98a1-4c0e-9646-e074a347bbba/trn_dc-dc_csu2000adc-3_release1619088107_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/7ebc75c8-91ea-49e0-9ede-7b6029bf535f/crps_brochure_sc_1551452237.pdf
+  - https://www.advancedenergy.com/getmedia/0175c847-11aa-4033-80b2-612353cd34ff/crps_brochure_1551452162.pdf
+  - https://www.advancedenergy.com/getmedia/5de61473-7b85-4c09-9cba-5d05f919fd56/eng-csu1300adc-235-01_10_12_211634088466.pdf
+  - https://www.advancedenergy.com/getmedia/2b6b853a-94ad-4228-9f67-c22a96b1375a/ENG-CSU2000ADC-3-600-03-18-24.pdf
+  - https://www.advancedenergy.com/getmedia/cb7f2e3a-3bff-4401-a273-4077dc9dba69/CSU1300ADC-3,-CSU1300ADC-3F_BIS-R-41053511-50220_19NOV21.pdf
+  - https://www.advancedenergy.com/getmedia/09933ce9-2ba3-4b71-b547-4b9fc580d0ae/CSU1300ADC-3,-CSU1300ADC-3F_UL-CB_9NOV22.pdf
+  - https://www.advancedenergy.com/getmedia/04eb93f9-4fe6-4e4e-9244-8a5d28cc71ad/CSU1300ADC-3,-CSU1300ADC-3F_CCC-ZS_07MAR24.pdf
+  - https://www.advancedenergy.com/getmedia/d0b61c26-35c9-448a-9780-70ad368cfe5a/CSU1300ADC-3,-CSU1300ADC-3F_CE_26AUG21.pdf
+  - https://www.advancedenergy.com/getmedia/5024b8a0-c350-4bcb-a55c-74b4b5f3943d/CSU1300ADC-3,-CSU1300ADC-3F_DEMKO_25NOV21.pdf
+  - https://www.advancedenergy.com/getmedia/7e0a8f53-ded0-4f1e-ade4-c268f073e922/CSU1300ADC-3,-CSU1300ADC-3F_KCC_14DEC21.pdf
+  - https://www.advancedenergy.com/getmedia/87ea6872-c051-4422-b1fc-88708b48682a/CSU1300ADC-3,-CSU1300ADC-3F_KTL_29DEC21.pdf
+  - https://www.advancedenergy.com/getmedia/c9e54913-b347-4310-86da-faead1283d05/CSU1300ADC-3,-CSU1300ADC-3F_UKCA_26AUG21.pdf
+  - https://www.advancedenergy.com/getmedia/2453cfef-444b-4f48-b7c8-22a762a62996/CSU1300ADC-3,-CSU1300ADC-3F_UL-CoC_211126.pdf
+  - https://www.advancedenergy.com/getmedia/dd07574b-8331-429a-b444-2bf88f1324b7/CSU2000ADC-3_BIS-R-41053511-41000_201201.pdf
+  - https://www.advancedenergy.com/getmedia/934d1ad6-08c5-46f6-92b1-bf2c4028ebc8/CSU2000ADC-3,-CSU2000ADC-3H_UL-CB_220916.pdf
+  - https://www.advancedenergy.com/getmedia/2adb0e6b-5cf5-4e6a-a3b8-5a7b9d0e22b5/CSU2000ADC-3,-CSU2000ADC-3H_CE_03DEC21.pdf
+  - https://www.advancedenergy.com/getmedia/fc486566-c46b-4950-9b0c-101dc487556e/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_CQC-ZS_240307.pdf
+  - https://www.advancedenergy.com/getmedia/1d35ce9c-1996-40c4-85f4-3299bbc3375b/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_DEMKO_240926.pdf
+  - https://www.advancedenergy.com/getmedia/c542b0be-9f57-4684-95cd-de19fa8f2627/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_KCC_19JUN23.pdf
+  - https://www.advancedenergy.com/getmedia/f47758fb-1305-4697-be36-2f6004f7ca23/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_KTL_19OCT22.pdf
+  - https://www.advancedenergy.com/getmedia/c9e19224-810f-4df9-b35f-5931dbb0c124/CSU2000ADC-3,-CSU2000ADC-3H_UKCA_211129.pdf
+  - https://www.advancedenergy.com/getmedia/16f865d1-6ff0-4757-995a-c98966049f54/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3_UL-COC_26SEP22.pdf
+  - https://www.advancedenergy.com/getmedia/429fb3e2-0422-4d4a-9e08-b6690e44fd3e/CSU1300ADC-3,-CSU1300ADC-3F-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/9823b1a1-5bd6-4bec-9ece-1efa34a3be08/CSU2000ADC-3,-CSU2000ADC-3H,-CSU2000BDC-3-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/d3fc1d34-9f07-444c-b2b6-8f83e0dd01e8/TRN-DC-DC-CSU1300ADC-3-Release-1-0-(2023-05-17).pdf
+  - https://www.advancedenergy.com/getmedia/f5dc3583-98a1-4c0e-9646-e074a347bbba/trn_dc-dc_csu2000adc-3_release1619088107_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b59ede9a-582d-4448-a1dc-76308e335108/CRPS-DC-in-Series-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs DC-InputFutureproof your system design with our CRPS series’ path provision for power capacity flexibility. Our products include bulk front-end DS series housed in a 1U high rack-mounting enclosure with a short form factor that frees up system space.
+  ↓
+CRPS DC-in SeriesIndustry Standard CRPS Form FactorMarket Leading Power Density1300 to 2000 W

@@ -1,0 +1,113 @@
+==============================================================================
+PRODUCT DETAILS: NavX™Advanced Selectable TuningTight synchronization with eVerest RF generatorsOptimized hardware and tuning algorithm±10% frequency range
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: RF Match NetworksAdvanced Energy’s match networks expertly perform in multiple power ranges.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/
+Category Description: Advanced Energy’s match networks expertly perform in multiple power ranges.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: NavX™Advanced Selectable TuningTight synchronization with eVerest RF generatorsOptimized hardware and tuning algorithm±10% frequency range
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/navx/
+
+Complete Product Description:
+Ensure plasma control with NavX™, the leading RF Matching Network, featuring ultrafast impedance matching & pulse tuning in a cutting-edge RF delivery system.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - eVerest and NavX RF Delivery System: https://www.advancedenergy.com/getmedia/cad90315-8a0e-4706-ba8d-ac173792d9f8/ENG-eVerest-NavX-RF-Delivery-System-Brochure.pdf
+  - eVerest Brochure: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/eng-everest-brochure-v2.pdf
+  - NavX Matching Network Brochure: https://www.advancedenergy.com/getmedia/7ba17fcb-8d83-487b-a7f4-b37efe804a22/ENG-NavX-Matching-Network-Brochure.pdf
+  - PowerInsight by Advanced Energy Brochure: https://www.advancedenergy.com/getmedia/ee6b7164-1450-43a9-a450-080bd086e7ae/ENG-PowerInsight-255-04.pdf
+  - RF Calibration Solutions: https://www.advancedenergy.com/getmedia/fdb77205-7412-4f11-b822-5fbbc8667ef9/en-srv-ae-global-services-rf-calibration.pdf
+  - Navigator II Digital Matching Networks Brochure: https://www.advancedenergy.com/getmedia/835ef9e7-d9b4-4993-8842-7ec4ffb3c530/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - Navigator II Vacuum Capacitor Health Predictive Maintenance with PowerInsight Case Study: https://www.advancedenergy.com/getmedia/4733fc1a-9518-405e-a69f-dbd76d9f51cd/en-prdsltn-powerinsight-navigator-ii-case-study.pdf
+  - Forward and Reflected Power: What Does It Mean?: https://www.advancedenergy.com/getmedia/e53e1f11-9396-44e0-928f-4d48b51975d2/en-rf-forwardreflectedpower-white-paper.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/cad90315-8a0e-4706-ba8d-ac173792d9f8/ENG-eVerest-NavX-RF-Delivery-System-Brochure.pdf
+  - https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/eng-everest-brochure-v2.pdf
+  - https://www.advancedenergy.com/getmedia/7ba17fcb-8d83-487b-a7f4-b37efe804a22/ENG-NavX-Matching-Network-Brochure.pdf
+  - https://www.advancedenergy.com/getmedia/ee6b7164-1450-43a9-a450-080bd086e7ae/ENG-PowerInsight-255-04.pdf
+  - https://www.advancedenergy.com/getmedia/fdb77205-7412-4f11-b822-5fbbc8667ef9/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/835ef9e7-d9b4-4993-8842-7ec4ffb3c530/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/4733fc1a-9518-405e-a69f-dbd76d9f51cd/en-prdsltn-powerinsight-navigator-ii-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/e53e1f11-9396-44e0-928f-4d48b51975d2/en-rf-forwardreflectedpower-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/18b811de-acaa-4f65-82af-c8c9e1e8a2e0/NavX_Render700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/f472bb27-d3c2-4f55-8c34-b2263846e016/NPI-2-V2-(1).png
+  - Image: https://img.youtube.com/vi/GGe_Nl-LVyQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18b811de-acaa-4f65-82af-c8c9e1e8a2e0/NavX_Render700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/f472bb27-d3c2-4f55-8c34-b2263846e016/NPI-2-V2-(1).png
+  - Image: https://img.youtube.com/vi/GGe_Nl-LVyQ/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18b811de-acaa-4f65-82af-c8c9e1e8a2e0/NavX_Render700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/f472bb27-d3c2-4f55-8c34-b2263846e016/NPI-2-V2-(1).png
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Unleash the Power: NavX™ RF Matching Network: https://i.ytimg.com/vi/GGe_Nl-LVyQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6f2d2664-63d5-4677-aba0-8ce2e978a073/RFDS-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/bc430602-47ab-49f0-9033-0d2407694ea2/rf-navigator-ii-66b-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eff6a1bf-93e7-4bef-bb78-0478257facca/aei_everest_fr_t700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/36af2c8c-2a82-456e-bbe0-57cce54efd95/Plasma-Processes-and-Materials.png
+  - Image: https://www.advancedenergy.com/getattachment/36af2c8c-2a82-456e-bbe0-57cce54efd95/Plasma-Processes-and-Materials.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedRF Delivery System eVerest™ and NavX™Forming a complete RF delivery system, the eVerest RF generator and NavX matching network propel process innovation as chips approach Angstrom scale geometries.: https://www.advancedenergy.com/en-us/products/plasma-power-products/power-delivery-systems/rfds/
+  - FeaturedNavigator IIRapid, Accurate, and Reliable Digitally-Tuned Matching: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/navigator-ii/
+  - Datasheet: https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - FeaturedeVerest® RF GeneratorAngstrom Era Precision Power: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/everest/
+  - Datasheet: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Plasma Processes and MaterialsOur specialized solutions provide precise power delivery and control to ensure consistent quality for plasma processes and materials.: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/
+  - Explore Plasma Processes and Materials: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+RF Match NetworksAdvanced Energy’s match networks expertly perform in multiple power ranges.
+  ↓
+NavX™Advanced Selectable TuningTight synchronization with eVerest RF generatorsOptimized hardware and tuning algorithm±10% frequency range

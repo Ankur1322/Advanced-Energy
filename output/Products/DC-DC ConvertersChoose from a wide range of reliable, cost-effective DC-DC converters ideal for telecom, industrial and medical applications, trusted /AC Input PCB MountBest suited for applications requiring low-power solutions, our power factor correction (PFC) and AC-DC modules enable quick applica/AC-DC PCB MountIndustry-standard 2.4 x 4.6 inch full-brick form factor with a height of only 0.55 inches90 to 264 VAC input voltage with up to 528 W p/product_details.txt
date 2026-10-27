@@ -1,0 +1,135 @@
+==============================================================================
+PRODUCT DETAILS: AC-DC PCB MountIndustry-standard 2.4 x 4.6 inch full-brick form factor with a height of only 0.55 inches90 to 264 VAC input voltage with up to 528 W power ratingAdjustable output voltage of 12 V or 48 V, nominal
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/
+Category Description: Best suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AC-DC PCB MountIndustry-standard 2.4 x 4.6 inch full-brick form factor with a height of only 0.55 inches90 to 264 VAC input voltage with up to 528 W power ratingAdjustable output voltage of 12 V or 48 V, nominal
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/acdc-bmp/
+
+Complete Product Description:
+Advanced Energy addresses AC-DC conversion requirements from a wide range of applications with a portfolio of cost-effective power factor conversion (PFC) and AC-DC modules that allow designers to quickly implement application-specific power supplies.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/90605d48-8ee6-4219-94ef-ef9f4b958ab0/eng-aif500-235-01_4_2_1648870387.pdf
+  - AIF13WAC Datasheet: https://www.advancedenergy.com/getmedia/979bdbe0-3049-4a83-a094-2cf7c65d5067/ENG-AIF13WAC-01NT-3-23-2026.pdf
+  - AIF500 (AIF42) Datasheet: https://www.advancedenergy.com/getmedia/90605d48-8ee6-4219-94ef-ef9f4b958ab0/ENG-AIF500-235-01-05-08-24.pdf
+  - AIF500 Case Kit Datasheet: https://www.advancedenergy.com/getmedia/d0d84f2e-7a28-4f07-ba55-238188063978/ENG-AIF500-CASE-KIT-235-01-06-12-25.pdf
+  - AIF13WAC Certificate: https://www.advancedenergy.com/getmedia/e6fe48b1-4c97-438c-a540-aad31bb217cb/AIF13WAC_4532_B-013890-3537-Rev-00_251106.pdf
+  - AIF13WAC Certificate of Compliance: https://www.advancedenergy.com/getmedia/1e587560-ea99-4ffd-b78c-f0e597d0d919/AIF13WAC_UL-US-2590903-0_251106.pdf
+  - AIF13WAC IEC 62368-1: https://www.advancedenergy.com/getmedia/8f70b009-70d9-4aed-b59c-79d5c6bc7a2b/AIF13WAC-CB-pages.pdf
+  - AIF13WAC IECEE Certificate: https://www.advancedenergy.com/getmedia/69cc386e-91f1-4ab2-b2aa-f3c8622e49fd/AIF13WAC_DK-172865-UL_251106.pdf
+  - AIF13WAC UL Solutions Certification: https://www.advancedenergy.com/getmedia/185815af-3957-4d64-a236-ab651f1270bd/AIF13WAC_4533_E132002-A6239-UL-NoA_251105.pdf
+  - AIF13WAC UL Test Report and Procedure: https://www.advancedenergy.com/getmedia/78b68e83-e031-49d4-bd71-9f50ca3fe8cb/AIF13WAC_4533_E132002-A6239-UL_251105.pdf
+  - REACH certificate for AIF18: https://www.advancedenergy.com/getmedia/97ee5a99-0c1f-41e8-8a2c-0d9b5fd6f5bb/REACh-CoC_240_AIF18RAC-01N.pdf
+  - REACH certificate for AIF21: https://www.advancedenergy.com/getmedia/526ea21b-18de-4b5c-af55-1e692e1a750d/REACh-CoC_240_AIF21HAC-01N.pdf
+  - RoHS certificate for AIF18: https://www.advancedenergy.com/getmedia/e7b1657b-373f-4ed2-848e-725e8e910d30/RoHS3-CoC_AIF18RAC-01N.pdf
+  - RoHS certificate for AIF21: https://www.advancedenergy.com/getmedia/31201e7b-5a0a-4a30-a087-7006d36c8c97/RoHS3-CoC_AIF21HAC-01N.pdf
+  - AIF-500 REACH cert REACH Certificate: https://www.advancedenergy.com/getmedia/b82abeab-09f0-4c85-8cea-3fc1690c99bb/reach_coc_aif42bac-01n_1649060795_REACH.pdf
+  - AIF-500 RoHS Certificate: https://www.advancedenergy.com/getmedia/3389252e-be8d-4d3a-be62-711c7bb89f70/aif42bac-01n_rohs_coc_1648735868_rohs_.pdf
+  - AIF11WAC TUV Certificate: https://www.advancedenergy.com/getmedia/fd428c4b-b93b-43b1-bd11-24234ec2dc4a/AIF11WAC_TUV_27OCT22.pdf
+  - AIF11WAC UKCA: https://www.advancedenergy.com/getmedia/7c263038-f909-41e2-9290-91b51529593e/AIF11WAC_UKCA_221115.pdf
+  - AIF11WAC,-AIF18RAC,-AIF21HAC CB Certificate: https://www.advancedenergy.com/getmedia/7db2f170-f2cd-4de3-8870-a86d6cd401ca/AIF11WAC,-AIF18RAC,-AIF21HAC_TUV-CB_240730.pdf
+  - AIF11WAC,-AIF18RAC,-AIF21HAC CE DoC: https://www.advancedenergy.com/getmedia/9d54e6c1-794a-4a88-9b69-ec51fde86edc/AIF11WAC,-AIF18RAC,-AIF21HAC_CE_240726.pdf
+  - AIF11WAC,-AIF18RAC,-AIF21HAC UL/CSA Certificate: https://www.advancedenergy.com/getmedia/ba4a8733-2467-4506-aa48-f1af16dbf45b/AIF11WAC,-AIF18RAC,-AIF21HAC_UL-CoC_240719.pdf
+  - AIF42BAC CB Certificate: https://www.advancedenergy.com/getmedia/7c0515ed-b020-4c1c-a418-5c75d829f0db/AIF42BAC_TUV-CB_02AUG21.pdf
+  - AIF42BAC CE DoC: https://www.advancedenergy.com/getmedia/aeb3be37-774b-417e-9a40-f4f96740d016/AIF42BAC_CE_210805.pdf
+  - AIF42BAC TUV Certificate: https://www.advancedenergy.com/getmedia/f13f8964-cd1b-4425-a505-9c57f2588986/AIF42BAC_TUV_03AUG21.pdf
+  - AIF42BAC UKCA: https://www.advancedenergy.com/getmedia/f1903f82-b3bf-47a1-8e5f-53dfc59e5fac/AIF42BAC_UKCA_210805.pdf
+  - AIF42BAC UL/CSA Certificate: https://www.advancedenergy.com/getmedia/ead3aafc-aaf7-4f96-8aa1-700013e42721/AIF42BAC_UL-COC_05AUG21.pdf
+  - AIF11WAC,-AIF18RAC,-AIF21HAC Safety Instruction Manual: https://www.advancedenergy.com/getmedia/66c31f33-7acc-4124-9d21-a58836bf5914/AIF11WAC,-AIF18RAC,-AIF21HAC-SIM.pdf
+  - AIF42BAC Safety Instruction Manual: https://www.advancedenergy.com/getmedia/f30f2589-25a1-47c0-9819-63c73299315e/AIF42BAC-SIM.pdf
+  - AIF-500 Application Solution Brief: https://www.advancedenergy.com/getmedia/038e8aae-48c1-4fe1-bc6e-4cedd4bf9e52/eng-aif500-solution-brief_v1-01649188802_ASB.pdf
+  - AIF-500 Insulator Drawing: https://www.advancedenergy.com/getmedia/55ce757d-6534-462d-879a-cbb79261e7d6/en-insulator-drawing-AIF500-Case-kit-2025.pdf
+  - AIF-500 Screen Drawing: https://www.advancedenergy.com/getmedia/e2c6bf0c-9a14-4465-b7f7-67d23ce40c02/en-screen-drawing-AIF500-case-kit-2025.pdf
+  - AIF Packaging Assembly Drawing (Pallet) Technical Reference: https://www.advancedenergy.com/getmedia/0b34fa34-ae9e-407e-a310-024365b738e9/669-000271-0001_ab_-_packaging1648735723_techref.pdf
+  - AIF Packaging Assembly Drawing Technical Reference: https://www.advancedenergy.com/getmedia/0713bbd2-7e47-446a-9948-40981199d718/669-000271-0001_ab_-_packaging1648735653_techref.pdf
+  - AIF11WAC Tech Ref Note Technical Reference: https://www.advancedenergy.com/getmedia/b6cfd7ac-5282-424a-9f95-2176578d9275/TRN-AC-DC-AIF11WAC-01N-Release-2-4-(2026-04-28).pdf
+  - AIF13WAC TRN: https://www.advancedenergy.com/getmedia/ad17e9c7-4b0c-483b-b3ab-b458aa0734c9/TRN-AC-DC-AIF13WAC-01NT-Released-1-0-(2026-3-23).pdf
+  - AIF500 Technical Reference Note: https://www.advancedenergy.com/getmedia/531e7455-f296-4f00-bf63-8c2cd17607f1/TRN-AC-DC-AIF42BAC-01N-Release-2-4-(2026-04-27).pdf
+  - Technical Reference Note for AIF18: https://www.advancedenergy.com/getmedia/26979b0b-4313-475a-86f5-95e156625ee9/TRN-AC-DC-AIF18RAC-01N-Release-1-4-(2026-04-27).pdf
+  - Technical Reference Note for AIF21: https://www.advancedenergy.com/getmedia/fd0c757a-6b22-4a9f-a0d1-f8f92ad4f036/TRN-AC-DC-AIF21HAC-01N-Release-1-4-(2026-04-28).pdf
+  - Driving Innovation in Telecom and Datacenter Infrastructure: https://www.advancedenergy.com/getmedia/af72215c-6f27-4ecd-b37c-490431ff8fe0/ENG-Telecom-and-Datacenter-Case-Study-295-01-(1).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/90605d48-8ee6-4219-94ef-ef9f4b958ab0/eng-aif500-235-01_4_2_1648870387.pdf
+  - https://www.advancedenergy.com/getmedia/979bdbe0-3049-4a83-a094-2cf7c65d5067/ENG-AIF13WAC-01NT-3-23-2026.pdf
+  - https://www.advancedenergy.com/getmedia/90605d48-8ee6-4219-94ef-ef9f4b958ab0/ENG-AIF500-235-01-05-08-24.pdf
+  - https://www.advancedenergy.com/getmedia/d0d84f2e-7a28-4f07-ba55-238188063978/ENG-AIF500-CASE-KIT-235-01-06-12-25.pdf
+  - https://www.advancedenergy.com/getmedia/e6fe48b1-4c97-438c-a540-aad31bb217cb/AIF13WAC_4532_B-013890-3537-Rev-00_251106.pdf
+  - https://www.advancedenergy.com/getmedia/1e587560-ea99-4ffd-b78c-f0e597d0d919/AIF13WAC_UL-US-2590903-0_251106.pdf
+  - https://www.advancedenergy.com/getmedia/8f70b009-70d9-4aed-b59c-79d5c6bc7a2b/AIF13WAC-CB-pages.pdf
+  - https://www.advancedenergy.com/getmedia/69cc386e-91f1-4ab2-b2aa-f3c8622e49fd/AIF13WAC_DK-172865-UL_251106.pdf
+  - https://www.advancedenergy.com/getmedia/185815af-3957-4d64-a236-ab651f1270bd/AIF13WAC_4533_E132002-A6239-UL-NoA_251105.pdf
+  - https://www.advancedenergy.com/getmedia/78b68e83-e031-49d4-bd71-9f50ca3fe8cb/AIF13WAC_4533_E132002-A6239-UL_251105.pdf
+  - https://www.advancedenergy.com/getmedia/97ee5a99-0c1f-41e8-8a2c-0d9b5fd6f5bb/REACh-CoC_240_AIF18RAC-01N.pdf
+  - https://www.advancedenergy.com/getmedia/526ea21b-18de-4b5c-af55-1e692e1a750d/REACh-CoC_240_AIF21HAC-01N.pdf
+  - https://www.advancedenergy.com/getmedia/e7b1657b-373f-4ed2-848e-725e8e910d30/RoHS3-CoC_AIF18RAC-01N.pdf
+  - https://www.advancedenergy.com/getmedia/31201e7b-5a0a-4a30-a087-7006d36c8c97/RoHS3-CoC_AIF21HAC-01N.pdf
+  - https://www.advancedenergy.com/getmedia/b82abeab-09f0-4c85-8cea-3fc1690c99bb/reach_coc_aif42bac-01n_1649060795_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/3389252e-be8d-4d3a-be62-711c7bb89f70/aif42bac-01n_rohs_coc_1648735868_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/fd428c4b-b93b-43b1-bd11-24234ec2dc4a/AIF11WAC_TUV_27OCT22.pdf
+  - https://www.advancedenergy.com/getmedia/7c263038-f909-41e2-9290-91b51529593e/AIF11WAC_UKCA_221115.pdf
+  - https://www.advancedenergy.com/getmedia/7db2f170-f2cd-4de3-8870-a86d6cd401ca/AIF11WAC,-AIF18RAC,-AIF21HAC_TUV-CB_240730.pdf
+  - https://www.advancedenergy.com/getmedia/9d54e6c1-794a-4a88-9b69-ec51fde86edc/AIF11WAC,-AIF18RAC,-AIF21HAC_CE_240726.pdf
+  - https://www.advancedenergy.com/getmedia/ba4a8733-2467-4506-aa48-f1af16dbf45b/AIF11WAC,-AIF18RAC,-AIF21HAC_UL-CoC_240719.pdf
+  - https://www.advancedenergy.com/getmedia/7c0515ed-b020-4c1c-a418-5c75d829f0db/AIF42BAC_TUV-CB_02AUG21.pdf
+  - https://www.advancedenergy.com/getmedia/aeb3be37-774b-417e-9a40-f4f96740d016/AIF42BAC_CE_210805.pdf
+  - https://www.advancedenergy.com/getmedia/f13f8964-cd1b-4425-a505-9c57f2588986/AIF42BAC_TUV_03AUG21.pdf
+  - https://www.advancedenergy.com/getmedia/f1903f82-b3bf-47a1-8e5f-53dfc59e5fac/AIF42BAC_UKCA_210805.pdf
+  - https://www.advancedenergy.com/getmedia/ead3aafc-aaf7-4f96-8aa1-700013e42721/AIF42BAC_UL-COC_05AUG21.pdf
+  - https://www.advancedenergy.com/getmedia/66c31f33-7acc-4124-9d21-a58836bf5914/AIF11WAC,-AIF18RAC,-AIF21HAC-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/f30f2589-25a1-47c0-9819-63c73299315e/AIF42BAC-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/038e8aae-48c1-4fe1-bc6e-4cedd4bf9e52/eng-aif500-solution-brief_v1-01649188802_ASB.pdf
+  - https://www.advancedenergy.com/getmedia/55ce757d-6534-462d-879a-cbb79261e7d6/en-insulator-drawing-AIF500-Case-kit-2025.pdf
+  - https://www.advancedenergy.com/getmedia/e2c6bf0c-9a14-4465-b7f7-67d23ce40c02/en-screen-drawing-AIF500-case-kit-2025.pdf
+  - https://www.advancedenergy.com/getmedia/0b34fa34-ae9e-407e-a310-024365b738e9/669-000271-0001_ab_-_packaging1648735723_techref.pdf
+  - https://www.advancedenergy.com/getmedia/0713bbd2-7e47-446a-9948-40981199d718/669-000271-0001_ab_-_packaging1648735653_techref.pdf
+  - https://www.advancedenergy.com/getmedia/b6cfd7ac-5282-424a-9f95-2176578d9275/TRN-AC-DC-AIF11WAC-01N-Release-2-4-(2026-04-28).pdf
+  - https://www.advancedenergy.com/getmedia/ad17e9c7-4b0c-483b-b3ab-b458aa0734c9/TRN-AC-DC-AIF13WAC-01NT-Released-1-0-(2026-3-23).pdf
+  - https://www.advancedenergy.com/getmedia/531e7455-f296-4f00-bf63-8c2cd17607f1/TRN-AC-DC-AIF42BAC-01N-Release-2-4-(2026-04-27).pdf
+  - https://www.advancedenergy.com/getmedia/26979b0b-4313-475a-86f5-95e156625ee9/TRN-AC-DC-AIF18RAC-01N-Release-1-4-(2026-04-27).pdf
+  - https://www.advancedenergy.com/getmedia/fd0c757a-6b22-4a9f-a0d1-f8f92ad4f036/TRN-AC-DC-AIF21HAC-01N-Release-1-4-(2026-04-28).pdf
+  - https://www.advancedenergy.com/getmedia/af72215c-6f27-4ecd-b37c-490431ff8fe0/ENG-Telecom-and-Datacenter-Case-Study-295-01-(1).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b58ee931-bf03-415f-97a7-55cdd944f060/AIF500.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ab93c6b8-b0b8-4676-8514-ea41a96ca756/Page-image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+  ↓
+AC-DC PCB MountIndustry-standard 2.4 x 4.6 inch full-brick form factor with a height of only 0.55 inches90 to 264 VAC input voltage with up to 528 W power ratingAdjustable output voltage of 12 V or 48 V, nominal

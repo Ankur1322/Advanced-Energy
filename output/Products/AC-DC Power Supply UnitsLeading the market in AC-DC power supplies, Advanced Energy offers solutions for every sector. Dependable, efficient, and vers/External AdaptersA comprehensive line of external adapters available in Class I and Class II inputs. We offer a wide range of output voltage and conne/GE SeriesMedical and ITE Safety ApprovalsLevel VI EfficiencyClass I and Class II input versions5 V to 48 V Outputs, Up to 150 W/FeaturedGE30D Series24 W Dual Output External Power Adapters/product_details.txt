@@ -1,0 +1,122 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedGE30D Series24 W Dual Output External Power Adapters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: GE SeriesMedical and ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 150 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/
+Category Description: The GE family is part of Advanced Energy's SL Power line of external adapters and offers 3 products under this family ranging from 30 W to 150 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedGE30D Series24 W Dual Output External Power Adapters
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/ge30d-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power GE30D series of desktop AT A GLANCE AC-DC external power adapters provide up to 24 W dual output power with IP20 rated enclosure.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/d5e83ebb-10d3-45c6-a27d-07901b09a62c/ENG-GE30D-235-01%2005.18.23.pdf
+  - GE30D Datasheet: https://www.advancedenergy.com/getmedia/d5e83ebb-10d3-45c6-a27d-07901b09a62c/ENG-GE30D-235-01%2005.18.23.pdf
+  - EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/1237190c-8f5e-4809-859b-6301eb48caab/EU-Declaration-of-Conformity.pdf
+  - GE30D CB Certificate: https://www.advancedenergy.com/getmedia/2e12702d-dc46-478d-be69-fc19403e8011/GE30D%20CB%20Certificate.pdf
+  - GE30D Certificate of Conformity: https://www.advancedenergy.com/getmedia/7f2e0322-9974-4896-9c23-8c4403a8a2a8/GE30D%20Certificate%20of%20Conformity.pdf
+  - GE30D PSE Certificate: https://www.advancedenergy.com/getmedia/2513a62b-fc03-419b-a27c-27fb219dedad/GE30D%20PSE%20Certificate.pdf
+  - GE30D UL Certificate: https://www.advancedenergy.com/getmedia/c1ca7583-6d14-4393-8a11-08a7298d30de/GE30D%20UL%20Certificate.pdf
+  - GE30D Application Note: https://www.advancedenergy.com/getmedia/b30a9f77-bc9d-44ae-9986-f68f53898ea0/GE30D_Application_Note.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/451b6999-01ad-4dcc-b405-ce23c58dc553/ENG-SLE36N-235-01%2001.05.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/51202f7f-9efd-4adf-a0cd-173f0059b718/TE30-01%2011.9.22.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/d5e83ebb-10d3-45c6-a27d-07901b09a62c/ENG-GE30D-235-01%2005.18.23.pdf
+  - https://www.advancedenergy.com/getmedia/d5e83ebb-10d3-45c6-a27d-07901b09a62c/ENG-GE30D-235-01%2005.18.23.pdf
+  - https://www.advancedenergy.com/getmedia/1237190c-8f5e-4809-859b-6301eb48caab/EU-Declaration-of-Conformity.pdf
+  - https://www.advancedenergy.com/getmedia/2e12702d-dc46-478d-be69-fc19403e8011/GE30D%20CB%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/7f2e0322-9974-4896-9c23-8c4403a8a2a8/GE30D%20Certificate%20of%20Conformity.pdf
+  - https://www.advancedenergy.com/getmedia/2513a62b-fc03-419b-a27c-27fb219dedad/GE30D%20PSE%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/c1ca7583-6d14-4393-8a11-08a7298d30de/GE30D%20UL%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/b30a9f77-bc9d-44ae-9986-f68f53898ea0/GE30D_Application_Note.pdf
+  - https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - https://www.advancedenergy.com/getmedia/451b6999-01ad-4dcc-b405-ce23c58dc553/ENG-SLE36N-235-01%2001.05.23.pdf
+  - https://www.advancedenergy.com/getmedia/51202f7f-9efd-4adf-a0cd-173f0059b718/TE30-01%2011.9.22.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b313bae0-6118-4d06-9037-209a71d30a02/GE30D-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5b51ddcc-0895-46cd-9898-95c0187a78b7/GE30D-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1c9be93d-5653-4e71-ba2c-e45d69a1d29e/GE30D-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2b3ea812-55cf-47bb-8f3d-d6c9ff1cabcf/GE30D-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a4209219-7347-4dd8-8aaa-97ba6903ef42/GE30D-E.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35bea64a-bc55-42b2-969b-172bd7254dc5/GE30D-F.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b313bae0-6118-4d06-9037-209a71d30a02/GE30D-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5b51ddcc-0895-46cd-9898-95c0187a78b7/GE30D-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1c9be93d-5653-4e71-ba2c-e45d69a1d29e/GE30D-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2b3ea812-55cf-47bb-8f3d-d6c9ff1cabcf/GE30D-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a4209219-7347-4dd8-8aaa-97ba6903ef42/GE30D-E.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35bea64a-bc55-42b2-969b-172bd7254dc5/GE30D-F.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b313bae0-6118-4d06-9037-209a71d30a02/GE30D-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5b51ddcc-0895-46cd-9898-95c0187a78b7/GE30D-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1c9be93d-5653-4e71-ba2c-e45d69a1d29e/GE30D-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2b3ea812-55cf-47bb-8f3d-d6c9ff1cabcf/GE30D-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a4209219-7347-4dd8-8aaa-97ba6903ef42/GE30D-E.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35bea64a-bc55-42b2-969b-172bd7254dc5/GE30D-F.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9ecc59e3-b34b-47b6-ad68-c44dac4cdb57/ME30.jpg
+  - Image: https://www.advancedenergy.com/getattachment/172c2ba6-ef06-41d2-8be5-3fa182c7254e/SLE36-img-1569957039.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b8c12936-6dfc-4bfb-b685-f9627837075f/TE30.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedME30 Series20 to 30 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me30-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - FeaturedSLE36 Series36 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle36n/
+  - Datasheet: https://www.advancedenergy.com/getmedia/451b6999-01ad-4dcc-b405-ce23c58dc553/ENG-SLE36N-235-01%2001.05.23.pdf
+  - FeaturedTE30 Series20 W to 30 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te30-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/51202f7f-9efd-4adf-a0cd-173f0059b718/TE30-01%2011.9.22.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+GE SeriesMedical and ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 150 W
+  ↓
+FeaturedGE30D Series24 W Dual Output External Power Adapters

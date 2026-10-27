@@ -1,0 +1,97 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLCM 12 kW ShelvesLCM12K single output parallel redundant shelf: a centralized current source for medium- to large-scale LED lighting and horticulture
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/
+Category Description: AE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+
+[Level 3] Category Name: System Shelves1U system shelves enable numerous 12 kW applications using the LCM4000HV hot-plug power module.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/system-shelves/
+Category Description: 1U system shelves enable numerous 12 kW applications using the LCM4000HV hot-plug power module.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLCM 12 kW ShelvesLCM12K single output parallel redundant shelf: a centralized current source for medium- to large-scale LED lighting and horticulture
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/system-shelves/lcm-12k-shelf-7aae2be030b289adb84b108e175042b9/
+
+Complete Product Description:
+LCM12K single output parallel redundant shelf: a centralized current source for medium- to large-scale LED lighting and horticulture
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+  - Horticultural Lighting Brochure: https://www.advancedenergy.com/getmedia/c32feeaf-13d9-4a95-b1b8-4f76d5a933e2/ENG-Horticultual-Lighting-225-02.pdf
+  - LCM12K TRN: https://www.advancedenergy.com/getmedia/89db50c6-5a17-4754-b85f-602d4bbf8646/TRN-AC-DC-LCM12K-Release-1-4-(2023-06-03).pdf
+  - LCM4000HV Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - CB Test Certificate: https://www.advancedenergy.com/getmedia/19a61a04-28b9-4692-a404-3be99f742a1b/DK-122451-M2-UL.pdf
+  - Notice of Authorization: https://www.advancedenergy.com/getmedia/d0209e1e-b4a9-4375-8fba-ae01b299b28b/Notice-of-Authorization-4791218716-2024-03-25-4791218716.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+  - https://www.advancedenergy.com/getmedia/c32feeaf-13d9-4a95-b1b8-4f76d5a933e2/ENG-Horticultual-Lighting-225-02.pdf
+  - https://www.advancedenergy.com/getmedia/89db50c6-5a17-4754-b85f-602d4bbf8646/TRN-AC-DC-LCM12K-Release-1-4-(2023-06-03).pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - https://www.advancedenergy.com/getmedia/19a61a04-28b9-4692-a404-3be99f742a1b/DK-122451-M2-UL.pdf
+  - https://www.advancedenergy.com/getmedia/d0209e1e-b4a9-4375-8fba-ae01b299b28b/Notice-of-Authorization-4791218716-2024-03-25-4791218716.pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/24f416c4-d1d9-415a-bec9-d4a8cf83fce4/LCM12K_ang4_300-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/2c798c74-e046-49ea-8ad5-60850fa95ce6/LCM1200-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/5d3c858e-0eb7-4c7a-9360-84dd100c199c/LCM1200-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/286d50af-bf10-436d-8027-01595d49cedf/LCM12K_back_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d45e6a8b-cfcd-4e7c-813b-1e97a2ffd19b/LCM12K_back2_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/24f416c4-d1d9-415a-bec9-d4a8cf83fce4/LCM12K_ang4_300-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/2c798c74-e046-49ea-8ad5-60850fa95ce6/LCM1200-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/5d3c858e-0eb7-4c7a-9360-84dd100c199c/LCM1200-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/286d50af-bf10-436d-8027-01595d49cedf/LCM12K_back_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d45e6a8b-cfcd-4e7c-813b-1e97a2ffd19b/LCM12K_back2_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/24f416c4-d1d9-415a-bec9-d4a8cf83fce4/LCM12K_ang4_300-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/2c798c74-e046-49ea-8ad5-60850fa95ce6/LCM1200-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/5d3c858e-0eb7-4c7a-9360-84dd100c199c/LCM1200-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/286d50af-bf10-436d-8027-01595d49cedf/LCM12K_back_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d45e6a8b-cfcd-4e7c-813b-1e97a2ffd19b/LCM12K_back2_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5866427e-9f2a-44a3-b870-dbce7f41d7b1/6fe559910e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a0d142f5-ba8f-4267-8bb9-759e27757afd/Horticulture.png
+  - Image: https://www.advancedenergy.com/getattachment/a0d142f5-ba8f-4267-8bb9-759e27757afd/Horticulture.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLCM4000HV Series4000 W Bulk Front End Power Module: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm4000hv/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - Horticulture LightingOur remote drivers power next-generation horticulture lighting system in grow rooms by reducing energy and installation costs.: https://www.advancedenergy.com/en-us/applications/industrial/horticulture/
+  - Explore Horticulture: https://www.advancedenergy.com/en-us/applications/industrial/horticulture/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+  ↓
+System Shelves1U system shelves enable numerous 12 kW applications using the LCM4000HV hot-plug power module.
+  ↓
+FeaturedLCM 12 kW ShelvesLCM12K single output parallel redundant shelf: a centralized current source for medium- to large-scale LED lighting and horticulture

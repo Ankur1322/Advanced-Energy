@@ -1,0 +1,87 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLMD-PDU (Power Distribution Unit) for LumaDriveRack‑mount LMD‑PDU delivers centralized, efficient power distribution for up to three LCM12K shelves, enabling custom LumaDrive cabinet designs with reduced energy loss, improved system performance, and reliable safety features.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/
+Category Description: AE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+
+[Level 3] Category Name: LumaDrivePurchase complete turnkey solutions, or purchase system components separately for custom solutions
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/
+Category Description: LumaDrive Turnkey Power Systems
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLMD-PDU (Power Distribution Unit) for LumaDriveRack‑mount LMD‑PDU delivers centralized, efficient power distribution for up to three LCM12K shelves, enabling custom LumaDrive cabinet designs with reduced energy loss, improved system performance, and reliable safety features.
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/fc-pdu/
+
+Complete Product Description:
+Efficient rack‑mount PDU for LCM12K systems, delivering reliable, centralized power for custom industrial and commercial lighting applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - LMD-PDU Datasheet: https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/ENG-LMD-PDU-02-26-26.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/ENG-LMD-PDU-02-26-26.pdf
+  - https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/76eb9f81-ca5b-483c-801b-37c411b97cfc/PDU-Front-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3e0baa3-a2af-4632-81d9-9201a52a20c5/PDU-Back.png
+  - Image: https://www.advancedenergy.com/getattachment/76eb9f81-ca5b-483c-801b-37c411b97cfc/PDU-Front-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3e0baa3-a2af-4632-81d9-9201a52a20c5/PDU-Back.png
+  - Image: https://www.advancedenergy.com/getattachment/76eb9f81-ca5b-483c-801b-37c411b97cfc/PDU-Front-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3e0baa3-a2af-4632-81d9-9201a52a20c5/PDU-Back.png
+  - LMD-PDU: Customize, Retrofit, Optimize Your LumaDrive™ System: https://i.ytimg.com/vi/0Ek9qJRsL-c/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a10c93ae-d536-4542-a466-40f79aa33cec/LumaDrive-PDP.png
+  - Image: https://www.advancedenergy.com/getattachment/76eb9f81-ca5b-483c-801b-37c411b97cfc/PDU-Front-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/24f416c4-d1d9-415a-bec9-d4a8cf83fce4/LCM12K_ang4_300-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLumaDrive™ SystemsEnergy efficient and cost effective, our pre-wired systems includes 24, 36, 72, and 144 kW models for horticulture applications such as greenhouse and indoor growing, as well as industrial applications such as parking garages and warehouse environments. Their pre-wired designs provide the power you need without the hassles of on-site wiring. As part of an entire LED lighting system, this series eases setup, reduces fixture weight, simplifies maintenance with ground-level power and dimming controls, and enhances energy efficiency through native 3-phase power compatibility.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/lumadrive-systems/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - FeaturedLMD-PDU (Power Distribution Unit) for LumaDriveRack‑mount LMD‑PDU delivers centralized, efficient power distribution for up to three LCM12K shelves, enabling custom LumaDrive cabinet designs with reduced energy loss, improved system performance, and reliable safety features.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/fc-pdu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - FeaturedLCM 12 kW ShelvesLCM12K single output parallel redundant shelf: a centralized current source for medium- to large-scale LED lighting and horticulture: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/system-shelves/lcm-12k-shelf-7aae2be030b289adb84b108e175042b9/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+  ↓
+LumaDrivePurchase complete turnkey solutions, or purchase system components separately for custom solutions
+  ↓
+FeaturedLMD-PDU (Power Distribution Unit) for LumaDriveRack‑mount LMD‑PDU delivers centralized, efficient power distribution for up to three LCM12K shelves, enabling custom LumaDrive cabinet designs with reduced energy loss, improved system performance, and reliable safety features.

@@ -1,0 +1,110 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNCF250 SeriesAdvanced Energy’s SL Power NCF250 series delivers CF rated, medically approved open frame AC‑DC power supplies providing up to 250 W for critical medical applications. Available in 12 V, 15 V, 24 V, and 48 V outputs
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: CF Rated ProductsCF Rated150 W max output power4.0” x 2.0” x 1.26”
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/cf-rated-products/
+Category Description: Type CF is the most stringent medical electrical safety classification and is essential for medical products that may come in direct contact with the heart, including dialysis machines, cardiac-related systems, and platforms for electrosurgery. Advanced Energy offers standard, compact products that combine the performance and reliability demanded by complex medical systems with the high isolation voltage and low leakage current essential to CF certification.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNCF250 SeriesAdvanced Energy’s SL Power NCF250 series delivers CF rated, medically approved open frame AC‑DC power supplies providing up to 250 W for critical medical applications. Available in 12 V, 15 V, 24 V, and 48 V outputs
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/cf-rated-products/ncf250/
+
+Complete Product Description:
+NCF250 Series is a compact 250 W CF‑rated medical AC‑DC supply with 12 to 48 V outputs, low leakage, 5 kV withstand, and universal input for critical medical devices.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/2d028b77-4ff3-42f7-9ed7-d1fdbeda51aa/ENG-NCF250-05-13-25.pdf
+  - Standard Power Supply for Monitor and Defibrillator View Resource: https://www.advancedenergy.com/getmedia/5c5f0713-6226-420b-873b-542b5022323d/ENG-Monitor-and-Defibrillator-Case-Study-295-01.pdf
+  - NCF250 Datasheet Download NCF250 Datasheet. Discover how our CF rated medically approved AC-DC power supplies meet your needs. View Resource: https://www.advancedenergy.com/getmedia/2d028b77-4ff3-42f7-9ed7-d1fdbeda51aa/ENG-NCF250-03-05-26.pdf
+  - NCF250 Datasheet: https://www.advancedenergy.com/getmedia/2d028b77-4ff3-42f7-9ed7-d1fdbeda51aa/ENG-NCF250-03-05-26.pdf
+  - NCF250 IECEE Certificate: https://www.advancedenergy.com/getmedia/bff7a05d-bc12-4834-9dab-be6b1f074927/NCF250_US-44879-UL.pdf
+  - NCF250 EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/17d3fcca-6349-4268-b1c1-8cc085fe9d4e/NCF250-family-for-EU-DoC-2026-03-02.pdf
+  - NCF250 TRN: https://www.advancedenergy.com/getmedia/5a90abdf-1ee1-4ea6-9145-b863f7c0e5f4/TRN-AC-DC-NCF250-Release-1-0-(032426).pdf
+  - Standard Power Supply for Monitor and Defibrillator: https://www.advancedenergy.com/getmedia/5c5f0713-6226-420b-873b-542b5022323d/ENG-Monitor-and-Defibrillator-Case-Study-295-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/2d028b77-4ff3-42f7-9ed7-d1fdbeda51aa/ENG-NCF250-05-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/5c5f0713-6226-420b-873b-542b5022323d/ENG-Monitor-and-Defibrillator-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/2d028b77-4ff3-42f7-9ed7-d1fdbeda51aa/ENG-NCF250-03-05-26.pdf
+  - https://www.advancedenergy.com/getmedia/2d028b77-4ff3-42f7-9ed7-d1fdbeda51aa/ENG-NCF250-03-05-26.pdf
+  - https://www.advancedenergy.com/getmedia/bff7a05d-bc12-4834-9dab-be6b1f074927/NCF250_US-44879-UL.pdf
+  - https://www.advancedenergy.com/getmedia/17d3fcca-6349-4268-b1c1-8cc085fe9d4e/NCF250-family-for-EU-DoC-2026-03-02.pdf
+  - https://www.advancedenergy.com/getmedia/5a90abdf-1ee1-4ea6-9145-b863f7c0e5f4/TRN-AC-DC-NCF250-Release-1-0-(032426).pdf
+  - https://www.advancedenergy.com/getmedia/5c5f0713-6226-420b-873b-542b5022323d/ENG-Monitor-and-Defibrillator-Case-Study-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/659d202b-e32e-4816-a4c5-337442a4a325/NCF250.png
+  - Image: https://www.advancedenergy.com/getattachment/b1176966-1184-4cd4-9a75-63c7dd797ddd/NFC250-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/c64378c9-147d-4144-8421-82c206406409/NFC250-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/baf82ab0-360e-4aa9-aa74-7f23a76391e1/NFC250-V4.png
+  - Image: https://img.youtube.com/vi/07RVnLyPjgQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/659d202b-e32e-4816-a4c5-337442a4a325/NCF250.png
+  - Image: https://www.advancedenergy.com/getattachment/b1176966-1184-4cd4-9a75-63c7dd797ddd/NFC250-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/c64378c9-147d-4144-8421-82c206406409/NFC250-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/baf82ab0-360e-4aa9-aa74-7f23a76391e1/NFC250-V4.png
+  - Image: https://img.youtube.com/vi/07RVnLyPjgQ/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/659d202b-e32e-4816-a4c5-337442a4a325/NCF250.png
+  - Image: https://www.advancedenergy.com/getattachment/b1176966-1184-4cd4-9a75-63c7dd797ddd/NFC250-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/c64378c9-147d-4144-8421-82c206406409/NFC250-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/baf82ab0-360e-4aa9-aa74-7f23a76391e1/NFC250-V4.png
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - NCF250 Series of CF Rated Medical Power Supplies: https://i.ytimg.com/vi/07RVnLyPjgQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/659d202b-e32e-4816-a4c5-337442a4a325/NCF250.png
+  - Image: https://www.advancedenergy.com/getattachment/b70b2739-b9c8-44f2-9772-fefd4c449c13/NCF150S24K-Angle-5-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/81cff5b7-6e73-4be1-8e7a-1e9ed0a98c1c/NCF660-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/f3e33d20-d2d3-42ef-bb8c-a6b38fa28743/NCF425-V3-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/5bfa446f-bab4-4663-ab49-484c667f7d7a/Medical-Lasers-Surgical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5bfa446f-bab4-4663-ab49-484c667f7d7a/Medical-Lasers-Surgical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SurgicalThe surgical laser industry faces various challenges, including finding power supplies that can deliver precise, easily controlled power with low acoustic noise. These power supplies must also be compatible with portable devices, offer multiple output voltages, and preserve a high-power density.: https://www.advancedenergy.com/en-us/applications/medical/medical-lasers/surgical/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/medical/medical-lasers/surgical/
+  - PEF / PFAOur precision power control solutions are designed to empower medical equipment designers to deliver advanced ablation systems that enable more precise targeting of tumors, improve the efficacy of treatments, and ultimately deliver better outcomes for patients and doctors.: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - Explore PEF: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - DialysisAdvanced Energy’s reliable and efficient power solutions for Patient Monitoring Dialysis equipment are designed to meet the specific power requirements of dialysis machines, which require precise and consistent power delivery for accurate monitoring of patient vital signs.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+  - Explore Dialysis: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+CF Rated ProductsCF Rated150 W max output power4.0” x 2.0” x 1.26”
+  ↓
+FeaturedNCF250 SeriesAdvanced Energy’s SL Power NCF250 series delivers CF rated, medically approved open frame AC‑DC power supplies providing up to 250 W for critical medical applications. Available in 12 V, 15 V, 24 V, and 48 V outputs

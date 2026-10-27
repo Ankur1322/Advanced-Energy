@@ -1,0 +1,127 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedSLB65 Series65 W Single Output Medical & Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 51 – 100 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 100 WBoard only construction
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/
+Category Description: Advanced Energy power supplies falling within the 51 to 100 W range are the workhorses of the electronics world.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedSLB65 Series65 W Single Output Medical & Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/slb65-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power SLB65 medically-approved AC-DC power supplies are available with a nominal main output of 5 V, 12 V, 15 V, 18 V, 24 V, or 48 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/d8048157-1888-4ae4-a204-eade079d2f78/SLB65-12-20-23.pdf
+  - SLB65 Datasheet: https://www.advancedenergy.com/getmedia/d8048157-1888-4ae4-a204-eade079d2f78/ENG-SLB65-3-17-2026.pdf
+  - SLB65 UL60601-1 Medical: https://www.advancedenergy.com/getmedia/034ceb9e-4728-4e09-a51a-e5b8c86eb614/SLB65%20UL60601-1%20Medical.pdf
+  - SLB65 IEC60601-1 Demko: https://www.advancedenergy.com/getmedia/c2f08dcb-f663-4cb7-a44f-1e6716128fe8/SLB65%20IEC60601-1%20Demko.pdf
+  - SLB65 IEC62368-1 Demko: https://www.advancedenergy.com/getmedia/c9cc82c0-27c4-4936-a784-d5083f87bbce/SLB65%20IEC62368-1%20Demko.pdf
+  - SLB65 CB Certificate - 60601-1: https://www.advancedenergy.com/getmedia/20568c48-b0b9-464e-abdd-8bff96add91a/SLB65%20CB%20Certificate%20-%2060601-1.pdf
+  - SLB65 CB Certificate - 62368-1: https://www.advancedenergy.com/getmedia/752dccf0-0ddc-4782-ad90-6cd1c905cb55/SLB65%20CB%20Certificate%20-%2062368-1.pdf
+  - SLB65 UL62368-1 Industrial: https://www.advancedenergy.com/getmedia/e36bb87a-3141-4175-acc1-fdf63e07fa6b/SLB65%20UL62368-1%20Industrial.pdf
+  - SLB65S HT Cert of Compliance UL62368-1: https://www.advancedenergy.com/getmedia/b45f55c7-f866-4a01-ad1b-00ead862e610/SLB65S%20UL62368-1%20HT%20Cert%20of%20Compliance.pdf
+  - SLE Series CE Declaration: https://www.advancedenergy.com/getmedia/7bc1514c-c54a-4450-a856-584be6eff69f/CE%20SLE06%20to%2090%20Series%202022-01-13.pdf
+  - SLB65 Value Proposition: https://www.advancedenergy.com/getmedia/afc5a41a-633b-4dda-b5d5-b6aa8681ed5b/SLB65%20Value%20Proposition.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/047da73f-b3ff-4f47-81d8-c5a7cf0e8b2d/ENG-GB60-235-01%2005.18.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/affebcbc-95b2-4a88-a7a0-c2140a483454/ENG-MB60-03.01.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6e2391d1-fd99-422b-81ed-7dee3d21f3dd/ENG-MB65-03.03.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/d81043c5-c331-4307-b45c-b4e9fdcb3711/ENG-MINT1065%20-03.15.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/d8048157-1888-4ae4-a204-eade079d2f78/SLB65-12-20-23.pdf
+  - https://www.advancedenergy.com/getmedia/d8048157-1888-4ae4-a204-eade079d2f78/ENG-SLB65-3-17-2026.pdf
+  - https://www.advancedenergy.com/getmedia/034ceb9e-4728-4e09-a51a-e5b8c86eb614/SLB65%20UL60601-1%20Medical.pdf
+  - https://www.advancedenergy.com/getmedia/c2f08dcb-f663-4cb7-a44f-1e6716128fe8/SLB65%20IEC60601-1%20Demko.pdf
+  - https://www.advancedenergy.com/getmedia/c9cc82c0-27c4-4936-a784-d5083f87bbce/SLB65%20IEC62368-1%20Demko.pdf
+  - https://www.advancedenergy.com/getmedia/20568c48-b0b9-464e-abdd-8bff96add91a/SLB65%20CB%20Certificate%20-%2060601-1.pdf
+  - https://www.advancedenergy.com/getmedia/752dccf0-0ddc-4782-ad90-6cd1c905cb55/SLB65%20CB%20Certificate%20-%2062368-1.pdf
+  - https://www.advancedenergy.com/getmedia/e36bb87a-3141-4175-acc1-fdf63e07fa6b/SLB65%20UL62368-1%20Industrial.pdf
+  - https://www.advancedenergy.com/getmedia/b45f55c7-f866-4a01-ad1b-00ead862e610/SLB65S%20UL62368-1%20HT%20Cert%20of%20Compliance.pdf
+  - https://www.advancedenergy.com/getmedia/7bc1514c-c54a-4450-a856-584be6eff69f/CE%20SLE06%20to%2090%20Series%202022-01-13.pdf
+  - https://www.advancedenergy.com/getmedia/afc5a41a-633b-4dda-b5d5-b6aa8681ed5b/SLB65%20Value%20Proposition.pdf
+  - https://www.advancedenergy.com/getmedia/047da73f-b3ff-4f47-81d8-c5a7cf0e8b2d/ENG-GB60-235-01%2005.18.23.pdf
+  - https://www.advancedenergy.com/getmedia/affebcbc-95b2-4a88-a7a0-c2140a483454/ENG-MB60-03.01.23.pdf
+  - https://www.advancedenergy.com/getmedia/6e2391d1-fd99-422b-81ed-7dee3d21f3dd/ENG-MB65-03.03.23.pdf
+  - https://www.advancedenergy.com/getmedia/d81043c5-c331-4307-b45c-b4e9fdcb3711/ENG-MINT1065%20-03.15.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/3faffae1-c117-4086-aee3-80f156c19544/SLB65-A_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f81666c3-bdc3-4182-821d-c69efa8fe11b/SLB65-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d2412a7-30a2-4137-b36f-76beca9e75c4/SLB65-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6ecd673b-984e-468f-85d4-a91644d0c5ee/SLB65-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3faffae1-c117-4086-aee3-80f156c19544/SLB65-A_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f81666c3-bdc3-4182-821d-c69efa8fe11b/SLB65-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d2412a7-30a2-4137-b36f-76beca9e75c4/SLB65-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6ecd673b-984e-468f-85d4-a91644d0c5ee/SLB65-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3faffae1-c117-4086-aee3-80f156c19544/SLB65-A_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f81666c3-bdc3-4182-821d-c69efa8fe11b/SLB65-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d2412a7-30a2-4137-b36f-76beca9e75c4/SLB65-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6ecd673b-984e-468f-85d4-a91644d0c5ee/SLB65-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/691a2d77-7647-4474-b87c-59fd1277a399/GB60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/acf1da06-b96d-4a18-bed4-fa7478495362/MB60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4d50e4b0-f603-4e65-9df3-4da622580620/MB65.jpg
+  - Image: https://www.advancedenergy.com/getattachment/db8ced1d-1080-4119-bd00-57c88472f20e/mint1065.png
+  - Image: https://www.advancedenergy.com/getattachment/33da21c6-d228-4204-9719-28cc93b65691/iStock-946263996.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33da21c6-d228-4204-9719-28cc93b65691/iStock-946263996.jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedGB60 Series60 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/gb60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/047da73f-b3ff-4f47-81d8-c5a7cf0e8b2d/ENG-GB60-235-01%2005.18.23.pdf
+  - FeaturedMB60 Series60 W Single Output Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/mb60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/affebcbc-95b2-4a88-a7a0-c2140a483454/ENG-MB60-03.01.23.pdf
+  - FeaturedMB65 Series65 W Single Output Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/mb65-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6e2391d1-fd99-422b-81ed-7dee3d21f3dd/ENG-MB65-03.03.23.pdf
+  - FeaturedMINT1065 Series65 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/mint1065-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/d81043c5-c331-4307-b45c-b4e9fdcb3711/ENG-MINT1065%20-03.15.23.pdf
+  - AnalyzersAdvanced Energy's Life Science power solutions include options for a wide range of analytical instruments used in life science research, including mass spectrometers, gas and liquid chromatography, and particle size analyzers.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analyzers/
+  - Explore Analyzers: https://www.advancedenergy.com/en-us/applications/medical/life-science/analyzers/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+51 – 100 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 100 WBoard only construction
+  ↓
+FeaturedSLB65 Series65 W Single Output Medical & Industrial Grade

@@ -1,0 +1,111 @@
+==============================================================================
+PRODUCT DETAILS: DA10-M (Level VI) SeriesClass II inputEuropean CoC v5 T2 complianceUS DoE Level VI compliance
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: DA10-M (Level VI) SeriesClass II inputEuropean CoC v5 T2 complianceUS DoE Level VI compliance
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/da10-m-(level-vi)/
+
+Complete Product Description:
+The new standard DA10-M series of plug-in wall-mount AC-DC power adapters features full (non-patient critical) medical and ITE safety approvals.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/8b0462bb-a3c0-4d45-819a-ccf349e179a8/da10-m_series_ds_1506062033.pdf
+  - DA10-M Series Datasheet: https://www.advancedenergy.com/getmedia/8b0462bb-a3c0-4d45-819a-ccf349e179a8/da10-m_series_ds_1506062033.pdf
+  - RoHS2 CoC DA10-050AU-M: https://www.advancedenergy.com/getmedia/3070b800-39e4-4afd-8077-d1e61d9fef66/rohs2_coc_da10-050au-m_091517_1506066054_rohs_.pdf
+  - RoHS2 CoC DA10-050EU-M: https://www.advancedenergy.com/getmedia/56186aee-931e-4a0b-aca9-0d5803d170b3/rohs2_coc_da10-050eu-m_011617_1506066466_rohs_.pdf
+  - RoHS2 CoC DA10-050MP-M: https://www.advancedenergy.com/getmedia/8b9508f8-7210-4907-a08c-fe7338b34fcc/rohs2_coc_da10-050mp-m_091817_1506065615_rohs_.pdf
+  - RoHS2 CoC DA10-050MP-M2.1: https://www.advancedenergy.com/getmedia/31ff36e3-2ceb-441f-b12f-78c906e20218/rohs2_coc_da10-050mp-m2_1_09181506065723_rohs_.pdf
+  - RoHS2 CoC DA10-050UK-M: https://www.advancedenergy.com/getmedia/9d0abef2-3dce-41fe-8c36-b248e2df62ee/rohs2_coc_da10-050uk-m_091817_1506065800_rohs_.pdf
+  - RoHS2 CoC DA10-050US-M: https://www.advancedenergy.com/getmedia/1545a828-f85e-402e-83e2-1e45ea834345/rohs2_coc_da10-050us-m_091817_1506065856_rohs_.pdf
+  - DA10-050-MP_US-M PSE TYPE APPROVAL: https://www.advancedenergy.com/getmedia/34488555-ad3f-4cfe-8272-484c24bf3473/da10-050us-m_050mp-m_pse_type_1505831170_902.pdf
+  - DA10-050AU_MP-M RCM Certificate: https://www.advancedenergy.com/getmedia/3f2eb13c-4261-4cc0-bfd6-a30c7aad2804/da10-050au_050mp-m_rcm_1505831180_317.pdf
+  - DA10-050AU-M Energy Efficiency Declaration of Conformity: https://www.advancedenergy.com/getmedia/5b7dd717-33ac-4361-809c-174a319a5b4f/da10-050au-m_ee_doc_1505831181_408.pdf
+  - DA10-050MP_US-M UL/SA ITE CERTIFICATE: https://www.advancedenergy.com/getmedia/e4606f83-2bdf-4969-95ee-6405790a37eb/da10-050us-m_050mp-m_ul_60950-1505831171_538.pdf
+  - DA10-050MP-M (AC Inlet) BSMI Certificate: https://www.advancedenergy.com/getmedia/5c8b154b-28d0-46ee-b1fa-c3c5cb0ab24d/da10-050mp-m_ac_inlet_bsmi_1505831188_729.pdf
+  - DA10-050MP-M BSMI Certificate: https://www.advancedenergy.com/getmedia/26a89b94-1324-477d-8cdf-464a40ed39e4/da10-050mp-m_bsmi_1505831200_017.pdf
+  - DA10-050MP-M CCC Approval CVT: https://www.advancedenergy.com/getmedia/6a876804-9326-486f-98bf-6c9694175df7/da10-050mp-m_ccc_cv_1505831210_056.pdf
+  - DA10-050MP-M CCC Approval LG: https://www.advancedenergy.com/getmedia/5d521751-c9b4-42bf-8af4-f688e93d4146/da10-050mp-m_ccc_lg_1505831217_624.pdf
+  - DA10-050MP-M CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/177ad6f7-f450-4396-983b-190cce4ad67b/da10-050mp-m_ce_1505831158_603.pdf
+  - DA10-050MP-M Energy Efficiency Declaration of Conformity: https://www.advancedenergy.com/getmedia/529cd1ab-5167-4ce6-a6f3-3f488171edbb/da10-050mp-m_ee_doc_1505831195_023.pdf
+  - DA10-050MP-M KC CERTIFICATE (EMC): https://www.advancedenergy.com/getmedia/916ac849-dbe8-43c5-89b7-c65c98c49a6b/da10-050mp-m_msip_1505832710_367.pdf
+  - DA10-050MP-M_RCM (GlideScope Go): https://www.advancedenergy.com/getmedia/d5be5fdf-77f6-47a5-a2e9-f49d646b9ecc/da10-050mp-m_rcm_glidescope_g1550802569_219.pdf
+  - DA10-050US-M Energy Efficiency Declaration of Conformity: https://www.advancedenergy.com/getmedia/7828bc89-3732-4c18-9b1c-302078001fe1/da10-050us-m_ee_doc_1505831166_223.pdf
+  - DA10-050US-M_050MP-M_UL Cert ES 60601-1 3: https://www.advancedenergy.com/getmedia/0ded9aa5-0f7f-487a-a6e1-4f7362349be1/da10-050us-m_050mp-m_es_60601-1550802570_037.pdf
+  - DA10-050XX-M CB (ITE) CERTIFICATE: https://www.advancedenergy.com/getmedia/59a725bc-843e-4800-832d-8d3f929ddc80/dk-61537-a1-ul_1505831178_174.pdf
+  - DA10-050XX-M CB (Med) CERTIFICATE: https://www.advancedenergy.com/getmedia/bb6a0f91-8e9c-433a-b5d0-c5969eae7273/da10-050xx-m_sg_psb-md-00082_1505831174_795.pdf
+  - DA10-050XX-M TUV Certificate: https://www.advancedenergy.com/getmedia/9274ade6-7ae9-44bf-b241-81565d75437c/da10-050xx-m_tuv_certificate_1505831177_813.pdf
+  - DA10-M (Level VI)—DA10-050EU-M_050UK-M_CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/89b27ce0-9661-45a5-94fd-356ecfd3bc86/da10-050eu-m_050uk-m_ce_1492676040_309.pdf
+  - DA10-M (Level VI)—DA10-050MP-M KC CERTIFICATE (SAFETY): https://www.advancedenergy.com/getmedia/8732a5ba-e11f-4d58-ae3b-eaf48b96654d/da10-050mp-m_kc_safety_1505831165_382.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/8b0462bb-a3c0-4d45-819a-ccf349e179a8/da10-m_series_ds_1506062033.pdf
+  - https://www.advancedenergy.com/getmedia/8b0462bb-a3c0-4d45-819a-ccf349e179a8/da10-m_series_ds_1506062033.pdf
+  - https://www.advancedenergy.com/getmedia/3070b800-39e4-4afd-8077-d1e61d9fef66/rohs2_coc_da10-050au-m_091517_1506066054_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/56186aee-931e-4a0b-aca9-0d5803d170b3/rohs2_coc_da10-050eu-m_011617_1506066466_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/8b9508f8-7210-4907-a08c-fe7338b34fcc/rohs2_coc_da10-050mp-m_091817_1506065615_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/31ff36e3-2ceb-441f-b12f-78c906e20218/rohs2_coc_da10-050mp-m2_1_09181506065723_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/9d0abef2-3dce-41fe-8c36-b248e2df62ee/rohs2_coc_da10-050uk-m_091817_1506065800_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/1545a828-f85e-402e-83e2-1e45ea834345/rohs2_coc_da10-050us-m_091817_1506065856_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/34488555-ad3f-4cfe-8272-484c24bf3473/da10-050us-m_050mp-m_pse_type_1505831170_902.pdf
+  - https://www.advancedenergy.com/getmedia/3f2eb13c-4261-4cc0-bfd6-a30c7aad2804/da10-050au_050mp-m_rcm_1505831180_317.pdf
+  - https://www.advancedenergy.com/getmedia/5b7dd717-33ac-4361-809c-174a319a5b4f/da10-050au-m_ee_doc_1505831181_408.pdf
+  - https://www.advancedenergy.com/getmedia/e4606f83-2bdf-4969-95ee-6405790a37eb/da10-050us-m_050mp-m_ul_60950-1505831171_538.pdf
+  - https://www.advancedenergy.com/getmedia/5c8b154b-28d0-46ee-b1fa-c3c5cb0ab24d/da10-050mp-m_ac_inlet_bsmi_1505831188_729.pdf
+  - https://www.advancedenergy.com/getmedia/26a89b94-1324-477d-8cdf-464a40ed39e4/da10-050mp-m_bsmi_1505831200_017.pdf
+  - https://www.advancedenergy.com/getmedia/6a876804-9326-486f-98bf-6c9694175df7/da10-050mp-m_ccc_cv_1505831210_056.pdf
+  - https://www.advancedenergy.com/getmedia/5d521751-c9b4-42bf-8af4-f688e93d4146/da10-050mp-m_ccc_lg_1505831217_624.pdf
+  - https://www.advancedenergy.com/getmedia/177ad6f7-f450-4396-983b-190cce4ad67b/da10-050mp-m_ce_1505831158_603.pdf
+  - https://www.advancedenergy.com/getmedia/529cd1ab-5167-4ce6-a6f3-3f488171edbb/da10-050mp-m_ee_doc_1505831195_023.pdf
+  - https://www.advancedenergy.com/getmedia/916ac849-dbe8-43c5-89b7-c65c98c49a6b/da10-050mp-m_msip_1505832710_367.pdf
+  - https://www.advancedenergy.com/getmedia/d5be5fdf-77f6-47a5-a2e9-f49d646b9ecc/da10-050mp-m_rcm_glidescope_g1550802569_219.pdf
+  - https://www.advancedenergy.com/getmedia/7828bc89-3732-4c18-9b1c-302078001fe1/da10-050us-m_ee_doc_1505831166_223.pdf
+  - https://www.advancedenergy.com/getmedia/0ded9aa5-0f7f-487a-a6e1-4f7362349be1/da10-050us-m_050mp-m_es_60601-1550802570_037.pdf
+  - https://www.advancedenergy.com/getmedia/59a725bc-843e-4800-832d-8d3f929ddc80/dk-61537-a1-ul_1505831178_174.pdf
+  - https://www.advancedenergy.com/getmedia/bb6a0f91-8e9c-433a-b5d0-c5969eae7273/da10-050xx-m_sg_psb-md-00082_1505831174_795.pdf
+  - https://www.advancedenergy.com/getmedia/9274ade6-7ae9-44bf-b241-81565d75437c/da10-050xx-m_tuv_certificate_1505831177_813.pdf
+  - https://www.advancedenergy.com/getmedia/89b27ce0-9661-45a5-94fd-356ecfd3bc86/da10-050eu-m_050uk-m_ce_1492676040_309.pdf
+  - https://www.advancedenergy.com/getmedia/8732a5ba-e11f-4d58-ae3b-eaf48b96654d/da10-050mp-m_kc_safety_1505831165_382.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/339e7898-7ad9-4412-9e69-4979be24304d/7a7c1bda08-pr.jpg
+  - Image: https://www.advancedenergy.com/getattachment/339e7898-7ad9-4412-9e69-4979be24304d/7a7c1bda08-pr.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+DA10-M (Level VI) SeriesClass II inputEuropean CoC v5 T2 complianceUS DoE Level VI compliance

@@ -1,0 +1,239 @@
+==============================================================================
+PRODUCT DETAILS: 1U SizePower ratings from 400 to 1800 WattsUp to 12 outputs from 0.9 to 60VDCSingle-phase AC input
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: 1U SizePower ratings from 400 to 1800 WattsUp to 12 outputs from 0.9 to 60VDCSingle-phase AC input
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/1u-size/
+
+Complete Product Description:
+Configurable Products for 1U Applications
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/bde05aca-a4be-492a-824d-8dfda90f19d8/ENG-LV-COOLX1000-235-09_04-07-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0711fea5-e53e-4ff9-8386-dfcd8a248192/ENG-LV_Xgen-02-19-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/32ea0fb9-b9e6-43ec-b2e9-5a19fd8ad27c/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - Embedded Power Brochure: https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - Medical Power Supplies Brochure: https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - Rapid Modification & Value-Added Engineering Solutions: https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - Xgen Brochure: https://www.advancedenergy.com/getmedia/8f696a54-b178-4259-8424-67173b6c5db3/en-lv-xgen-brochure.pdf
+  - Artesyn μMP Series Gen II Data Sheet: https://www.advancedenergy.com/getmedia/56383021-0b24-4d3e-90e7-1d2571b0a7d4/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - CoolX1000 Data Sheet: https://www.advancedenergy.com/getmedia/bde05aca-a4be-492a-824d-8dfda90f19d8/ENG-LV-COOLX1000-235-09_11-13-25.pdf
+  - CoolX1800 Data Sheet: https://www.advancedenergy.com/getmedia/85fa05bf-c38a-402f-bd74-9c0e9d8074cf/ENG-LV-COOLX1800-235-16_11-13-25.pdf
+  - CoolX3000 Data Sheet: https://www.advancedenergy.com/getmedia/98c4d4c8-7664-4394-a2c9-18375450d3cd/ENG-LV-COOLX3000-235-04-11-13-25.pdf
+  - CoolX600 Data Sheet: https://www.advancedenergy.com/getmedia/183a169f-4baf-4009-a9cb-0edbb57d4d31/ENG-LV-COOLX600-235-07-11-13-25.pdf
+  - DIN-Rail Bracket: https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - Excelsys CoolMods Datasheet: https://www.advancedenergy.com/getmedia/1f85c75c-2e5e-4af4-98c8-cf2ab511f332/ENG-CoolMods-07-20-2025.pdf
+  - Excelsys PowerMods: https://www.advancedenergy.com/getmedia/2e40bb4b-64ce-4ad4-8505-253ef7905abd/ENG-Excelsys-PowerMods-07-24-2025.pdf
+  - Excelsys Xgen Series Datasheet: https://www.advancedenergy.com/getmedia/0711fea5-e53e-4ff9-8386-dfcd8a248192/ENG-LV_Xgen-02-19-24.pdf
+  - rohs2_coc_73-956-4019g2_ump161467867781_rohs_: https://www.advancedenergy.com/getmedia/e99196ff-5dac-42e9-8128-b824038bc85e/rohs2_coc_73-956-4019g2_ump161467867781_rohs_.pdf
+  - 73-951-4013G2 (uMP10T-S2Y-S2Y-S2Y-S2Y-S2L-03-A-413) RoHS2 CoC: https://www.advancedenergy.com/getmedia/494585fd-932d-4fe9-973e-5b8ade6c159f/rohs2_coc_73-951-4013g2_ump101467867324_rohs_.pdf
+  - 73-956-4009G2 (uMP16T-S2L-S2L-S2L-S2D-S2D-IEL-B0-A-409) RoHS2 CoC: https://www.advancedenergy.com/getmedia/07c63dd7-e28d-49ac-b184-5095a7d54464/rohs2_coc_73-956-4009g2_ump161467867395_rohs_.pdf
+  - 73-956-4018G2 (uMP16T-S2D-S2E-S2L-S2L-05-A-418) RoHS2 CoC: https://www.advancedenergy.com/getmedia/a62d0f11-b605-44a8-8b00-ba1393b19fd4/rohs2_coc_73-956-4018g2_ump161467867644_rohs_.pdf
+  - CB Certificate (ITE): https://www.advancedenergy.com/getmedia/284e82c9-efdb-4741-916d-d3178ffc8566/73-956_ump16_73-951_ump10_cb_c1453194821_658.pdf
+  - CB Certificate (Med): https://www.advancedenergy.com/getmedia/20d205ee-e450-4c39-adb9-e1a20756156d/73-956_ump16_73-951_ump10_cb_c1453194821_959.pdf
+  - TUV Certificate: https://www.advancedenergy.com/getmedia/12a94082-23ae-4a9f-be1a-df112904ea7c/73-956_ump16_73-951_ump10_tuv_1453194819_341.pdf
+  - UL CB Certificate (ITE): https://www.advancedenergy.com/getmedia/d09847f1-6363-4ca2-8f4a-53c44d19a511/73-956_ump16_73-951_ump10_dk-51476092084_531.pdf
+  - UL Certificate (ITE): https://www.advancedenergy.com/getmedia/d4f6687d-b1ac-47b6-a487-ea269f7b4001/73-951-g2_ump10_73-956_ump16_u1453194822_475.pdf
+  - UL Certificate (Med) ver 3.0: https://www.advancedenergy.com/getmedia/45e089ec-e3c7-4dec-88f7-c71236555ffe/73-956_ump16_73-951_ump10_es_61476092085_228.pdf
+  - UL Certificate (Med) ver 3.1: https://www.advancedenergy.com/getmedia/b3c3791d-e479-4978-9947-1fc5b2ee0775/73-956_ump16_73-951_ump10_es_61476092085_321.pdf
+  - uMP04_uMP09 ITE CB Certificate: https://www.advancedenergy.com/getmedia/8b2b4262-14d4-4365-8806-14faf4d85aee/73-954_73-949_ump04_ump09_demk1476256906_109.pdf
+  - uMP04_uMP09 UL Certificate (ITE): https://www.advancedenergy.com/getmedia/97ce5d87-91a6-4e4d-9c32-b7171d588378/73-954_73-949_ump04_ump09_ul_61476256598_113.pdf
+  - uMP04_uMP09 UL Certificate (Med) ver 3.1: https://www.advancedenergy.com/getmedia/bb972aa8-14f7-477c-8fad-0048bdebe5f9/73-954_73-949_ump04_ump09_es_61476256607_086.pdf
+  - uMP04_uMP09_Medical CB Certificate: https://www.advancedenergy.com/getmedia/f434012a-17e5-4b6e-83ea-613f5d628161/73-954_73-949_ump04_ump09_sg_p1476256609_104.pdf
+  - uMP04_uMP09_TUV Certificate: https://www.advancedenergy.com/getmedia/0b4852f8-e87e-415c-857e-367d4f1f55ea/73-954_73-949_ump04_ump09_tuv_1476256613_247.pdf
+  - uMP04x_UL Certificate (Med) ver 3.0: https://www.advancedenergy.com/getmedia/a78b9a3e-894e-46e9-a0cd-8c049d29d251/73-954-0001-g2_ump04x_es_606011476256599_722.pdf
+  - Medical Power Supplies Selector Guide: https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - AC/DC Modular Designer Manual: https://www.advancedenergy.com/getmedia/a5dccd3a-6ffa-48f2-83fb-2ba06d14a8e6/en-lv-modular-designers-manual.pdf
+  - CoolX1000 Designers Manual: https://www.advancedenergy.com/getmedia/5421a9d3-7290-4e4e-86a7-67dce715adc8/AC-DC-CoolX1000-Designer-Maunal-Release-1-2-(111425).pdf
+  - CoolX1000 Instruction Manual: https://www.advancedenergy.com/getmedia/429f389a-288b-42df-9658-b8617c1ae08e/en-lv-cx10-instruction-manual.pdf
+  - CoolX1800 Designers Manual: https://www.advancedenergy.com/getmedia/dedccbe0-384b-465e-8f04-26df0891821e/AC-DC-CoolX1800-Designer-Maunal-1-2-(111425).pdf
+  - CoolX1800 Instruction Manual: https://www.advancedenergy.com/getmedia/2f57cc85-2d19-4850-8066-470ce62a45b6/en-lv-coolX1800-instruction-manual.pdf
+  - CoolX3000 Designers Manual: https://www.advancedenergy.com/getmedia/b9dbafd8-5277-49f8-a2e6-98c9f6661b93/AC-DC-CoolX3000-Designer-Maunal-Release-1-3-(111425).pdf
+  - CoolX3000 Instruction Manual: https://www.advancedenergy.com/getmedia/be30d8bf-bb53-42ce-8d4f-c17258809b77/en-lv-coolx3000-instruction-manual.pdf
+  - CoolX600 Designers Manual: https://www.advancedenergy.com/getmedia/0ba902e1-a314-411d-aa67-66d5d3d0dc2d/AC-DC-CoolX600-Designer-Maunal-Release-1-2(102925).pdf
+  - CoolX600 Instruction Manual: https://www.advancedenergy.com/getmedia/c4d20044-2a80-41e1-b7f0-f76918838744/en-lv-coolX600-instruction-manual.pdf
+  - CX1000 PMBus Manual: https://www.advancedenergy.com/getmedia/a92700b3-c60d-4b27-b14e-86a21c13f13b/en-lv-cx1000-pmbus-manual.pdf
+  - CX1800 PMBus Manual: https://www.advancedenergy.com/getmedia/daba83c3-5047-463e-adc6-aa30aac8eabf/en-lv-cx1800-pmbus-manual.pdf
+  - CX600 PMBus Manual: https://www.advancedenergy.com/getmedia/67da0d35-ffdf-4fad-9ac4-fbf13dd967bd/en-lv-cx600-pmbus-manual.pdf
+  - Xgen Instruction Manual: https://www.advancedenergy.com/getmedia/f2a1ed4c-f738-4075-8129-5d90eb907e3a/en-lv-xgen-instruction-manual.pdf
+  - 4 kV Primary to Secondary Isolation on the Xgen Series Application Note: https://www.advancedenergy.com/getmedia/7b072f67-7ef2-4721-b82d-0b13345bd401/en-lv-4kv-primary-to-secondary-isolation-on-the-xgen-series-application-note.pdf
+  - Audible Noise in Switch Power Supply Application Note: https://www.advancedenergy.com/getmedia/e924569b-d75e-4dd0-bdfe-97324586c7ee/en-lv-audible-noise-in-switch-power-supply-application-note.pdf
+  - CoolX Series - AN10440 - Hipot: https://www.advancedenergy.com/getmedia/64c34c2f-7724-4ac7-8e5a-6bb82031257b/ENG-AppNote-HiPot-265-01.pdf
+  - CoolX3000 Technical Note: https://www.advancedenergy.com/getmedia/37f481bd-05ae-41ea-b7d9-33440f597bee/en-lv-coolx3000-technical-note.pdf
+  - Electrosurgery Application Note: https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - EMI Application Note: https://www.advancedenergy.com/getmedia/10f9a7cd-d7d3-47a7-822d-ab992fccccfa/en-lv-emi-application-note.pdf
+  - Heat Sink in Switch Power Supply Application Note: https://www.advancedenergy.com/getmedia/b85270e9-2411-4236-933c-a1d68777b4b7/en-lv-heat-sink-in-switch-power-supply-application-note.pdf
+  - How to Select Power Supplies for High-Altitude Applications Application Note: https://www.advancedenergy.com/getmedia/86f5885a-6cd4-45a3-92c6-c1dbcaa5b020/en-lv-power-supplies-for-high-altitude-applications-application-note.pdf
+  - I2C Basics Application Note: https://www.advancedenergy.com/getmedia/1abf959e-3070-447f-9bad-b27d0e4c51ff/en-lv-i2c-basics-application-note.pdf
+  - Immunity to ESD Application Note: https://www.advancedenergy.com/getmedia/e721fa11-16a2-405a-b67c-47ef8c52d37f/en-lv-immunity-to-esd-application-note.pdf
+  - Interpretation of MTBF Application Note: https://www.advancedenergy.com/getmedia/bdb1ed5f-f6eb-4a53-9c79-273778638bf1/en-lv-interpretation-of-mtbf-application-note.pdf
+  - Life Science Application Note: https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - Low Leakage Current Xgen Application Note: https://www.advancedenergy.com/getmedia/bd16d1d7-18e4-4132-9015-1365df45ae98/en-lv-low-leakage-current-xgen-application-note.pdf
+  - Low Leakage Medical Power Supplies Application Note: https://www.advancedenergy.com/getmedia/d93f9252-43ac-4f51-ba3b-15d98f81b672/en-lv-low-leakage-medical-power-supplies-application-note.pdf
+  - Medical Imaging Application Note: https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - Medical Lasers and Aesthetic Equipment Application Note: https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - Methods of Protection, MOOPs and MOPPs on the Xgen and UltiMod Platforms Application Note: https://www.advancedenergy.com/getmedia/87398d9a-6f6d-4d4e-9191-3a389034c6d2/en-lv-methods-of-protection-moops-and-mopps-on-the-xgen-and-ultimod-platforms-application-note.pdf
+  - Methods of Protection, MOOPs and MOPS Application Note: https://www.advancedenergy.com/getmedia/494e81e7-b8fd-4c3b-bcfc-3682e8c35508/en-lv-methods-of-protection-moops-and-mops-application-note.pdf
+  - Power Supplies for High-Altitude Applications: https://www.advancedenergy.com/getmedia/917a5f5b-4503-49b1-bc56-45e14c1247b9/en-lv-high-altitude-power-supply-design-application-note.pdf
+  - Reinforced Isolation Testing on a Power Supply Application Note: https://www.advancedenergy.com/getmedia/f7541442-29c1-4545-bb23-3fcf01b0d649/en-lv-reinforced-isolation-testing-on-a-power-supply-application-note.pdf
+  - Semi F47-0706 Compliance: Voltage Sag Immunity Application Note: https://www.advancedenergy.com/getmedia/346f4ecd-3a42-4219-9a93-0a1ae94b64e5/en-lv-semi-F47-0706-compliance-voltage-sag-immunity.pdf
+  - Thermal Management Application Note: https://www.advancedenergy.com/getmedia/c0edec63-0402-43eb-8c5f-ad26860413b3/en-lv-thermal-management-application-note.pdf
+  - uMP Installation notes for optimizing EMI: https://www.advancedenergy.com/getmedia/6762eccf-1798-401b-9a7b-4dd573d02fff/an10128_-_ump_series_-_install1559952535_appnote.pdf
+  - Using the Xgen and UltiMod Platforms in Harsh Environments and the Use of Conformal Coating Application Note: https://www.advancedenergy.com/getmedia/650eddb4-26a2-4c04-b3c7-d7cdabb3486c/en-lv-xgen-and-ultimod-platforms-in-harsh-environments-conformal-coating-application-note.pdf
+  - Vtrim and Paralleling Application Note: https://www.advancedenergy.com/getmedia/b9a3c6dc-fd72-457e-92b2-c681809dffd0/en-lv-vtrim-and-paralleling-application-note-v2.pdf
+  - Marketing Bulletin_MP Series: https://www.advancedenergy.com/getmedia/7a358c44-c14b-454c-852c-110134d2f5e9/marketing_bulletin_mp_200624_1592980813_techref.pdf
+  - uMP GEN II Technical Reference Note: https://www.advancedenergy.com/getmedia/6b8187b6-8be5-4b2b-ab47-587448e71bfc/TRN-AC-DC-uMP-GEN2-Release-4-4-(062526).pdf
+  - AE's range of power solutions and responsiveness enables launch market leading Cell Sorter for OEM: https://www.advancedenergy.com/getmedia/8b5634c4-33f2-4a14-a83b-eea187a6b43d/ENG-CX18M-Opto-Acoustic-imaging-Case-Study-295-01-(1).pdf
+  - CoolX for Electrosurgery Power Console: https://www.advancedenergy.com/getmedia/c0816c2b-4c3a-4d74-afc8-52c11d69819e/eng-case-study-electrosurgery-power-console-2025.pdf
+  - CoolX-G Power Supplies for Next Generation Biomedical Analyser: https://www.advancedenergy.com/getmedia/75f70427-d365-45f5-9048-6772581521f4/ENG-Biomedical-Analyzer-Case-Study.pdf
+  - CoolX1000 provides power density and acoustic noise requirements for Portable MRI equipment: https://www.advancedenergy.com/getmedia/45273a8a-f1f5-4262-983d-7004b64d4a0e/eng-cx10m-portable-mri-case-study-295-01-1.pdf
+  - Driving Innovation in Microwave Ablation Systems with Advanced Energy’s CoolX1800: https://www.advancedenergy.com/getmedia/aaf65cca-dbae-4113-8749-4046df28aefc/ENG-Microwave-Ablation-Systems-Case-Study-295-01.pdf
+  - Mass Spec Case Study: High Voltage and Fanless Configurable Products: https://www.advancedenergy.com/getmedia/33d2aa96-ed5a-42a0-8c0b-2d61b85967a2/en-xsell-mass-spectrometry-case-study.pdf
+  - Medical Equipment Power Supplies Checklist: https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+  - Designing for a Medical Application: Choosing the Right Power Partner White Paper: https://www.advancedenergy.com/getmedia/bfd5f44e-8a83-4b33-b567-831d8acd372b/en-lv-designing-for-a-medical-application-choosing-the-right-power-partner-white-paper.pdf
+  - Redundant Power Supplies in Mission-Critical Applications White Paper: https://www.advancedenergy.com/getmedia/5c455fef-73ef-47f9-b65f-634a5bd6bdae/en-lv-redundant-power-supplies-white-paper.pdf
+  - Shrinking a Power Supply and the Challenge to Maintain High Reliability White Paper: https://www.advancedenergy.com/getmedia/dab16ee6-369b-470e-925d-b08e29db2fcc/en-lv-shrinking-a-power-supply-white-paper.pdf
+  - Simplify HiPot Testing for Medical Power Supplies: The CoolX-G Advantage: https://www.advancedenergy.com/getmedia/40eeb843-2fac-42d1-8a1e-83dc6dd7a74b/ENG-CoolX-G-HiPot-275-01.pdf
+  - Testing Power Supplies for Medical Electronics Applications White Paper: https://www.advancedenergy.com/getmedia/273f0b3d-4494-4728-abae-9a40aa7d36a0/en-lv-testing-power-supplies-for-medical-applications-white-paper.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - Chinese Version: https://www.advancedenergy.com/getmedia/89cb2261-7607-44bd-8df8-ab812ef74036/configurable_white_paper_c_1501438273851_WP.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - English Version: https://www.advancedenergy.com/getmedia/66ce3112-8233-48d3-80a3-c7a2f38a73d7/configurable_white_paper_r3_1_1367959072_WP.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - Korean Version: https://www.advancedenergy.com/getmedia/d432d6d2-22bb-47ce-b41b-71c7e756f7bf/configurable_white_paper_j_1501438273908_WP.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/bde05aca-a4be-492a-824d-8dfda90f19d8/ENG-LV-COOLX1000-235-09_04-07-24.pdf
+  - https://www.advancedenergy.com/getmedia/0711fea5-e53e-4ff9-8386-dfcd8a248192/ENG-LV_Xgen-02-19-24.pdf
+  - https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/32ea0fb9-b9e6-43ec-b2e9-5a19fd8ad27c/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/8f696a54-b178-4259-8424-67173b6c5db3/en-lv-xgen-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/56383021-0b24-4d3e-90e7-1d2571b0a7d4/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - https://www.advancedenergy.com/getmedia/bde05aca-a4be-492a-824d-8dfda90f19d8/ENG-LV-COOLX1000-235-09_11-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/85fa05bf-c38a-402f-bd74-9c0e9d8074cf/ENG-LV-COOLX1800-235-16_11-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/98c4d4c8-7664-4394-a2c9-18375450d3cd/ENG-LV-COOLX3000-235-04-11-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/183a169f-4baf-4009-a9cb-0edbb57d4d31/ENG-LV-COOLX600-235-07-11-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/1f85c75c-2e5e-4af4-98c8-cf2ab511f332/ENG-CoolMods-07-20-2025.pdf
+  - https://www.advancedenergy.com/getmedia/2e40bb4b-64ce-4ad4-8505-253ef7905abd/ENG-Excelsys-PowerMods-07-24-2025.pdf
+  - https://www.advancedenergy.com/getmedia/0711fea5-e53e-4ff9-8386-dfcd8a248192/ENG-LV_Xgen-02-19-24.pdf
+  - https://www.advancedenergy.com/getmedia/e99196ff-5dac-42e9-8128-b824038bc85e/rohs2_coc_73-956-4019g2_ump161467867781_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/494585fd-932d-4fe9-973e-5b8ade6c159f/rohs2_coc_73-951-4013g2_ump101467867324_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/07c63dd7-e28d-49ac-b184-5095a7d54464/rohs2_coc_73-956-4009g2_ump161467867395_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a62d0f11-b605-44a8-8b00-ba1393b19fd4/rohs2_coc_73-956-4018g2_ump161467867644_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/284e82c9-efdb-4741-916d-d3178ffc8566/73-956_ump16_73-951_ump10_cb_c1453194821_658.pdf
+  - https://www.advancedenergy.com/getmedia/20d205ee-e450-4c39-adb9-e1a20756156d/73-956_ump16_73-951_ump10_cb_c1453194821_959.pdf
+  - https://www.advancedenergy.com/getmedia/12a94082-23ae-4a9f-be1a-df112904ea7c/73-956_ump16_73-951_ump10_tuv_1453194819_341.pdf
+  - https://www.advancedenergy.com/getmedia/d09847f1-6363-4ca2-8f4a-53c44d19a511/73-956_ump16_73-951_ump10_dk-51476092084_531.pdf
+  - https://www.advancedenergy.com/getmedia/d4f6687d-b1ac-47b6-a487-ea269f7b4001/73-951-g2_ump10_73-956_ump16_u1453194822_475.pdf
+  - https://www.advancedenergy.com/getmedia/45e089ec-e3c7-4dec-88f7-c71236555ffe/73-956_ump16_73-951_ump10_es_61476092085_228.pdf
+  - https://www.advancedenergy.com/getmedia/b3c3791d-e479-4978-9947-1fc5b2ee0775/73-956_ump16_73-951_ump10_es_61476092085_321.pdf
+  - https://www.advancedenergy.com/getmedia/8b2b4262-14d4-4365-8806-14faf4d85aee/73-954_73-949_ump04_ump09_demk1476256906_109.pdf
+  - https://www.advancedenergy.com/getmedia/97ce5d87-91a6-4e4d-9c32-b7171d588378/73-954_73-949_ump04_ump09_ul_61476256598_113.pdf
+  - https://www.advancedenergy.com/getmedia/bb972aa8-14f7-477c-8fad-0048bdebe5f9/73-954_73-949_ump04_ump09_es_61476256607_086.pdf
+  - https://www.advancedenergy.com/getmedia/f434012a-17e5-4b6e-83ea-613f5d628161/73-954_73-949_ump04_ump09_sg_p1476256609_104.pdf
+  - https://www.advancedenergy.com/getmedia/0b4852f8-e87e-415c-857e-367d4f1f55ea/73-954_73-949_ump04_ump09_tuv_1476256613_247.pdf
+  - https://www.advancedenergy.com/getmedia/a78b9a3e-894e-46e9-a0cd-8c049d29d251/73-954-0001-g2_ump04x_es_606011476256599_722.pdf
+  - https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - https://www.advancedenergy.com/getmedia/a5dccd3a-6ffa-48f2-83fb-2ba06d14a8e6/en-lv-modular-designers-manual.pdf
+  - https://www.advancedenergy.com/getmedia/5421a9d3-7290-4e4e-86a7-67dce715adc8/AC-DC-CoolX1000-Designer-Maunal-Release-1-2-(111425).pdf
+  - https://www.advancedenergy.com/getmedia/429f389a-288b-42df-9658-b8617c1ae08e/en-lv-cx10-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/dedccbe0-384b-465e-8f04-26df0891821e/AC-DC-CoolX1800-Designer-Maunal-1-2-(111425).pdf
+  - https://www.advancedenergy.com/getmedia/2f57cc85-2d19-4850-8066-470ce62a45b6/en-lv-coolX1800-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/b9dbafd8-5277-49f8-a2e6-98c9f6661b93/AC-DC-CoolX3000-Designer-Maunal-Release-1-3-(111425).pdf
+  - https://www.advancedenergy.com/getmedia/be30d8bf-bb53-42ce-8d4f-c17258809b77/en-lv-coolx3000-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/0ba902e1-a314-411d-aa67-66d5d3d0dc2d/AC-DC-CoolX600-Designer-Maunal-Release-1-2(102925).pdf
+  - https://www.advancedenergy.com/getmedia/c4d20044-2a80-41e1-b7f0-f76918838744/en-lv-coolX600-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/a92700b3-c60d-4b27-b14e-86a21c13f13b/en-lv-cx1000-pmbus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/daba83c3-5047-463e-adc6-aa30aac8eabf/en-lv-cx1800-pmbus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/67da0d35-ffdf-4fad-9ac4-fbf13dd967bd/en-lv-cx600-pmbus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/f2a1ed4c-f738-4075-8129-5d90eb907e3a/en-lv-xgen-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/7b072f67-7ef2-4721-b82d-0b13345bd401/en-lv-4kv-primary-to-secondary-isolation-on-the-xgen-series-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/e924569b-d75e-4dd0-bdfe-97324586c7ee/en-lv-audible-noise-in-switch-power-supply-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/64c34c2f-7724-4ac7-8e5a-6bb82031257b/ENG-AppNote-HiPot-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/37f481bd-05ae-41ea-b7d9-33440f597bee/en-lv-coolx3000-technical-note.pdf
+  - https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/10f9a7cd-d7d3-47a7-822d-ab992fccccfa/en-lv-emi-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b85270e9-2411-4236-933c-a1d68777b4b7/en-lv-heat-sink-in-switch-power-supply-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/86f5885a-6cd4-45a3-92c6-c1dbcaa5b020/en-lv-power-supplies-for-high-altitude-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/1abf959e-3070-447f-9bad-b27d0e4c51ff/en-lv-i2c-basics-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/e721fa11-16a2-405a-b67c-47ef8c52d37f/en-lv-immunity-to-esd-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/bdb1ed5f-f6eb-4a53-9c79-273778638bf1/en-lv-interpretation-of-mtbf-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/bd16d1d7-18e4-4132-9015-1365df45ae98/en-lv-low-leakage-current-xgen-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d93f9252-43ac-4f51-ba3b-15d98f81b672/en-lv-low-leakage-medical-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/87398d9a-6f6d-4d4e-9191-3a389034c6d2/en-lv-methods-of-protection-moops-and-mopps-on-the-xgen-and-ultimod-platforms-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/494e81e7-b8fd-4c3b-bcfc-3682e8c35508/en-lv-methods-of-protection-moops-and-mops-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/917a5f5b-4503-49b1-bc56-45e14c1247b9/en-lv-high-altitude-power-supply-design-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/f7541442-29c1-4545-bb23-3fcf01b0d649/en-lv-reinforced-isolation-testing-on-a-power-supply-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/346f4ecd-3a42-4219-9a93-0a1ae94b64e5/en-lv-semi-F47-0706-compliance-voltage-sag-immunity.pdf
+  - https://www.advancedenergy.com/getmedia/c0edec63-0402-43eb-8c5f-ad26860413b3/en-lv-thermal-management-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/6762eccf-1798-401b-9a7b-4dd573d02fff/an10128_-_ump_series_-_install1559952535_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/650eddb4-26a2-4c04-b3c7-d7cdabb3486c/en-lv-xgen-and-ultimod-platforms-in-harsh-environments-conformal-coating-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b9a3c6dc-fd72-457e-92b2-c681809dffd0/en-lv-vtrim-and-paralleling-application-note-v2.pdf
+  - https://www.advancedenergy.com/getmedia/7a358c44-c14b-454c-852c-110134d2f5e9/marketing_bulletin_mp_200624_1592980813_techref.pdf
+  - https://www.advancedenergy.com/getmedia/6b8187b6-8be5-4b2b-ab47-587448e71bfc/TRN-AC-DC-uMP-GEN2-Release-4-4-(062526).pdf
+  - https://www.advancedenergy.com/getmedia/8b5634c4-33f2-4a14-a83b-eea187a6b43d/ENG-CX18M-Opto-Acoustic-imaging-Case-Study-295-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/c0816c2b-4c3a-4d74-afc8-52c11d69819e/eng-case-study-electrosurgery-power-console-2025.pdf
+  - https://www.advancedenergy.com/getmedia/75f70427-d365-45f5-9048-6772581521f4/ENG-Biomedical-Analyzer-Case-Study.pdf
+  - https://www.advancedenergy.com/getmedia/45273a8a-f1f5-4262-983d-7004b64d4a0e/eng-cx10m-portable-mri-case-study-295-01-1.pdf
+  - https://www.advancedenergy.com/getmedia/aaf65cca-dbae-4113-8749-4046df28aefc/ENG-Microwave-Ablation-Systems-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/33d2aa96-ed5a-42a0-8c0b-2d61b85967a2/en-xsell-mass-spectrometry-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+  - https://www.advancedenergy.com/getmedia/bfd5f44e-8a83-4b33-b567-831d8acd372b/en-lv-designing-for-a-medical-application-choosing-the-right-power-partner-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/5c455fef-73ef-47f9-b65f-634a5bd6bdae/en-lv-redundant-power-supplies-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/dab16ee6-369b-470e-925d-b08e29db2fcc/en-lv-shrinking-a-power-supply-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/40eeb843-2fac-42d1-8a1e-83dc6dd7a74b/ENG-CoolX-G-HiPot-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/273f0b3d-4494-4728-abae-9a40aa7d36a0/en-lv-testing-power-supplies-for-medical-applications-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/89cb2261-7607-44bd-8df8-ab812ef74036/configurable_white_paper_c_1501438273851_WP.pdf
+  - https://www.advancedenergy.com/getmedia/66ce3112-8233-48d3-80a3-c7a2f38a73d7/configurable_white_paper_r3_1_1367959072_WP.pdf
+  - https://www.advancedenergy.com/getmedia/d432d6d2-22bb-47ce-b41b-71c7e756f7bf/configurable_white_paper_j_1501438273908_WP.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/7abbfbbf-86c5-4935-82db-f93b7045ebbd/coolx1000-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/da21a5ba-f419-48a6-9f6c-864c9304faac/ultimod-6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7ce4eedf-a98b-4454-a3e6-e49b17cf26ba/ultimod-4-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/edac4529-69c8-45f0-8c47-b0fe2c690574/uMP10-16-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+1U SizePower ratings from 400 to 1800 WattsUp to 12 outputs from 0.9 to 60VDCSingle-phase AC input

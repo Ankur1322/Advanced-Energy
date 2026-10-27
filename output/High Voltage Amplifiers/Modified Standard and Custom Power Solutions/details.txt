@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Modified Standard and Custom Power Solutions
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Amplifiers
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/custom-and-modified-standard-power-supplies/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Modified Standard and Custom Power Solutions
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/custom-and-modified-standard-power-supplies/
+
+Complete Product Description:
+Advanced Energy builds custom and modified power supplies for fast delivery, technical precision, and full compliance.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/25ad8a79-cdf7-4a88-b59b-fe460413c667/Electricity-icon.png
+  - Image: https://www.advancedenergy.com/getattachment/c8bde156-6d2d-4595-9bde-e3056dffb1fd/Connectivity-icon.png
+  - Image: https://www.advancedenergy.com/getattachment/5b6b2fae-335c-4ad8-a89e-9e4f43d88f8f/Electricity_WB-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/90251767-6dbd-4a57-bbbb-eef7981dea9e/packaging-icon.png
+  - Image: https://i.ytimg.com/vi/Rx4SKXMI1Ig/hqdefault.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Amplifiers
+  ↓
+Modified Standard and Custom Power Solutions

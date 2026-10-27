@@ -1,0 +1,67 @@
+==============================================================================
+PRODUCT DETAILS: PEII Low Frequency Power SupplyHigh power densityWide tap rangeRegulation on power, voltage, or currentEnhanced arc controlAutomatic process safeguardFlexible modularityEfficient, compact design
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/
+Category Description: Extend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: PEII Low Frequency Power SupplyHigh power densityWide tap rangeRegulation on power, voltage, or currentEnhanced arc controlAutomatic process safeguardFlexible modularityEfficient, compact design
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/peii-series-low-frequency-power-supplies/
+
+Complete Product Description:
+The PEII power supply provides 40 kHz pulse width modulation (PWM). It features advanced arc control and  internal load matching with outputs of up to 60 kW when units are combined—requiring no external hardware such  as transformers or tuners. The power supply also offers two distinct arc-handling circuits, and the floating output  can be grounded on either side.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Glass Production Solutions Brochure View Resource: https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - PEII Series Data Sheet View Resource: https://www.advancedenergy.com/getmedia/80b7c342-5d43-4d22-af53-bafd76c61327/peii-series-low-frequency-power-supplies-data-sheet.pdf
+  - PEII Series Data Sheet: https://www.advancedenergy.com/getmedia/80b7c342-5d43-4d22-af53-bafd76c61327/peii-series-low-frequency-power-supplies-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/80b7c342-5d43-4d22-af53-bafd76c61327/peii-series-low-frequency-power-supplies-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/80b7c342-5d43-4d22-af53-bafd76c61327/peii-series-low-frequency-power-supplies-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/deposition/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+  ↓
+PEII Low Frequency Power SupplyHigh power densityWide tap rangeRegulation on power, voltage, or currentEnhanced arc controlAutomatic process safeguardFlexible modularityEfficient, compact design

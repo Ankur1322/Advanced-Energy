@@ -1,0 +1,121 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNDQ1600 Series1600 W high-density, ultra-efficient 48 to 12 V DC-DC converters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+[Level 3] Category Name: NDQ SeriesHigh efficiencyQuarter brick footprintDigital controlledCurrent share or remote senseInherently safe topology
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/ndq-series/
+Category Description: High‑efficiency 48 to 12 V quarter‑brick converters 900 W, 1300 W, and 1600 W with digital control for data center and high‑power computing applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNDQ1600 Series1600 W high-density, ultra-efficient 48 to 12 V DC-DC converters
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/ndq-series/ndq1600/
+
+Complete Product Description:
+High‑efficiency 48 to 12 V quarter‑brick converters 900 W, 1300 W, and 1600 W with digital control for data center and high‑power computing applications
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/3575736a-36e1-4992-9034-f76eafb6af2a/en-datasheet-NDQ1600-04-25.pdf
+  - NDQ1600 TRN View Resource: https://www.advancedenergy.com/getmedia/88d6d6cc-41db-4513-b638-a0daa42e284d/en-TRN-NDQ1600-7-2025.pdf
+  - NDQ Series Brochure: https://www.advancedenergy.com/getmedia/5ea55cf2-07ff-48be-9db4-108073afd8a4/en-brochure-NDQ-Series-2025.pdf
+  - NDQ1600 Datasheet: https://www.advancedenergy.com/getmedia/3575736a-36e1-4992-9034-f76eafb6af2a/en-datasheet-NDQ1600-07-25.pdf
+  - NDQ1600 TRN: https://www.advancedenergy.com/getmedia/88d6d6cc-41db-4513-b638-a0daa42e284d/en-TRN-NDQ1600-7-2025.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/5d317ace-4d34-435e-8a5d-bcd918d1fef8/en-datasheet-NDQ1300-3-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/5a1cbd02-b159-45d4-8b23-a12872a6b3ff/eng-ndq900_12_2v_series-235-011666341086.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/3575736a-36e1-4992-9034-f76eafb6af2a/en-datasheet-NDQ1600-04-25.pdf
+  - https://www.advancedenergy.com/getmedia/88d6d6cc-41db-4513-b638-a0daa42e284d/en-TRN-NDQ1600-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/5ea55cf2-07ff-48be-9db4-108073afd8a4/en-brochure-NDQ-Series-2025.pdf
+  - https://www.advancedenergy.com/getmedia/3575736a-36e1-4992-9034-f76eafb6af2a/en-datasheet-NDQ1600-07-25.pdf
+  - https://www.advancedenergy.com/getmedia/88d6d6cc-41db-4513-b638-a0daa42e284d/en-TRN-NDQ1600-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/5d317ace-4d34-435e-8a5d-bcd918d1fef8/en-datasheet-NDQ1300-3-25.pdf
+  - https://www.advancedenergy.com/getmedia/5a1cbd02-b159-45d4-8b23-a12872a6b3ff/eng-ndq900_12_2v_series-235-011666341086.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/efbddbf9-4868-489c-a0e9-47cf95074bcc/NDQ1600-V6.png
+  - Image: https://www.advancedenergy.com/getattachment/04d2671a-ddeb-4391-9a0a-78a611f35252/NDQ1600-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/0acdfd3f-7f81-44fb-a197-d3eb5c3e832c/NDQ1600-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/fe44cd05-0dfc-40b9-9f2f-987ef9d5b167/NDQ1600-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/f6c192cd-9805-4120-abb1-1c501c6fa323/NDQ1600-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/fe5c6361-0a27-49df-9ed1-eb9d7167a949/NDQ1600-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/efbddbf9-4868-489c-a0e9-47cf95074bcc/NDQ1600-V6.png
+  - Image: https://www.advancedenergy.com/getattachment/04d2671a-ddeb-4391-9a0a-78a611f35252/NDQ1600-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/0acdfd3f-7f81-44fb-a197-d3eb5c3e832c/NDQ1600-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/fe44cd05-0dfc-40b9-9f2f-987ef9d5b167/NDQ1600-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/f6c192cd-9805-4120-abb1-1c501c6fa323/NDQ1600-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/fe5c6361-0a27-49df-9ed1-eb9d7167a949/NDQ1600-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/efbddbf9-4868-489c-a0e9-47cf95074bcc/NDQ1600-V6.png
+  - Image: https://www.advancedenergy.com/getattachment/04d2671a-ddeb-4391-9a0a-78a611f35252/NDQ1600-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/0acdfd3f-7f81-44fb-a197-d3eb5c3e832c/NDQ1600-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/fe44cd05-0dfc-40b9-9f2f-987ef9d5b167/NDQ1600-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/f6c192cd-9805-4120-abb1-1c501c6fa323/NDQ1600-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/fe5c6361-0a27-49df-9ed1-eb9d7167a949/NDQ1600-V5.png
+  - Image: https://www.advancedenergy.com/images/technical-content/pdf.png
+  - NDQ1600 | High-efficiency, non-isolated 1600 W Quarter-brick DC-DC Converter for 48 V Systems: https://i.ytimg.com/vi/zhhBh3TxXco/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d8c22ad-99e5-455b-934e-70fc73ae28e0/NDQ1300-V6-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/234b8381-9587-42e8-b96f-f28a5239eaf5/5cc33bbbde.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e4183d7c-e731-4455-9081-f4f14f5b7db1/BCQ-BDQ-NDQ.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5a6a7c69-6438-4871-94b4-3e90a74631ca/LGA-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9957040b-1ab8-4633-8102-872a6cb3f402/Enterprise-Computing-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9957040b-1ab8-4633-8102-872a6cb3f402/Enterprise-Computing-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a69770d4-323a-497d-95c2-180f7aa557a0/Hyperscale-Banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a69770d4-323a-497d-95c2-180f7aa557a0/Hyperscale-Banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2e48c0a9-5086-449a-9d31-8f4dcc5e40ea/networking-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2e48c0a9-5086-449a-9d31-8f4dcc5e40ea/networking-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35a218c2-757c-4c48-b9f8-07d7e6deded8/Telecom-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35a218c2-757c-4c48-b9f8-07d7e6deded8/Telecom-display-banner.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNDQ1300 Series1300 W high-density, ultra-efficient 48 to 12 V DC-DC converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/ndq-series/ndq1300/
+  - Datasheet: https://www.advancedenergy.com/getmedia/5d317ace-4d34-435e-8a5d-bcd918d1fef8/en-datasheet-NDQ1300-3-25.pdf
+  - FeaturedNDQ900 Series900 W ultra-high 96.7% peak efficiency DC-DC converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/ndq-series/ndq900/
+  - Datasheet: https://www.advancedenergy.com/getmedia/5a1cbd02-b159-45d4-8b23-a12872a6b3ff/eng-ndq900_12_2v_series-235-011666341086.pdf
+  - FeaturedBCQ/BDQAdvanced Energy's BDQ1300 & BCQ1300 series quarter-brick are isolated DC-DC converters that produce a single 12 V nominal output from an input voltage range of 40 to 60 V.: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/bcq-bdq/
+  - FeaturedLGA DThe LGA-D family are non-isolated DC-DC converters designed for cost and space sensitive applications.: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/lga-d/
+  - Enterprise ComputingAdvanced Energy leads the market with an impressive 97% efficiency in data storage drives, networking equipment, and rack and blade servers.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/
+  - Explore Enterprise Computing: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/
+  - HyperscaleHyperscale data centers are designed to support robust, scalable applications. Our portfolio of AC-DC and DC-DC front-end power supplies and rack system solutions has both 12 and 48 V output voltage that helps minimize total cost of ownership.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/hyperscale/
+  - Explore Hyperscale: https://www.advancedenergy.com/en-us/applications/datacenter-computing/hyperscale/
+  - NetworkingNetworking defines equipment used for connecting networked equipment and transporting data packets across networks.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/networking/
+  - Explore Networking: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/networking/
+  - TelecomTelecom refers to equipment related to the access network, which connects users to their service provider and the core network, which connects local providers to one another.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/
+  - Explore Telecom: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+NDQ SeriesHigh efficiencyQuarter brick footprintDigital controlledCurrent share or remote senseInherently safe topology
+  ↓
+FeaturedNDQ1600 Series1600 W high-density, ultra-efficient 48 to 12 V DC-DC converters

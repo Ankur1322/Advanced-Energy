@@ -1,0 +1,93 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedThermistor Thermometers-70 °F to 300 °F
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: RTD & Thermistor ThermometersSpecially constructed of heavy-duty ABS case designed specifically for industrial useFahrenheit and Celsius options availableSupported by a wide range of temperature probe options
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/rtd-thermistor-thermometers/
+Category Description: Advanced Energy’s RTD and thermistor thermometers provide a solution for high and low temperature applications and offer a tilt stand/belt clip for convenient field or benchtop use.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedThermistor Thermometers-70 °F to 300 °F
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/rtd-thermistor-thermometers/thermistor-thermometers/
+
+Complete Product Description:
+Advanced Energy's 865 and 866 2,252 Ω thermistor thermometers are your best choice for lab-accurate temperature measurement in a built-tough handheld.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/632990df-368c-44ea-a0a5-152fa4e34e9a/865-866-909-01_RevBA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Thermometer Accessory Sheet: https://www.advancedenergy.com/getmedia/1bad71e7-8dd6-46f1-975e-3857ce6635db/Thermometer-Accessories-Datasheet.pdf
+  - TEGAM Thermometry Brochure: https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - 865/866 Datasheet – Rev B.: https://www.advancedenergy.com/getmedia/632990df-368c-44ea-a0a5-152fa4e34e9a/865-866-909-01_RevBA.pdf
+  - 865 & 866 Manual &#8211; Rev G.: https://www.advancedenergy.com/getmedia/2b6520be-c596-4469-bd05-0a4335e2e8eb/Model-865-901-01B-Rev-G.pdf
+  - AN600: Food Industry Temperature Measurement: https://www.advancedenergy.com/getmedia/0dedfd94-9793-4c5b-b82b-bdc616e780a3/AN600.pdf
+  - AN604: Advantages of Contact Thermometers over Non-Contact/Infrared Thermometers: https://www.advancedenergy.com/getmedia/766896b4-f551-4918-bf95-127756111405/AN604-Advantages-of-Contact-over-Non-Contact-Thermometers.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a576080f-03f3-444f-8d02-b8e2e6cfc1ad/868-909-01Rev-BA.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/632990df-368c-44ea-a0a5-152fa4e34e9a/865-866-909-01_RevBA.pdf
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/1bad71e7-8dd6-46f1-975e-3857ce6635db/Thermometer-Accessories-Datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - https://www.advancedenergy.com/getmedia/632990df-368c-44ea-a0a5-152fa4e34e9a/865-866-909-01_RevBA.pdf
+  - https://www.advancedenergy.com/getmedia/2b6520be-c596-4469-bd05-0a4335e2e8eb/Model-865-901-01B-Rev-G.pdf
+  - https://www.advancedenergy.com/getmedia/0dedfd94-9793-4c5b-b82b-bdc616e780a3/AN600.pdf
+  - https://www.advancedenergy.com/getmedia/766896b4-f551-4918-bf95-127756111405/AN604-Advantages-of-Contact-over-Non-Contact-Thermometers.pdf
+  - https://www.advancedenergy.com/getmedia/a576080f-03f3-444f-8d02-b8e2e6cfc1ad/868-909-01Rev-BA.pdf
+
+Images:
+  - °F Thermistor Thermometers are designed and engineered by TEGAM for multiple temp monitoring needs.: https://www.advancedenergy.com/getattachment/4f15b3e2-3d14-485d-92b9-e320878405bb/865-Thermistor-Thermometer-zoom-495x300.jpg
+  - °F Thermistor Thermometers are designed and engineered by TEGAM for multiple temp monitoring needs.: https://www.advancedenergy.com/getattachment/4f15b3e2-3d14-485d-92b9-e320878405bb/865-Thermistor-Thermometer-zoom-495x300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0dea617f-99c7-4e86-829b-6b97be0f73dc/86514-18.jpg
+  - °F Platinum RTD Thermometers designed and manufactured by TEGAM.: https://www.advancedenergy.com/getattachment/edccd7da-3999-4030-b48b-cfff54877dd4/868-Platinum-RTD-Thermometer-zoom.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedRTD Thermometers-360 ºF to +1100 ºF: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/rtd-thermistor-thermometers/rtd-thermometers/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a576080f-03f3-444f-8d02-b8e2e6cfc1ad/868-909-01Rev-BA.pdf
+  - AutomotiveAdvanced Energy provides a range of products for unique test & measurement applications in the manufacturing of automobiles and components. These product applications include low-resistance measurement and thermal sensing.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+  - Food SafetyOur digital temperature instruments are utilized directly on production lines for immediate verification and are essential in calibrating crucial process control equipment, addressing the pervasive issue of foodborne illnesses, and contributing to a safer, healthier food supply chain.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - Explore Food Safety: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+RTD & Thermistor ThermometersSpecially constructed of heavy-duty ABS case designed specifically for industrial useFahrenheit and Celsius options availableSupported by a wide range of temperature probe options
+  ↓
+FeaturedThermistor Thermometers-70 °F to 300 °F

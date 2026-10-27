@@ -1,0 +1,64 @@
+==============================================================================
+PRODUCT DETAILS: M-CRPS SeriesIndustry Standard M-CRPS Form FactorMarket Leading Power Density and EfficiencyHigh Power Capability for AI Workloads
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+Category Description: Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: M-CRPS SeriesIndustry Standard M-CRPS Form FactorMarket Leading Power Density and EfficiencyHigh Power Capability for AI Workloads
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/m-csrps/
+
+Complete Product Description:
+Introducing the M-CRPS Series from Advanced Energy—the perfect solution for businesses looking for a modular common redundant power supply with market-leading power density.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Artesyn M-CRPS CSU2400AT Series Data Sheet: https://www.advancedenergy.com/getmedia/70b7e9c6-b4d6-449d-a988-1de39026251e/ENG-CSU2400AT-Series-M-CRPS-2400W-Power-Supply-05-14-26.pdf
+  - Artesyn M-CRPS CSU32000AT Series Data Sheet: https://www.advancedenergy.com/getmedia/4d8f7e7f-1a09-4a24-b574-4834254971cf/ENG-CSU3200AT-Series-M-CRPS-3200W-Power-Supply-05-15-26.pdf
+  - M-CRPS CST1800AT Series Data Sheet: https://www.advancedenergy.com/getmedia/e965cb04-3e7b-4c5d-885b-fe7837263dc9/ENG-CST1800AT-Series-M-CRPS-1800W-Power-Supply-05-15-26.pdf
+  - CSU2400AT-3-3M0 TRN: https://www.advancedenergy.com/getmedia/aa46cfdf-124b-43df-aa05-4c66620ad2fc/TRN-AC-DC-CSU2400AT-3-3M0-Release-1-0(020926).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/70b7e9c6-b4d6-449d-a988-1de39026251e/ENG-CSU2400AT-Series-M-CRPS-2400W-Power-Supply-05-14-26.pdf
+  - https://www.advancedenergy.com/getmedia/4d8f7e7f-1a09-4a24-b574-4834254971cf/ENG-CSU3200AT-Series-M-CRPS-3200W-Power-Supply-05-15-26.pdf
+  - https://www.advancedenergy.com/getmedia/e965cb04-3e7b-4c5d-885b-fe7837263dc9/ENG-CST1800AT-Series-M-CRPS-1800W-Power-Supply-05-15-26.pdf
+  - https://www.advancedenergy.com/getmedia/aa46cfdf-124b-43df-aa05-4c66620ad2fc/TRN-AC-DC-CSU2400AT-3-3M0-Release-1-0(020926).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0ef7d75b-2e55-4281-a90e-c347f6b0be25/M-CRPS-Series-L4-Thumbnail.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+  ↓
+M-CRPS SeriesIndustry Standard M-CRPS Form FactorMarket Leading Power Density and EfficiencyHigh Power Capability for AI Workloads

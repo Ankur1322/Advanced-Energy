@@ -1,0 +1,91 @@
+==============================================================================
+PRODUCT DETAILS: ATA 3 Watt Isolated DC-DC Converter SeriesUltra compact DIP Package23.8 x 13.7 x 8.0 mm(0.94 x 0.54 x 0.31 inches)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+Category Description: Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: ATA 3 Watt Isolated DC-DC Converter SeriesUltra compact DIP Package23.8 x 13.7 x 8.0 mm(0.94 x 0.54 x 0.31 inches)
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/ata-series-3-watt-isolated-dc-dc-converters/
+
+Complete Product Description:
+Advanced Energy’s ATA series 3 W isolated DC-DC converter is offered in 16 variants, available in a mini  dual-in-line package for through-hole mounting or a mini surface-mount package.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/71c6c5cd-5033-4d43-8e3d-8b5b18c40fde/ata_series_ds_79c25814fd.pdf
+  - ATA Series 3W Isolated DC-DC Converters Datasheet: https://www.advancedenergy.com/getmedia/71c6c5cd-5033-4d43-8e3d-8b5b18c40fde/ENG-ATA3W-235-01-11-29-24.pdf
+  - ATA Series REACH COC: https://www.advancedenergy.com/getmedia/7621ee0a-be3f-41d8-8d3e-eec8d32c8192/reach_161_coc_ataxx_series_0421430263388_REACH.pdf
+  - ATA RoHS certificate: https://www.advancedenergy.com/getmedia/5220d573-041a-4519-9acc-6c0a58e0ffa6/rohs2_coc_ataxx_series_042215_1430502058_rohs_.pdf
+  - CSA certificate: https://www.advancedenergy.com/getmedia/8ce0e796-4037-4fcd-86ad-c03f6a251ba8/ata_3w_csa_cert_1430501971_cert.pdf
+  - ATA 3W Technical Reference Note: https://www.advancedenergy.com/getmedia/9849c677-dbac-4fc7-8871-800fb8137a91/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/71c6c5cd-5033-4d43-8e3d-8b5b18c40fde/ata_series_ds_79c25814fd.pdf
+  - https://www.advancedenergy.com/getmedia/71c6c5cd-5033-4d43-8e3d-8b5b18c40fde/ENG-ATA3W-235-01-11-29-24.pdf
+  - https://www.advancedenergy.com/getmedia/7621ee0a-be3f-41d8-8d3e-eec8d32c8192/reach_161_coc_ataxx_series_0421430263388_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/5220d573-041a-4519-9acc-6c0a58e0ffa6/rohs2_coc_ataxx_series_042215_1430502058_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/8ce0e796-4037-4fcd-86ad-c03f6a251ba8/ata_3w_csa_cert_1430501971_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9849c677-dbac-4fc7-8871-800fb8137a91/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/fb64e7d2-577d-4397-827f-1cbdab3c6d87/5393b13e37.png
+  - Image: https://www.advancedenergy.com/getattachment/4e125cb3-aea2-4614-929c-0c44b44a86bf/454ff5f5eb.png
+  - Image: https://www.advancedenergy.com/getattachment/4f947dbd-d88d-4c13-88f0-5acd4c973b20/561e4b7c93.png
+  - Image: https://www.advancedenergy.com/getattachment/20683fad-c6ef-48ec-894e-c2c7732e34dc/65056800c6.png
+  - Image: https://www.advancedenergy.com/getattachment/8d2a2442-e215-41af-8235-a362ecccac7d/71fbb4b6a5.png
+  - Image: https://www.advancedenergy.com/getattachment/68440023-9b3f-408e-ab3a-1067ae56c2e2/943035bc56.png
+  - Image: https://www.advancedenergy.com/getattachment/fb64e7d2-577d-4397-827f-1cbdab3c6d87/5393b13e37.png
+  - Image: https://www.advancedenergy.com/getattachment/4e125cb3-aea2-4614-929c-0c44b44a86bf/454ff5f5eb.png
+  - Image: https://www.advancedenergy.com/getattachment/4f947dbd-d88d-4c13-88f0-5acd4c973b20/561e4b7c93.png
+  - Image: https://www.advancedenergy.com/getattachment/20683fad-c6ef-48ec-894e-c2c7732e34dc/65056800c6.png
+  - Image: https://www.advancedenergy.com/getattachment/8d2a2442-e215-41af-8235-a362ecccac7d/71fbb4b6a5.png
+  - Image: https://www.advancedenergy.com/getattachment/68440023-9b3f-408e-ab3a-1067ae56c2e2/943035bc56.png
+  - Image: https://www.advancedenergy.com/getattachment/fb64e7d2-577d-4397-827f-1cbdab3c6d87/5393b13e37.png
+  - Image: https://www.advancedenergy.com/getattachment/4e125cb3-aea2-4614-929c-0c44b44a86bf/454ff5f5eb.png
+  - Image: https://www.advancedenergy.com/getattachment/4f947dbd-d88d-4c13-88f0-5acd4c973b20/561e4b7c93.png
+  - Image: https://www.advancedenergy.com/getattachment/20683fad-c6ef-48ec-894e-c2c7732e34dc/65056800c6.png
+  - Image: https://www.advancedenergy.com/getattachment/8d2a2442-e215-41af-8235-a362ecccac7d/71fbb4b6a5.png
+  - Image: https://www.advancedenergy.com/getattachment/68440023-9b3f-408e-ab3a-1067ae56c2e2/943035bc56.png
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+  ↓
+ATA 3 Watt Isolated DC-DC Converter SeriesUltra compact DIP Package23.8 x 13.7 x 8.0 mm(0.94 x 0.54 x 0.31 inches)

@@ -1,0 +1,126 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedAIF06ZPFC Series2400 W Full Brick PFC Converter
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/
+Category Description: Best suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+
+[Level 3] Category Name: PFC BMPUnity power factorHigh efficiency100°C baseplate operating temperature
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/pfc-bmp/
+Category Description: Advanced Energy’s PFC modules are designed to operate from an input of universal AC-mains voltage and feed one or more downstream high voltage isolated DC-DC converters, which provide the required low voltage.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedAIF06ZPFC Series2400 W Full Brick PFC Converter
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/pfc-bmp/aif06zpfc/
+
+Complete Product Description:
+The 2.4 kW AIF06ZPFC series power factor correction module presents unity power factor from an 85 to 264 VAC input and delivers a high 97.3% conversion efficiency and nominal non-isolated output of 400 VDC.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - AIF-CASE-KIT Datasheet: https://www.advancedenergy.com/getmedia/97960b2f-7031-470c-867b-33f4ba258c9e/eng-aif-case-kit-235-01_9_10_1601561782.pdf
+  - AIF06ZPFC Datasheet: https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - AIF06 REACH cert REACH Certificate: https://www.advancedenergy.com/getmedia/23c8e424-efd5-4c7b-973c-81e1bea7508f/reach_declaration_1575886892_REACH.pdf
+  - AIF06 RoHS cert RoHS Certificate: https://www.advancedenergy.com/getmedia/558655c4-b234-47e4-829c-3718da21f01f/rohs_declaration_1575886856_rohs_.pdf
+  - AIF06 CE DoC: https://www.advancedenergy.com/getmedia/c175cdd9-e523-4d5f-b8fc-208785e4a6fe/AIF06ZPFC_CE_230914.pdf
+  - AIF06 TUV Certificate: https://www.advancedenergy.com/getmedia/b8b69457-2575-48ed-9560-fba9db43ef6e/AIF06ZPFC_TUV_240930.pdf
+  - AIF06 UKCA: https://www.advancedenergy.com/getmedia/47901dc1-a6c1-4d29-8aaf-698fc514df2e/AIF06ZPFC_UKCA_230914.pdf
+  - AIF06 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/fe60eb89-f0b7-4943-a230-4712b6009316/AIF06ZPFC_UL-CoC_190604.pdf
+  - AIF06 Case study Application Solution Brief: https://www.advancedenergy.com/getmedia/7660f98e-c8ae-4593-b735-77e1ba7b4ade/en-hv-tethered-drone-case-stud1638442044_ASB.pdf
+  - AIF06ZPFC Technical Reference Note: https://www.advancedenergy.com/getmedia/d5e2e117-06d5-4077-ac92-f8817ace5d78/TRN-AC-DC-AIF06ZPFC-Release-2-6-(060424).pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/97960b2f-7031-470c-867b-33f4ba258c9e/eng-aif-case-kit-235-01_9_10_1601561782.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - https://www.advancedenergy.com/getmedia/97960b2f-7031-470c-867b-33f4ba258c9e/eng-aif-case-kit-235-01_9_10_1601561782.pdf
+  - https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - https://www.advancedenergy.com/getmedia/23c8e424-efd5-4c7b-973c-81e1bea7508f/reach_declaration_1575886892_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/558655c4-b234-47e4-829c-3718da21f01f/rohs_declaration_1575886856_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/c175cdd9-e523-4d5f-b8fc-208785e4a6fe/AIF06ZPFC_CE_230914.pdf
+  - https://www.advancedenergy.com/getmedia/b8b69457-2575-48ed-9560-fba9db43ef6e/AIF06ZPFC_TUV_240930.pdf
+  - https://www.advancedenergy.com/getmedia/47901dc1-a6c1-4d29-8aaf-698fc514df2e/AIF06ZPFC_UKCA_230914.pdf
+  - https://www.advancedenergy.com/getmedia/fe60eb89-f0b7-4943-a230-4712b6009316/AIF06ZPFC_UL-CoC_190604.pdf
+  - https://www.advancedenergy.com/getmedia/7660f98e-c8ae-4593-b735-77e1ba7b4ade/en-hv-tethered-drone-case-stud1638442044_ASB.pdf
+  - https://www.advancedenergy.com/getmedia/d5e2e117-06d5-4077-ac92-f8817ace5d78/TRN-AC-DC-AIF06ZPFC-Release-2-6-(060424).pdf
+  - https://www.advancedenergy.com/getmedia/97960b2f-7031-470c-867b-33f4ba258c9e/eng-aif-case-kit-235-01_9_10_1601561782.pdf
+  - https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+  - https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/7df82629-d0f5-4653-8934-12826e4795a7/Pageimage.jpg
+  - Image: https://www.advancedenergy.com/getattachment/83657adf-7a37-48aa-a846-38d6d2cb59cf/0f13aeb236.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18eba757-f909-42b1-b67e-934b7f8404de/146f001291.jpg
+  - Image: https://www.advancedenergy.com/getattachment/57f7e79d-1a88-4612-8df7-95440abefbfc/7ab790c7a0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9d462801-f86d-4825-9ec8-33bb52735029/cf8087b785.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f9bc045-301a-43bf-8ec7-a17bff8b9936/ea0530a2de.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7df82629-d0f5-4653-8934-12826e4795a7/Pageimage.jpg
+  - Image: https://www.advancedenergy.com/getattachment/83657adf-7a37-48aa-a846-38d6d2cb59cf/0f13aeb236.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18eba757-f909-42b1-b67e-934b7f8404de/146f001291.jpg
+  - Image: https://www.advancedenergy.com/getattachment/57f7e79d-1a88-4612-8df7-95440abefbfc/7ab790c7a0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9d462801-f86d-4825-9ec8-33bb52735029/cf8087b785.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f9bc045-301a-43bf-8ec7-a17bff8b9936/ea0530a2de.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7df82629-d0f5-4653-8934-12826e4795a7/Pageimage.jpg
+  - Image: https://www.advancedenergy.com/getattachment/83657adf-7a37-48aa-a846-38d6d2cb59cf/0f13aeb236.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18eba757-f909-42b1-b67e-934b7f8404de/146f001291.jpg
+  - Image: https://www.advancedenergy.com/getattachment/57f7e79d-1a88-4612-8df7-95440abefbfc/7ab790c7a0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9d462801-f86d-4825-9ec8-33bb52735029/cf8087b785.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f9bc045-301a-43bf-8ec7-a17bff8b9936/ea0530a2de.jpg
+  - AIF06 Series PFC Module: https://i.ytimg.com/vi/ApgY4OXFkQE/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/54f4cdfe-ad31-4090-8c22-a7f7d2238a2d/4a69d61275.jpg
+  - AIF 600W Series Product Image: https://www.advancedenergy.com/getattachment/6bde9dc1-17ff-421f-a91c-ad65ea7c459e/AIF-artesyn.jpg
+  - Image: https://www.advancedenergy.com/getattachment/65b337c0-5683-45cf-b552-b58c6a2ed6f0/AIH50F300_ang2_1000.png
+  - Image: https://www.advancedenergy.com/getattachment/167025d4-d3a6-43fc-9fcb-a5276086e3c3/33adb8f226.png
+  - Image: https://www.advancedenergy.com/getattachment/a78e2e1c-daee-48d4-b359-09bd32f016fb/Tethered-Drone-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a78e2e1c-daee-48d4-b359-09bd32f016fb/Tethered-Drone-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAIF Case Kit for EMIMetal Casing Kit for AIF PFC Units: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/pfc-bmp/aif-case-kit/
+  - Datasheet: https://www.advancedenergy.com/getmedia/97960b2f-7031-470c-867b-33f4ba258c9e/eng-aif-case-kit-235-01_9_10_1601561782.pdf
+  - FeaturedAIF 600W Series600 W High Voltage Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aif-600w/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+  - FeaturedAIH 250W Series250 W High Voltage Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aih-250w/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - FeaturedAIQ02R Series65 W High Voltage Quarter-Brick Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aiq02r/
+  - Datasheet: https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+  - Tethered DronesAdvanced Energy’s wide selection of AC‑DC power conversion solutions is designed to meet the diverse DC voltages and power levels required by tethered drones. In addition, our Point‑of‑Load (POL) and Board Mounted Power (BMP) brick converters deliver low‑voltage conversion to energize onboard electronics in tethered drone applications.: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/tethered-drone/
+  - Explore Tethered Drone: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/tethered-drone/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+  ↓
+PFC BMPUnity power factorHigh efficiency100°C baseplate operating temperature
+  ↓
+FeaturedAIF06ZPFC Series2400 W Full Brick PFC Converter

@@ -1,0 +1,114 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedTE240 Series240 W Single Output External Power Adapters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: TE SeriesITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/
+Category Description: The TE series is part of Advanced Energy's medical external power supplies and offers nine products under this family ranging from 10 W to 240 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedTE240 Series240 W Single Output External Power Adapters
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te240-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power TE240 series of desktop AC-DC external power adapter comprises six output models. All models feature industrial safety approvals and accept a universal input of 90 to 264 VAC.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c3515c18-c4cc-4785-ab76-2d19f82506e9/TE240-Datasheet.pdf
+  - TE240 Datasheet: https://www.advancedenergy.com/getmedia/c3515c18-c4cc-4785-ab76-2d19f82506e9/TE240-Datasheet.pdf
+  - TE240 Demko Certificate: https://www.advancedenergy.com/getmedia/0b06c878-249e-40c4-b52f-dd6bca74c0af/TE240_Demko_Cert.pdf
+  - TE240 HT Demko Certificate: https://www.advancedenergy.com/getmedia/8da5e9af-e3c5-4e23-8553-3d930a63dfc7/TE240%20HT%20Demko%20Cert.pdf
+  - TE240A1251F01 REACH Statement: https://www.advancedenergy.com/getmedia/979d0f0c-d4ff-4148-aceb-e78c934565b4/TE240A12_REACH.pdf
+  - TE240A2451F01 REACH Statement: https://www.advancedenergy.com/getmedia/607f1982-31c8-4399-9e4e-bb54c37180b9/TE240A24_REACH.pdf
+  - TE240A4851F01 REACH Statement: https://www.advancedenergy.com/getmedia/fa803c92-a771-48dc-afd4-66294c2e64ec/TE240A48_REACH.pdf
+  - TE240A1251F01 RoHS Certificate: https://www.advancedenergy.com/getmedia/dae0eac7-3851-489f-ba70-0cfcd35551be/TE240A12_RoHS_Cert.pdf
+  - TE240A2451F01 RoHS Certificate: https://www.advancedenergy.com/getmedia/1b00a942-05d9-4fa7-8155-b97fc7947973/TE240A24_RoHS_Cert.pdf
+  - TE240A4851F01 RoHS Certificate: https://www.advancedenergy.com/getmedia/5ce946d7-66dc-41f2-948c-2d4c2a2b1afd/TE240A48_RoHS_Cert.pdf
+  - TE240 CB Certificate: https://www.advancedenergy.com/getmedia/ae2e9e5f-b27a-4421-a858-2132242e23fc/TE240_CB_Cert.pdf
+  - TE240 HT CB Certificate: https://www.advancedenergy.com/getmedia/fc3d03e1-dcd7-4216-9cd9-4a5279a922c8/TE240%20HT%20CB%20Cert.pdf
+  - TE240 HT UL Certificate of Compliance: https://www.advancedenergy.com/getmedia/d47f16dc-941a-49ec-834c-b8ee500bf138/TE240%20HT%20UL%20Cert%20of%20Compliance.pdf
+  - TE240 UL Certificate: https://www.advancedenergy.com/getmedia/046d6041-705b-4823-a343-02faf0181035/TE240_UL_Cert.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/196b99dc-c88e-4ee6-8dae-d82530cc5c47/ENG-TE150-01-11-15-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c3515c18-c4cc-4785-ab76-2d19f82506e9/TE240-Datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/c3515c18-c4cc-4785-ab76-2d19f82506e9/TE240-Datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/0b06c878-249e-40c4-b52f-dd6bca74c0af/TE240_Demko_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/8da5e9af-e3c5-4e23-8553-3d930a63dfc7/TE240%20HT%20Demko%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/979d0f0c-d4ff-4148-aceb-e78c934565b4/TE240A12_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/607f1982-31c8-4399-9e4e-bb54c37180b9/TE240A24_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/fa803c92-a771-48dc-afd4-66294c2e64ec/TE240A48_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/dae0eac7-3851-489f-ba70-0cfcd35551be/TE240A12_RoHS_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/1b00a942-05d9-4fa7-8155-b97fc7947973/TE240A24_RoHS_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/5ce946d7-66dc-41f2-948c-2d4c2a2b1afd/TE240A48_RoHS_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/ae2e9e5f-b27a-4421-a858-2132242e23fc/TE240_CB_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/fc3d03e1-dcd7-4216-9cd9-4a5279a922c8/TE240%20HT%20CB%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/d47f16dc-941a-49ec-834c-b8ee500bf138/TE240%20HT%20UL%20Cert%20of%20Compliance.pdf
+  - https://www.advancedenergy.com/getmedia/046d6041-705b-4823-a343-02faf0181035/TE240_UL_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/196b99dc-c88e-4ee6-8dae-d82530cc5c47/ENG-TE150-01-11-15-23.pdf
+  - https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/5eefccb0-ce52-4079-a67b-1c4d4411beb5/TE240.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5eefccb0-ce52-4079-a67b-1c4d4411beb5/TE240.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1c26dd45-4dd2-4e82-b87c-fbe10e5b30fa/SLPower-1619.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8770aaef-1db6-4d5b-9812-da4af76ee818/ME150-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/68024c77-d78e-416d-a602-bde2aa7547e3/GE150-img-1601070209.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedTE150 Series150 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/196b99dc-c88e-4ee6-8dae-d82530cc5c47/ENG-TE150-01-11-15-23.pdf
+  - FeaturedME150 Series150 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - FeaturedGE150 Series150 W Single Output External Medical & ITE Power Adapter: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/ge150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Routing / SwitchingNetwork routing and switching are essential to any network infrastructure, and Advanced Energy's power supply solutions are designed to meet these demanding needs.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/routing-switching/
+  - Explore Routing/Switching: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/routing-switching/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+TE SeriesITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+  ↓
+FeaturedTE240 Series240 W Single Output External Power Adapters

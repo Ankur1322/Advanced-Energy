@@ -1,0 +1,97 @@
+==============================================================================
+PRODUCT DETAILS: Featured2800 Series RF Power Standards - ThermoelectricRF Power Standards - Thermoelectric
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/
+Category Description: Making accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+
+[Level 3] Category Name: Low Power RF StandardsAdvanced Energy’s RF Power Standards product line includes RF transfer (feedthrough) and reference (terminating) thermistor standards and RF transfer thermoelectric standards.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/low-power-rf-standards/
+Category Description: Advanced Energy’s RF Power Standards product line includes RF transfer (feedthrough) and reference (terminating) thermistor standards and RF transfer thermoelectric standards.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: Featured2800 Series RF Power Standards - ThermoelectricRF Power Standards - Thermoelectric
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/low-power-rf-standards/2800-series-rf-power-standards-thermoelectric/
+
+Complete Product Description:
+Advanced Energy's 2800 Series RF Power Transfer Standards are tools you can rely on every day.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/5e56b4b1-55c5-4104-ae18-036e9a5bb713/TEG_2818A_DS_RevAC.pdf
+  - 2818A Datasheet: https://www.advancedenergy.com/getmedia/5e56b4b1-55c5-4104-ae18-036e9a5bb713/ENG-TEG_2818A-10-21-24.pdf
+  - TEGAM 2850A Datasheet: https://www.advancedenergy.com/getmedia/77da6595-b7f0-418a-8aa7-0653f6e4c6e4/ENG-TEG_2850A-10-21-24.pdf
+  - 2818A RF Power Transfer Standard Manual: https://www.advancedenergy.com/getmedia/88161be8-896a-4803-8443-71054d246520/2818A-RF-Power-Transfer-Standard-Manual.pdf
+  - TEGAM 2850A User Manual: https://www.advancedenergy.com/getmedia/8b568f56-51b1-4e64-a3aa-05173ec341b7/eng-TEGAM-2850A-usermanual.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e2d3ee48-4296-4220-98c2-da7d388a4c6b/1505A-2505A-909-RevCA.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/5e56b4b1-55c5-4104-ae18-036e9a5bb713/TEG_2818A_DS_RevAC.pdf
+  - https://www.advancedenergy.com/getmedia/5e56b4b1-55c5-4104-ae18-036e9a5bb713/ENG-TEG_2818A-10-21-24.pdf
+  - https://www.advancedenergy.com/getmedia/77da6595-b7f0-418a-8aa7-0653f6e4c6e4/ENG-TEG_2850A-10-21-24.pdf
+  - https://www.advancedenergy.com/getmedia/88161be8-896a-4803-8443-71054d246520/2818A-RF-Power-Transfer-Standard-Manual.pdf
+  - https://www.advancedenergy.com/getmedia/8b568f56-51b1-4e64-a3aa-05173ec341b7/eng-TEGAM-2850A-usermanual.pdf
+  - https://www.advancedenergy.com/getmedia/e2d3ee48-4296-4220-98c2-da7d388a4c6b/1505A-2505A-909-RevCA.pdf
+
+Images:
+  - 2818A RF Power Transfer Standard: https://www.advancedenergy.com/getattachment/fc873972-2324-4e6a-84d2-ac9ca6ff0790/TEG_AE_2818A-768x452.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5ab518fe-1e80-4251-b212-d6b917c55d39/TEG_AE_2818A_back-(1).jpg
+  - 2818A RF Power Transfer Standard: https://www.advancedenergy.com/getattachment/fc873972-2324-4e6a-84d2-ac9ca6ff0790/TEG_AE_2818A-768x452.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5ab518fe-1e80-4251-b212-d6b917c55d39/TEG_AE_2818A_back-(1).jpg
+  - 2818A RF Power Transfer Standard: https://www.advancedenergy.com/getattachment/fc873972-2324-4e6a-84d2-ac9ca6ff0790/TEG_AE_2818A-768x452.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5ab518fe-1e80-4251-b212-d6b917c55d39/TEG_AE_2818A_back-(1).jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/0b42db53-3b9a-46c0-925f-c4d8d407f89f/138-651-1/
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/ef377f9e-b864-4263-a36a-1489cfa600d7/CA-21-48-_138-645-2_1585-1009.png
+  - 9 kHz to 18 GHz RF Terminating Power Standard: https://www.advancedenergy.com/getattachment/f78125c3-ec5b-4b8e-999d-4f72aa475314/1505A-Microwave-Calibration-Standard-zoom-495x300.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured1500/2500 Series RF Power Standards - ThermistorRF Power Standards - Thermistor: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/low-power-rf-standards/1500-2500-series-rf-power-standards-thermistor/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e2d3ee48-4296-4220-98c2-da7d388a4c6b/1505A-2505A-909-RevCA.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+  ↓
+Low Power RF StandardsAdvanced Energy’s RF Power Standards product line includes RF transfer (feedthrough) and reference (terminating) thermistor standards and RF transfer thermoelectric standards.
+  ↓
+Featured2800 Series RF Power Standards - ThermoelectricRF Power Standards - Thermoelectric

@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Pulsed and DC Power Systems
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power Products
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Pulsed and DC Power Systems
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/
+
+Complete Product Description:
+Extend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/3ce8649a-34d6-49ed-9dfe-0db1413766c6/ascent-dms-60-silver-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b22f125a-e2a4-4ea7-b737-09a97d504c6e/PINNACLE-FR-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d17638d7-6cf1-45cb-8770-fe99100cbd43/pinnacle-plus-fr-wp_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8114a7b5-6303-4558-a280-adf5504fd8cd/Ascent-AMS-II-V8.png
+  - Image: https://www.advancedenergy.com/getattachment/f9e0cf72-1ade-41bd-8078-1c1409426173/ascent_sms_ap10_fl_w_web.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power Products
+  ↓
+Pulsed and DC Power Systems

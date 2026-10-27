@@ -1,0 +1,87 @@
+==============================================================================
+PRODUCT DETAILS: LGA C15 to 100 W with 3, 6, 10 and 20 A output current ratingWide input voltage range up to 14 VAdjustable output voltage range of 0.59 to 5.1 V
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Non-Isolated PCB MountMinimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/
+Category Description: Minimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: LGA C15 to 100 W with 3, 6, 10 and 20 A output current ratingWide input voltage range up to 14 VAdjustable output voltage range of 0.59 to 5.1 V
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/lga-c/
+
+Complete Product Description:
+Advanced Energy offers DC-DC converters designed for cost-critical applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - LGA Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/d8422f68-f0d1-4129-9e8f-41355a79ca5a/zho-aep-dcdc-lga_9_07_1631082477.pdf
+  - LGA Brochure - English Version: https://www.advancedenergy.com/getmedia/3773344e-8737-46f4-a4bd-ec88726da0ff/eng-aep-dcdc-lga_9_07_1631082348.pdf
+  - LGA C Series Datasheet: https://www.advancedenergy.com/getmedia/bd5b62fd-ac71-4856-8ee5-c68cef944cd5/eng-lga3-20c-235-01_09_13_22_1663239965.pdf
+  - LGA C Series Datasheet: https://www.advancedenergy.com/getmedia/62061a46-31c8-47a6-bb59-39e17f93826f/lga3-20c_ds_1592912089.pdf
+  - LGA03C RoHS 6/6 CoC: https://www.advancedenergy.com/getmedia/9f24ff90-e9a7-4343-8060-c3cfbd8e9a7c/coc_lga03c-00sadjj_041609_1239931171_rohs_.pdf
+  - LGA06C RoHS 6/6 CoC: https://www.advancedenergy.com/getmedia/ef78b7ce-d5d8-469f-b508-eebfe34b21bf/coc_lga06c-00sadjj_041609_1239931203_rohs_.pdf
+  - LGA10C-00SADJJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/a8690206-60db-43cb-a486-56ff35320583/rohs2_coc_lga10c-00sadjj_022011395051832_rohs_.pdf
+  - LGA20C-01SADJJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/f4b898b4-cc77-4e94-a0fc-81fb116b2045/rohs2_coc_lga20c-01sadjj_091811395052256_rohs_.pdf
+  - LGA20C CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/e2c32e2e-e032-451c-aca6-10ae7f1f7a5d/lga20c-01sadjj_ce_1464676370_cert.pdf
+  - LGA20C UL Certificate: https://www.advancedenergy.com/getmedia/d46602cd-fa4e-4cda-9e26-1288993cf478/lga20c-01sadjj_ul_1464676432_cert.pdf
+  - LGA C Series EVAL-KIT TRN: https://www.advancedenergy.com/getmedia/51af920f-7ac3-4149-a5dd-c2f5d08dad28/trn_lga_c_evalkit_1253671883_techref.pdf
+  - LGA C Series Technical Reference Note: https://www.advancedenergy.com/getmedia/4e955ae1-0a83-4e0b-9b09-b1fe474f2256/lga-trn_1323296988_techref.pdf
+  - LGA03C Change note 15-9-2022: https://www.advancedenergy.com/getmedia/772b776a-939d-49d7-acb6-677d8344b62b/lga03c_-_product_specification1663240190_techref.pdf
+  - LGA03C Tech Ref Note 15-9-2022: https://www.advancedenergy.com/getmedia/3e93d968-6c90-4aef-87e1-32593648fc88/trn_dc-dc_lga_c_release_1_2_21663240130_techref.pdf
+  - Designing DC-DC Power Systems: Internal Design vs. Off-the-Shelf Modules View Resource: https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/d8422f68-f0d1-4129-9e8f-41355a79ca5a/zho-aep-dcdc-lga_9_07_1631082477.pdf
+  - https://www.advancedenergy.com/getmedia/3773344e-8737-46f4-a4bd-ec88726da0ff/eng-aep-dcdc-lga_9_07_1631082348.pdf
+  - https://www.advancedenergy.com/getmedia/bd5b62fd-ac71-4856-8ee5-c68cef944cd5/eng-lga3-20c-235-01_09_13_22_1663239965.pdf
+  - https://www.advancedenergy.com/getmedia/62061a46-31c8-47a6-bb59-39e17f93826f/lga3-20c_ds_1592912089.pdf
+  - https://www.advancedenergy.com/getmedia/9f24ff90-e9a7-4343-8060-c3cfbd8e9a7c/coc_lga03c-00sadjj_041609_1239931171_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/ef78b7ce-d5d8-469f-b508-eebfe34b21bf/coc_lga06c-00sadjj_041609_1239931203_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a8690206-60db-43cb-a486-56ff35320583/rohs2_coc_lga10c-00sadjj_022011395051832_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f4b898b4-cc77-4e94-a0fc-81fb116b2045/rohs2_coc_lga20c-01sadjj_091811395052256_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e2c32e2e-e032-451c-aca6-10ae7f1f7a5d/lga20c-01sadjj_ce_1464676370_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d46602cd-fa4e-4cda-9e26-1288993cf478/lga20c-01sadjj_ul_1464676432_cert.pdf
+  - https://www.advancedenergy.com/getmedia/51af920f-7ac3-4149-a5dd-c2f5d08dad28/trn_lga_c_evalkit_1253671883_techref.pdf
+  - https://www.advancedenergy.com/getmedia/4e955ae1-0a83-4e0b-9b09-b1fe474f2256/lga-trn_1323296988_techref.pdf
+  - https://www.advancedenergy.com/getmedia/772b776a-939d-49d7-acb6-677d8344b62b/lga03c_-_product_specification1663240190_techref.pdf
+  - https://www.advancedenergy.com/getmedia/3e93d968-6c90-4aef-87e1-32593648fc88/trn_dc-dc_lga_c_release_1_2_21663240130_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0ca0d605-d73b-428b-9082-afbf2ca8c4e1/LGA20C.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Non-Isolated PCB MountMinimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+  ↓
+LGA C15 to 100 W with 3, 6, 10 and 20 A output current ratingWide input voltage range up to 14 VAdjustable output voltage range of 0.59 to 5.1 V

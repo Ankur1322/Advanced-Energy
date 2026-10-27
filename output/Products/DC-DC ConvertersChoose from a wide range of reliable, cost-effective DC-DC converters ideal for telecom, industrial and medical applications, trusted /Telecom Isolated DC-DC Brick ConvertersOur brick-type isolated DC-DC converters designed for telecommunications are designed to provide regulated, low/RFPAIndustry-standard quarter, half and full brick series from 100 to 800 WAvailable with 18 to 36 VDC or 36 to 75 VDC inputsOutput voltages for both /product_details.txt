@@ -1,0 +1,230 @@
+==============================================================================
+PRODUCT DETAILS: RFPAIndustry-standard quarter, half and full brick series from 100 to 800 WAvailable with 18 to 36 VDC or 36 to 75 VDC inputsOutput voltages for both LDMos and gallium nitride (GaN) power amplifiers
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: RFPAIndustry-standard quarter, half and full brick series from 100 to 800 WAvailable with 18 to 36 VDC or 36 to 75 VDC inputsOutput voltages for both LDMos and gallium nitride (GaN) power amplifiers
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/rfpa/
+
+Complete Product Description:
+Advanced Energy produces a range of isolated DC-DC converters designed to produce regulated low noise DC supply for RF power amplifiers in wireless base stations and related applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - Telecom Power Brochure: https://www.advancedenergy.com/getmedia/7b822da5-1d1a-4b0b-8ec5-2ac22fe06b8d/ENG-OT-5G-Power_FINAL.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - ADH1300 Datasheet: https://www.advancedenergy.com/getmedia/0f5f6eba-7aeb-4ff7-b031-a7b9f8bf36e1/ENG-ADH1300-48S28-235-01-03-19-26.pdf
+  - ADH700 28V Data Sheet: https://www.advancedenergy.com/getmedia/c0e257a9-5dd9-4788-8082-2fdedaac9b63/adh700-28v-series-ds_1494879416.pdf
+  - ADH700 50V Data Sheet: https://www.advancedenergy.com/getmedia/85aaebcc-fcfa-474b-85fe-6fc3da150b27/ENG-ADH700-48S50-4-1-2026.pdf
+  - AGF600-024 Data Sheet: https://www.advancedenergy.com/getmedia/a46641c4-b249-4ec4-b9c2-ec82ce217a4d/agf600-024_ds_154_1444750471.pdf
+  - AGF600-048 Data Sheet: https://www.advancedenergy.com/getmedia/164d3743-0fea-4e23-a8cd-62b8e7b76c9c/agf600-048_ds_1444750516.pdf
+  - AGF600-48S50P Data Sheet: https://www.advancedenergy.com/getmedia/d8543f17-a54d-4418-ab65-e252e929261a/agf600-48s50_ds_1446824136.pdf
+  - AGF700 Datasheet: https://www.advancedenergy.com/getmedia/6d0f2266-bcd4-4f3a-b9f7-e0ae956249f9/agf700-48s30_ds_v1_ab2edit_7b99295ed9.pdf
+  - AGF800 28V datasheet: https://www.advancedenergy.com/getmedia/6d815268-3ad8-4490-98db-e31e9c176c09/agf800-28_ds_1444750040.pdf
+  - AGF800 48V datasheet: https://www.advancedenergy.com/getmedia/8dd4fd6c-e539-4f37-ab59-0344c564e369/agf800-048_ds_1444750082.pdf
+  - AGF800 Dual Data Sheet: https://www.advancedenergy.com/getmedia/7d0ef039-c6da-4d9e-97b5-f5608c2f7c04/agf800-48d_series_1444749818.pdf
+  - AGQ500 Series DS: https://www.advancedenergy.com/getmedia/c864883e-b6e2-4ef0-9116-785bece9b7f4/ENG-AGQ500-235-01-07-29-25.pdf
+  - AVE350-24 Series Datasheet: https://www.advancedenergy.com/getmedia/c55c4865-218e-4abb-91ea-ba16643bf0a4/ave350b-24_ds_07-30-14_b0b452d932.pdf
+  - AVE450/500 50V Datasheet: https://www.advancedenergy.com/getmedia/93cae367-3540-42ac-b211-bd8e577ce463/ave450-500_50v_ds-re1494500535.pdf
+  - AVE450B Series Data Sheet: https://www.advancedenergy.com/getmedia/cbc864f4-6e65-4985-b9cf-8c4dd9261e08/ave450b-48s28_ds_v2_30th_62f2ea8609.pdf
+  - AVE700 28V Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/fa751364-5462-4441-ac02-a387fc39110e/eng-ave700-48s28-235-01_12_16_1650333898.pdf
+  - AVO100-48S28 Datasheet: https://www.advancedenergy.com/getmedia/245d63e0-7b8b-4461-92fc-742492b96ce1/avo100-48s28b-6l_ds_09-19-2014d04b106250.pdf
+  - TUV Certification ADH1300: https://www.advancedenergy.com/getmedia/01ae4923-8eac-4db0-8f94-82a5efc1cd50/eng-certification-tuv-adh1300.pdf
+  - UK-Declaration of Conformity ADH1300: https://www.advancedenergy.com/getmedia/927f97ef-1e75-4dbc-987f-cc415e67b10f/eng-declaration-of-conformity-uk-adh1300.pdf
+  - UL Certification of Compliance ADH1300: https://www.advancedenergy.com/getmedia/8caa19f4-30cc-45e0-9d7e-9b2435e357ee/eng-certification-compliance-adh1300.pdf
+  - ADH700-48S28-6L RoHS Certificate: https://www.advancedenergy.com/getmedia/d24c898f-60d6-41ea-83f4-d27d4af11d4a/rohs2_coc_adh700-48s28-6l_05271479483815_rohs_.pdf
+  - ADH700-48S50-6L RoHS certificate: https://www.advancedenergy.com/getmedia/755e818b-c45e-4fde-923b-fa6db2dfe617/rohs2_coc_adh700-48s50-6l_03161494402256_rohs_.pdf
+  - AGF800-48S48P-6L RoHS2 CoC: https://www.advancedenergy.com/getmedia/1efea6c9-299d-4904-96f1-50c1e004eb17/rohs2_coc_agf800-48s48p-6l_0321467869208_rohs_.pdf
+  - AGQ500-48S28 ROHS: https://www.advancedenergy.com/getmedia/a90bcba8-30c8-4061-83e4-2027710ee449/coc_certificate_of_agq500-48s21593757821_rohs_.pdf
+  - AGQ500-48S50 ROHS: https://www.advancedenergy.com/getmedia/27704662-c5ab-46bf-aa27-3492d9777e0e/rohs3_coc_agq500-48s50-6l_14ja1569312930_rohs_.pdf
+  - AVE450-48S50 COC: https://www.advancedenergy.com/getmedia/d784b98d-caf7-4354-8335-cc832d36bb27/coc_1494489623_rohs_.pdf
+  - AVE500-48S50 COC: https://www.advancedenergy.com/getmedia/c3d31d7b-25f4-4f45-81b5-9c4e48047782/rohs2_coc_ave500-48s50-6l_04181496740039_rohs_.pdf
+  - AVE700-48S28B-6L RoHS Certificate: https://www.advancedenergy.com/getmedia/62fd4b20-efc5-40ae-92ee-fbda16413705/rohs3_coc_ave700-48s28b-6l_1651130283_rohs_.pdf
+  - AVE700-48S28PB-6L RoHS Certificate: https://www.advancedenergy.com/getmedia/d4de20ba-da67-428b-872f-326269515f66/rohs3_coc_ave700-48s28pb-6l_1651130404_rohs_.pdf
+  - ADH700-48S28 CE DoC: https://www.advancedenergy.com/getmedia/a6a75bd1-fdb0-40f1-a63d-d02ff8b1e05c/ADH700-48S28_CE_211027.pdf
+  - ADH700-48S28 TUV Certificate: https://www.advancedenergy.com/getmedia/b24d913c-6b66-425f-9d4a-b6dac4e943be/ADH700-48S28_TUV_200522.pdf
+  - ADH700-48S28 UKCA: https://www.advancedenergy.com/getmedia/a5dcbfa6-14dd-4bad-8c26-39594c54da91/ADH700-48S28_UKCA_210310.pdf
+  - ADH700-48S28 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/4aa49a1a-c5d3-431a-8ab0-c39ae6f70fe6/ADH700-48S28_UL-COC_211118.pdf
+  - ADH700-48S50 CB Certificate: https://www.advancedenergy.com/getmedia/5de25c48-1e7d-45fc-bf6a-bb944094928d/ADH700-48S50_TUV-CB_200716.pdf
+  - ADH700-48S50 CE DoC: https://www.advancedenergy.com/getmedia/b9257b40-40f4-47e0-9c9b-bb7414be01f6/ADH700-48S50_CE_211027.pdf
+  - ADH700-48S50 TUV Certificate: https://www.advancedenergy.com/getmedia/b41f0ed8-e92a-424d-a455-efdb0b552b4d/ADH700-48S50_TUV_240903.pdf
+  - ADH700-48S50 UKCA: https://www.advancedenergy.com/getmedia/4976b936-2f43-4c14-ab29-2623938d8ada/ADH700-48S50_UKCA_210310.pdf
+  - ADH700-48S50 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/528dad0a-b13b-4b13-b108-03689f924091/ADH700-48S50_UL-CoC_170421.pdf
+  - AGQ500-48S28 TUV: https://www.advancedenergy.com/getmedia/67967b5b-6ce1-47e2-b4de-33237a7f3801/agq500-48s28_series_tuv_cert61587367535_cert.pdf
+  - AGQ500-48S28-6L CE: https://www.advancedenergy.com/getmedia/985b6d66-3fca-4797-928f-4d57b70ec585/agq500-48s28xxxxxxxxx_ce_rev001587367643_cert.pdf
+  - AGQ500-48S28-6L UL: https://www.advancedenergy.com/getmedia/19b1c70f-bef2-4300-bbef-0e8d88c87bce/agq500-48s28xxxxxxxxx_ul_notic1587367694_cert.pdf
+  - AGQ500-48S50 CE: https://www.advancedenergy.com/getmedia/3526f6b5-270c-44ca-a6cb-8141f9665f99/agq-48s50xxxxxxxxx_ce_rev00_1569312815_cert.pdf
+  - AGQ500-48S50 TUV: https://www.advancedenergy.com/getmedia/28497696-b1dc-496c-bc01-93e0a7aa761e/tuv_1569312854_cert.pdf
+  - AGQ500-48S50 UL: https://www.advancedenergy.com/getmedia/16c0d363-2b59-446f-8acc-0410e890d6a1/ul_1569312891_cert.pdf
+  - AVE450-48S50 CE: https://www.advancedenergy.com/getmedia/20aeda87-f80f-406e-b6f5-f6d20db4aebc/ave450-48s50-6l_p-6l_ce_rev00_1494493846_cert.pdf
+  - AVE450-48S50 CE: https://www.advancedenergy.com/getmedia/3c8472a4-be48-412b-a9c7-a1bcd7a02db1/ave500-48s50xxxxxxxxx_ce_rev001496740258_cert.pdf
+  - AVE450-48S50 TUV: https://www.advancedenergy.com/getmedia/a9c45462-6599-4682-b673-bbaf44f684cc/682301702701_switching_power_s1494489576_cert.pdf
+  - AVE450-48S50 UL: https://www.advancedenergy.com/getmedia/68788cc9-1d7c-4052-9587-24eb4f3e1df9/ul_1494489481_cert.pdf
+  - AVE500-48S50 TUV: https://www.advancedenergy.com/getmedia/5e37ceae-9eee-4184-a7e2-9ed816df9254/682301702702_switching_power_s1496740142_cert.pdf
+  - AVE500-48S50 UL: https://www.advancedenergy.com/getmedia/1079a16c-e820-4c5c-986b-4d55d4a09e82/ave500-48s50xxxxxxxxx_ul_noa_21496740090_cert.pdf
+  - AVE700 CE: https://www.advancedenergy.com/getmedia/7715bedb-7a5f-4ffd-86ba-f887bdf8b087/ave700-48s28xxxxxxxxx_ce_rev011651128659_cert.pdf
+  - AVE700 TUV: https://www.advancedenergy.com/getmedia/c0f1a56f-94d1-4c3f-afb0-91d2524c697f/ave700-48s28_tuv_20200525_1651128334_cert.pdf
+  - AVE700 UL: https://www.advancedenergy.com/getmedia/a1f95471-bc2b-49f7-8402-1ea539ad028b/ave700-48s28_ul_noa_20200505_1651154105_cert.pdf
+  - Reducing RAN Running Costs with Advanced DC-DC Technologies: https://www.advancedenergy.com/getmedia/f349139b-70f5-402b-aae8-438655dbb325/ENG-RAN-Running-Costs-AppNote-265-01.pdf
+  - 28V RFPA Application solution brief: https://www.advancedenergy.com/getmedia/1dfc1c0f-6774-44c9-baba-be2d2dc6233e/28v_ldmos_application_solution1657099214_ASB.pdf
+  - AGQ500—50V GaN RFPA Solution Brief - Chinese: https://www.advancedenergy.com/getmedia/b99e5ac4-bbcb-4367-b868-cfc093667179/50v_gan_application_brief_08oc1571127634_ASB_1.pdf
+  - Application solution brief: https://www.advancedenergy.com/getmedia/4092b9c7-1493-4159-98ad-647448c08026/50v_gan_application_brief_08oc1570549623_ASB.pdf
+  - LDMOS Solution Brief: https://www.advancedenergy.com/getmedia/687fd84d-1644-4c78-9197-1111abb0fc0d/ENG-LDMOS-Solution-Brief_Final.pdf
+  - RF Power Amplifier Application Solution Brief: https://www.advancedenergy.com/getmedia/eef418fc-0b69-44f5-bb27-9cb54c994fa9/28v_ldmos_application_solution1490028979_ASB.pdf
+  - ADH700 50V -LS tech Ref Note: https://www.advancedenergy.com/getmedia/5154224f-112e-4198-98b3-56c7669d89dc/trn_dc_dc_adh700-48s50-6ls_rel1565870238_techref.pdf
+  - ADH700-48S28-6L Technical Reference Note: https://www.advancedenergy.com/getmedia/810b747d-21ed-4c03-96a1-3cbee62c034a/trn_dc_dc_adh700-48s28-6l_rele1492486030_techref.pdf
+  - ADH700-48S28-6LS Technical Reference Note: https://www.advancedenergy.com/getmedia/4221b674-a181-4064-95d7-7ee792e81e51/trn_dc_dc_adh700-48s28-6ls_rel1561953508_techref.pdf
+  - ADH700-48S50-6L Technical Reference Note: https://www.advancedenergy.com/getmedia/f4459860-eab5-4a00-8e91-14971d68c328/trn_dc_dc_adh700-48s50-6ls_rel1543391904_techref.pdf
+  - AGF600-48S28 Technical Reference Note: https://www.advancedenergy.com/getmedia/0b25d89c-5705-4e6c-a13b-f524f2f52ad9/trn_dc-dc_agf600-48s28-6l_-_re1577158293_techref.pdf
+  - AGF600-48S30-6L Technical Reference Note: https://www.advancedenergy.com/getmedia/1a1503ad-9029-4dfa-8680-d622f16fcf49/trn_dc-dc_agf600-48s30-6l_rele1458755034_techref.pdf
+  - AGF600-48S50-6L Technical Reference Notes: https://www.advancedenergy.com/getmedia/5389bab2-27f3-4077-a77c-f04ef493d3dd/trn_dc-dc_agf600-48s50_release1414731692.pdf
+  - AGF600-48S50P Technical Reference Note: https://www.advancedenergy.com/getmedia/ce043ce5-b867-4c1f-808b-acf850cd8c26/trn_dc-dc_agf600-48s50p_releas1458755227_techref.pdf
+  - AGF700-48S30 Technical Reference Notes: https://www.advancedenergy.com/getmedia/c8841071-f617-42f3-89e7-fcbf3b8a9946/trn_dc-dc_agf700-48s30_release1414731679.pdf
+  - AGF800 Dual TRN: https://www.advancedenergy.com/getmedia/6f979619-b2a9-432b-b159-5fc181af4b4a/agf800-48d3005_trn_release_1_21457719343_techref.pdf
+  - AGF800-48D3005: https://www.advancedenergy.com/getmedia/87bee1aa-5874-409f-adc4-dea3f0eb05ed/trn_dc-dc_agf800-48d3005_relea1471920603_techref.pdf
+  - AGF800-48S28 Technical Reference Note: https://www.advancedenergy.com/getmedia/3575ba17-0d45-49ed-96f8-ff39fa27fe3c/trn_dc-dc_agf800-48s28_release1414731684.pdf
+  - AGF800-48S30L Technical Reference Note: https://www.advancedenergy.com/getmedia/79ede1d8-5031-463f-b227-146802c35c4f/trn_dc-dc_agf800-48s30l_releas1414731673.pdf
+  - AGF800-48S48P Technical Reference Note: https://www.advancedenergy.com/getmedia/1c3600ef-365e-4923-b23a-2419a3b2b1c6/trn_dc-dc_agf800-48s48p_releas1414731673.pdf
+  - AGQ500-48S28-6L Technical Reference Note: https://www.advancedenergy.com/getmedia/0b124ea9-11e4-4fe1-a89c-a539ebfe5086/trn_dc-dc_agq500-48s28-6l_rele1587367739_techref.pdf
+  - AGQ500-48S50 Technical Reference Note: https://www.advancedenergy.com/getmedia/d8552100-43f3-4839-ab7b-76bb139d24fc/TRN-DC-DC-AGQ500-48S50-6L-Release-1-2-(081624).pdf
+  - AVE350-24S28 Technical Reference Notes: https://www.advancedenergy.com/getmedia/c612f7ec-4e98-4308-ba24-79ac815c6a3e/trn_dc-dc_ave350-24s28_relaese1414731485.pdf
+  - AVE350B-48S28 Technical Reference Notes: https://www.advancedenergy.com/getmedia/70c7893a-b488-4226-9dd9-a6cee82958bb/trn_dc-dc_ave350b-48s28_relaes1508134237_techref.pdf
+  - AVE450-48S50 Technical Reference Notes: https://www.advancedenergy.com/getmedia/aa53b49e-aa30-4076-a642-dca42a92cb83/trn_dc-dc_ave450-48s50-6l_rela1543390082_techref.pdf
+  - AVE450B-48S28 Technical Reference Note: https://www.advancedenergy.com/getmedia/7cfdd20a-0077-4a17-a8cf-f16b232bf30f/trn_dc-dc_ave450b-48s28_releas1521096133_techref.pdf
+  - AVE500-48S50 Technical Reference Notes: https://www.advancedenergy.com/getmedia/d21acbb5-f1e7-4f0b-82f1-eaca3678796e/trn_dc-dc_ave500-48s50-6l_rela1543389981_techref.pdf
+  - AVE700 Technical Reference Note: https://www.advancedenergy.com/getmedia/89e5a63f-98c5-4b36-884e-ed712022a80c/trn_dc-dc_ave700-48s28pb-6l_re1650446246_techref.pdf
+  - AVO100-48S28 Technical Reference Notes: https://www.advancedenergy.com/getmedia/c9070410-e434-442c-be71-9f0dab47cc65/trn_dc-dc_avo100-48s28_release1577160344_techref.pdf
+  - TRN Artesyn ADH1300: https://www.advancedenergy.com/getmedia/86672d5a-2e3f-41f4-8c27-f0b361a06173/TRN-DC-DC-ADH1300-48S28PB-6L-1-0-(061026).pdf
+  - High-efficiency DC-DC PSU required for battery powered mobile X-ray unit: https://www.advancedenergy.com/getmedia/dd087c1f-fa05-41b4-83dc-d6d2b78cb432/ENG-Mobile-X-ray-unit.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/7b822da5-1d1a-4b0b-8ec5-2ac22fe06b8d/ENG-OT-5G-Power_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/0f5f6eba-7aeb-4ff7-b031-a7b9f8bf36e1/ENG-ADH1300-48S28-235-01-03-19-26.pdf
+  - https://www.advancedenergy.com/getmedia/c0e257a9-5dd9-4788-8082-2fdedaac9b63/adh700-28v-series-ds_1494879416.pdf
+  - https://www.advancedenergy.com/getmedia/85aaebcc-fcfa-474b-85fe-6fc3da150b27/ENG-ADH700-48S50-4-1-2026.pdf
+  - https://www.advancedenergy.com/getmedia/a46641c4-b249-4ec4-b9c2-ec82ce217a4d/agf600-024_ds_154_1444750471.pdf
+  - https://www.advancedenergy.com/getmedia/164d3743-0fea-4e23-a8cd-62b8e7b76c9c/agf600-048_ds_1444750516.pdf
+  - https://www.advancedenergy.com/getmedia/d8543f17-a54d-4418-ab65-e252e929261a/agf600-48s50_ds_1446824136.pdf
+  - https://www.advancedenergy.com/getmedia/6d0f2266-bcd4-4f3a-b9f7-e0ae956249f9/agf700-48s30_ds_v1_ab2edit_7b99295ed9.pdf
+  - https://www.advancedenergy.com/getmedia/6d815268-3ad8-4490-98db-e31e9c176c09/agf800-28_ds_1444750040.pdf
+  - https://www.advancedenergy.com/getmedia/8dd4fd6c-e539-4f37-ab59-0344c564e369/agf800-048_ds_1444750082.pdf
+  - https://www.advancedenergy.com/getmedia/7d0ef039-c6da-4d9e-97b5-f5608c2f7c04/agf800-48d_series_1444749818.pdf
+  - https://www.advancedenergy.com/getmedia/c864883e-b6e2-4ef0-9116-785bece9b7f4/ENG-AGQ500-235-01-07-29-25.pdf
+  - https://www.advancedenergy.com/getmedia/c55c4865-218e-4abb-91ea-ba16643bf0a4/ave350b-24_ds_07-30-14_b0b452d932.pdf
+  - https://www.advancedenergy.com/getmedia/93cae367-3540-42ac-b211-bd8e577ce463/ave450-500_50v_ds-re1494500535.pdf
+  - https://www.advancedenergy.com/getmedia/cbc864f4-6e65-4985-b9cf-8c4dd9261e08/ave450b-48s28_ds_v2_30th_62f2ea8609.pdf
+  - https://www.advancedenergy.com/getmedia/fa751364-5462-4441-ac02-a387fc39110e/eng-ave700-48s28-235-01_12_16_1650333898.pdf
+  - https://www.advancedenergy.com/getmedia/245d63e0-7b8b-4461-92fc-742492b96ce1/avo100-48s28b-6l_ds_09-19-2014d04b106250.pdf
+  - https://www.advancedenergy.com/getmedia/01ae4923-8eac-4db0-8f94-82a5efc1cd50/eng-certification-tuv-adh1300.pdf
+  - https://www.advancedenergy.com/getmedia/927f97ef-1e75-4dbc-987f-cc415e67b10f/eng-declaration-of-conformity-uk-adh1300.pdf
+  - https://www.advancedenergy.com/getmedia/8caa19f4-30cc-45e0-9d7e-9b2435e357ee/eng-certification-compliance-adh1300.pdf
+  - https://www.advancedenergy.com/getmedia/d24c898f-60d6-41ea-83f4-d27d4af11d4a/rohs2_coc_adh700-48s28-6l_05271479483815_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/755e818b-c45e-4fde-923b-fa6db2dfe617/rohs2_coc_adh700-48s50-6l_03161494402256_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/1efea6c9-299d-4904-96f1-50c1e004eb17/rohs2_coc_agf800-48s48p-6l_0321467869208_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a90bcba8-30c8-4061-83e4-2027710ee449/coc_certificate_of_agq500-48s21593757821_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/27704662-c5ab-46bf-aa27-3492d9777e0e/rohs3_coc_agq500-48s50-6l_14ja1569312930_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d784b98d-caf7-4354-8335-cc832d36bb27/coc_1494489623_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/c3d31d7b-25f4-4f45-81b5-9c4e48047782/rohs2_coc_ave500-48s50-6l_04181496740039_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/62fd4b20-efc5-40ae-92ee-fbda16413705/rohs3_coc_ave700-48s28b-6l_1651130283_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d4de20ba-da67-428b-872f-326269515f66/rohs3_coc_ave700-48s28pb-6l_1651130404_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a6a75bd1-fdb0-40f1-a63d-d02ff8b1e05c/ADH700-48S28_CE_211027.pdf
+  - https://www.advancedenergy.com/getmedia/b24d913c-6b66-425f-9d4a-b6dac4e943be/ADH700-48S28_TUV_200522.pdf
+  - https://www.advancedenergy.com/getmedia/a5dcbfa6-14dd-4bad-8c26-39594c54da91/ADH700-48S28_UKCA_210310.pdf
+  - https://www.advancedenergy.com/getmedia/4aa49a1a-c5d3-431a-8ab0-c39ae6f70fe6/ADH700-48S28_UL-COC_211118.pdf
+  - https://www.advancedenergy.com/getmedia/5de25c48-1e7d-45fc-bf6a-bb944094928d/ADH700-48S50_TUV-CB_200716.pdf
+  - https://www.advancedenergy.com/getmedia/b9257b40-40f4-47e0-9c9b-bb7414be01f6/ADH700-48S50_CE_211027.pdf
+  - https://www.advancedenergy.com/getmedia/b41f0ed8-e92a-424d-a455-efdb0b552b4d/ADH700-48S50_TUV_240903.pdf
+  - https://www.advancedenergy.com/getmedia/4976b936-2f43-4c14-ab29-2623938d8ada/ADH700-48S50_UKCA_210310.pdf
+  - https://www.advancedenergy.com/getmedia/528dad0a-b13b-4b13-b108-03689f924091/ADH700-48S50_UL-CoC_170421.pdf
+  - https://www.advancedenergy.com/getmedia/67967b5b-6ce1-47e2-b4de-33237a7f3801/agq500-48s28_series_tuv_cert61587367535_cert.pdf
+  - https://www.advancedenergy.com/getmedia/985b6d66-3fca-4797-928f-4d57b70ec585/agq500-48s28xxxxxxxxx_ce_rev001587367643_cert.pdf
+  - https://www.advancedenergy.com/getmedia/19b1c70f-bef2-4300-bbef-0e8d88c87bce/agq500-48s28xxxxxxxxx_ul_notic1587367694_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3526f6b5-270c-44ca-a6cb-8141f9665f99/agq-48s50xxxxxxxxx_ce_rev00_1569312815_cert.pdf
+  - https://www.advancedenergy.com/getmedia/28497696-b1dc-496c-bc01-93e0a7aa761e/tuv_1569312854_cert.pdf
+  - https://www.advancedenergy.com/getmedia/16c0d363-2b59-446f-8acc-0410e890d6a1/ul_1569312891_cert.pdf
+  - https://www.advancedenergy.com/getmedia/20aeda87-f80f-406e-b6f5-f6d20db4aebc/ave450-48s50-6l_p-6l_ce_rev00_1494493846_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3c8472a4-be48-412b-a9c7-a1bcd7a02db1/ave500-48s50xxxxxxxxx_ce_rev001496740258_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a9c45462-6599-4682-b673-bbaf44f684cc/682301702701_switching_power_s1494489576_cert.pdf
+  - https://www.advancedenergy.com/getmedia/68788cc9-1d7c-4052-9587-24eb4f3e1df9/ul_1494489481_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5e37ceae-9eee-4184-a7e2-9ed816df9254/682301702702_switching_power_s1496740142_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1079a16c-e820-4c5c-986b-4d55d4a09e82/ave500-48s50xxxxxxxxx_ul_noa_21496740090_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7715bedb-7a5f-4ffd-86ba-f887bdf8b087/ave700-48s28xxxxxxxxx_ce_rev011651128659_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c0f1a56f-94d1-4c3f-afb0-91d2524c697f/ave700-48s28_tuv_20200525_1651128334_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a1f95471-bc2b-49f7-8402-1ea539ad028b/ave700-48s28_ul_noa_20200505_1651154105_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f349139b-70f5-402b-aae8-438655dbb325/ENG-RAN-Running-Costs-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/1dfc1c0f-6774-44c9-baba-be2d2dc6233e/28v_ldmos_application_solution1657099214_ASB.pdf
+  - https://www.advancedenergy.com/getmedia/b99e5ac4-bbcb-4367-b868-cfc093667179/50v_gan_application_brief_08oc1571127634_ASB_1.pdf
+  - https://www.advancedenergy.com/getmedia/4092b9c7-1493-4159-98ad-647448c08026/50v_gan_application_brief_08oc1570549623_ASB.pdf
+  - https://www.advancedenergy.com/getmedia/687fd84d-1644-4c78-9197-1111abb0fc0d/ENG-LDMOS-Solution-Brief_Final.pdf
+  - https://www.advancedenergy.com/getmedia/eef418fc-0b69-44f5-bb27-9cb54c994fa9/28v_ldmos_application_solution1490028979_ASB.pdf
+  - https://www.advancedenergy.com/getmedia/5154224f-112e-4198-98b3-56c7669d89dc/trn_dc_dc_adh700-48s50-6ls_rel1565870238_techref.pdf
+  - https://www.advancedenergy.com/getmedia/810b747d-21ed-4c03-96a1-3cbee62c034a/trn_dc_dc_adh700-48s28-6l_rele1492486030_techref.pdf
+  - https://www.advancedenergy.com/getmedia/4221b674-a181-4064-95d7-7ee792e81e51/trn_dc_dc_adh700-48s28-6ls_rel1561953508_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f4459860-eab5-4a00-8e91-14971d68c328/trn_dc_dc_adh700-48s50-6ls_rel1543391904_techref.pdf
+  - https://www.advancedenergy.com/getmedia/0b25d89c-5705-4e6c-a13b-f524f2f52ad9/trn_dc-dc_agf600-48s28-6l_-_re1577158293_techref.pdf
+  - https://www.advancedenergy.com/getmedia/1a1503ad-9029-4dfa-8680-d622f16fcf49/trn_dc-dc_agf600-48s30-6l_rele1458755034_techref.pdf
+  - https://www.advancedenergy.com/getmedia/5389bab2-27f3-4077-a77c-f04ef493d3dd/trn_dc-dc_agf600-48s50_release1414731692.pdf
+  - https://www.advancedenergy.com/getmedia/ce043ce5-b867-4c1f-808b-acf850cd8c26/trn_dc-dc_agf600-48s50p_releas1458755227_techref.pdf
+  - https://www.advancedenergy.com/getmedia/c8841071-f617-42f3-89e7-fcbf3b8a9946/trn_dc-dc_agf700-48s30_release1414731679.pdf
+  - https://www.advancedenergy.com/getmedia/6f979619-b2a9-432b-b159-5fc181af4b4a/agf800-48d3005_trn_release_1_21457719343_techref.pdf
+  - https://www.advancedenergy.com/getmedia/87bee1aa-5874-409f-adc4-dea3f0eb05ed/trn_dc-dc_agf800-48d3005_relea1471920603_techref.pdf
+  - https://www.advancedenergy.com/getmedia/3575ba17-0d45-49ed-96f8-ff39fa27fe3c/trn_dc-dc_agf800-48s28_release1414731684.pdf
+  - https://www.advancedenergy.com/getmedia/79ede1d8-5031-463f-b227-146802c35c4f/trn_dc-dc_agf800-48s30l_releas1414731673.pdf
+  - https://www.advancedenergy.com/getmedia/1c3600ef-365e-4923-b23a-2419a3b2b1c6/trn_dc-dc_agf800-48s48p_releas1414731673.pdf
+  - https://www.advancedenergy.com/getmedia/0b124ea9-11e4-4fe1-a89c-a539ebfe5086/trn_dc-dc_agq500-48s28-6l_rele1587367739_techref.pdf
+  - https://www.advancedenergy.com/getmedia/d8552100-43f3-4839-ab7b-76bb139d24fc/TRN-DC-DC-AGQ500-48S50-6L-Release-1-2-(081624).pdf
+  - https://www.advancedenergy.com/getmedia/c612f7ec-4e98-4308-ba24-79ac815c6a3e/trn_dc-dc_ave350-24s28_relaese1414731485.pdf
+  - https://www.advancedenergy.com/getmedia/70c7893a-b488-4226-9dd9-a6cee82958bb/trn_dc-dc_ave350b-48s28_relaes1508134237_techref.pdf
+  - https://www.advancedenergy.com/getmedia/aa53b49e-aa30-4076-a642-dca42a92cb83/trn_dc-dc_ave450-48s50-6l_rela1543390082_techref.pdf
+  - https://www.advancedenergy.com/getmedia/7cfdd20a-0077-4a17-a8cf-f16b232bf30f/trn_dc-dc_ave450b-48s28_releas1521096133_techref.pdf
+  - https://www.advancedenergy.com/getmedia/d21acbb5-f1e7-4f0b-82f1-eaca3678796e/trn_dc-dc_ave500-48s50-6l_rela1543389981_techref.pdf
+  - https://www.advancedenergy.com/getmedia/89e5a63f-98c5-4b36-884e-ed712022a80c/trn_dc-dc_ave700-48s28pb-6l_re1650446246_techref.pdf
+  - https://www.advancedenergy.com/getmedia/c9070410-e434-442c-be71-9f0dab47cc65/trn_dc-dc_avo100-48s28_release1577160344_techref.pdf
+  - https://www.advancedenergy.com/getmedia/86672d5a-2e3f-41f4-8c27-f0b361a06173/TRN-DC-DC-ADH1300-48S28PB-6L-1-0-(061026).pdf
+  - https://www.advancedenergy.com/getmedia/dd087c1f-fa05-41b4-83dc-d6d2b78cb432/ENG-Mobile-X-ray-unit.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/4f01048e-045c-48a5-92c6-d469c4bec83b/RFPA-AVE700-AVO100-48S28.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+RFPAIndustry-standard quarter, half and full brick series from 100 to 800 WAvailable with 18 to 36 VDC or 36 to 75 VDC inputsOutput voltages for both LDMos and gallium nitride (GaN) power amplifiers

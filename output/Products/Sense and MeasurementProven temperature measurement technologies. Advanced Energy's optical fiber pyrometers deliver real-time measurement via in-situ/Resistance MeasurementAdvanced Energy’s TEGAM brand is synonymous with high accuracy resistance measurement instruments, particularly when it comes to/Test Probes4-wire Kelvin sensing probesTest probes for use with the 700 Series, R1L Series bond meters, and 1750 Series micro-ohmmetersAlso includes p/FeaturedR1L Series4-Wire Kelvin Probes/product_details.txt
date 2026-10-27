@@ -1,0 +1,109 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedR1L Series4-Wire Kelvin Probes
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/
+Category Description: Advanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+
+[Level 3] Category Name: Test Probes4-wire Kelvin sensing probesTest probes for use with the 700 Series, R1L Series bond meters, and 1750 Series micro-ohmmetersAlso includes probe tips and accessories
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/
+Category Description: TEGAM offers a wide selection of 4-wire Kelvin sensing probes and clips.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedR1L Series4-Wire Kelvin Probes
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/r1l-series/
+
+Complete Product Description:
+These 4-wire probes are used with the R1L Series milliohmmeters and bond meters.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/41cc8d96-d270-4850-b31d-c63b29b9f30f/R1L-BIR1-909_RevAE.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/41cc8d96-d270-4850-b31d-c63b29b9f30f/R1L-BIR1-909_RevAE.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c6664895-541e-493e-89f4-4f08a0c4d5b1/R1L-E2A-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c6664895-541e-493e-89f4-4f08a0c4d5b1/R1L-E2A-909_RevCB.pdf
+  - Microohmeter Accessory Sheet: https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+  - R1L-D1 Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f73d2c43-5a6b-46b3-902d-ddcd405f6b95/1740-1750-Accessories-Sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/41cc8d96-d270-4850-b31d-c63b29b9f30f/R1L-BIR1-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/41cc8d96-d270-4850-b31d-c63b29b9f30f/R1L-BIR1-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/c6664895-541e-493e-89f4-4f08a0c4d5b1/R1L-E2A-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/c6664895-541e-493e-89f4-4f08a0c4d5b1/R1L-E2A-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+  - https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/f73d2c43-5a6b-46b3-902d-ddcd405f6b95/1740-1750-Accessories-Sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/425ff2c6-417f-48bf-8e9e-cddd7b49000f/SKP-8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/425ff2c6-417f-48bf-8e9e-cddd7b49000f/SKP-8.jpg
+  - R1L-B Thumbnail web: https://www.advancedenergy.com/getattachment/2ea786a2-c501-448d-8d28-188972b66449/R1L-B-Thumbnail-web-430x300.jpg
+  - Portable 10 ΜΩ TO 20Ω Microohm and Bond Meter: https://www.advancedenergy.com/getattachment/ef572152-23dc-48c2-a1bc-928a8191040a/R1L-BR-Microohmmeter-and-Bond-Tester-with-Rugged-Case-zoom-495x300.jpg
+  - Portable Microohm and boning meter kit with 4 wire push pin and alligator clip probes: https://www.advancedenergy.com/getattachment/be472e7e-31e1-4a01-881a-b1ad6f884ccd/R1L-BR1-Bond-Meter-Kit-zoom.jpg
+  - Microohm and RTD Meter, Low Current, 10 ΜΩ to 2 KΩ: https://www.advancedenergy.com/getattachment/29a90325-1aae-4c41-9bc4-1abce110f734/R1L-D1-High-Accuracy-Microohmmeter-and-RTD-Monitor-zoom.jpg
+  - R1L-B Thumbnail web: https://www.advancedenergy.com/getattachment/2ea786a2-c501-448d-8d28-188972b66449/R1L-B-Thumbnail-web-430x300.jpg
+  - Portable 10 ΜΩ TO 20Ω Microohm and Bond Meter: https://www.advancedenergy.com/getattachment/ef572152-23dc-48c2-a1bc-928a8191040a/R1L-BR-Microohmmeter-and-Bond-Tester-with-Rugged-Case-zoom-495x300.jpg
+  - Portable Microohm and boning meter kit with 4 wire push pin and alligator clip probes: https://www.advancedenergy.com/getattachment/be472e7e-31e1-4a01-881a-b1ad6f884ccd/R1L-BR1-Bond-Meter-Kit-zoom.jpg
+  - Microohm and RTD Meter, Low Current, 10 ΜΩ to 2 KΩ: https://www.advancedenergy.com/getattachment/29a90325-1aae-4c41-9bc4-1abce110f734/R1L-D1-High-Accuracy-Microohmmeter-and-RTD-Monitor-zoom.jpg
+  - Intrinsically Safe Microohm and Bond Meter, 10 ΜΩ to 20 Ω, with HTP-101A Probes: https://www.advancedenergy.com/getattachment/16ef4266-c73c-410b-a13e-0dfafa9fb98d/R1L-E2A-Intrinsically-Safe-Bond-Meter-zoom.jpg
+  - R1L-E2A/SKP-8 Intrinsically Safe Milli-Ohmmeter and Bond Meter: https://www.advancedenergy.com/getattachment/2c0e9d80-b3e2-4315-90a1-83fb64c99c3f/TEG_R1L-E2A_SKP-8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b0dd05cf-8e8e-4713-89ec-3248b05fbc37/MCP1750-5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4418f4e0-7b8f-4ca7-9cce-bf48a7bb79a4/TEGAM-Display-Probe.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured1750 Series Probes4-wire Kelvin probes and clips for precision resistance measurement: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/1750-series-probes/
+  - Datasheet: https://www.advancedenergy.com/getmedia/f73d2c43-5a6b-46b3-902d-ddcd405f6b95/1740-1750-Accessories-Sheet.pdf
+  - Featured700 Series4-Wire Probes: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/test-probes/700-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+  ↓
+Test Probes4-wire Kelvin sensing probesTest probes for use with the 700 Series, R1L Series bond meters, and 1750 Series micro-ohmmetersAlso includes probe tips and accessories
+  ↓
+FeaturedR1L Series4-Wire Kelvin Probes

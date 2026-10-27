@@ -1,0 +1,92 @@
+==============================================================================
+PRODUCT DETAILS: PSA UnitsUp to 120 A peak output current with 1.0 or 1.8 V (nominal) output voltageData center 48 VDC input range (40 to 60 V)PSA (Power Stamp Alliance) compliant
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: PSA UnitsUp to 120 A peak output current with 1.0 or 1.8 V (nominal) output voltageData center 48 VDC input range (40 to 60 V)PSA (Power Stamp Alliance) compliant
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/psa-units/
+
+Complete Product Description:
+The Power Stamp Alliance offers a scalable solution that integrates with existing power conversion devices, enabling practical application implementation. It provides power engineers a user-friendly interface for flexible control over their digitally-controlled power stamp products.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - ADC100M Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/bf26dc16-7741-43f2-a9b7-98dd60b94830/eng-adc100m-235-01_08_31_21_1652161678.pdf
+  - ADC100M-04J CE DoC: https://www.advancedenergy.com/getmedia/e824e6bb-933e-45f3-b75d-8e0aea3d7478/ADC100M-04J_CE_211222.pdf
+  - ADC100M-04J TUV Certificate: https://www.advancedenergy.com/getmedia/42207b0e-abb3-448a-9784-fec06f85f822/ADC100M-04J_TUV_211208.pdf
+  - ADC100M-04J UKCA: https://www.advancedenergy.com/getmedia/1b1b79de-84eb-4f3b-915d-617e48a29dab/ADC100M-04J_UKCA_211222.pdf
+  - ADC100M-04J UL/CSA Certificate: https://www.advancedenergy.com/getmedia/b6debf72-0383-45ef-aa3a-0b32e7a2570f/ADC100M-04J_UL-CoC_211210.pdf
+  - ADC100M-04Y CE DoC: https://www.advancedenergy.com/getmedia/0828ce45-dc5d-46fc-9955-0c457f176a8a/ADC100M-04Y_CE_211027.pdf
+  - ADC100M-04Y TUV Certificate: https://www.advancedenergy.com/getmedia/2f72d99e-b4d1-48a2-9930-394a7bbf03e8/ADC100M-04Y_TUV_240521.pdf
+  - ADC100M-04Y UKCA: https://www.advancedenergy.com/getmedia/7880913e-3f1b-4536-96ac-e8226b8c9270/ADC100M-04Y_UKCA_210310.pdf
+  - ADC100M-04Y UL/CSA Certificate: https://www.advancedenergy.com/getmedia/20b15d23-a84c-4973-a17d-5252e29ad110/ADC100M-04Y_UL-CoC_190308.pdf
+  - ADC100S-04J CE DoC: https://www.advancedenergy.com/getmedia/f414f150-2d94-4775-8140-e5e6336484ce/ADC100S-04J_CE_211125.pdf
+  - ADC100S-04J TUV Certificate: https://www.advancedenergy.com/getmedia/4d490c7a-7502-4a7f-9638-0a2b1116ab0d/ADC100S-04J_TUV_211119.pdf
+  - ADC100S-04J UKCA: https://www.advancedenergy.com/getmedia/4e3a9eaf-8797-4fb5-ae93-90a4119d4a3a/ADC100S-04J_UKCA_211125.pdf
+  - ADC100S-04J UL/CSA Certificate: https://www.advancedenergy.com/getmedia/dfede84e-f6c7-4cdf-813b-8cf2e808ba2e/ADC100S-04J_UL-COC_211118.pdf
+  - ADC100S-04Y CE DoC: https://www.advancedenergy.com/getmedia/bcf30352-6e6f-4593-8483-d1ba0809b066/ADC100S-04Y_CE_211027.pdf
+  - ADC100S-04Y TUV Certificate: https://www.advancedenergy.com/getmedia/5e0278bc-e702-4732-aa14-2e3dcdfa8d8d/ADC100S-04Y_TUV_240521.pdf
+  - ADC100S-04Y UKCA: https://www.advancedenergy.com/getmedia/12d5ab10-fc69-43bd-8b97-19d91975c3ee/ADC100S-04Y_UKCA_210310.pdf
+  - ADC100S-04Y UL/CSA Certificate: https://www.advancedenergy.com/getmedia/583ff507-7a50-4aca-b6f4-1f18a04303e4/ADC100S-04Y_UL-CoC_190221.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/bf26dc16-7741-43f2-a9b7-98dd60b94830/eng-adc100m-235-01_08_31_21_1652161678.pdf
+  - https://www.advancedenergy.com/getmedia/e824e6bb-933e-45f3-b75d-8e0aea3d7478/ADC100M-04J_CE_211222.pdf
+  - https://www.advancedenergy.com/getmedia/42207b0e-abb3-448a-9784-fec06f85f822/ADC100M-04J_TUV_211208.pdf
+  - https://www.advancedenergy.com/getmedia/1b1b79de-84eb-4f3b-915d-617e48a29dab/ADC100M-04J_UKCA_211222.pdf
+  - https://www.advancedenergy.com/getmedia/b6debf72-0383-45ef-aa3a-0b32e7a2570f/ADC100M-04J_UL-CoC_211210.pdf
+  - https://www.advancedenergy.com/getmedia/0828ce45-dc5d-46fc-9955-0c457f176a8a/ADC100M-04Y_CE_211027.pdf
+  - https://www.advancedenergy.com/getmedia/2f72d99e-b4d1-48a2-9930-394a7bbf03e8/ADC100M-04Y_TUV_240521.pdf
+  - https://www.advancedenergy.com/getmedia/7880913e-3f1b-4536-96ac-e8226b8c9270/ADC100M-04Y_UKCA_210310.pdf
+  - https://www.advancedenergy.com/getmedia/20b15d23-a84c-4973-a17d-5252e29ad110/ADC100M-04Y_UL-CoC_190308.pdf
+  - https://www.advancedenergy.com/getmedia/f414f150-2d94-4775-8140-e5e6336484ce/ADC100S-04J_CE_211125.pdf
+  - https://www.advancedenergy.com/getmedia/4d490c7a-7502-4a7f-9638-0a2b1116ab0d/ADC100S-04J_TUV_211119.pdf
+  - https://www.advancedenergy.com/getmedia/4e3a9eaf-8797-4fb5-ae93-90a4119d4a3a/ADC100S-04J_UKCA_211125.pdf
+  - https://www.advancedenergy.com/getmedia/dfede84e-f6c7-4cdf-813b-8cf2e808ba2e/ADC100S-04J_UL-COC_211118.pdf
+  - https://www.advancedenergy.com/getmedia/bcf30352-6e6f-4593-8483-d1ba0809b066/ADC100S-04Y_CE_211027.pdf
+  - https://www.advancedenergy.com/getmedia/5e0278bc-e702-4732-aa14-2e3dcdfa8d8d/ADC100S-04Y_TUV_240521.pdf
+  - https://www.advancedenergy.com/getmedia/12d5ab10-fc69-43bd-8b97-19d91975c3ee/ADC100S-04Y_UKCA_210310.pdf
+  - https://www.advancedenergy.com/getmedia/583ff507-7a50-4aca-b6f4-1f18a04303e4/ADC100S-04Y_UL-CoC_190221.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/6fb51d88-01c3-4e7e-b0f7-a2f92f0d7a3f/adc100m-04y_ang1_1000_1546957673_377.png
+  - Power Stamp Alliance animated explainer v2: https://i.ytimg.com/vi/IwCNsTyeLOY/hqdefault.jpg
+  - Power Stamp Alliance Webinar Introduction: https://i.ytimg.com/vi/TkevOT1ecIE/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+PSA UnitsUp to 120 A peak output current with 1.0 or 1.8 V (nominal) output voltageData center 48 VDC input range (40 to 60 V)PSA (Power Stamp Alliance) compliant

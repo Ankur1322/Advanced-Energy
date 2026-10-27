@@ -1,0 +1,77 @@
+==============================================================================
+PRODUCT DETAILS: Navio Match NetworkQuick, accurate, and repeatable impedance matchingOptimized, off-the-shelf functionality for many applicationsGenerous menu of configuration options for more sophisticated processes
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: RF Match NetworksAdvanced Energy’s match networks expertly perform in multiple power ranges.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/
+Category Description: Advanced Energy’s match networks expertly perform in multiple power ranges.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Navio Match NetworkQuick, accurate, and repeatable impedance matchingOptimized, off-the-shelf functionality for many applicationsGenerous menu of configuration options for more sophisticated processes
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/navio/
+
+Complete Product Description:
+The Navio matching network delivers quick, accurate, and repeatable impedance across many applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/981d25fa-5584-4a6f-abdc-9f32cd3b1550/navio-product-data-sheet.pdf
+  - RF Calibration Solutions: https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - Navio Data Sheet: https://www.advancedenergy.com/getmedia/981d25fa-5584-4a6f-abdc-9f32cd3b1550/navio-product-data-sheet.pdf
+  - Navio Datasheet - Chinese: https://www.advancedenergy.com/getmedia/186f4bd6-cb57-40f0-8b5f-9728e8703897/zho-ppg-navio-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/981d25fa-5584-4a6f-abdc-9f32cd3b1550/navio-product-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/981d25fa-5584-4a6f-abdc-9f32cd3b1550/navio-product-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/186f4bd6-cb57-40f0-8b5f-9728e8703897/zho-ppg-navio-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/498eb667-c2c0-4fc4-962b-a730315e8fca/navio-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/498eb667-c2c0-4fc4-962b-a730315e8fca/navio-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Solar PhotovoltaicsTo compete in today’s energy market, photovoltaic (PV) fabrication enterprises require solar manufacturing equipment that increases productivity and reduces costs.: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Explore Solar Photovoltaics: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+RF Match NetworksAdvanced Energy’s match networks expertly perform in multiple power ranges.
+  ↓
+Navio Match NetworkQuick, accurate, and repeatable impedance matchingOptimized, off-the-shelf functionality for many applicationsGenerous menu of configuration options for more sophisticated processes

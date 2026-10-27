@@ -1,0 +1,50 @@
+==============================================================================
+PRODUCT DETAILS: High Power
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power Supplies
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-power/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: High Power
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-power/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/38be8a98-88e9-403c-bd4d-47260f1d06af/greater-than-1-kW-thumbnail-ols10k-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/e83a0abc-87c0-48ea-a933-81c67df01ce8/up-to-1-kV-thumbnail-ol600w-1u-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/575352ad-b16a-4191-85c5-69dab1f6e74a/greater-than-1-kW-thumbnail-ols10k-fr-wp-(1).jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power Supplies
+  ↓
+High Power

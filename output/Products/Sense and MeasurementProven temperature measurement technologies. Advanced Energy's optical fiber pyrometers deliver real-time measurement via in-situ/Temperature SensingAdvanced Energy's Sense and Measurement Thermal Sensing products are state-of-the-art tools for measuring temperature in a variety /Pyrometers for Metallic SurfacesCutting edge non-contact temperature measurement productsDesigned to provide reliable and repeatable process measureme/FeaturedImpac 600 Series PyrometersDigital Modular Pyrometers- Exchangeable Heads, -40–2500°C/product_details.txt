@@ -1,0 +1,141 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedImpac 600 Series PyrometersDigital Modular Pyrometers: Exchangeable Heads, -40–2500°C
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Pyrometers for Metallic SurfacesCutting edge non-contact temperature measurement productsDesigned to provide reliable and repeatable process measurement and controlProducts for a huge range of applications in various industries
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/pyrometers-for-metallic,-ceramic-and-graphite-surfaces/
+Category Description: Increasing quality standards and higher energy costs demand more accurate and consistent temperature control in steel-making processes. Our digital and infrared pyrometers for metal applications provide cutting-edge technology, ease-of-use, and dependability.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedImpac 600 Series PyrometersDigital Modular Pyrometers: Exchangeable Heads, -40–2500°C
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/pyrometers-for-metallic,-ceramic-and-graphite-surfaces/impac-600-series/
+
+Complete Product Description:
+Digital, modular pyrometer that provides a highly customizable design with easy installation and maintenance for non-contact temperature measurements for various surfaces in different temperature ranges between -40 and 2500 °C
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/f80928d8-bbc9-4bab-a626-0633bfaa2c2e/ENG-600Series-235-03-3-35-23_datasheet-new.pdf
+  - Impac Spannungsversorgungen Datenblatt (143 KB): https://www.advancedenergy.com/getmedia/e9fdffbe-c890-47d4-bb12-77b9d726e5c7/de-op-impac-powersupplies-data-sheet.pdf
+  - Power Supplies Data Sheet (156 KB): https://www.advancedenergy.com/getmedia/31463acb-f166-49b9-8bec-195c00375b6a/en-op-powersupplies_impac-pyrometers-data-sheet.pdf
+  - Impac Electrical Accessories Brochure (769 KB): https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - Impac Mechanical Accessories Brochure (1 MB): https://www.advancedenergy.com/getmedia/46d97cb7-200a-4c86-b93b-f16267ab8eaa/en-op-impac-mechanical-accessories-brochure.pdf
+  - IMPAC Series 600 Selector Guide View Resource: https://www.advancedenergy.com/getmedia/f7f833f3-187d-47a5-a01d-0c52ca0aa062/ENG-600-Series-Configuration-Guide-10-14-24.pdf
+  - Pyrometer Overview: https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - Pyrometer-Gesamtübersicht: https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - Series 600 Datasheet English: https://www.advancedenergy.com/getmedia/f80928d8-bbc9-4bab-a626-0633bfaa2c2e/ENG-600Series-235-03-5-1-24.pdf
+  - Converter Box (Profinet) Quick Start Guide: https://www.advancedenergy.com/getmedia/2b7fd6a1-7701-4f38-b472-5390fc1d8474/en-op-converter-box-profinet-quick-start-guide.pdf
+  - Converter Box (Profinet) Quick Start Guide: https://www.advancedenergy.com/getmedia/0b179d26-e5be-42b9-bd77-36edd9d5eb5c/de-op-converter-box-profinet-quick-start-guide.pdf
+  - Multi-Analog Box Quick Start Guide: https://www.advancedenergy.com/getmedia/f467285b-a894-48dc-90e4-3a46d5ff1d0b/en-op-multi-analog-box-quick-start-guide.pdf
+  - Multi-Analog Box Quick Start Guide: https://www.advancedenergy.com/getmedia/daf335c3-0202-4711-bbb1-b03205d96b13/de-op-multi-analog-box-quick-start-guide.pdf
+  - Serie 600 Betriebsanleitung: https://www.advancedenergy.com/getmedia/20a3f133-b3a1-4c12-887a-033ef3f291df/de-op-series600-manual.pdf
+  - Series 600 Manual: https://www.advancedenergy.com/getmedia/36dc126d-85f6-4b9b-a7d9-3365b7f4722b/en-op-series600-manual.pdf
+  - Single Analog Box Quick Start Guide: https://www.advancedenergy.com/getmedia/b7061fab-c84d-4df3-a326-3079aaf2702f/en-op-single-analog-box-quick-start-guide.pdf
+  - Single Analog Box Quick Start Guide: https://www.advancedenergy.com/getmedia/f82bbbe4-c4fb-451d-8d85-0c66f4ab1d8e/de-op-single-analog-box-quick-start-guide.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/f80928d8-bbc9-4bab-a626-0633bfaa2c2e/ENG-600Series-235-03-3-35-23_datasheet-new.pdf
+  - https://www.advancedenergy.com/getmedia/e9fdffbe-c890-47d4-bb12-77b9d726e5c7/de-op-impac-powersupplies-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/31463acb-f166-49b9-8bec-195c00375b6a/en-op-powersupplies_impac-pyrometers-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/46d97cb7-200a-4c86-b93b-f16267ab8eaa/en-op-impac-mechanical-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/f7f833f3-187d-47a5-a01d-0c52ca0aa062/ENG-600-Series-Configuration-Guide-10-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/f80928d8-bbc9-4bab-a626-0633bfaa2c2e/ENG-600Series-235-03-5-1-24.pdf
+  - https://www.advancedenergy.com/getmedia/2b7fd6a1-7701-4f38-b472-5390fc1d8474/en-op-converter-box-profinet-quick-start-guide.pdf
+  - https://www.advancedenergy.com/getmedia/0b179d26-e5be-42b9-bd77-36edd9d5eb5c/de-op-converter-box-profinet-quick-start-guide.pdf
+  - https://www.advancedenergy.com/getmedia/f467285b-a894-48dc-90e4-3a46d5ff1d0b/en-op-multi-analog-box-quick-start-guide.pdf
+  - https://www.advancedenergy.com/getmedia/daf335c3-0202-4711-bbb1-b03205d96b13/de-op-multi-analog-box-quick-start-guide.pdf
+  - https://www.advancedenergy.com/getmedia/20a3f133-b3a1-4c12-887a-033ef3f291df/de-op-series600-manual.pdf
+  - https://www.advancedenergy.com/getmedia/36dc126d-85f6-4b9b-a7d9-3365b7f4722b/en-op-series600-manual.pdf
+  - https://www.advancedenergy.com/getmedia/b7061fab-c84d-4df3-a326-3079aaf2702f/en-op-single-analog-box-quick-start-guide.pdf
+  - https://www.advancedenergy.com/getmedia/f82bbbe4-c4fb-451d-8d85-0c66f4ab1d8e/de-op-single-analog-box-quick-start-guide.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c9fb684a-07a3-4039-a105-a9bdc16a36d0/series600-ft-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/044309f4-55af-49b2-8c65-b2f2034f3834/series600-fl-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dff57957-1a4a-43cb-8e7f-8acd814c18fd/series600-fr-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cf93831b-d77c-4d26-910a-b46f096aca80/series600-bb-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f6718fa6-7db8-457f-b6d2-0437b4875ae2/series600-fs-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0cfda848-6609-4c7f-9f54-aea2b67d6336/series600-sl-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/03ef601e-036e-453f-a5c3-68525cb0e9ba/series600-sr-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c15d9f22-518d-498e-84d9-1eab662475b9/series600-front-4sensors.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5110f1a-46f7-41a6-9b8b-33301b94889b/series600-front-2sensors.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bf265152-f11e-4f50-b927-ae7b0b827745/series600-maxconfig.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c9fb684a-07a3-4039-a105-a9bdc16a36d0/series600-ft-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/044309f4-55af-49b2-8c65-b2f2034f3834/series600-fl-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dff57957-1a4a-43cb-8e7f-8acd814c18fd/series600-fr-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cf93831b-d77c-4d26-910a-b46f096aca80/series600-bb-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f6718fa6-7db8-457f-b6d2-0437b4875ae2/series600-fs-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0cfda848-6609-4c7f-9f54-aea2b67d6336/series600-sl-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/03ef601e-036e-453f-a5c3-68525cb0e9ba/series600-sr-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c15d9f22-518d-498e-84d9-1eab662475b9/series600-front-4sensors.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5110f1a-46f7-41a6-9b8b-33301b94889b/series600-front-2sensors.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bf265152-f11e-4f50-b927-ae7b0b827745/series600-maxconfig.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c9fb684a-07a3-4039-a105-a9bdc16a36d0/series600-ft-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/044309f4-55af-49b2-8c65-b2f2034f3834/series600-fl-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dff57957-1a4a-43cb-8e7f-8acd814c18fd/series600-fr-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cf93831b-d77c-4d26-910a-b46f096aca80/series600-bb-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f6718fa6-7db8-457f-b6d2-0437b4875ae2/series600-fs-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0cfda848-6609-4c7f-9f54-aea2b67d6336/series600-sl-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/03ef601e-036e-453f-a5c3-68525cb0e9ba/series600-sr-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c15d9f22-518d-498e-84d9-1eab662475b9/series600-front-4sensors.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5110f1a-46f7-41a6-9b8b-33301b94889b/series600-front-2sensors.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bf265152-f11e-4f50-b927-ae7b0b827745/series600-maxconfig.jpg
+  - Image: https://www.advancedenergy.com/getattachment/99d49e41-4a91-437f-b575-3edc490be7f4/infra600-1-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/24753501-3c2b-4c60-a7b3-41c725538927/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/2975188d-a89f-4427-8a8c-fdd35b1a2a0a/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/3cc5740e-ac62-462b-8bde-79684e450664/Thumbnail.png
+  - Image: https://www.advancedenergy.com/images/technical-content/pdf.png
+  - Advanced Pyrometers: Enhancing Process Repeatability: https://i.ytimg.com/vi/teYgES8AyNk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c9fb684a-07a3-4039-a105-a9bdc16a36d0/series600-ft-w-p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/775d7b12-1d05-444e-b1a1-1b1ad1e41356/in510-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Steel & MetalsAdvanced Energy's Steel & Metal solutions provide cutting-edge technology, ease-of-use, and dependability through our non-contact temperature sensors and power controllers.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Explore Steel & Metals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Pyrometers for Metallic SurfacesCutting edge non-contact temperature measurement productsDesigned to provide reliable and repeatable process measurement and controlProducts for a huge range of applications in various industries
+  ↓
+FeaturedImpac 600 Series PyrometersDigital Modular Pyrometers: Exchangeable Heads, -40–2500°C

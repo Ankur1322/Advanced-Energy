@@ -1,0 +1,70 @@
+==============================================================================
+PRODUCT DETAILS: AEE-MEncapsulated industry-standard packages offering up to 80 percent efficiency12 V, 24 V or 48 V nominal inputs in single or dual output variants4000 VAC reinforced insulation and 2X means of operator protection (MOOP)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Medical DC-DC PCB MountKeep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/
+Category Description: Keep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AEE-MEncapsulated industry-standard packages offering up to 80 percent efficiency12 V, 24 V or 48 V nominal inputs in single or dual output variants4000 VAC reinforced insulation and 2X means of operator protection (MOOP)
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/aee-m/
+
+Complete Product Description:
+The AEE M series of 15 and 20 W isolated, encapsulated DC-DC converters are designed for demanding instrumentation applications that require supplementary or reinforced insulation to comply with stringent industrial or medical safety standards.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - AEE 15W Medical Data Sheet: https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/ENG-AEE15W-M-235-01-1-13.pdf
+  - AEE 20W Medical Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/86a96836-01d4-423f-a77d-77393cd8dd8e/aee20w-m_ds_1497461077.pdf
+  - UL Certificate of Compliance: https://www.advancedenergy.com/getmedia/27ac1bba-1e04-4ae2-8cca-6292f05a6a8b/atl_rqr_285447003_ml_coc_1508262851_cert.pdf
+  - AEE 15W Medical Tech Ref Note: https://www.advancedenergy.com/getmedia/93bd65c5-4c3c-42e5-a208-8dfd834c261d/TRN-DC-DC-AEE15W-M-Series-Release-1-2-(061425).pdf
+  - AEE 20W Medical Tech Ref Notes Technical Reference: https://www.advancedenergy.com/getmedia/575e2c1f-d252-4881-8ef9-dc6698cd965a/TRN-DC-DC-AEE20W-M-Series-Release-1-1-(2017-09-25).pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - Transforming Arterial Care with Advanced Energy’s Lithotripsy Power Solutions: https://www.advancedenergy.com/getmedia/554f327e-710f-4682-b2d3-9a4462013b90/ENG-Lithotripsy-Power-Solutions-Case-Study-295-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/ENG-AEE15W-M-235-01-1-13.pdf
+  - https://www.advancedenergy.com/getmedia/86a96836-01d4-423f-a77d-77393cd8dd8e/aee20w-m_ds_1497461077.pdf
+  - https://www.advancedenergy.com/getmedia/27ac1bba-1e04-4ae2-8cca-6292f05a6a8b/atl_rqr_285447003_ml_coc_1508262851_cert.pdf
+  - https://www.advancedenergy.com/getmedia/93bd65c5-4c3c-42e5-a208-8dfd834c261d/TRN-DC-DC-AEE15W-M-Series-Release-1-2-(061425).pdf
+  - https://www.advancedenergy.com/getmedia/575e2c1f-d252-4881-8ef9-dc6698cd965a/TRN-DC-DC-AEE20W-M-Series-Release-1-1-(2017-09-25).pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - https://www.advancedenergy.com/getmedia/554f327e-710f-4682-b2d3-9a4462013b90/ENG-Lithotripsy-Power-Solutions-Case-Study-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/04dbd3bf-888e-4014-b3f7-1a62b420969d/AEE-M.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Medical DC-DC PCB MountKeep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.
+  ↓
+AEE-MEncapsulated industry-standard packages offering up to 80 percent efficiency12 V, 24 V or 48 V nominal inputs in single or dual output variants4000 VAC reinforced insulation and 2X means of operator protection (MOOP)

@@ -1,0 +1,155 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedFurnaceSpection SeriesInfrared Camera System for Continuous Reformer Tube Monitoring and Temperature Measurement Inside Furnaces
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Thermal Imagers & SystemsAdvanced technology for industry leading accuracy and sensitivity.Ultra high precision optics and high resolutionsUnmatched dependability, reliability and longevity
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermal-imagers-systems/
+Category Description: Advanced Energy’s turn-key thermal imagers and systems accurately measure temperature and use reliable infrared technology. These high-tech instruments can be used to precisely determine temperature.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedFurnaceSpection SeriesInfrared Camera System for Continuous Reformer Tube Monitoring and Temperature Measurement Inside Furnaces
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermal-imagers-systems/furnacespection/
+
+Complete Product Description:
+Mikron FurnaceSpection infrared imaging system offers real-time monitoring inside high temperature furnaces in refining, metals, and glass production.
+
+Features: Not found
+
+Specifications:
+  - Windows-Based, Real-Time Data Acquisition Software
+  - Advanced Thermal Image Processing, Analysis, and Report-Writing Software
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/de06f225-da63-4a8d-85cd-18c8e25e2f20/en-ti-furnacespection-data-sheet.pdf
+  - LumaSpec RT Datenblatt (1 MB): https://www.advancedenergy.com/getmedia/21e67aa5-8bef-479f-a9d3-a85ad4467fbc/de-ti-lumaspecrt-data-sheet.pdf
+  - LumaSpec RT Data Sheet (2 MB): https://www.advancedenergy.com/getmedia/f91e1818-431a-4145-a204-4ac6cc2cb77b/en-ti-lumaspecrt-data-sheet.pdf
+  - LumaSpec RT Software Manual (12 MB): https://www.advancedenergy.com/getmedia/1567b7df-2c91-4812-8c93-f5bcb0a2512b/en-ti-lumaspec-rt-manual.pdf
+  - LumaSpec Offline Analyzer Data Sheet (890 KB): https://www.advancedenergy.com/getmedia/bac4c621-116a-47c1-8441-60cb1f2e7c29/en-ti-lumaspecoa-data-sheet.pdf
+  - LumaSpec Offline Analyzer Manual (5 MB): https://www.advancedenergy.com/getmedia/d847ed6b-de82-4b42-bc44-b0f7c467b7f8/en-ti-lumaspec-offline-analyzer-manual.pdf
+  - Furnaces Sensing and Control Flyer: https://www.advancedenergy.com/getmedia/eab0b1a1-643e-4b7f-ac90-569a576b8a8d/en-flyer-furnaces-sensing-and-control.pdf
+  - Glass Production Solutions Brochure: https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - Temperature Measurement for Petrochemical Brochure: https://www.advancedenergy.com/getmedia/e8d12a1b-a363-495e-9eb0-4fb8a04666e4/en-ge-petrochemical-brochure.pdf
+  - Temperature Measurement for Steel Brochure: https://www.advancedenergy.com/getmedia/87a3da61-2c7f-4320-b59b-d300266925a3/en-im-steel-overview-brochure.pdf
+  - Temperaturmesslösungen für Glas Broschüre: https://www.advancedenergy.com/getmedia/24d77e9b-38f2-4991-a49e-467bd7706ff3/de-im-glass-overview-brochure.pdf
+  - Thermal Imaging Cameras Overview: https://www.advancedenergy.com/getmedia/518621be-ebbe-4d69-9a07-57d3d79795f2/en-ti-thermaloverview-brochure.pdf
+  - 为专业工业应用测温设计的热成像相机和系统: https://www.advancedenergy.com/getmedia/9f1eb9b9-6925-45dc-ba66-6f5532f53fe6/zho-ti-thermaloverview-brochure.pdf
+  - 石化测温: https://www.advancedenergy.com/getmedia/f72774ac-dfc5-4ea9-afd5-91d2c9c354c1/zho-ge-petrochemical-brochure.pdf
+  - 钢铁测温 - 用于改进钢铁生产过程中的过程监控和 提高效率的非接触式温度传感器: https://www.advancedenergy.com/getmedia/6d243285-5d9b-4c87-b277-81c218662dfb/zho-im-steel-overview-brochure.pdf
+  - Factory Calibration Services: https://www.advancedenergy.com/getmedia/afffebc3-de98-4189-9848-a4669bac67b3/en-srv-factory-calibration-services.pdf
+  - FurnaceSpection Data Sheet: https://www.advancedenergy.com/getmedia/de06f225-da63-4a8d-85cd-18c8e25e2f20/en-ti-furnacespection-data-sheet.pdf
+  - FurnaceSpection Datenblatt: https://www.advancedenergy.com/getmedia/fe59b050-2eda-4517-9b41-104c6f8844ad/de-ti-furnacespection-data-sheet.pdf
+  - LumaSpec Offline Analyzer Data Sheet: https://www.advancedenergy.com/getmedia/0405828f-4a67-4fef-98b8-c0dfd1ef290f/en-ti-lumaspecoa-data-sheet.pdf
+  - LumaSpec RT Data Sheet: https://www.advancedenergy.com/getmedia/bea19333-e325-4e4e-aaf0-e9bd60e4a001/en-ti-lumaspecrt-data-sheet.pdf
+  - Annealing Furnace Application Note: https://www.advancedenergy.com/getmedia/c927c440-55d9-4edb-bf05-00ac0e4c76e0/en-im-steel-annealing-furnace-application-note.pdf
+  - Flat Glass Melt Tank Monitoring Application Note: https://www.advancedenergy.com/getmedia/ebf72a97-7b8c-452c-bfe5-a1e3922d92e8/en-im-glass-flat-melting-tank-application-note.pdf
+  - FurnaceSpection for Reformers Application Note: https://www.advancedenergy.com/getmedia/d0e99a11-f312-477e-834e-ed14dc350fb8/en-ge-furnacespectionreformers-application-note.pdf
+  - Thermal Imaging Quotation Request Form: https://www.advancedenergy.com/getmedia/5eccd54d-0cca-4a93-a8d3-f353368cff55/en-ti-quotation-request-form.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9dc799ac-527c-42fc-8c0e-4aa094f3ede1/en-ti-mcs640-mcs640hd-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/de06f225-da63-4a8d-85cd-18c8e25e2f20/en-ti-furnacespection-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/21e67aa5-8bef-479f-a9d3-a85ad4467fbc/de-ti-lumaspecrt-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/f91e1818-431a-4145-a204-4ac6cc2cb77b/en-ti-lumaspecrt-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1567b7df-2c91-4812-8c93-f5bcb0a2512b/en-ti-lumaspec-rt-manual.pdf
+  - https://www.advancedenergy.com/getmedia/bac4c621-116a-47c1-8441-60cb1f2e7c29/en-ti-lumaspecoa-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d847ed6b-de82-4b42-bc44-b0f7c467b7f8/en-ti-lumaspec-offline-analyzer-manual.pdf
+  - https://www.advancedenergy.com/getmedia/eab0b1a1-643e-4b7f-ac90-569a576b8a8d/en-flyer-furnaces-sensing-and-control.pdf
+  - https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/e8d12a1b-a363-495e-9eb0-4fb8a04666e4/en-ge-petrochemical-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/87a3da61-2c7f-4320-b59b-d300266925a3/en-im-steel-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/24d77e9b-38f2-4991-a49e-467bd7706ff3/de-im-glass-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/518621be-ebbe-4d69-9a07-57d3d79795f2/en-ti-thermaloverview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/9f1eb9b9-6925-45dc-ba66-6f5532f53fe6/zho-ti-thermaloverview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/f72774ac-dfc5-4ea9-afd5-91d2c9c354c1/zho-ge-petrochemical-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/6d243285-5d9b-4c87-b277-81c218662dfb/zho-im-steel-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/afffebc3-de98-4189-9848-a4669bac67b3/en-srv-factory-calibration-services.pdf
+  - https://www.advancedenergy.com/getmedia/de06f225-da63-4a8d-85cd-18c8e25e2f20/en-ti-furnacespection-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/fe59b050-2eda-4517-9b41-104c6f8844ad/de-ti-furnacespection-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0405828f-4a67-4fef-98b8-c0dfd1ef290f/en-ti-lumaspecoa-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/bea19333-e325-4e4e-aaf0-e9bd60e4a001/en-ti-lumaspecrt-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c927c440-55d9-4edb-bf05-00ac0e4c76e0/en-im-steel-annealing-furnace-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/ebf72a97-7b8c-452c-bfe5-a1e3922d92e8/en-im-glass-flat-melting-tank-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d0e99a11-f312-477e-834e-ed14dc350fb8/en-ge-furnacespectionreformers-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/5eccd54d-0cca-4a93-a8d3-f353368cff55/en-ti-quotation-request-form.pdf
+  - https://www.advancedenergy.com/getmedia/9dc799ac-527c-42fc-8c0e-4aa094f3ede1/en-ti-mcs640-mcs640hd-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/31449c65-0d54-4505-bcef-400b2c980e3c/furnacespection-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a85dfd91-96a3-4686-85ad-f82e3b48cffc/furnacespection-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/62e16c63-3ab7-4849-990c-a0f0823c2d3a/furnacespection-br-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bc0a4efd-f4d7-4278-b32c-a06c5148d095/furnacespection-ls-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31449c65-0d54-4505-bcef-400b2c980e3c/furnacespection-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a85dfd91-96a3-4686-85ad-f82e3b48cffc/furnacespection-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/62e16c63-3ab7-4849-990c-a0f0823c2d3a/furnacespection-br-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bc0a4efd-f4d7-4278-b32c-a06c5148d095/furnacespection-ls-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31449c65-0d54-4505-bcef-400b2c980e3c/furnacespection-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a85dfd91-96a3-4686-85ad-f82e3b48cffc/furnacespection-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/62e16c63-3ab7-4849-990c-a0f0823c2d3a/furnacespection-br-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bc0a4efd-f4d7-4278-b32c-a06c5148d095/furnacespection-ls-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d88f0f41-afb5-4a82-8bb1-03afa7ddb431/lumaspecrt_1-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/143c69a8-8319-4457-91f9-57227216cbd5/lumaspec_offline_analyzer-3-wp.jpg
+  - From Sand to Shine: Optimizing Glass Production and Coating: https://i.ytimg.com/vi/67VMhRxNI6w/hqdefault.jpg
+  - Thermal Imaging for Glass Manufacturing: https://i.ytimg.com/vi/d4o6IFcLTLk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/725e07c8-55fd-4358-a69f-30f2ef530a46/mcs640-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/daca6d38-948c-46b4-a17c-0b76813cb237/1409788161-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31449c65-0d54-4505-bcef-400b2c980e3c/furnacespection-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b8eec8cf-0499-4a4e-8fda-cd6b7ca05690/boilerspectionsd-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedMikron MCS640 SeriesShort Wavelength Thermal Imagers for Temperature Measurement between 600 and 3000°C: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermal-imagers-systems/mikron-mcs640/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9dc799ac-527c-42fc-8c0e-4aa094f3ede1/en-ti-mcs640-mcs640hd-data-sheet.pdf
+  - FeaturedADN-C Single Phase SeriesDin Rail Mounting Single-Phase AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/din-rail-psus/adn-c-single-phase/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Steel & MetalsAdvanced Energy's Steel & Metal solutions provide cutting-edge technology, ease-of-use, and dependability through our non-contact temperature sensors and power controllers.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Explore Steel & Metals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - PetrochemicalsAdvanced Energy provides innovative temperature and gas sensing instruments for the petrochemical market that are designed for high-temperature, energy-intensive processes such as reforming and distillation operations..: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Explore Petrochemicals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Thermal Imagers & SystemsAdvanced technology for industry leading accuracy and sensitivity.Ultra high precision optics and high resolutionsUnmatched dependability, reliability and longevity
+  ↓
+FeaturedFurnaceSpection SeriesInfrared Camera System for Continuous Reformer Tube Monitoring and Temperature Measurement Inside Furnaces

@@ -1,0 +1,122 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNDQ900 Series900 W ultra-high 96.7% peak efficiency DC-DC converters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+[Level 3] Category Name: NDQ SeriesHigh efficiencyQuarter brick footprintDigital controlledCurrent share or remote senseInherently safe topology
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/ndq-series/
+Category Description: High‑efficiency 48 to 12 V quarter‑brick converters 900 W, 1300 W, and 1600 W with digital control for data center and high‑power computing applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNDQ900 Series900 W ultra-high 96.7% peak efficiency DC-DC converters
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/ndq-series/ndq900/
+
+Complete Product Description:
+High‑efficiency 48 to 12 V quarter‑brick converters 900 W, 1300 W, and 1600 W with digital control for data center and high‑power computing applications
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/5a1cbd02-b159-45d4-8b23-a12872a6b3ff/eng-ndq900_12_2v_series-235-011666341086.pdf
+  - NDQ900 Datasheet: https://www.advancedenergy.com/getmedia/5a1cbd02-b159-45d4-8b23-a12872a6b3ff/eng-ndq900_12_2v_series-235-011666341086.pdf
+  - NDQ900 CE cert: https://www.advancedenergy.com/getmedia/64ab9437-44df-4eb7-8834-7b7d104e5182/ndq900-48s12xxxxxxxxx_ce_rev001667374540_cert.pdf
+  - NDQ900 TUV CB cert: https://www.advancedenergy.com/getmedia/8a000d07-ef87-4bdb-be56-9467d7a3afcf/ndq900-48s12xxxxxxxxx_tuv_cb_c1667374628_cert.pdf
+  - NDQ900 TUV cert: https://www.advancedenergy.com/getmedia/3e4b4590-81d3-402a-8391-b762062360d5/ndq900-48s12xxxxxxxxx_tuv_cert1667374680_cert.pdf
+  - NDQ900 UK DoC: https://www.advancedenergy.com/getmedia/5450b9c4-b60e-4a83-867e-60b4d70f3c24/ndq900-48s12xxxxxxxxx_uk_doc_r1667374748_cert.pdf
+  - NDQ900 UL COC: https://www.advancedenergy.com/getmedia/cb4f1c1a-3983-425c-8054-f25431681e6f/ndq900-48s12xxxxxxxxx_ul_coc_01667374931_cert.pdf
+  - NDQ900 TRN: https://www.advancedenergy.com/getmedia/5d4c6695-42eb-4d8b-a44c-cc8eb4345ffc/trn_dc-dc_ndq900-48s12b_releas1667292659_techref.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/803fb10c-75da-450f-9186-00c99085b4b8/adq800_12v_ds_1580885794.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c3f06af6-fd17-4056-ac78-d8dff2b34928/adq700-ds_1476689627.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/dd99bdcc-a3a3-4684-9d14-c8c003ad79ea/bcq1300_bdq1300_datasheet_4de1575443462.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/5a1cbd02-b159-45d4-8b23-a12872a6b3ff/eng-ndq900_12_2v_series-235-011666341086.pdf
+  - https://www.advancedenergy.com/getmedia/5a1cbd02-b159-45d4-8b23-a12872a6b3ff/eng-ndq900_12_2v_series-235-011666341086.pdf
+  - https://www.advancedenergy.com/getmedia/64ab9437-44df-4eb7-8834-7b7d104e5182/ndq900-48s12xxxxxxxxx_ce_rev001667374540_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8a000d07-ef87-4bdb-be56-9467d7a3afcf/ndq900-48s12xxxxxxxxx_tuv_cb_c1667374628_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3e4b4590-81d3-402a-8391-b762062360d5/ndq900-48s12xxxxxxxxx_tuv_cert1667374680_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5450b9c4-b60e-4a83-867e-60b4d70f3c24/ndq900-48s12xxxxxxxxx_uk_doc_r1667374748_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cb4f1c1a-3983-425c-8054-f25431681e6f/ndq900-48s12xxxxxxxxx_ul_coc_01667374931_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5d4c6695-42eb-4d8b-a44c-cc8eb4345ffc/trn_dc-dc_ndq900-48s12b_releas1667292659_techref.pdf
+  - https://www.advancedenergy.com/getmedia/803fb10c-75da-450f-9186-00c99085b4b8/adq800_12v_ds_1580885794.pdf
+  - https://www.advancedenergy.com/getmedia/c3f06af6-fd17-4056-ac78-d8dff2b34928/adq700-ds_1476689627.pdf
+  - https://www.advancedenergy.com/getmedia/dd99bdcc-a3a3-4684-9d14-c8c003ad79ea/bcq1300_bdq1300_datasheet_4de1575443462.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/234b8381-9587-42e8-b96f-f28a5239eaf5/5cc33bbbde.jpg
+  - Image: https://www.advancedenergy.com/getattachment/78c359cd-ac7b-4f4e-aff7-7007ddc7e8df/3e5315aca7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8b3e97c4-d839-499f-ad27-e81cdf668551/5803831c34.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2b390204-aeaa-49ba-9c6e-0ac3f216a6c0/5b10ebfc57.jpg
+  - Image: https://www.advancedenergy.com/getattachment/77f82681-eeac-4ae3-a4b3-612f0b2664b6/836d2a2345.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4e451bb9-aeb4-4b30-8e12-22679fbac1ab/9119ea00b4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/234b8381-9587-42e8-b96f-f28a5239eaf5/5cc33bbbde.jpg
+  - Image: https://www.advancedenergy.com/getattachment/78c359cd-ac7b-4f4e-aff7-7007ddc7e8df/3e5315aca7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8b3e97c4-d839-499f-ad27-e81cdf668551/5803831c34.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2b390204-aeaa-49ba-9c6e-0ac3f216a6c0/5b10ebfc57.jpg
+  - Image: https://www.advancedenergy.com/getattachment/77f82681-eeac-4ae3-a4b3-612f0b2664b6/836d2a2345.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4e451bb9-aeb4-4b30-8e12-22679fbac1ab/9119ea00b4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/234b8381-9587-42e8-b96f-f28a5239eaf5/5cc33bbbde.jpg
+  - Image: https://www.advancedenergy.com/getattachment/78c359cd-ac7b-4f4e-aff7-7007ddc7e8df/3e5315aca7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8b3e97c4-d839-499f-ad27-e81cdf668551/5803831c34.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2b390204-aeaa-49ba-9c6e-0ac3f216a6c0/5b10ebfc57.jpg
+  - Image: https://www.advancedenergy.com/getattachment/77f82681-eeac-4ae3-a4b3-612f0b2664b6/836d2a2345.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4e451bb9-aeb4-4b30-8e12-22679fbac1ab/9119ea00b4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0cc204a6-2348-4a93-b779-c68cb50f6c9a/76212f8be8.png
+  - Image: https://www.advancedenergy.com/getattachment/cd7752d3-7833-4b49-a306-44b186899532/24f00f8fc2.png
+  - Image: https://www.advancedenergy.com/getattachment/52e2e1b5-3794-4ad7-a666-ee234d934b22/8f75231e88.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/17e44254-80d7-41aa-8a98-2ec624cbfcd0/storage-level-banner-image-edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/17e44254-80d7-41aa-8a98-2ec624cbfcd0/storage-level-banner-image-edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0a2d8956-e4f3-492b-ad1f-9de15d47cfcd/RackBlade-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0a2d8956-e4f3-492b-ad1f-9de15d47cfcd/RackBlade-display-banner.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedADQ800 Serieslow-profile 800 W 1/4 Brick: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avq-adq-1-4-bricks/adq800/
+  - Datasheet: https://www.advancedenergy.com/getmedia/803fb10c-75da-450f-9186-00c99085b4b8/adq800_12v_ds_1580885794.pdf
+  - FeaturedADQ700 Series700 W Digital Interface 1/4 Brick: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avq-adq-1-4-bricks/adq700/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c3f06af6-fd17-4056-ac78-d8dff2b34928/adq700-ds_1476689627.pdf
+  - FeaturedBDQ1300 & BCQ1300 SeriesBDQ1300 & BCQ1300 Series Quarter-Brick: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/bcq-bdq/bdq1300-bcq1300/
+  - Datasheet: https://www.advancedenergy.com/getmedia/dd99bdcc-a3a3-4684-9d14-c8c003ad79ea/bcq1300_bdq1300_datasheet_4de1575443462.pdf
+  - Routing / SwitchingNetwork routing and switching are essential to any network infrastructure, and Advanced Energy's power supply solutions are designed to meet these demanding needs.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/networking/routing-switching/
+  - Explore Routing/Switching: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/networking/routing-switching/
+  - StorageAdvanced Energy's storage solutions provide reliable and efficient networked mass-storage devices that enable multiple users and devices to retrieve data from centralized disk capacity.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/storage/
+  - Explore Storage: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/storage/
+  - Rack/Blade ServersAdvanced Energy's rack and blade server solutions offer high-performance computing for both large data centers and smaller-scale applications.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/rack-blade-servers/
+  - Explore Rack/ Blade Servers: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/rack-blade-servers/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+NDQ SeriesHigh efficiencyQuarter brick footprintDigital controlledCurrent share or remote senseInherently safe topology
+  ↓
+FeaturedNDQ900 Series900 W ultra-high 96.7% peak efficiency DC-DC converters

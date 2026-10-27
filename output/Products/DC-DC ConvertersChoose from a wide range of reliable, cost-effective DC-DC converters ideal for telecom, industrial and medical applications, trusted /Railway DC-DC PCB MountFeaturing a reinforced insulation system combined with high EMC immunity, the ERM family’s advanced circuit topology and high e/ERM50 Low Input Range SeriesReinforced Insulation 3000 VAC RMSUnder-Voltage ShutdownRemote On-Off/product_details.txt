@@ -1,0 +1,73 @@
+==============================================================================
+PRODUCT DETAILS: ERM50 Low Input Range SeriesReinforced Insulation 3000 VAC RMSUnder-Voltage ShutdownRemote On/Off
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Railway DC-DC PCB MountFeaturing a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/
+Category Description: Featuring a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: ERM50 Low Input Range SeriesReinforced Insulation 3000 VAC RMSUnder-Voltage ShutdownRemote On/Off
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/erm50-low-input-range/
+
+Complete Product Description:
+The ERM50 series high performance 50 W isolated DC-DC converter modules are designed specifically for railway applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/1470a45e-0aea-470b-adf8-d294ade5195b/erm50_ds_e760ddd0df.pdf
+  - ERM50 Data Sheet: https://www.advancedenergy.com/getmedia/1470a45e-0aea-470b-adf8-d294ade5195b/erm50_ds_e760ddd0df.pdf
+  - ERM50 Series Technical Reference Note: https://www.advancedenergy.com/getmedia/44442776-a4e8-4ea1-b38d-206d9fd8ad6f/trn_dc-dc_erm50_release_1_0_21393656742_techref.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/1470a45e-0aea-470b-adf8-d294ade5195b/erm50_ds_e760ddd0df.pdf
+  - https://www.advancedenergy.com/getmedia/1470a45e-0aea-470b-adf8-d294ade5195b/erm50_ds_e760ddd0df.pdf
+  - https://www.advancedenergy.com/getmedia/44442776-a4e8-4ea1-b38d-206d9fd8ad6f/trn_dc-dc_erm50_release_1_0_21393656742_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/82b0a135-8e43-4b87-b26c-ae0954e8ce54/70243c0134.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5cbdb78d-714e-4898-ae22-9dea8e3f362c/1396028920-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/82b0a135-8e43-4b87-b26c-ae0954e8ce54/70243c0134.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5cbdb78d-714e-4898-ae22-9dea8e3f362c/1396028920-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/82b0a135-8e43-4b87-b26c-ae0954e8ce54/70243c0134.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5cbdb78d-714e-4898-ae22-9dea8e3f362c/1396028920-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be1815d1-bbc9-4fa2-b2c5-dec237e97ec4/Train-Banner-Image-1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be1815d1-bbc9-4fa2-b2c5-dec237e97ec4/Train-Banner-Image-1.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - RailwayAdvanced Energy’s power conversion solutions for Railway are designed and manufactured for the harsh environments in which infrastructure, control and rolling stock must operate. The electrical performance is compliant with EN50155 specifications and other global standards.: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/train/
+  - Explore Railway: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/train/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Railway DC-DC PCB MountFeaturing a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.
+  ↓
+ERM50 Low Input Range SeriesReinforced Insulation 3000 VAC RMSUnder-Voltage ShutdownRemote On/Off

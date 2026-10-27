@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Open-Frame, Low Power AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Open-Frame, Low Power AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+
+Complete Product Description:
+Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/f181bc50-2546-4eff-881c-92367fc5fe13/16f5d86c0d.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4796634b-0bcc-43d6-8d0b-7c7c34ef7118/SLB65-img-1607500604.jpg
+  - Image: https://www.advancedenergy.com/getattachment/228e75d7-69bf-4284-8c53-d1ec972582bc/NGB150-img-1701071836.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcf4a762-6b6f-4841-9844-378605ba7aff/040e4cf342.png
+  - Image: https://www.advancedenergy.com/getattachment/5729318f-4758-49c0-95f2-bf466b37024d/SLB300-img-1631116216.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+Open-Frame, Low Power AC-DC Power Supplies

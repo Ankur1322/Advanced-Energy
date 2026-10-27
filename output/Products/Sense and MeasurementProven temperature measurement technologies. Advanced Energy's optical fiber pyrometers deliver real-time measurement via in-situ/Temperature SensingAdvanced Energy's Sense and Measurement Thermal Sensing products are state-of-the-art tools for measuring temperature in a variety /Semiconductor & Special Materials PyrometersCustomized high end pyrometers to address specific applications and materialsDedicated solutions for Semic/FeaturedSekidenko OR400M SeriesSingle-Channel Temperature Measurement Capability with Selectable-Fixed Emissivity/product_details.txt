@@ -1,0 +1,104 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedSekidenko OR400M SeriesSingle-Channel Temperature Measurement Capability with Selectable/Fixed Emissivity
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Semiconductor & Special Materials PyrometersCustomized high end pyrometers to address specific applications and materialsDedicated solutions for Semiconductor and Thin Film ApplicationsNext generation of temperature sensors developed specifically for GaN-based MOCVD epitaxy processes
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/special-materials-pyrometers/
+Category Description: Specialized pyrometers customized to address specific applications and materials
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedSekidenko OR400M SeriesSingle-Channel Temperature Measurement Capability with Selectable/Fixed Emissivity
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/special-materials-pyrometers/sekidenko-or400m/
+
+Complete Product Description:
+Advanced Energy’s OR400M Optical Pyrometer extends the flexibility of the Sekidenko product family into the mid-IR wavelength range, from 3.3 to 5.2 µm.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/0645888c-16ca-400c-b8b5-98417728bf93/sekidenko-or400m-data-sheet.pdf
+  - Pyrometer Overview Brochure: https://www.advancedenergy.com/getmedia/2b96786a-cbe6-4630-9dbb-40860ebdef1f/en-op-pyrometer-overview-brochure.pdf
+  - 高温计概述 - 用于非接触式测温的高精度红外测温仪: https://www.advancedenergy.com/getmedia/e17cd9df-7ed1-4650-9d8a-e96f14f8f50e/zho-op-pyrometer-overview-brochure.pdf
+  - Sekidenko OR400M Data Sheet: https://www.advancedenergy.com/getmedia/0645888c-16ca-400c-b8b5-98417728bf93/sekidenko-or400m-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0645888c-16ca-400c-b8b5-98417728bf93/sekidenko-or400m-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/2b96786a-cbe6-4630-9dbb-40860ebdef1f/en-op-pyrometer-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/e17cd9df-7ed1-4650-9d8a-e96f14f8f50e/zho-op-pyrometer-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/0645888c-16ca-400c-b8b5-98417728bf93/sekidenko-or400m-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/18efc6e7-089c-4d8d-904d-4c550e73f056/or400m-5-2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bfbe330b-5abc-47f8-861f-89170cb77392/or400m-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b6cf564b-39db-4c3d-8167-d63ecee0a5cd/or400m-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be6515d3-f7db-42dc-9d08-f8ceb7dd6090/or400m-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7df6f55b-0082-4412-91bb-3da6eccd191a/or400m-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/397347c7-2a47-4e13-9a98-6fece1878e38/or400m-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18efc6e7-089c-4d8d-904d-4c550e73f056/or400m-5-2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bfbe330b-5abc-47f8-861f-89170cb77392/or400m-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b6cf564b-39db-4c3d-8167-d63ecee0a5cd/or400m-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be6515d3-f7db-42dc-9d08-f8ceb7dd6090/or400m-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7df6f55b-0082-4412-91bb-3da6eccd191a/or400m-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/397347c7-2a47-4e13-9a98-6fece1878e38/or400m-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18efc6e7-089c-4d8d-904d-4c550e73f056/or400m-5-2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bfbe330b-5abc-47f8-861f-89170cb77392/or400m-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b6cf564b-39db-4c3d-8167-d63ecee0a5cd/or400m-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be6515d3-f7db-42dc-9d08-f8ceb7dd6090/or400m-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7df6f55b-0082-4412-91bb-3da6eccd191a/or400m-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/397347c7-2a47-4e13-9a98-6fece1878e38/or400m-ft-wp.jpg
+  - Advanced Pyrometers: Enhancing Process Repeatability: https://i.ytimg.com/vi/teYgES8AyNk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - ImplantOur products are engineered with a focus on optimizing efficiency and power density to ensure precise control of ion energy.: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+  - Explore Implant: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Semiconductor & Special Materials PyrometersCustomized high end pyrometers to address specific applications and materialsDedicated solutions for Semiconductor and Thin Film ApplicationsNext generation of temperature sensors developed specifically for GaN-based MOCVD epitaxy processes
+  ↓
+FeaturedSekidenko OR400M SeriesSingle-Channel Temperature Measurement Capability with Selectable/Fixed Emissivity

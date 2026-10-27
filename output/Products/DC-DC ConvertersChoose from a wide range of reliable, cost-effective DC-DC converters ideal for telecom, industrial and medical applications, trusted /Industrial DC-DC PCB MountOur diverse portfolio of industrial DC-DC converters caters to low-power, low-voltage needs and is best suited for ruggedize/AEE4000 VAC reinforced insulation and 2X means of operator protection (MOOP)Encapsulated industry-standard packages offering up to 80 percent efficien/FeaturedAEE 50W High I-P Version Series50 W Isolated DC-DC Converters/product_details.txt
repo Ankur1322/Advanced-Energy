@@ -1,0 +1,112 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedAEE 50W High I/P Version Series50 W Isolated DC-DC Converters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+Category Description: Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+[Level 3] Category Name: AEE4000 VAC reinforced insulation and 2X means of operator protection (MOOP)Encapsulated industry-standard packages offering up to 80 percent efficiency12 V, 24 V or 48 V nominal inputs in single or dual output variants
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/aee/
+Category Description: Advanced Energy offers a variety of isolated DC-DC converters for low power applications in industrial automation, instrumentation, test and measurement, medical equipment, and telecommunications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedAEE 50W High I/P Version Series50 W Isolated DC-DC Converters
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/aee/aee-50w-high-i-p-version/
+
+Complete Product Description:
+The AEE series of 50 W isolated DC-DC converters features a 4:1 wide input voltage range of 18 VDC to 75 VDC and typical efficiency of 92%.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/27d7ff02-b563-4577-9e2e-ccd5380fb589/aee50w_ds_04-08-14_a88322c8dd.pdf
+  - AEE 50W Datasheet: https://www.advancedenergy.com/getmedia/27d7ff02-b563-4577-9e2e-ccd5380fb589/aee50w_ds_04-08-14_a88322c8dd.pdf
+  - REACH CoC of AEE 40W and 50W: https://www.advancedenergy.com/getmedia/e9e0289a-c608-4bf4-a898-2b0699abd0d5/reach_coc_168_aee_series_051111462931193_REACH.pdf
+  - Rohs CoC of AEE40W and AEE50W: https://www.advancedenergy.com/getmedia/dfc113e9-2103-4e48-bedb-7ba221f71f60/rohs2_coc_aee_series_051116_1462931019_rohs_.pdf
+  - AEE 50W Technical Reference Note: https://www.advancedenergy.com/getmedia/e34dd24d-bd65-4eea-a969-fd05eaa226dd/TRN-DC-DC-AEE-50W-Series-Release-1-2-(2015-9-1).pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6a090380-5792-4b5e-a479-1715015c3d67/avd50_ds_1504019201.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/2eace03a-8e77-4e8a-aefa-bdb4b10a0204/avd50b_ds_1511245952.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8c5df8ea-c45e-4737-ae8d-31c92f080d82/av050_ds_05-19-14_00f109fd12.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f6597cc3-3e37-45bf-aca6-2c55f961f795/aee40w_ds_04-08-14_ede6ed76d7.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/27d7ff02-b563-4577-9e2e-ccd5380fb589/aee50w_ds_04-08-14_a88322c8dd.pdf
+  - https://www.advancedenergy.com/getmedia/27d7ff02-b563-4577-9e2e-ccd5380fb589/aee50w_ds_04-08-14_a88322c8dd.pdf
+  - https://www.advancedenergy.com/getmedia/e9e0289a-c608-4bf4-a898-2b0699abd0d5/reach_coc_168_aee_series_051111462931193_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/dfc113e9-2103-4e48-bedb-7ba221f71f60/rohs2_coc_aee_series_051116_1462931019_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e34dd24d-bd65-4eea-a969-fd05eaa226dd/TRN-DC-DC-AEE-50W-Series-Release-1-2-(2015-9-1).pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - https://www.advancedenergy.com/getmedia/6a090380-5792-4b5e-a479-1715015c3d67/avd50_ds_1504019201.pdf
+  - https://www.advancedenergy.com/getmedia/2eace03a-8e77-4e8a-aefa-bdb4b10a0204/avd50b_ds_1511245952.pdf
+  - https://www.advancedenergy.com/getmedia/8c5df8ea-c45e-4737-ae8d-31c92f080d82/av050_ds_05-19-14_00f109fd12.pdf
+  - https://www.advancedenergy.com/getmedia/f6597cc3-3e37-45bf-aca6-2c55f961f795/aee40w_ds_04-08-14_ede6ed76d7.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/daddfb39-f80b-41bf-8a61-d95a0e9ee1a8/1396909248.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04202643-2360-4ca7-bdae-edaa192a380e/35102c8ae6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/42d46626-b5e2-4208-bd65-760725858f6f/d51237ccbb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6c4b686f-a81c-4b30-8d07-93da77155d8e/dc16694d87.jpg
+  - Image: https://www.advancedenergy.com/getattachment/335be93b-c4bf-4ccb-ac3d-682765329c3a/fb9919b540.jpg
+  - Image: https://www.advancedenergy.com/getattachment/daddfb39-f80b-41bf-8a61-d95a0e9ee1a8/1396909248.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04202643-2360-4ca7-bdae-edaa192a380e/35102c8ae6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/42d46626-b5e2-4208-bd65-760725858f6f/d51237ccbb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6c4b686f-a81c-4b30-8d07-93da77155d8e/dc16694d87.jpg
+  - Image: https://www.advancedenergy.com/getattachment/335be93b-c4bf-4ccb-ac3d-682765329c3a/fb9919b540.jpg
+  - Image: https://www.advancedenergy.com/getattachment/daddfb39-f80b-41bf-8a61-d95a0e9ee1a8/1396909248.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04202643-2360-4ca7-bdae-edaa192a380e/35102c8ae6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/42d46626-b5e2-4208-bd65-760725858f6f/d51237ccbb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6c4b686f-a81c-4b30-8d07-93da77155d8e/dc16694d87.jpg
+  - Image: https://www.advancedenergy.com/getattachment/335be93b-c4bf-4ccb-ac3d-682765329c3a/fb9919b540.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5c7ad965-ad07-4332-95d8-d4fdf875308a/da2f8cd12d.png
+  - Image: https://www.advancedenergy.com/getattachment/6c3cd8fe-95a3-4c8e-8fb2-536f59f47fb4/69d3a9eae8.png
+  - Image: https://www.advancedenergy.com/getattachment/7c4cc1bb-9a15-4c3c-bfc0-d17e69f16a0a/fbb9ad2936.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ba523dc8-4f57-4d4b-bb2c-26802ee76385/c9000f6414.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAVD50 Series50 W Sixteenth-Brick Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avd-ald-1-16-bricks/avd50/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6a090380-5792-4b5e-a479-1715015c3d67/avd50_ds_1504019201.pdf
+  - FeaturedAVD50B Series50 W 1/16th Brick: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avd-ald-1-16-bricks/avd50b/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2eace03a-8e77-4e8a-aefa-bdb4b10a0204/avd50b_ds_1511245952.pdf
+  - FeaturedAVO50 Series24 to 50 W Eighth-Brick Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avo-ado-1-8th-bricks/avo50/
+  - Datasheet: https://www.advancedenergy.com/getmedia/8c5df8ea-c45e-4737-ae8d-31c92f080d82/av050_ds_05-19-14_00f109fd12.pdf
+  - FeaturedAEE 40W High I/P Dual O/P Series40 W Isolated DC-DC Converters (High-Input): https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/aee/aee-40w-high-i-p-dual-o-p/
+  - Datasheet: https://www.advancedenergy.com/getmedia/f6597cc3-3e37-45bf-aca6-2c55f961f795/aee40w_ds_04-08-14_ede6ed76d7.pdf
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+  ↓
+AEE4000 VAC reinforced insulation and 2X means of operator protection (MOOP)Encapsulated industry-standard packages offering up to 80 percent efficiency12 V, 24 V or 48 V nominal inputs in single or dual output variants
+  ↓
+FeaturedAEE 50W High I/P Version Series50 W Isolated DC-DC Converters

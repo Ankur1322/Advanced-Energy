@@ -1,0 +1,136 @@
+==============================================================================
+PRODUCT DETAILS: Power Factor Correction PCB MountUnity power factorHigh efficiency100°C baseplate operating temperature
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/
+Category Description: Best suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Power Factor Correction PCB MountUnity power factorHigh efficiency100°C baseplate operating temperature
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/pfc-bmp/
+
+Complete Product Description:
+Advanced Energy’s PFC modules are designed to operate from an input of universal AC-mains voltage and feed one or more downstream high voltage isolated DC-DC converters, which provide the required low voltage.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/02902a5f-a598-4ae9-b062-6bc707011f73/aif_-_pfc_series_a8e76167e7.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/17c2bc12-c80c-4ac5-b6c9-e73975401866/aiq00zpfc-01nl_02-02-15_dea8a6442e.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - AIF-CASE-KIT Datasheet: https://www.advancedenergy.com/getmedia/97960b2f-7031-470c-867b-33f4ba258c9e/eng-aif-case-kit-235-01_9_10_1601561782.pdf
+  - AIF04ZPFC Series Datasheet: https://www.advancedenergy.com/getmedia/02902a5f-a598-4ae9-b062-6bc707011f73/aif_-_pfc_series_a8e76167e7.pdf
+  - AIF06ZPFC Datasheet: https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - AIQ00ZPFC-01NL Datasheet: https://www.advancedenergy.com/getmedia/17c2bc12-c80c-4ac5-b6c9-e73975401866/aiq00zpfc-01nl_02-02-15_dea8a6442e.pdf
+  - AIT00ZPFC Data Sheet: https://www.advancedenergy.com/getmedia/1d0725b1-2a0f-4ee8-a7e5-41343d160418/ait00zpfc_1284361521.pdf
+  - AIT02ZPFC Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - AIF06 REACH cert REACH Certificate: https://www.advancedenergy.com/getmedia/23c8e424-efd5-4c7b-973c-81e1bea7508f/reach_declaration_1575886892_REACH.pdf
+  - AIF04ZPFC-01L RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/476d7ef0-8c08-4068-83e3-01b583115352/rohs2_coc_aif04zpfc-01l_0613161467855243_rohs_.pdf
+  - AIF04ZPFC-02L RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/371453be-438d-407a-bc7e-9fe12203d6d1/rohs2_coc_aif04zpfc-02l_0922151467869249_rohs_.pdf
+  - AIF06 RoHS cert RoHS Certificate: https://www.advancedenergy.com/getmedia/558655c4-b234-47e4-829c-3718da21f01f/rohs_declaration_1575886856_rohs_.pdf
+  - AIQ00ZPFC-01NL RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/ec3f230e-1c67-4ebe-a571-29f7bf92481c/rohs2_coc_aiq00zpfc-01nl_052411394707030_rohs_.pdf
+  - AIT02ZPFC-01NL RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/67943d2f-d903-43a9-b70d-5b2fa2110bec/rohs2_coc_ait02zpfc-01nl_052411394707731_rohs_.pdf
+  - AIF04ZPFC—CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/97bb08ca-33f4-4b4c-9fae-8336711d5ed9/aif04zpfc_ce_1298360357_cert.pdf
+  - AIF04ZPFC—TUV Certificate: https://www.advancedenergy.com/getmedia/cb890f98-28c7-4c1d-9698-89e7f9278457/aif04zpfc_tuv_1298360563_cert.pdf
+  - AIF04ZPFC—UL Certificate: https://www.advancedenergy.com/getmedia/6274b079-e69e-4959-8746-16779fa78924/pages_from_aif04zpfc_ul_1298360055_cert.pdf
+  - AIF06 CE DoC: https://www.advancedenergy.com/getmedia/c175cdd9-e523-4d5f-b8fc-208785e4a6fe/AIF06ZPFC_CE_230914.pdf
+  - AIF06 TUV Certificate: https://www.advancedenergy.com/getmedia/b8b69457-2575-48ed-9560-fba9db43ef6e/AIF06ZPFC_TUV_240930.pdf
+  - AIF06 UKCA: https://www.advancedenergy.com/getmedia/47901dc1-a6c1-4d29-8aaf-698fc514df2e/AIF06ZPFC_UKCA_230914.pdf
+  - AIF06 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/fe60eb89-f0b7-4943-a230-4712b6009316/AIF06ZPFC_UL-CoC_190604.pdf
+  - AIQ00ZPFC—CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/45c1abd1-2bc4-4614-8a2b-6ae8c8a3718e/aiq00zpfc-01_ce_1283841393_cert.pdf
+  - AIQ00ZPFC—TUV Certificate: https://www.advancedenergy.com/getmedia/6869627f-fd45-4dd7-9a9b-b0bfb6a4b491/aiq00zpfc-01_tuv_cert_1283865128_cert.pdf
+  - AIQ00ZPFC—UL Certificate: https://www.advancedenergy.com/getmedia/34c0f885-6fef-4c40-a117-98ec5fdb943a/aiq00zpfc-01_ul_1283841223_cert.pdf
+  - AIT02ZPFC—CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/3c459f39-57b2-418d-bdf4-55c522e1d907/ait02zpfc-01_ce_marking_1213274506_cert.pdf
+  - AIT02ZPFC—TUV Certificate: https://www.advancedenergy.com/getmedia/5bf34996-979e-417f-85c0-46421c940eb6/ait_tuv_cert_1213274647_cert.pdf
+  - AIT02ZPFC—UL Certificate: https://www.advancedenergy.com/getmedia/f55f3672-7b66-4494-aa17-5f93b1371e6d/ait02zpfc-01_ul_cert_1213274688_cert.pdf
+  - TUV Certificate: https://www.advancedenergy.com/getmedia/be585416-f08e-4a0d-bb8a-1c5ca6b59c3f/ait00zpfc-01_tuv_cert_1283864709_cert.pdf
+  - UL Certificate: https://www.advancedenergy.com/getmedia/4d1fae18-3c2d-49f5-bd95-bc7f1658384d/ait00zpfc-01_ul_1283864587_cert.pdf
+  - AIF06 Case study Application Solution Brief: https://www.advancedenergy.com/getmedia/7660f98e-c8ae-4593-b735-77e1ba7b4ade/en-hv-tethered-drone-case-stud1638442044_ASB.pdf
+  - AIF04ZPFC Technical Reference Notes: https://www.advancedenergy.com/getmedia/7ea22599-6244-48f8-b98a-01877634b10d/AC-DC-AIF04PFC-Released-1-2-(2023-08-29).pdf
+  - AIF06ZPFC Technical Reference Note: https://www.advancedenergy.com/getmedia/d5e2e117-06d5-4077-ac92-f8817ace5d78/TRN-AC-DC-AIF06ZPFC-Release-2-6-(060424).pdf
+  - AIQ00ZPFC-01NL Technical Reference Note: https://www.advancedenergy.com/getmedia/260578c2-f5e6-4474-b092-8e49dacc4134/TRN-AC-DC-AIQ00ZPFC-01NL-Release-1-1-(2020-01-14).pdf
+  - AIT02ZPFC Technical Reference Note: https://www.advancedenergy.com/getmedia/3f29a4c4-a807-4b7c-be9b-9508c67fc3a3/TRN-AC-DC-AIT02ZPFC-Release-1-3-(2022-10-10).pdf
+  - Technical Reference Notes: https://www.advancedenergy.com/getmedia/568bdec8-0e35-4e8f-85ca-933685dab175/ait00zpfc_01nl_pfc_trn_1284362236_techref.pdf
+  - Technical Reference Notes: https://www.advancedenergy.com/getmedia/a8fd83e6-2044-450e-9abc-a66f50b4a502/ait02pfc_trn_rev02_1459391550_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/02902a5f-a598-4ae9-b062-6bc707011f73/aif_-_pfc_series_a8e76167e7.pdf
+  - https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - https://www.advancedenergy.com/getmedia/17c2bc12-c80c-4ac5-b6c9-e73975401866/aiq00zpfc-01nl_02-02-15_dea8a6442e.pdf
+  - https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - https://www.advancedenergy.com/getmedia/97960b2f-7031-470c-867b-33f4ba258c9e/eng-aif-case-kit-235-01_9_10_1601561782.pdf
+  - https://www.advancedenergy.com/getmedia/02902a5f-a598-4ae9-b062-6bc707011f73/aif_-_pfc_series_a8e76167e7.pdf
+  - https://www.advancedenergy.com/getmedia/593510a0-d5b6-4eb2-aedb-a6a9379e1d91/eng-aif06-235-01_9_10_1601564700.pdf
+  - https://www.advancedenergy.com/getmedia/17c2bc12-c80c-4ac5-b6c9-e73975401866/aiq00zpfc-01nl_02-02-15_dea8a6442e.pdf
+  - https://www.advancedenergy.com/getmedia/1d0725b1-2a0f-4ee8-a7e5-41343d160418/ait00zpfc_1284361521.pdf
+  - https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - https://www.advancedenergy.com/getmedia/23c8e424-efd5-4c7b-973c-81e1bea7508f/reach_declaration_1575886892_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/476d7ef0-8c08-4068-83e3-01b583115352/rohs2_coc_aif04zpfc-01l_0613161467855243_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/371453be-438d-407a-bc7e-9fe12203d6d1/rohs2_coc_aif04zpfc-02l_0922151467869249_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/558655c4-b234-47e4-829c-3718da21f01f/rohs_declaration_1575886856_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/ec3f230e-1c67-4ebe-a571-29f7bf92481c/rohs2_coc_aiq00zpfc-01nl_052411394707030_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/67943d2f-d903-43a9-b70d-5b2fa2110bec/rohs2_coc_ait02zpfc-01nl_052411394707731_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/97bb08ca-33f4-4b4c-9fae-8336711d5ed9/aif04zpfc_ce_1298360357_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cb890f98-28c7-4c1d-9698-89e7f9278457/aif04zpfc_tuv_1298360563_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6274b079-e69e-4959-8746-16779fa78924/pages_from_aif04zpfc_ul_1298360055_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c175cdd9-e523-4d5f-b8fc-208785e4a6fe/AIF06ZPFC_CE_230914.pdf
+  - https://www.advancedenergy.com/getmedia/b8b69457-2575-48ed-9560-fba9db43ef6e/AIF06ZPFC_TUV_240930.pdf
+  - https://www.advancedenergy.com/getmedia/47901dc1-a6c1-4d29-8aaf-698fc514df2e/AIF06ZPFC_UKCA_230914.pdf
+  - https://www.advancedenergy.com/getmedia/fe60eb89-f0b7-4943-a230-4712b6009316/AIF06ZPFC_UL-CoC_190604.pdf
+  - https://www.advancedenergy.com/getmedia/45c1abd1-2bc4-4614-8a2b-6ae8c8a3718e/aiq00zpfc-01_ce_1283841393_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6869627f-fd45-4dd7-9a9b-b0bfb6a4b491/aiq00zpfc-01_tuv_cert_1283865128_cert.pdf
+  - https://www.advancedenergy.com/getmedia/34c0f885-6fef-4c40-a117-98ec5fdb943a/aiq00zpfc-01_ul_1283841223_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3c459f39-57b2-418d-bdf4-55c522e1d907/ait02zpfc-01_ce_marking_1213274506_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5bf34996-979e-417f-85c0-46421c940eb6/ait_tuv_cert_1213274647_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f55f3672-7b66-4494-aa17-5f93b1371e6d/ait02zpfc-01_ul_cert_1213274688_cert.pdf
+  - https://www.advancedenergy.com/getmedia/be585416-f08e-4a0d-bb8a-1c5ca6b59c3f/ait00zpfc-01_tuv_cert_1283864709_cert.pdf
+  - https://www.advancedenergy.com/getmedia/4d1fae18-3c2d-49f5-bd95-bc7f1658384d/ait00zpfc-01_ul_1283864587_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7660f98e-c8ae-4593-b735-77e1ba7b4ade/en-hv-tethered-drone-case-stud1638442044_ASB.pdf
+  - https://www.advancedenergy.com/getmedia/7ea22599-6244-48f8-b98a-01877634b10d/AC-DC-AIF04PFC-Released-1-2-(2023-08-29).pdf
+  - https://www.advancedenergy.com/getmedia/d5e2e117-06d5-4077-ac92-f8817ace5d78/TRN-AC-DC-AIF06ZPFC-Release-2-6-(060424).pdf
+  - https://www.advancedenergy.com/getmedia/260578c2-f5e6-4474-b092-8e49dacc4134/TRN-AC-DC-AIQ00ZPFC-01NL-Release-1-1-(2020-01-14).pdf
+  - https://www.advancedenergy.com/getmedia/3f29a4c4-a807-4b7c-be9b-9508c67fc3a3/TRN-AC-DC-AIT02ZPFC-Release-1-3-(2022-10-10).pdf
+  - https://www.advancedenergy.com/getmedia/568bdec8-0e35-4e8f-85ca-933685dab175/ait00zpfc_01nl_pfc_trn_1284362236_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a8fd83e6-2044-450e-9abc-a66f50b4a502/ait02pfc_trn_rev02_1459391550_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/556e556b-b50e-42ed-8497-e42fd8c9e460/PFC-BMP-AIF06ZPFC.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bded471d-73b4-4927-8040-3211014e67f1/AIF04.png
+  - Image: https://www.advancedenergy.com/getattachment/7df82629-d0f5-4653-8934-12826e4795a7/Pageimage.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dfb77f82-cd42-4ded-a2d0-acbc3d182411/0260cdf3ad.png
+  - Image: https://www.advancedenergy.com/getattachment/72e51ef8-9a2f-4485-ba5d-872642d4bee9/AIT02.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+  ↓
+Power Factor Correction PCB MountUnity power factorHigh efficiency100°C baseplate operating temperature

@@ -1,0 +1,88 @@
+==============================================================================
+PRODUCT DETAILS: DS3000TE Series3000 W output powerTitanium efficiencyN+N Redundant
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+Category Description: Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: DS3000TE Series3000 W output powerTitanium efficiencyN+N Redundant
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/ds3000te/
+
+Complete Product Description:
+The DS3000TE series bulk front end power AC-DC supply is designed to fully utilize the current capacity of standard C19/C20 AC inlet distribution connectors.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/80487c7f-f64b-422f-b7c1-b0e7868ed910/ds3000te_1576253228.pdf
+  - Universal PMBus GUI User's Manual (5 MB): https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - DS3000TE Datasheet: https://www.advancedenergy.com/getmedia/80487c7f-f64b-422f-b7c1-b0e7868ed910/ds3000te_1576253228.pdf
+  - DS3000TE-3-401-SP RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/31477687-526a-41a0-8491-580d0e55a42b/rohs2_coc_ds3000te-3-401-sp_031467862179_rohs_.pdf
+  - DS3000TE-3-402-SP RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/f2dc9530-329a-4034-bfe7-9b17e59bd4a6/rohs2_coc_ds3000te-3-402-sp_031467862218_rohs_.pdf
+  - DS3000TE-3-XXX BSMI Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/7d3a3e48-7a3c-4a3a-a777-f8f1b3560229/ds3000te-3-xxx_bsmi_1470486476_419.pdf
+  - DS3000TE-3-XXX CB Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/31ce4805-b0ee-4a05-afa2-39a193480053/ds3000te-3-xxx_dk-45042-a1-ul_1470486486_513.pdf
+  - DS3000TE-3-XXX CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/09c38b04-5c4a-478c-ad05-cc33c7598354/ds3000te-3-xxx_ce_1470486477_100.pdf
+  - DS3000TE-3-XXX CQC Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/4db79811-9ad0-4488-96ef-819d148e3e2c/ds3000te-3-xxx_cqc_1470486478_687.pdf
+  - DS3000TE-3-XXX DEMKO Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/52c489b5-06d7-4144-b2b5-317b596abb7c/ds3000te-3-xxx_demko_certifica1470486483_212.pdf
+  - DS3000TE-3-XXX UL/CSA Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/5fe632e7-6266-438d-bcac-161865cdcae6/ds3000te-3-xxx_ul_60950-1_1470486473_598.pdf
+  - DS3000TE Product Change Notification Technical Reference: https://www.advancedenergy.com/getmedia/8ccf3c98-60e5-4748-9c5f-0886077501a6/ds3000te-3_standard_pcn1_1487200786_techref.pdf
+  - DS3000TE-3 Technical Reference Note: https://www.advancedenergy.com/getmedia/47831730-cc61-4256-b9d8-a92113a79264/trn_ac-dc_ds3000te-3_release_11515468409_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/80487c7f-f64b-422f-b7c1-b0e7868ed910/ds3000te_1576253228.pdf
+  - https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - https://www.advancedenergy.com/getmedia/80487c7f-f64b-422f-b7c1-b0e7868ed910/ds3000te_1576253228.pdf
+  - https://www.advancedenergy.com/getmedia/31477687-526a-41a0-8491-580d0e55a42b/rohs2_coc_ds3000te-3-401-sp_031467862179_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f2dc9530-329a-4034-bfe7-9b17e59bd4a6/rohs2_coc_ds3000te-3-402-sp_031467862218_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/7d3a3e48-7a3c-4a3a-a777-f8f1b3560229/ds3000te-3-xxx_bsmi_1470486476_419.pdf
+  - https://www.advancedenergy.com/getmedia/31ce4805-b0ee-4a05-afa2-39a193480053/ds3000te-3-xxx_dk-45042-a1-ul_1470486486_513.pdf
+  - https://www.advancedenergy.com/getmedia/09c38b04-5c4a-478c-ad05-cc33c7598354/ds3000te-3-xxx_ce_1470486477_100.pdf
+  - https://www.advancedenergy.com/getmedia/4db79811-9ad0-4488-96ef-819d148e3e2c/ds3000te-3-xxx_cqc_1470486478_687.pdf
+  - https://www.advancedenergy.com/getmedia/52c489b5-06d7-4144-b2b5-317b596abb7c/ds3000te-3-xxx_demko_certifica1470486483_212.pdf
+  - https://www.advancedenergy.com/getmedia/5fe632e7-6266-438d-bcac-161865cdcae6/ds3000te-3-xxx_ul_60950-1_1470486473_598.pdf
+  - https://www.advancedenergy.com/getmedia/8ccf3c98-60e5-4748-9c5f-0886077501a6/ds3000te-3_standard_pcn1_1487200786_techref.pdf
+  - https://www.advancedenergy.com/getmedia/47831730-cc61-4256-b9d8-a92113a79264/trn_ac-dc_ds3000te-3_release_11515468409_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/6bed09bc-3cda-40da-888e-3295eb02b866/5a348603b7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6bed09bc-3cda-40da-888e-3295eb02b866/5a348603b7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f878926d-371b-4af5-b266-4f30e527bb35/pmbusgui_large.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6e03fc07-5942-4cd5-9c5f-a8b2c03bb444/datacenter5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6e03fc07-5942-4cd5-9c5f-a8b2c03bb444/datacenter5.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Data Center ComputingAs a leading power solutions provider, we offer a comprehensive portfolio of products that simplify architectures, enabling swift deployment in data centers.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/
+  - Explore Data Center Computing: https://www.advancedenergy.com/en-us/applications/datacenter-computing/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+  ↓
+DS3000TE Series3000 W output powerTitanium efficiencyN+N Redundant

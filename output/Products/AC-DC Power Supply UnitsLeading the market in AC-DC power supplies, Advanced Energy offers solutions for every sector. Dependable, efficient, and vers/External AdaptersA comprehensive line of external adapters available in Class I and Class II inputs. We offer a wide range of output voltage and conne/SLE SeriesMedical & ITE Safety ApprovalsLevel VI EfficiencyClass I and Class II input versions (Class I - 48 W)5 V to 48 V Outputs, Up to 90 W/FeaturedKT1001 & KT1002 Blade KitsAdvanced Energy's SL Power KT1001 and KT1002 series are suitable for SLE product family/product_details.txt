@@ -1,0 +1,127 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedKT1001 & KT1002 Blade KitsAdvanced Energy's SL Power KT1001 and KT1002 series are suitable for SLE product family.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: SLE SeriesMedical & ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions (Class I > 48 W)5 V to 48 V Outputs, Up to 90 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/
+Category Description: The SLE series is part of Advanced Energy's Lean Line with 9 external power supply families ranging from 6 to 90 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedKT1001 & KT1002 Blade KitsAdvanced Energy's SL Power KT1001 and KT1002 series are suitable for SLE product family.
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/kt1001/
+
+Complete Product Description:
+Advanced Energy's SL Power KT1001 and KT1002 series are suitable for SLE product family.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/36f5ee1f-856a-4f40-820c-6ce77ea10fa4/ENG-KT1001-and-KT1002-10-03-25-(1).pdf
+  - KT1001 and KT1002 Datasheet: https://www.advancedenergy.com/getmedia/36f5ee1f-856a-4f40-820c-6ce77ea10fa4/ENG-KT1001-and-KT1002-10-07-25.pdf
+  - KT1001AU Datasheet: https://www.advancedenergy.com/getmedia/352d64fb-2048-4656-b9d7-cbfa7955a1a9/KT1001AU_DS.pdf
+  - KT1001CH Datasheet: https://www.advancedenergy.com/getmedia/3511cd9b-473a-4847-a727-798650cace4f/KT1001CH_DS.pdf
+  - KT1001EU Datasheet: https://www.advancedenergy.com/getmedia/8c9b3e31-6de5-4953-a40c-a5623d259d1a/KT1001EU_DS.pdf
+  - KT1001UK Datasheet: https://www.advancedenergy.com/getmedia/ba1dee47-9c23-41cc-925c-3074d6e3d63b/KT1001UK_DS.pdf
+  - KT1001US Datasheet: https://www.advancedenergy.com/getmedia/96afb513-b9d5-4330-907d-3b5f807de241/KT1001US_DS.pdf
+  - KT1001 Datasheet: https://www.advancedenergy.com/getmedia/cbff0e27-1afe-4f08-9ccf-602cb3c0d768/ENG-KT1001-09-08-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6b231c1a-e361-4ed3-9872-6127016431d5/ENG-SLE33SPD-09-01-2025.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/952ce714-f042-4d98-8fcb-2c3089aab5f7/ENG-SLE06-235-01%2012.08.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/cea15db2-200d-49c0-a944-27bbf2cf6a70/ENG-SLE60-235-01%2010.21.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/84074e8a-811e-431b-9f2c-37869553919c/ENG-SLE24-235-01%2012.09.22.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/36f5ee1f-856a-4f40-820c-6ce77ea10fa4/ENG-KT1001-and-KT1002-10-03-25-(1).pdf
+  - https://www.advancedenergy.com/getmedia/36f5ee1f-856a-4f40-820c-6ce77ea10fa4/ENG-KT1001-and-KT1002-10-07-25.pdf
+  - https://www.advancedenergy.com/getmedia/352d64fb-2048-4656-b9d7-cbfa7955a1a9/KT1001AU_DS.pdf
+  - https://www.advancedenergy.com/getmedia/3511cd9b-473a-4847-a727-798650cace4f/KT1001CH_DS.pdf
+  - https://www.advancedenergy.com/getmedia/8c9b3e31-6de5-4953-a40c-a5623d259d1a/KT1001EU_DS.pdf
+  - https://www.advancedenergy.com/getmedia/ba1dee47-9c23-41cc-925c-3074d6e3d63b/KT1001UK_DS.pdf
+  - https://www.advancedenergy.com/getmedia/96afb513-b9d5-4330-907d-3b5f807de241/KT1001US_DS.pdf
+  - https://www.advancedenergy.com/getmedia/cbff0e27-1afe-4f08-9ccf-602cb3c0d768/ENG-KT1001-09-08-23.pdf
+  - https://www.advancedenergy.com/getmedia/6b231c1a-e361-4ed3-9872-6127016431d5/ENG-SLE33SPD-09-01-2025.pdf
+  - https://www.advancedenergy.com/getmedia/952ce714-f042-4d98-8fcb-2c3089aab5f7/ENG-SLE06-235-01%2012.08.22.pdf
+  - https://www.advancedenergy.com/getmedia/cea15db2-200d-49c0-a944-27bbf2cf6a70/ENG-SLE60-235-01%2010.21.23.pdf
+  - https://www.advancedenergy.com/getmedia/84074e8a-811e-431b-9f2c-37869553919c/ENG-SLE24-235-01%2012.09.22.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/7991437d-830b-4aec-9676-499a7f4fcff8/KT1001-img-1618327050.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6c09f07-be8c-43fd-badf-6ec0a69cf1ae/SLE33-Bladekit-V1-1.png
+  - Image: https://www.advancedenergy.com/getattachment/714dc2ae-9116-44bd-a85a-36aedbaf81d4/KT1002-ALL-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/7991437d-830b-4aec-9676-499a7f4fcff8/KT1001-img-1618327050.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6c09f07-be8c-43fd-badf-6ec0a69cf1ae/SLE33-Bladekit-V1-1.png
+  - Image: https://www.advancedenergy.com/getattachment/714dc2ae-9116-44bd-a85a-36aedbaf81d4/KT1002-ALL-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/7991437d-830b-4aec-9676-499a7f4fcff8/KT1001-img-1618327050.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6c09f07-be8c-43fd-badf-6ec0a69cf1ae/SLE33-Bladekit-V1-1.png
+  - Image: https://www.advancedenergy.com/getattachment/714dc2ae-9116-44bd-a85a-36aedbaf81d4/KT1002-ALL-V1.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/aa55936f-5e80-4ed9-9f48-57dcf0d212f2/KT1001-AU-V2/
+  - Image: https://www.advancedenergy.com/getmetafile/a3390cd4-239e-47ae-a970-c7645fe56452/KT1001-EU-V3/
+  - Image: https://www.advancedenergy.com/getmetafile/1be2e971-6f36-4f2a-a6b8-7be3374cf2d5/KT1001-UK-V3/
+  - Image: https://www.advancedenergy.com/getmetafile/5c489c20-8769-4f90-911b-c5f561699409/KT1001-US-V3/
+  - Image: https://www.advancedenergy.com/getattachment/945a2ca4-4431-4be3-a078-2df8bc44a2a5/SLE33SPD00B01-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/069cdeff-09aa-46f5-b722-c2f0406ed046/SLE06-img-1569644708.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a057a4be-b9d4-4066-8684-cf1605676b40/SLE60SPD96N01-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/8927ffe9-f398-486f-b1ec-3f71a2cdb203/SLE24-img-1569644868.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedSLE33 Series33 W Level VII Compliant Single Output Adapter: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle33/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6b231c1a-e361-4ed3-9872-6127016431d5/ENG-SLE33SPD-09-01-2025.pdf
+  - FeaturedSLE06 Series6 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle06/
+  - Datasheet: https://www.advancedenergy.com/getmedia/952ce714-f042-4d98-8fcb-2c3089aab5f7/ENG-SLE06-235-01%2012.08.22.pdf
+  - FeaturedSLE60 Series60 W Single Output Medical / Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle60/
+  - Datasheet: https://www.advancedenergy.com/getmedia/cea15db2-200d-49c0-a944-27bbf2cf6a70/ENG-SLE60-235-01%2010.21.23.pdf
+  - FeaturedSLE24 Series24 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle24/
+  - Datasheet: https://www.advancedenergy.com/getmedia/84074e8a-811e-431b-9f2c-37869553919c/ENG-SLE24-235-01%2012.09.22.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+SLE SeriesMedical & ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions (Class I > 48 W)5 V to 48 V Outputs, Up to 90 W
+  ↓
+FeaturedKT1001 & KT1002 Blade KitsAdvanced Energy's SL Power KT1001 and KT1002 series are suitable for SLE product family.

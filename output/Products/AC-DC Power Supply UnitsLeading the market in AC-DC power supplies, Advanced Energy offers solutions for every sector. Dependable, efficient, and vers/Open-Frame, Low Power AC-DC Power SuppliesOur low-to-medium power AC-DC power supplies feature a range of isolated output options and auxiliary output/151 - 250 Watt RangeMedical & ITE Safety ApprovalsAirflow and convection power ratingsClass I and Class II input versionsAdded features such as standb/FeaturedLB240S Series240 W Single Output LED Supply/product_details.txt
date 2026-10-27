@@ -1,0 +1,112 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLB240S Series240 W Single Output LED Supply
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 151 - 250 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsAdded features such as standby output and monitoring signals
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/
+Category Description: Advanced Energy power supplies within the 151 to 250 W range are the backbone of many electronics, striking a balance between power and efficiency.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLB240S Series240 W Single Output LED Supply
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lb240s-series/
+
+Complete Product Description:
+Advanced Energy’s LB240 family is the latest offering in high density single output open-frame AC-DC power supplies.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/47288ed3-e19d-49b9-b189-ee4b4671cfd6/ENG-LB240-08.24.23.pdf
+  - LB240 Datasheet: https://www.advancedenergy.com/getmedia/47288ed3-e19d-49b9-b189-ee4b4671cfd6/ENG-LB240-08.24.23.pdf
+  - LB240 Demko Certificate: https://www.advancedenergy.com/getmedia/825c7dd8-eb3c-4777-b7e9-92ebb8f67f0b/LB240demko_cert.pdf
+  - CB Test Certificate: https://www.advancedenergy.com/getmedia/2764decb-80fb-4818-8df1-af8d819ff721/CB%20Cert%2062368.pdf
+  - LB240 CB Certificate: https://www.advancedenergy.com/getmedia/5387b02c-eaf5-47bc-9598-c53b315fb529/LB240CB.pdf
+  - LB240 IEC62368-1 CB Certificate: https://www.advancedenergy.com/getmedia/4e60c318-2373-48bd-a516-00c372e6dc85/LB20S48K(P)_CB-Certificate_IEC62368-1(20200918)-(1).pdf
+  - LB240 UL Certificate: https://www.advancedenergy.com/getmedia/b41a7522-fb44-49ba-af71-14694a418250/LB240UL_cert.pdf
+  - LB240S Application Note: https://www.advancedenergy.com/getmedia/ab3946f9-f774-483c-9c30-375caaaf1173/ENG-LB240%20AN-08.24.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/91ab7032-b38f-45b1-9cdc-272baa0a5397/ENG-CINT1200-03.04.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/d542cda6-55c7-4794-bf2f-60b131d5e033/ENG-LU225-07.04.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3510c6ad-53a3-48a5-90ad-8086c0537b05/ENG-MINT1180-01-24-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/47288ed3-e19d-49b9-b189-ee4b4671cfd6/ENG-LB240-08.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/47288ed3-e19d-49b9-b189-ee4b4671cfd6/ENG-LB240-08.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/825c7dd8-eb3c-4777-b7e9-92ebb8f67f0b/LB240demko_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2764decb-80fb-4818-8df1-af8d819ff721/CB%20Cert%2062368.pdf
+  - https://www.advancedenergy.com/getmedia/5387b02c-eaf5-47bc-9598-c53b315fb529/LB240CB.pdf
+  - https://www.advancedenergy.com/getmedia/4e60c318-2373-48bd-a516-00c372e6dc85/LB20S48K(P)_CB-Certificate_IEC62368-1(20200918)-(1).pdf
+  - https://www.advancedenergy.com/getmedia/b41a7522-fb44-49ba-af71-14694a418250/LB240UL_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ab3946f9-f774-483c-9c30-375caaaf1173/ENG-LB240%20AN-08.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/91ab7032-b38f-45b1-9cdc-272baa0a5397/ENG-CINT1200-03.04.23.pdf
+  - https://www.advancedenergy.com/getmedia/d542cda6-55c7-4794-bf2f-60b131d5e033/ENG-LU225-07.04.23.pdf
+  - https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - https://www.advancedenergy.com/getmedia/3510c6ad-53a3-48a5-90ad-8086c0537b05/ENG-MINT1180-01-24-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/8fd61aef-8355-42f8-b2a5-4d1b43700621/LB240S.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8fd61aef-8355-42f8-b2a5-4d1b43700621/LB240S.jpg
+  - LB240 Series: https://i.ytimg.com/vi/soZIps9JKEA/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/73a4a5bd-3e87-4471-b05d-b67faa6da904/CINT1200.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7526ea3-9d28-4113-9162-7651df227ec9/Main.JPG
+  - Image: https://www.advancedenergy.com/getattachment/7f625eba-4d37-4807-9ff2-e4f6f8ad0618/NGB250-img-1633990271.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6b6d6073-3e71-4da1-ad5b-c84a5a4aea15/MINT1180.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedCINT1200 Series200 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/cint1200-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/91ab7032-b38f-45b1-9cdc-272baa0a5397/ENG-CINT1200-03.04.23.pdf
+  - FeaturedLU225 Series225 W Single Output LED & Industry Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lu225-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/d542cda6-55c7-4794-bf2f-60b131d5e033/ENG-LU225-07.04.23.pdf
+  - FeaturedNGB250 Series250 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/ngb250-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - FeaturedMINT1180 Series180 W Single Output Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/mint1180-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3510c6ad-53a3-48a5-90ad-8086c0537b05/ENG-MINT1180-01-24-24.pdf
+  - Entertainment Lighting and AV ControlsInnovative lighting and precise control systems enhance performance atmosphere in motion picture, stage, and studio settings.: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - Explore Entertainment Lighting and AV Controls: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+151 - 250 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsAdded features such as standby output and monitoring signals
+  ↓
+FeaturedLB240S Series240 W Single Output LED Supply

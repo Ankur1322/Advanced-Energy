@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Remote Plasma Sources
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power Products
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Remote Plasma Sources
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/
+
+Complete Product Description:
+Advanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/378ce522-63e6-4f9e-8102-a4f7534ce551/maxstream300-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b01ec99c-a753-4453-9ec6-5fc6130f1328/rapid-ox-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9600f894-01f5-4c99-ba61-104f4f0ac1f3/xstream-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/378ce522-63e6-4f9e-8102-a4f7534ce551/maxstream300-fl-wp-(1).jpg?resizemode=force&maxsidesize=408
+  - Image: https://www.advancedenergy.com/getattachment/f374ded4-02c4-484c-accf-da3d8478ba3c/maxstream600-fl-wp.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power Products
+  ↓
+Remote Plasma Sources

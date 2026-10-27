@@ -1,0 +1,137 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedTLP150 Series100 to 150 W AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 101 - 150 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsSingle and Multiple Outputs, Up to 150 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/
+Category Description: Advanced Energy power supplies within the 101 to 150 W range are the go-to choice for medium-scale electronic applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedTLP150 Series100 to 150 W AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/tlp150/
+
+Complete Product Description:
+The TLP150 series of open-frame AC-DC power supplies comprises four single output models, offering voltages of 12 V, 24 V, 36 V or 48 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/d54a8d3c-6201-4c67-83f9-7cd450f07520/tlp150_04-08-2014_26f5cdb746.pdf
+  - TLP150 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/d54a8d3c-6201-4c67-83f9-7cd450f07520/tlp150_04-08-2014_26f5cdb746.pdf
+  - TLP 150 RoHS: https://www.advancedenergy.com/getmedia/a075ceb8-9e4c-4bf5-a210-9354278377d3/rohs2_coc_tlp150r-96s12fj_07301411712292_rohs_.pdf
+  - TLP150N CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/f2c3541c-b3ed-4b68-a24e-fec70acbc490/tlp150n-99s12f02j_ce_1394853910_cert.pdf
+  - TLP150N TUV ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/fc94def9-283a-4d6b-b6d2-98290cd7d40b/tlp150n-99s12f02j_tuv_cert_1394853958_cert.pdf
+  - TLP150R BSMI Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/2d20b5e8-857b-4219-a9a9-6e5c18e9fe12/tlp150r-96s12j_bsmi_1394854155_cert.pdf
+  - TLP150R KC Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/b333f7d2-738b-496d-83ee-814909ee2b95/tlp150r-96s12n02j_kc_1394854190_cert.pdf
+  - TLP150R KC EMC Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/dd3d6374-a883-4152-a144-e1da2c790569/tlp150r-96s12n02j_msip_kc_emc1394854224_cert.pdf
+  - TLP150X CCC ZS Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/d388aba3-fd5a-42c9-a39a-ff761d4d1e63/tlp150x-96s12_ccc_1394854414_cert.pdf
+  - TLP150X Demko CB ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/77e42eab-4fab-4983-b1f5-b13dce6ca46a/tlp150x_series_cb_cert_1394854257_cert.pdf
+  - TLP150X UL/CSA ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/ae64a011-72be-4dbc-83f4-2f0bdfc3d714/tlp150x_series_ul_1394854295_cert.pdf
+  - TLP150X VDE ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/d9cd4b4f-977e-4123-be47-902c758ba9be/tlp150x-96s_vde_cert_1394854326_cert.pdf
+  - TLP150X-96 CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/c089dbd7-b0d2-4a87-a00f-e79c8dae372b/tlp150x-96s12_96s48_ce_1394854367_cert.pdf
+  - TLP150X-96S24 CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/316de2e4-c50f-44a3-8321-144f1594d8d1/tlp150x-96s24_ce_1394854473_cert.pdf
+  - TLP150X-96S36 CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/7ccfac2e-050d-4681-9c5f-1b8684029855/tlp150x-96s36_ce_1394854513_cert.pdf
+  - TLP150X-99 CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/102c6026-eaaa-46ef-a34c-c93f7c4011fd/tlp150x-99s12_99s24_ce_1394854539_cert.pdf
+  - TLP150 Series: https://www.advancedenergy.com/getmedia/ff3b7435-5972-42c1-a83a-9a1efe78f016/an_tlp150_1314935813_appnote.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b4cb4330-296d-4767-bbc8-66bd618e555d/lpt100-m_ds_05-04-2014_e2ffa03c50.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/d54a8d3c-6201-4c67-83f9-7cd450f07520/tlp150_04-08-2014_26f5cdb746.pdf
+  - https://www.advancedenergy.com/getmedia/d54a8d3c-6201-4c67-83f9-7cd450f07520/tlp150_04-08-2014_26f5cdb746.pdf
+  - https://www.advancedenergy.com/getmedia/a075ceb8-9e4c-4bf5-a210-9354278377d3/rohs2_coc_tlp150r-96s12fj_07301411712292_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f2c3541c-b3ed-4b68-a24e-fec70acbc490/tlp150n-99s12f02j_ce_1394853910_cert.pdf
+  - https://www.advancedenergy.com/getmedia/fc94def9-283a-4d6b-b6d2-98290cd7d40b/tlp150n-99s12f02j_tuv_cert_1394853958_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2d20b5e8-857b-4219-a9a9-6e5c18e9fe12/tlp150r-96s12j_bsmi_1394854155_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b333f7d2-738b-496d-83ee-814909ee2b95/tlp150r-96s12n02j_kc_1394854190_cert.pdf
+  - https://www.advancedenergy.com/getmedia/dd3d6374-a883-4152-a144-e1da2c790569/tlp150r-96s12n02j_msip_kc_emc1394854224_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d388aba3-fd5a-42c9-a39a-ff761d4d1e63/tlp150x-96s12_ccc_1394854414_cert.pdf
+  - https://www.advancedenergy.com/getmedia/77e42eab-4fab-4983-b1f5-b13dce6ca46a/tlp150x_series_cb_cert_1394854257_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ae64a011-72be-4dbc-83f4-2f0bdfc3d714/tlp150x_series_ul_1394854295_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d9cd4b4f-977e-4123-be47-902c758ba9be/tlp150x-96s_vde_cert_1394854326_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c089dbd7-b0d2-4a87-a00f-e79c8dae372b/tlp150x-96s12_96s48_ce_1394854367_cert.pdf
+  - https://www.advancedenergy.com/getmedia/316de2e4-c50f-44a3-8321-144f1594d8d1/tlp150x-96s24_ce_1394854473_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7ccfac2e-050d-4681-9c5f-1b8684029855/tlp150x-96s36_ce_1394854513_cert.pdf
+  - https://www.advancedenergy.com/getmedia/102c6026-eaaa-46ef-a34c-c93f7c4011fd/tlp150x-99s12_99s24_ce_1394854539_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ff3b7435-5972-42c1-a83a-9a1efe78f016/an_tlp150_1314935813_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/b4cb4330-296d-4767-bbc8-66bd618e555d/lpt100-m_ds_05-04-2014_e2ffa03c50.pdf
+  - https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+  - https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/85a0fbad-6832-444d-a9e6-1fb7b3cb8eca/cf2fcb3d02_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a069b80b-cc00-4262-8ebe-aedcf51af365/22447721e2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8f67d848-caf0-4ddc-9dae-cb93102d0e55/28b382e8fa.jpg
+  - Image: https://www.advancedenergy.com/getattachment/78b535eb-4043-4f7c-9815-9f0b9c8ffe6c/3923c7c843.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d9ed505-520b-4651-8764-59d62337528d/47819ebf4c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/86ffa2a5-43fe-4215-a8b2-6b81dc0b82a6/65767d90f0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/85a0fbad-6832-444d-a9e6-1fb7b3cb8eca/cf2fcb3d02_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a069b80b-cc00-4262-8ebe-aedcf51af365/22447721e2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8f67d848-caf0-4ddc-9dae-cb93102d0e55/28b382e8fa.jpg
+  - Image: https://www.advancedenergy.com/getattachment/78b535eb-4043-4f7c-9815-9f0b9c8ffe6c/3923c7c843.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d9ed505-520b-4651-8764-59d62337528d/47819ebf4c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/86ffa2a5-43fe-4215-a8b2-6b81dc0b82a6/65767d90f0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/85a0fbad-6832-444d-a9e6-1fb7b3cb8eca/cf2fcb3d02_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a069b80b-cc00-4262-8ebe-aedcf51af365/22447721e2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8f67d848-caf0-4ddc-9dae-cb93102d0e55/28b382e8fa.jpg
+  - Image: https://www.advancedenergy.com/getattachment/78b535eb-4043-4f7c-9815-9f0b9c8ffe6c/3923c7c843.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d9ed505-520b-4651-8764-59d62337528d/47819ebf4c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/86ffa2a5-43fe-4215-a8b2-6b81dc0b82a6/65767d90f0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1301ae5d-f79b-4d35-909b-3524b9c1ae34/LPT-100M.png
+  - Image: https://www.advancedenergy.com/getattachment/3576b6ba-b5ea-4757-b685-bf2eaa25745a/b1cc4b0471_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/95744198-95d9-4272-80c2-cf2cac251082/c08f9b7822_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fb12830c-c683-4c71-a65e-ac0807117692/397fdf3599.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLPT100-M80 to 130 W AC-DC Medical Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/lpt100-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b4cb4330-296d-4767-bbc8-66bd618e555d/lpt100-m_ds_05-04-2014_e2ffa03c50.pdf
+  - FeaturedLPS200-M Series125 to 250 W Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lps200-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+  - FeaturedLPS100-M80 to 150 W AC-DC Medical Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/lps100-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - FeaturedLPQ200-M Series100 to 200 W Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lpq200-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+101 - 150 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsSingle and Multiple Outputs, Up to 150 W
+  ↓
+FeaturedTLP150 Series100 to 150 W AC-DC Power Supplies

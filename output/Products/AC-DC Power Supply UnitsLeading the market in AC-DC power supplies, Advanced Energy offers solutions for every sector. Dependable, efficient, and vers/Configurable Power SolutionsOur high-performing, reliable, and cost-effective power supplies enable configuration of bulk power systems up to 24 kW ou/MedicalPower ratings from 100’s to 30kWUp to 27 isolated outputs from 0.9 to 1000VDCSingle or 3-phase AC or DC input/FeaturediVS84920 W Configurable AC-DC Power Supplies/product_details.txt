@@ -1,0 +1,127 @@
+==============================================================================
+PRODUCT DETAILS: FeaturediVS84920 W Configurable AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: MedicalPower ratings from 100’s to 30kWUp to 27 isolated outputs from 0.9 to 1000VDCSingle or 3-phase AC or DC input
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/medical/
+Category Description: Configurable Products for Medical Applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturediVS84920 W Configurable AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/medical/ivs8/
+
+Complete Product Description:
+4920 W Configurable AC-DC Power Supplies
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - iVS Series Data Sheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - iVS8 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/f304fc44-2178-4ce4-84e7-252b12126075/2538_rev_1_ce_ivs8_1676967136_rohs_.pdf
+  - iVS8 CB (ITE) Certificate: https://www.advancedenergy.com/getmedia/0ca4690f-519c-41d8-a70b-e9d23e3d1caf/dk-48402-ul_cb_ite_1676967265_cert.pdf
+  - iVS8 CB (Medical) Certificate: https://www.advancedenergy.com/getmedia/913fee1b-f5d1-40c4-bdaa-c1fa6c182b12/ivs8_sg_psb-md-00280_cb_med_1676967686_cert.pdf
+  - iVS8 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/c57088f3-dc04-47e0-8716-44bc595dc68d/ivs8_ce_1593394045_cert.pdf
+  - iVS8 TUV Certificate (ITE+Med): https://www.advancedenergy.com/getmedia/9823008f-623b-4a94-9e63-18ef2529955f/ivs8_tuv_1592797486_cert.pdf
+  - iVS8 UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/1e0c47f5-4148-4794-88d3-4d345d75e69f/3067_rev_1_ukca_ivs8_1676967188_cert.pdf
+  - iVS8 UL/CSA Certificate of Conformity (ITE): https://www.advancedenergy.com/getmedia/eb011096-f67c-4823-9c27-35b459c02f82/ivs8_ul_coc_ite_1676967405_cert.pdf
+  - iVS8 UL/CSA Certificate of Conformity (MED): https://www.advancedenergy.com/getmedia/3a057a81-04c5-4529-821b-59021657d928/ivs8_ul_coc_med_1676967436_cert.pdf
+  - iVS Electrical Interface Technical Reference Note: https://www.advancedenergy.com/getmedia/9331fbe8-17eb-4ab4-a794-c2ca8625049d/trn_ivs_electirical_interface_1549016853_techref.pdf
+  - iVS I2C Protocol Technical Reference Note: https://www.advancedenergy.com/getmedia/a9bc73e8-3850-4028-bae5-09cbfb3ad2ab/trn_ivs_i2c_protocol_2019-02-1549017121_techref.pdf
+  - iVS Series Technical Reference Note: https://www.advancedenergy.com/getmedia/40c269a0-4496-409b-abaf-95f4b87515a9/trn_ac-dc_ivs_release_1_0_2011558451230_techref.pdf
+  - Marketing Bulletin_MP Series End of Life: https://www.advancedenergy.com/getmedia/27b89bc7-e9f0-48b6-9076-29d7e2f6f7bc/marketing_bulletin_mp_1615559842_techref.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - Chinese Version: https://www.advancedenergy.com/getmedia/89cb2261-7607-44bd-8df8-ab812ef74036/configurable_white_paper_c_1501438273851_WP.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - Korean Version: https://www.advancedenergy.com/getmedia/d432d6d2-22bb-47ce-b41b-71c7e756f7bf/configurable_white_paper_j_1501438273908_WP.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/f304fc44-2178-4ce4-84e7-252b12126075/2538_rev_1_ce_ivs8_1676967136_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/0ca4690f-519c-41d8-a70b-e9d23e3d1caf/dk-48402-ul_cb_ite_1676967265_cert.pdf
+  - https://www.advancedenergy.com/getmedia/913fee1b-f5d1-40c4-bdaa-c1fa6c182b12/ivs8_sg_psb-md-00280_cb_med_1676967686_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c57088f3-dc04-47e0-8716-44bc595dc68d/ivs8_ce_1593394045_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9823008f-623b-4a94-9e63-18ef2529955f/ivs8_tuv_1592797486_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1e0c47f5-4148-4794-88d3-4d345d75e69f/3067_rev_1_ukca_ivs8_1676967188_cert.pdf
+  - https://www.advancedenergy.com/getmedia/eb011096-f67c-4823-9c27-35b459c02f82/ivs8_ul_coc_ite_1676967405_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3a057a81-04c5-4529-821b-59021657d928/ivs8_ul_coc_med_1676967436_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9331fbe8-17eb-4ab4-a794-c2ca8625049d/trn_ivs_electirical_interface_1549016853_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a9bc73e8-3850-4028-bae5-09cbfb3ad2ab/trn_ivs_i2c_protocol_2019-02-1549017121_techref.pdf
+  - https://www.advancedenergy.com/getmedia/40c269a0-4496-409b-abaf-95f4b87515a9/trn_ac-dc_ivs_release_1_0_2011558451230_techref.pdf
+  - https://www.advancedenergy.com/getmedia/27b89bc7-e9f0-48b6-9076-29d7e2f6f7bc/marketing_bulletin_mp_1615559842_techref.pdf
+  - https://www.advancedenergy.com/getmedia/89cb2261-7607-44bd-8df8-ab812ef74036/configurable_white_paper_c_1501438273851_WP.pdf
+  - https://www.advancedenergy.com/getmedia/d432d6d2-22bb-47ce-b41b-71c7e756f7bf/configurable_white_paper_j_1501438273908_WP.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/f0af2b7f-6f4a-4aa7-be97-ee6e2172ebbd/iVS8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f0af2b7f-6f4a-4aa7-be97-ee6e2172ebbd/iVS8.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/config-pro.png
+  - Image: https://www.advancedenergy.com/getattachment/72545867-9803-4e70-a0cd-f147d7ada89a/iVS8H-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/00a66d83-df11-4c48-a70d-befc5a4facf5/iVS3-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/f62d8e9d-4586-4ee7-be2d-cee527d1e768/NP08-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/1262f61b-9149-4514-9aaf-1aacdca74415/iHP12-15-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/f0af2b7f-6f4a-4aa7-be97-ee6e2172ebbd/iVS8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8f4cffc4-486a-4744-ba87-2a716122083a/iVS8H.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5a74d7bb-275d-4d9e-ae6d-d04acc38b146/iVS3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c4d681fb-f3da-4077-97cb-9f3b5591899b/NP08.png
+  - Image: https://www.advancedenergy.com/getattachment/25800e7b-0afc-4cc7-a511-dc49cf51f4be/iHP12-15.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturediVS8H4920 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ivs8h/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - FeaturediVS31800 to 4500 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ivs3/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - FeaturedNP08Up to 4000 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/np08/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - FeaturediHP12/15 Air Cooled12 to15 kW Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp12-15/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+MedicalPower ratings from 100’s to 30kWUp to 27 isolated outputs from 0.9 to 1000VDCSingle or 3-phase AC or DC input
+  ↓
+FeaturediVS84920 W Configurable AC-DC Power Supplies

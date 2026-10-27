@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Telecom Isolated DC-DC Brick Converters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC Converters
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Telecom Isolated DC-DC Brick Converters
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+
+Complete Product Description:
+Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c9eced8a-6e7f-4b07-a4c2-47572f36b316/AVD-ALD-1-16th-bricks.jpg
+  - Image: https://www.advancedenergy.com/getattachment/001e8e91-61a5-4592-a2b9-b657cadd6a19/AVO-ADO-1-8th-bricks.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f108f328-64a8-489e-a2a4-96660b59610c/AVQ-ADQ-1-4TH-Bricks.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e4183d7c-e731-4455-9081-f4f14f5b7db1/BCQ-BDQ-NDQ.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4af6bcae-e988-44bb-acbf-f69ab44941da/ND1900.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC Converters
+  ↓
+Telecom Isolated DC-DC Brick Converters

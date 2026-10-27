@@ -1,0 +1,107 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedMENB1060 Series60 W Single Output External Power Adapter Medical Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: MENB SeriesMedical Safety ApprovalsLevel V EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 60 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/menb/
+Category Description: The MENB Series  is part of Advanced Energy's medical external power supplies with 3 products under this family ranging from 10 W to 60 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedMENB1060 Series60 W Single Output External Power Adapter Medical Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/menb/menb1060-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power MENB1060 series of desktop external power adapter comprises four output models. All models feature medical safety approvals and accept a universal input of 100 to 240 VAC.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/798b2a99-b2ca-486c-91b0-916e3b4c4712/ENG-MENB1060-01%2004.28.23.pdf
+  - MENB1060 Datasheet: https://www.advancedenergy.com/getmedia/798b2a99-b2ca-486c-91b0-916e3b4c4712/ENG-MENB1060-01-07-30-24.pdf
+  - MENB Series RoHS Statement: https://www.advancedenergy.com/getmedia/5a2e300c-c14e-45b3-9ffb-e85577b6814d/MENB_Series_RoHS_Statement.pdf
+  - MENB1060 CB Certificate: https://www.advancedenergy.com/getmedia/c4f304b2-e532-4af6-9c4d-85158aad4e54/MENB1060_CB.pdf
+  - MENB1060 UL & CSA Certificate: https://www.advancedenergy.com/getmedia/574e4499-4a43-45c5-8b7b-be91267f0b35/MENB1060_UL.pdf
+  - Connector Options: https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/fdfdaa72-b746-4112-aada-383d8a8f6164/ENG-MENB1010-01%2004.28.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/90e16464-210e-473c-8e98-5f17b45ce207/ENG-MENB1040-01%2004.28.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/690b915d-508e-4389-a758-42b6474df4c8/ME60-01%2011.25.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/798b2a99-b2ca-486c-91b0-916e3b4c4712/ENG-MENB1060-01%2004.28.23.pdf
+  - https://www.advancedenergy.com/getmedia/798b2a99-b2ca-486c-91b0-916e3b4c4712/ENG-MENB1060-01-07-30-24.pdf
+  - https://www.advancedenergy.com/getmedia/5a2e300c-c14e-45b3-9ffb-e85577b6814d/MENB_Series_RoHS_Statement.pdf
+  - https://www.advancedenergy.com/getmedia/c4f304b2-e532-4af6-9c4d-85158aad4e54/MENB1060_CB.pdf
+  - https://www.advancedenergy.com/getmedia/574e4499-4a43-45c5-8b7b-be91267f0b35/MENB1060_UL.pdf
+  - https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - https://www.advancedenergy.com/getmedia/fdfdaa72-b746-4112-aada-383d8a8f6164/ENG-MENB1010-01%2004.28.23.pdf
+  - https://www.advancedenergy.com/getmedia/90e16464-210e-473c-8e98-5f17b45ce207/ENG-MENB1040-01%2004.28.23.pdf
+  - https://www.advancedenergy.com/getmedia/690b915d-508e-4389-a758-42b6474df4c8/ME60-01%2011.25.22.pdf
+  - https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/71e3611a-6c3d-4b81-886a-691cf8501ab1/MENB1060.png
+  - Image: https://www.advancedenergy.com/getattachment/71e3611a-6c3d-4b81-886a-691cf8501ab1/MENB1060.png
+  - Image: https://www.advancedenergy.com/getattachment/aef514f3-f237-4dcd-82d5-bbdac1dd15c3/MENB1010.png
+  - Image: https://www.advancedenergy.com/getattachment/d230e19b-9c9f-4963-9e01-47951d3ad9c9/MENB1040.png
+  - Image: https://www.advancedenergy.com/getattachment/027d67ce-24f7-4580-9092-57aaea12aca7/ME60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dee8010b-801b-45bb-a1dc-9f055c8768a8/TE60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedMENB1010 Series10 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/menb/menb1010-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/fdfdaa72-b746-4112-aada-383d8a8f6164/ENG-MENB1010-01%2004.28.23.pdf
+  - FeaturedMENB1040 Series40 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/menb/menb1040-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/90e16464-210e-473c-8e98-5f17b45ce207/ENG-MENB1040-01%2004.28.23.pdf
+  - FeaturedME60 Series60 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/690b915d-508e-4389-a758-42b6474df4c8/ME60-01%2011.25.22.pdf
+  - FeaturedTE60 Series60 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - DialysisAdvanced Energy’s reliable and efficient power solutions for Patient Monitoring Dialysis equipment are designed to meet the specific power requirements of dialysis machines, which require precise and consistent power delivery for accurate monitoring of patient vital signs.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+  - Explore Dialysis: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+MENB SeriesMedical Safety ApprovalsLevel V EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 60 W
+  ↓
+FeaturedMENB1060 Series60 W Single Output External Power Adapter Medical Grade

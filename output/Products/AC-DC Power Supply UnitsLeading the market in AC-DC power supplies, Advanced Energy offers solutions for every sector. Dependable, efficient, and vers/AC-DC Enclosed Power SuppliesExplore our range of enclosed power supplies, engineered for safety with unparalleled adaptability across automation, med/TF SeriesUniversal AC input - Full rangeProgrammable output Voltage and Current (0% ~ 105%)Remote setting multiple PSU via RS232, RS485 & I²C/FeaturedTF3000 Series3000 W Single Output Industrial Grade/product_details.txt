@@ -1,0 +1,132 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedTF3000 Series3000 W Single Output Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+[Level 3] Category Name: TF SeriesUniversal AC input / Full rangeProgrammable output Voltage and Current (0% ~ 105%)Remote setting multiple PSU via RS232, RS485 & I²C
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/tf/
+Category Description: The TF Series was designed for power-hungry applications such as automatic test, semiconductor test, and industrial imaging just to name a few.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedTF3000 Series3000 W Single Output Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/tf/tf3000/
+
+Complete Product Description:
+Advanced Energy’s SL Power TF3000 series of industrial grade AC-DC fan-cooled power supply comprises seven output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/7b23d0fe-7b1c-4449-8bff-64b0aaf6d775/ENG-TF3000-01%2004.17.23.pdf
+  - TF3000 Datasheet.pdf: https://www.advancedenergy.com/getmedia/7b23d0fe-7b1c-4449-8bff-64b0aaf6d775/ENG-TF3000-01-01-13-25.pdf
+  - TF3000HV Datasheet: https://www.advancedenergy.com/getmedia/14898193-f17f-40c5-a693-5bc7432b79ec/ENG-TF3000HV-01-06-12-25.pdf
+  - TF3000 REACH Statement: https://www.advancedenergy.com/getmedia/bb84b03e-f4d0-4c02-a2e7-461a16404431/TF3000_REACH.pdf
+  - TF3000 RoHS Certificate: https://www.advancedenergy.com/getmedia/096b0dba-4f81-40dd-8abf-a8a91e15c4bd/TF3000_RoHS.pdf
+  - TF Series UL ML: https://www.advancedenergy.com/getmedia/81b5c4ac-c15b-4b39-9d9e-f96585160ad9/TF_Series_UL_ML.pdf
+  - TF3000 CB Cert 62368-1: https://www.advancedenergy.com/getmedia/2f1bf4a7-2a64-4c7a-acfe-2df0893f6848/TF3000%20CB%20Cert%2062368-1.pdf
+  - TF3000 CB CofA: https://www.advancedenergy.com/getmedia/d67ea3c6-aa09-4c55-b5d5-9cf13c7b88e7/TF3000%20CB%20CofA.pdf
+  - TF3000 CE Certificate: https://www.advancedenergy.com/getmedia/f7904cd0-cd84-43af-9416-243cdcd5de8a/TF3000_CE_Certificate.pdf
+  - TF3000 EMC Report: https://www.advancedenergy.com/getmedia/ed6eba04-fb43-46e4-b268-5158a899ed3b/TF3000_EMC_Report.pdf
+  - TF3000 HT CB Certificate: https://www.advancedenergy.com/getmedia/9d46dfff-9f2e-419d-b4cc-bc155b087b9e/TF3000%20HT%20CB%20Cert.pdf
+  - TF3000 TUV Certificate: https://www.advancedenergy.com/getmedia/b9ea0655-3f28-4bfa-877b-49539515e20e/TF3000_TUV_Certificate.pdf
+  - Easy Charger Wizard Product and GUI Manual: https://www.advancedenergy.com/getmedia/1b1bcf07-f1ec-41ea-88cd-9d78c524dc1f/AC-DC-Easy-Charger-Wizard-Product-Guide-Release-1-0-(031623).pdf
+  - TF Series Communication Protocol User Manual: https://www.advancedenergy.com/getmedia/6791c060-0e56-46fd-a04b-13586f568860/TF%20Series%20Communication%20Protocol%20Release%201.0%20(082323).pdf
+  - TF Series GUI Manual: https://www.advancedenergy.com/getmedia/b7400577-a8ce-4036-9948-4850c3e84cf9/ENG-TF-GUI-Manual-01-07-13-23.pdf
+  - TF3000 Technical Reference Note: https://www.advancedenergy.com/getmedia/818e3b5b-119f-4c8d-bc7c-00b8f7d72f5e/TRN%20AC-DC%20TF3000%20Series%20Release%201.0%20(2023-09-12).pdf
+  - TF Series Value Proposition: https://www.advancedenergy.com/getmedia/7db0e80b-2fac-4521-973e-1d316f69cbad/High_Power_TFSeries_VP_MR.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/916e9ae0-fc5d-457e-9333-e0c5e59bab25/ENG-TF1500-01%2004.17.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/2799504d-6ee9-415d-afae-fe96d2f55c56/ENG-TF800-01-04-17-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/7b23d0fe-7b1c-4449-8bff-64b0aaf6d775/ENG-TF3000-01%2004.17.23.pdf
+  - https://www.advancedenergy.com/getmedia/7b23d0fe-7b1c-4449-8bff-64b0aaf6d775/ENG-TF3000-01-01-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/14898193-f17f-40c5-a693-5bc7432b79ec/ENG-TF3000HV-01-06-12-25.pdf
+  - https://www.advancedenergy.com/getmedia/bb84b03e-f4d0-4c02-a2e7-461a16404431/TF3000_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/096b0dba-4f81-40dd-8abf-a8a91e15c4bd/TF3000_RoHS.pdf
+  - https://www.advancedenergy.com/getmedia/81b5c4ac-c15b-4b39-9d9e-f96585160ad9/TF_Series_UL_ML.pdf
+  - https://www.advancedenergy.com/getmedia/2f1bf4a7-2a64-4c7a-acfe-2df0893f6848/TF3000%20CB%20Cert%2062368-1.pdf
+  - https://www.advancedenergy.com/getmedia/d67ea3c6-aa09-4c55-b5d5-9cf13c7b88e7/TF3000%20CB%20CofA.pdf
+  - https://www.advancedenergy.com/getmedia/f7904cd0-cd84-43af-9416-243cdcd5de8a/TF3000_CE_Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/ed6eba04-fb43-46e4-b268-5158a899ed3b/TF3000_EMC_Report.pdf
+  - https://www.advancedenergy.com/getmedia/9d46dfff-9f2e-419d-b4cc-bc155b087b9e/TF3000%20HT%20CB%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/b9ea0655-3f28-4bfa-877b-49539515e20e/TF3000_TUV_Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/1b1bcf07-f1ec-41ea-88cd-9d78c524dc1f/AC-DC-Easy-Charger-Wizard-Product-Guide-Release-1-0-(031623).pdf
+  - https://www.advancedenergy.com/getmedia/6791c060-0e56-46fd-a04b-13586f568860/TF%20Series%20Communication%20Protocol%20Release%201.0%20(082323).pdf
+  - https://www.advancedenergy.com/getmedia/b7400577-a8ce-4036-9948-4850c3e84cf9/ENG-TF-GUI-Manual-01-07-13-23.pdf
+  - https://www.advancedenergy.com/getmedia/818e3b5b-119f-4c8d-bc7c-00b8f7d72f5e/TRN%20AC-DC%20TF3000%20Series%20Release%201.0%20(2023-09-12).pdf
+  - https://www.advancedenergy.com/getmedia/7db0e80b-2fac-4521-973e-1d316f69cbad/High_Power_TFSeries_VP_MR.pdf
+  - https://www.advancedenergy.com/getmedia/916e9ae0-fc5d-457e-9333-e0c5e59bab25/ENG-TF1500-01%2004.17.23.pdf
+  - https://www.advancedenergy.com/getmedia/2799504d-6ee9-415d-afae-fe96d2f55c56/ENG-TF800-01-04-17-23.pdf
+  - https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0d5b37fe-fca2-47ec-bac3-c339cc0ffef5/TF3000.png
+  - Image: https://www.advancedenergy.com/getattachment/0d5b37fe-fca2-47ec-bac3-c339cc0ffef5/TF3000.png
+  - TF Series High Power: https://i.ytimg.com/vi/blo-_vhI9Wc/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/532ed848-7a76-48c6-a0a0-8ef71cffb326/TF1500.png
+  - Image: https://www.advancedenergy.com/getattachment/05941bd7-ae0f-4650-9165-dade6b50079b/TF800.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d28e9049-5f51-4952-8bb6-5914b4edebe1/NGB1200-img-1692817136.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d5b37fe-fca2-47ec-bac3-c339cc0ffef5/TF3000.png
+  - Image: https://www.advancedenergy.com/getattachment/532ed848-7a76-48c6-a0a0-8ef71cffb326/TF1500.png
+  - Image: https://www.advancedenergy.com/getattachment/f3a779ab-ab88-4782-b24d-5a9d058cd3a8/5f05bb0fde.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/36fa8bdb-882c-45e5-9bcb-b7ddd732a52a/Lasers-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/36fa8bdb-882c-45e5-9bcb-b7ddd732a52a/Lasers-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedTF1500 Series1500 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/tf/tf1500/
+  - Datasheet: https://www.advancedenergy.com/getmedia/916e9ae0-fc5d-457e-9333-e0c5e59bab25/ENG-TF1500-01%2004.17.23.pdf
+  - FeaturedTF800 Series800 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/tf/tf800/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2799504d-6ee9-415d-afae-fe96d2f55c56/ENG-TF800-01-04-17-23.pdf
+  - FeaturedNGB1200 Series1200 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/ngb1200-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - Industrial and Collaborative RobotsModifiable AC-DC and DC-DC solutions for industrial and collaborative robots. Efficient, reliable power supplies support high-volume production and cut costs: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - Explore Industrial and Collaborative Robots: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - LasersAdvanced Energy offers lower power conversion solutions to power lasers in medical and diagnostic devices. Our higher power offerings address industrial, manufacturing and other applications for welding, etching, cutting, and printing.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/lasers/
+  - Explore Lasers: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/lasers/
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+TF SeriesUniversal AC input / Full rangeProgrammable output Voltage and Current (0% ~ 105%)Remote setting multiple PSU via RS232, RS485 & I²C
+  ↓
+FeaturedTF3000 Series3000 W Single Output Industrial Grade

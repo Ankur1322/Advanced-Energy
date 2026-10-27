@@ -1,0 +1,102 @@
+==============================================================================
+PRODUCT DETAILS: CSV Series550 to 2000 W output powerN+N RedundantHot-swap
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+Category Description: Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: CSV Series550 to 2000 W output powerN+N RedundantHot-swap
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/csv/
+
+Complete Product Description:
+The CSV series bulk front end power AC-DC supply is designed for systems where scalability and density are requirements.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/ea4d19cc-d261-4bd5-a66e-a76a960d3d67/csv2000bp_ds_1511987171.pdf
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - CSV1100 Datasheet: https://www.advancedenergy.com/getmedia/9d1059ce-7ee0-4e6d-96b3-405af7fa26e2/csv1100bp_ds_1511986930.pdf
+  - CSV1300 Datasheet: https://www.advancedenergy.com/getmedia/0b572cc3-f055-43be-95c2-10b753babd31/csv1300bp_ds_1502310131.pdf
+  - CSV1600 Datasheet: https://www.advancedenergy.com/getmedia/f6322f1e-721d-4558-8cb4-a359989d9b90/ENG-CSV1600BP-235-01-1-27.pdf
+  - CSV2000 Data Sheet: https://www.advancedenergy.com/getmedia/ea4d19cc-d261-4bd5-a66e-a76a960d3d67/ENG-CSV2000BP-235-01-1-27.pdf
+  - CSV550 Datasheet: https://www.advancedenergy.com/getmedia/2193e602-1add-43d2-8238-b39096a82248/ENG-CSV550BP-235-01-1-20.pdf
+  - CSV750 Datasheet: https://www.advancedenergy.com/getmedia/91d951ac-69cb-4024-8989-bc37c6bf8392/csv750bp_ds_1502310258.pdf
+  - CSV900 Data Sheet: https://www.advancedenergy.com/getmedia/789b733b-a5df-4cd9-896a-3511b070447d/csv900bp_ds_1511986985.pdf
+  - CSV1300 Technical Reference Note: https://www.advancedenergy.com/getmedia/50dd5f97-e55b-4832-ad3f-2d9cdd90f1dd/TRN-AC-DC-CSV1300BP-Release-1-1-(2021-05-15).pdf
+  - CSV2000 Technical Reference Note: https://www.advancedenergy.com/getmedia/f1dd74eb-56c9-4ef3-b084-509dc53d95b1/TRN-AC-DC-CSV2000BP-3-Release-1-1-(2021-05-15).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/ea4d19cc-d261-4bd5-a66e-a76a960d3d67/csv2000bp_ds_1511987171.pdf
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/9d1059ce-7ee0-4e6d-96b3-405af7fa26e2/csv1100bp_ds_1511986930.pdf
+  - https://www.advancedenergy.com/getmedia/0b572cc3-f055-43be-95c2-10b753babd31/csv1300bp_ds_1502310131.pdf
+  - https://www.advancedenergy.com/getmedia/f6322f1e-721d-4558-8cb4-a359989d9b90/ENG-CSV1600BP-235-01-1-27.pdf
+  - https://www.advancedenergy.com/getmedia/ea4d19cc-d261-4bd5-a66e-a76a960d3d67/ENG-CSV2000BP-235-01-1-27.pdf
+  - https://www.advancedenergy.com/getmedia/2193e602-1add-43d2-8238-b39096a82248/ENG-CSV550BP-235-01-1-20.pdf
+  - https://www.advancedenergy.com/getmedia/91d951ac-69cb-4024-8989-bc37c6bf8392/csv750bp_ds_1502310258.pdf
+  - https://www.advancedenergy.com/getmedia/789b733b-a5df-4cd9-896a-3511b070447d/csv900bp_ds_1511986985.pdf
+  - https://www.advancedenergy.com/getmedia/50dd5f97-e55b-4832-ad3f-2d9cdd90f1dd/TRN-AC-DC-CSV1300BP-Release-1-1-(2021-05-15).pdf
+  - https://www.advancedenergy.com/getmedia/f1dd74eb-56c9-4ef3-b084-509dc53d95b1/TRN-AC-DC-CSV2000BP-3-Release-1-1-(2021-05-15).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c38180b2-093c-4618-b573-0b58734b06c3/2ef1671731.png
+  - Image: https://www.advancedenergy.com/getattachment/51c812f9-1c97-4fb6-851a-b01520a14324/192bb41a7f.png
+  - Image: https://www.advancedenergy.com/getattachment/c094d0dc-b380-4247-ab68-0c135ff1522a/3beba5d9e8.png
+  - Image: https://www.advancedenergy.com/getattachment/a89d1ebd-29e4-4729-a957-579a36035b15/d797703cff.png
+  - Image: https://www.advancedenergy.com/getattachment/1888c334-0748-493e-bf0c-deefb277234d/ea7cc00d3e.png
+  - Image: https://www.advancedenergy.com/getattachment/d9fc48bc-e1de-4837-a427-663036dcf333/f7e7d0ad17.png
+  - Image: https://www.advancedenergy.com/getattachment/0f84863b-79cb-40b1-a510-d86f6ccdcd9b/f9d2593405.png
+  - Image: https://www.advancedenergy.com/getattachment/c38180b2-093c-4618-b573-0b58734b06c3/2ef1671731.png
+  - Image: https://www.advancedenergy.com/getattachment/51c812f9-1c97-4fb6-851a-b01520a14324/192bb41a7f.png
+  - Image: https://www.advancedenergy.com/getattachment/c094d0dc-b380-4247-ab68-0c135ff1522a/3beba5d9e8.png
+  - Image: https://www.advancedenergy.com/getattachment/a89d1ebd-29e4-4729-a957-579a36035b15/d797703cff.png
+  - Image: https://www.advancedenergy.com/getattachment/1888c334-0748-493e-bf0c-deefb277234d/ea7cc00d3e.png
+  - Image: https://www.advancedenergy.com/getattachment/d9fc48bc-e1de-4837-a427-663036dcf333/f7e7d0ad17.png
+  - Image: https://www.advancedenergy.com/getattachment/0f84863b-79cb-40b1-a510-d86f6ccdcd9b/f9d2593405.png
+  - Image: https://www.advancedenergy.com/getattachment/c38180b2-093c-4618-b573-0b58734b06c3/2ef1671731.png
+  - Image: https://www.advancedenergy.com/getattachment/51c812f9-1c97-4fb6-851a-b01520a14324/192bb41a7f.png
+  - Image: https://www.advancedenergy.com/getattachment/c094d0dc-b380-4247-ab68-0c135ff1522a/3beba5d9e8.png
+  - Image: https://www.advancedenergy.com/getattachment/a89d1ebd-29e4-4729-a957-579a36035b15/d797703cff.png
+  - Image: https://www.advancedenergy.com/getattachment/1888c334-0748-493e-bf0c-deefb277234d/ea7cc00d3e.png
+  - Image: https://www.advancedenergy.com/getattachment/d9fc48bc-e1de-4837-a427-663036dcf333/f7e7d0ad17.png
+  - Image: https://www.advancedenergy.com/getattachment/0f84863b-79cb-40b1-a510-d86f6ccdcd9b/f9d2593405.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+  ↓
+CSV Series550 to 2000 W output powerN+N RedundantHot-swap

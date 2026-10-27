@@ -1,0 +1,117 @@
+==============================================================================
+PRODUCT DETAILS: eVerest® RF GeneratorFull RF delivery system, multiple options for matching solutions, and intelligent synchronizationSpeed and control within programmable multi-level pulse profilesHigh-speed RF output response and pulse-state rise/fall times
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: RF Plasma GeneratorsChoose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/
+Category Description: Choose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: eVerest® RF GeneratorFull RF delivery system, multiple options for matching solutions, and intelligent synchronizationSpeed and control within programmable multi-level pulse profilesHigh-speed RF output response and pulse-state rise/fall times
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/everest/
+
+Complete Product Description:
+As the semiconductor industry speeds toward a new inflection, the eVerest™ RF generator fills the need for transformational plasma control. Its configurable multi-level pulsing enables instantaneous or user-defined transition timing.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+  - eVerest and NavX RF Delivery System Forming a complete RF delivery system, the eVerest™ RF generator and NavX™ matching network propel process innovation as chips approach Angstrom scale geometries View Resource: https://www.advancedenergy.com/getmedia/cad90315-8a0e-4706-ba8d-ac173792d9f8/ENG-eVerest-NavX-RF-Delivery-System-Brochure.pdf
+  - eVerest Brochure eVerest’s configurable multi-level pulsing enables instantaneous or user-defined transition timing. Download eVerest brochure  for details on benefits, features, specifications and more. View Resource: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/eng-everest-brochure-v2.pdf
+  - Navigator II Digital Matching Networks Brochure Navigator II matching network provides rapid, accurate, and reliable matching across a wide range of power requirements. Download Navigator II Brochure for details regarding product specifications, electrical specifications, mechanical specifications and more View Resource: https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - eVerest and NavX RF Delivery System: https://www.advancedenergy.com/getmedia/cad90315-8a0e-4706-ba8d-ac173792d9f8/ENG-eVerest-NavX-RF-Delivery-System-Brochure.pdf
+  - eVerest Brochure: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/eng-everest-brochure-v2.pdf
+  - eVerest™ RF電力供給システム: https://www.advancedenergy.com/getmedia/d8cb1750-23cb-48d6-9b74-d018db8d966f/JPN-eVerest-A4-230-01-screen-(2).pdf
+  - PowerInsight by Advanced Energy: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - Navigator II Digital Matching Networks Brochure: https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/cad90315-8a0e-4706-ba8d-ac173792d9f8/ENG-eVerest-NavX-RF-Delivery-System-Brochure.pdf
+  - https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/eng-everest-brochure-v2.pdf
+  - https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/cad90315-8a0e-4706-ba8d-ac173792d9f8/ENG-eVerest-NavX-RF-Delivery-System-Brochure.pdf
+  - https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/eng-everest-brochure-v2.pdf
+  - https://www.advancedenergy.com/getmedia/d8cb1750-23cb-48d6-9b74-d018db8d966f/JPN-eVerest-A4-230-01-screen-(2).pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/eff6a1bf-93e7-4bef-bb78-0478257facca/aei_everest_fr_t700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/c059b2c6-2b5f-4141-8a5f-058622416231/aei_everest_bb_t.png
+  - Image: https://www.advancedenergy.com/getattachment/8b37e0c8-e1dd-49e3-b518-0129686c9c0d/aei_everest_fr_t.png
+  - Image: https://www.advancedenergy.com/getattachment/ed757542-f412-406a-89e5-c61f82315266/aei_everest_fs_t.png
+  - Image: https://www.advancedenergy.com/getattachment/9af075cc-28a8-4c13-9725-68913282dae7/aei_everest_ft_t.png
+  - Image: https://www.advancedenergy.com/getattachment/d64e0ea4-04d4-4894-a89f-17a6f405ef5b/aei_everest_sl_t.png
+  - Image: https://www.advancedenergy.com/getattachment/eff6a1bf-93e7-4bef-bb78-0478257facca/aei_everest_fr_t700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/c059b2c6-2b5f-4141-8a5f-058622416231/aei_everest_bb_t.png
+  - Image: https://www.advancedenergy.com/getattachment/8b37e0c8-e1dd-49e3-b518-0129686c9c0d/aei_everest_fr_t.png
+  - Image: https://www.advancedenergy.com/getattachment/ed757542-f412-406a-89e5-c61f82315266/aei_everest_fs_t.png
+  - Image: https://www.advancedenergy.com/getattachment/9af075cc-28a8-4c13-9725-68913282dae7/aei_everest_ft_t.png
+  - Image: https://www.advancedenergy.com/getattachment/d64e0ea4-04d4-4894-a89f-17a6f405ef5b/aei_everest_sl_t.png
+  - Image: https://www.advancedenergy.com/getattachment/eff6a1bf-93e7-4bef-bb78-0478257facca/aei_everest_fr_t700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/c059b2c6-2b5f-4141-8a5f-058622416231/aei_everest_bb_t.png
+  - Image: https://www.advancedenergy.com/getattachment/8b37e0c8-e1dd-49e3-b518-0129686c9c0d/aei_everest_fr_t.png
+  - Image: https://www.advancedenergy.com/getattachment/ed757542-f412-406a-89e5-c61f82315266/aei_everest_fs_t.png
+  - Image: https://www.advancedenergy.com/getattachment/9af075cc-28a8-4c13-9725-68913282dae7/aei_everest_ft_t.png
+  - Image: https://www.advancedenergy.com/getattachment/d64e0ea4-04d4-4894-a89f-17a6f405ef5b/aei_everest_sl_t.png
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Unleash the Power: NavX™ RF Matching Network: https://i.ytimg.com/vi/GGe_Nl-LVyQ/hqdefault.jpg
+  - Introducing the eVerest RF Generator and eVoS ME Bias Solution: https://i.ytimg.com/vi/4TEBFHY_F0Y/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/36af2c8c-2a82-456e-bbe0-57cce54efd95/Plasma-Processes-and-Materials.png
+  - Image: https://www.advancedenergy.com/getattachment/36af2c8c-2a82-456e-bbe0-57cce54efd95/Plasma-Processes-and-Materials.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Plasma Processes and MaterialsOur specialized solutions provide precise power delivery and control to ensure consistent quality for plasma processes and materials.: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/
+  - Explore Plasma Processes and Materials: https://www.advancedenergy.com/en-us/applications/industrial/plasma-processes-and-materials/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+RF Plasma GeneratorsChoose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+  ↓
+eVerest® RF GeneratorFull RF delivery system, multiple options for matching solutions, and intelligent synchronizationSpeed and control within programmable multi-level pulse profilesHigh-speed RF output response and pulse-state rise/fall times

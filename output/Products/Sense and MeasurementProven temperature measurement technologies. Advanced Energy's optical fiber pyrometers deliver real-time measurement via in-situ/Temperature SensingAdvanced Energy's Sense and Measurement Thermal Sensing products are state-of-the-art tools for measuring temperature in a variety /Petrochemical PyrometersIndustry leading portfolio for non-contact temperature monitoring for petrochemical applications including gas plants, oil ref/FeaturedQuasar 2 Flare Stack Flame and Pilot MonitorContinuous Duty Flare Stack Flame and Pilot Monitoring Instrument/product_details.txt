@@ -1,0 +1,89 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedQuasar 2 Flare Stack Flame and Pilot MonitorContinuous Duty Flare Stack Flame and Pilot Monitoring Instrument
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Petrochemical PyrometersIndustry leading portfolio for non-contact temperature monitoring for petrochemical applications including gas plants, oil refineries, and chemical plantsInnovative products provide highly accurate data to help operators realize condition-based maintenance with continuous and remote monitoring.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/petrochemical-pyrometers/
+Category Description: Innovative temperature and embedded power solutions for petrochemical applications including gas plants, oil refineries, and chemical plants.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedQuasar 2 Flare Stack Flame and Pilot MonitorContinuous Duty Flare Stack Flame and Pilot Monitoring Instrument
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/petrochemical-pyrometers/quasar/
+
+Complete Product Description:
+The Quasar 2 flare pilot monitoring Infrared based instruments is ideal for refineries, gas plants, and other petrochemical applications that require continuous monitoring present of flame and/or pilot at a distance of up to 400 m.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/0a74a320-281c-4a1b-b070-5f9b40a74a1b/2020-Quasar-2-Datasheet.pdf
+  - Quasar 2 Datasheet: https://www.advancedenergy.com/getmedia/0a74a320-281c-4a1b-b070-5f9b40a74a1b/2020-Quasar-2-Datasheet.pdf
+  - Quasar 2 Quick Start Guide: https://www.advancedenergy.com/getmedia/f09e6997-b1dc-4100-9dac-fc7f4639b4a3/ENG-Quasar2-Quick-Start-Guide.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0a74a320-281c-4a1b-b070-5f9b40a74a1b/2020-Quasar-2-Datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/0a74a320-281c-4a1b-b070-5f9b40a74a1b/2020-Quasar-2-Datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/f09e6997-b1dc-4100-9dac-fc7f4639b4a3/ENG-Quasar2-Quick-Start-Guide.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/933bf78c-7aa9-40a4-9f9e-f6c56a53c66a/quasar2-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d82333b4-9fa2-4729-8879-91fd7ea55f61/quasar2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6a8a7e4-a10d-4d4c-ad1d-aade032dd5ce/quasar2-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d06ea22e-7c14-4685-a834-2d912ff259dd/quasar2-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/336519cc-8c56-4ce9-84ed-0c0e2db818bc/quasar2-sr-wp.jpg
+  - Image: https://img.youtube.com/vi/L2G4kDYlXwQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/933bf78c-7aa9-40a4-9f9e-f6c56a53c66a/quasar2-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d82333b4-9fa2-4729-8879-91fd7ea55f61/quasar2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6a8a7e4-a10d-4d4c-ad1d-aade032dd5ce/quasar2-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d06ea22e-7c14-4685-a834-2d912ff259dd/quasar2-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/336519cc-8c56-4ce9-84ed-0c0e2db818bc/quasar2-sr-wp.jpg
+  - Image: https://img.youtube.com/vi/L2G4kDYlXwQ/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/933bf78c-7aa9-40a4-9f9e-f6c56a53c66a/quasar2-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d82333b4-9fa2-4729-8879-91fd7ea55f61/quasar2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e6a8a7e4-a10d-4d4c-ad1d-aade032dd5ce/quasar2-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d06ea22e-7c14-4685-a834-2d912ff259dd/quasar2-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/336519cc-8c56-4ce9-84ed-0c0e2db818bc/quasar2-sr-wp.jpg
+  - Flare Stack Monitoring with Quasar 2 and FlareSpection: https://i.ytimg.com/vi/Zv5I5NlNHbk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - PetrochemicalsAdvanced Energy provides innovative temperature and gas sensing instruments for the petrochemical market that are designed for high-temperature, energy-intensive processes such as reforming and distillation operations..: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Explore Petrochemicals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Petrochemical PyrometersIndustry leading portfolio for non-contact temperature monitoring for petrochemical applications including gas plants, oil refineries, and chemical plantsInnovative products provide highly accurate data to help operators realize condition-based maintenance with continuous and remote monitoring.
+  ↓
+FeaturedQuasar 2 Flare Stack Flame and Pilot MonitorContinuous Duty Flare Stack Flame and Pilot Monitoring Instrument

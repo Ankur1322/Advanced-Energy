@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: UltraVolt High Voltage PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power Supplies
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-voltage-boost-(u-v)/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: UltraVolt High Voltage PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-voltage-boost-(u-v)/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/07854b81-4d3b-4bd5-920d-b00c7c7be8b5/m-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/acb16cb3-85d6-42f0-929e-851c16cbc66c/aa-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0dff75bb-275b-4b4f-b3d7-3dabf655640e/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/585b9665-bcd6-4747-b5ab-cfd0257f1e66/HVA-Series.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ba494d51-e035-43df-96bc-d687a631f6ca/EFL-and-FL.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power Supplies
+  ↓
+UltraVolt High Voltage PCB Mount

@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Configurable Power Solutions
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Configurable Power Solutions
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+
+Complete Product Description:
+Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/bc8d4dc1-f992-4151-a005-e2901b34963e/iStock-2143490032.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d631a6bc-0f07-4e5f-b8e3-03852c3b262f/Semiconductor-Production-Fab-Cleanroom.jpg
+  - Image: https://www.advancedenergy.com/getattachment/92e745a2-a7b5-4423-92df-9cfc3427f194/iStock-2195283712.jpg
+  - Image: https://www.advancedenergy.com/getattachment/88108150-945c-42f7-838a-5a1596ed96a5/iStock-915834358.jpg
+  - Image: https://www.advancedenergy.com/getattachment/05c0d675-67ea-4e01-8634-a3a60852611e/NP08W1A_duo_200.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+Configurable Power Solutions

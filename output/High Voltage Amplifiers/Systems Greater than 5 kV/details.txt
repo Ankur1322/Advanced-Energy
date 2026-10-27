@@ -1,0 +1,50 @@
+==============================================================================
+PRODUCT DETAILS: Systems Greater than 5 kV
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Amplifiers
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-greater-than-5-kv/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Systems Greater than 5 kV
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-greater-than-5-kv/
+
+Complete Product Description:
+Increase voltage with our high voltage amplifiers. Our high-performance amplifiers requiring voltages greater than 5 kV, and up to 50 kV
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/577fc219-ed2d-471d-82b9-8f2f807840b7/Up-to-100-W-610e_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2255c97a-2427-4902-b909-be5bdfd55010/400W-20-20c-hs2_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/13643967-06c2-45a5-9c55-7afad723ce4c/600-W-40-15_web-(1).jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Amplifiers
+  ↓
+Systems Greater than 5 kV

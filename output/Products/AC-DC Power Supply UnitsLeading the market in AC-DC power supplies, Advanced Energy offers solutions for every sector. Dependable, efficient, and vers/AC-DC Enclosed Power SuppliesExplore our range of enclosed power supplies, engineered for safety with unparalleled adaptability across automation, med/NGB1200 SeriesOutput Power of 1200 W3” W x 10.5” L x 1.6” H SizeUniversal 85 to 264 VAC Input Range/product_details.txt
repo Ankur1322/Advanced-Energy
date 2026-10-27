@@ -1,0 +1,96 @@
+==============================================================================
+PRODUCT DETAILS: NGB1200 SeriesOutput Power of 1200 W3” W x 10.5” L x 1.6” H SizeUniversal 85 to 264 VAC Input Range
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: NGB1200 SeriesOutput Power of 1200 W3” W x 10.5” L x 1.6” H SizeUniversal 85 to 264 VAC Input Range
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/ngb1200-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power NGB1200 series AC to DC power supplies features ITE and medical safety approvals.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - NGB1200 Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - NGB1200 Technical Reference Note: https://www.advancedenergy.com/getmedia/095c2352-b776-4cf6-98ad-236f97205211/TRN%20AC-DC%20NGB1200%20Release1.0%20(091123).pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/2799504d-6ee9-415d-afae-fe96d2f55c56/ENG-TF800-01-04-17-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/916e9ae0-fc5d-457e-9333-e0c5e59bab25/ENG-TF1500-01%2004.17.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - https://www.advancedenergy.com/getmedia/095c2352-b776-4cf6-98ad-236f97205211/TRN%20AC-DC%20NGB1200%20Release1.0%20(091123).pdf
+  - https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - https://www.advancedenergy.com/getmedia/2799504d-6ee9-415d-afae-fe96d2f55c56/ENG-TF800-01-04-17-23.pdf
+  - https://www.advancedenergy.com/getmedia/916e9ae0-fc5d-457e-9333-e0c5e59bab25/ENG-TF1500-01%2004.17.23.pdf
+  - https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d28e9049-5f51-4952-8bb6-5914b4edebe1/NGB1200-img-1692817136.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d28e9049-5f51-4952-8bb6-5914b4edebe1/NGB1200-img-1692817136.jpg
+  - AE's SL Power NGB Series: https://i.ytimg.com/vi/1yASKbnvDnQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0b6df03e-6227-4152-97d3-b7ae8befb70a/NGB800-img-1663798077.jpg
+  - Image: https://www.advancedenergy.com/getattachment/05941bd7-ae0f-4650-9165-dade6b50079b/TF800.jpg
+  - Image: https://www.advancedenergy.com/getattachment/532ed848-7a76-48c6-a0a0-8ef71cffb326/TF1500.png
+  - Image: https://www.advancedenergy.com/getattachment/11e9b794-6af9-42a1-ae90-44d5f3b75a0e/NGB660-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNGB800 Series800 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb800-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - FeaturedTF800 Series800 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/tf/tf800/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2799504d-6ee9-415d-afae-fe96d2f55c56/ENG-TF800-01-04-17-23.pdf
+  - FeaturedTF1500 Series1500 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/tf/tf1500/
+  - Datasheet: https://www.advancedenergy.com/getmedia/916e9ae0-fc5d-457e-9333-e0c5e59bab25/ENG-TF1500-01%2004.17.23.pdf
+  - FeaturedNGB660 Series660 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb660-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - UltrasoundAdvanced Energy provides power supply solutions for medical imaging ultrasound equipment, providing reliable and efficient power to these essential medical devices.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - Explore Ultrasound: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Industrial and Collaborative RobotsModifiable AC-DC and DC-DC solutions for industrial and collaborative robots. Efficient, reliable power supplies support high-volume production and cut costs: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - Explore Industrial and Collaborative Robots: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+NGB1200 SeriesOutput Power of 1200 W3” W x 10.5” L x 1.6” H SizeUniversal 85 to 264 VAC Input Range

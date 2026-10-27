@@ -1,0 +1,60 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedTrek 645 SeriesSoftware-Driven Electrostatic Chuck Supply, Output Voltage Range 0 to ±2 kV
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: FeaturedTrek 645 SeriesSoftware-Driven Electrostatic Chuck Supply, Output Voltage Range 0 to ±2 kV
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/e-chuck/bipolar/trek-645/
+
+Complete Product Description:
+The Trek® 645 software-driven electrostatic chuck supply with a documented history increases efficiency and throughput equal to three times that of other supplies.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/0cf5ce2a-2cdd-4c47-9294-ec712735b8ac/en-ecs-trek-645-data-sheet.pdf
+  - Trek 645 Data Sheet: https://www.advancedenergy.com/getmedia/0cf5ce2a-2cdd-4c47-9294-ec712735b8ac/en-ecs-trek-645-data-sheet.pdf
+  - Electrostatic Semiconductor Wafer Clamping/Chucking System (ESC) Application Note: https://www.advancedenergy.com/getmedia/0765eec8-b47d-427a-8a36-bfb8af5351f7/en-hv-amplifier-electrostatic-semiconductor-wafer-system.pdf
+  - Trek 645/646 Application Software Trek 645 and Trek 646 application software Download: https://www.advancedenergy.com/getmedia/16598d3d-3f8c-4ccb-b1f0-3262030b998b/en-hv-esc-trek-645-646-installer-software.zip
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0cf5ce2a-2cdd-4c47-9294-ec712735b8ac/en-ecs-trek-645-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0cf5ce2a-2cdd-4c47-9294-ec712735b8ac/en-ecs-trek-645-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0765eec8-b47d-427a-8a36-bfb8af5351f7/en-hv-amplifier-electrostatic-semiconductor-wafer-system.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/1f8befcf-a617-4ad4-acf3-b36a08215bd9/645_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1f8befcf-a617-4ad4-acf3-b36a08215bd9/645_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/029ae8c2-7b78-49dd-9e65-0faead80c8ae/all_orange_digitalasset.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/software.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+FeaturedTrek 645 SeriesSoftware-Driven Electrostatic Chuck Supply, Output Voltage Range 0 to ±2 kV

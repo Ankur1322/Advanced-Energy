@@ -1,0 +1,388 @@
+==============================================================================
+PRODUCT DETAILS: DS Short SeriesCommon Form FactorDigital Control (PMBus®)500 to 2000 W High Density & Reliability
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+Category Description: Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: DS Short SeriesCommon Form FactorDigital Control (PMBus®)500 to 2000 W High Density & Reliability
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/ds-short-series/
+
+Complete Product Description:
+The latest Artesyn DS series AC-DC power supplies in the short form factor are designed to provide a scalable input power conversion solution for computing, storage and networking equipment that uses distributed power architectures (DPA) and intermediate bus architectures (IBA).
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - DS Short Series Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/53a04a82-9647-444a-af4e-a6d7899972e1/f2014927_-_ds_series_folder_sc1493173707.pdf
+  - DS Short Series Brochure_English: https://www.advancedenergy.com/getmedia/b3b1652e-3136-44a3-a669-e9527a4f7005/ds_series-v3g_1488564775_000.pdf
+  - DS Short Series Brochure_Japanese Version: https://www.advancedenergy.com/getmedia/eb662d86-1e1a-4972-9bf8-376f7fbcda38/f2014927_-_ds_series_folder_jp1495093407.pdf
+  - DS1050 Series Datasheet: https://www.advancedenergy.com/getmedia/e5d0982e-eda6-4392-b94c-fbf83f27c9da/ds1050_ds_1286844996.pdf
+  - DS1100SDC Series Data Sheet: https://www.advancedenergy.com/getmedia/a0e58ae5-b23d-4d70-8475-74010c4d1043/ds1100sdc_ds_553578caf0.pdf
+  - DS1100TDC Data Sheet: https://www.advancedenergy.com/getmedia/ab5430d7-782e-4ee3-9e57-3837b44692d9/ds1100tdc_1442614097.pdf
+  - DS1200 Datasheet: https://www.advancedenergy.com/getmedia/70f054bd-9a51-4bec-b6a7-7c50c9948054/ENG-DS1200-235-02-04-16-22.pdf
+  - DS1200DC Series Data Sheet: https://www.advancedenergy.com/getmedia/4e8c971c-ca34-4993-92c8-7ed1134d81df/ENG-DS1200DC-235-02-04-20-22.pdf
+  - DS1200HE Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/046a1b34-95d7-41c0-8ac9-95d55ebc919b/ds1200he_03-26-2014_99a8f96b5b.pdf
+  - DS1600SPE Data Sheet: https://www.advancedenergy.com/getmedia/4fa49b28-7eee-4a35-96e0-ece3176a6fcd/ENG-DS1600SPE-235-02-04-26-22.pdf
+  - DS2000SPE Series Data Sheet: https://www.advancedenergy.com/getmedia/039521f4-9c7d-4418-815d-ef7dd0efa6da/ENG-DS2000SPE-235-02-04-27-22.pdf
+  - DS2400SPE Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/c587cad8-fe78-40bb-a7e6-0460d6dae34c/ENG-DS2400SPE-235-02-03-20-24.pdf
+  - DS450/550DC Data Sheet: https://www.advancedenergy.com/getmedia/7bda448a-93b1-45cc-b94b-8feabdc1bb74/ENG-DS450DC-3-DS550DC-3-235-02-05-09-22.pdf
+  - DS495SPE Datasheet: https://www.advancedenergy.com/getmedia/65660805-cc97-4426-995d-b6a42057ea89/ENG-DS495SPE-235-01-05-05.pdf
+  - DS650/850DC Datasheet: https://www.advancedenergy.com/getmedia/2dcb64bb-cac4-4495-b07b-cdd7df2457b8/ds650dc-3_ds850dc-3_ds_1198193043.pdf
+  - DS750PED Data sheet Datasheet: https://www.advancedenergy.com/getmedia/c22a30b7-f89e-4fca-b795-3d22ecc9e61a/ENG-DS750PED-235-02-05-10-22.pdf
+  - DS750PED-3 REACH Certificate: https://www.advancedenergy.com/getmedia/2dcfcb43-7708-4a04-ad13-54620ca0f917/reach144_ds750ped-3_ds750ped-31391228720_rohs_.pdf
+  - Certificate of RoHS Compliance: https://www.advancedenergy.com/getmedia/0b858763-363e-475c-9789-0f93a3c8cdf1/ds450-3-002_1213433631_rohs_.pdf
+  - Certificate of RoHS Compliance: https://www.advancedenergy.com/getmedia/e4d37920-4f60-456b-aeb6-38e1e05f4a18/ds450dc-3_rohs_coc_1213433682_rohs_.pdf
+  - Certificate of RoHS Compliance: https://www.advancedenergy.com/getmedia/837e8d99-bb4d-410b-a005-f4938b80f0d5/ds550dc-3_031108_1213433712_rohs_.pdf
+  - Certificate of RoHS Compliance: https://www.advancedenergy.com/getmedia/108f35e8-66c3-498d-b47b-7da232772c56/ds850dc-3_1213693575_rohs_.pdf
+  - Certificate of ROHS Compliance: https://www.advancedenergy.com/getmedia/cae8f678-8898-4994-8bab-b1d8206082dd/ds450-3_and_ds550-_1213183543_rohs_.pdf
+  - DS1100SDC-3 RoHS3: https://www.advancedenergy.com/getmedia/a3363281-676b-4554-b636-cdcea1d89c72/ds1100sdc-3_rohs3_1548671005_rohs_.pdf
+  - DS1100SDC-3-405 RoHS2 CoC: https://www.advancedenergy.com/getmedia/89100fee-bdba-4fcd-9bd5-bb3f9bc389b4/rohs2_coc_ds1100sdc-3-405_01081467859363_rohs_.pdf
+  - DS1200-3-002 RoHS2 CoC: https://www.advancedenergy.com/getmedia/7df0149e-308e-4c22-8c6f-02fc1344f55c/rohs2_coc_ds1200-3-002_041516_1467859407_rohs_.pdf
+  - DS1600SPE-3-407 RoHS2 CoC: https://www.advancedenergy.com/getmedia/fe4523bb-f0f9-4b8d-95f2-b0571b46c899/rohs2_coc_ds1600spe-3-407_05241467861951_rohs_.pdf
+  - DS495SPE-3 RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/73629ff7-c010-46ec-8873-0cd843d46bdd/rohs2_coc_ds495spe-3_031316_1467859163_rohs_.pdf
+  - DS495SPE-3-001 RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/d4db69c5-5888-49bd-bad5-78adf6248f49/rohs2_coc_ds495spe-3-001_031311467859218_rohs_.pdf
+  - DS650DC-3 RoHS2 CoC: https://www.advancedenergy.com/getmedia/d5b65a7a-3bc0-4aaa-b899-f17e8a18b88f/rohs2_coc_ds650dc-3_091712_1394794315_rohs_.pdf
+  - Ds750PED-3 ROHS Cof C: https://www.advancedenergy.com/getmedia/27106ae2-9980-484e-baef-0f737003e18f/ds750ped-3_ds750ped-3-001_rohs1391228674_rohs_.pdf
+  - DS850DC-3 RoHS2 CoC: https://www.advancedenergy.com/getmedia/e37955fb-257d-4660-a7df-9f75c81d0862/rohs2_coc_ds850dc-3_082812_1394794500_rohs_.pdf
+  - CCC: https://www.advancedenergy.com/getmedia/e1cf9469-ad90-4f69-980e-d1b8beee1b59/ds850dc-3_ccc_aecl_1213883187_cert.pdf
+  - CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/588d2986-4409-44d0-b677-332fc3310855/ds450dc_550dc_ce_1460451472_419.pdf
+  - CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/b6a6ad98-aa44-48f5-bfb5-03d42c3f4d31/ds650dc_ds850dc_series_ce_1564042811_cert.pdf
+  - Declaration of Conformity: https://www.advancedenergy.com/getmedia/6f5a28ec-533d-410c-970f-d203d0a7cfc1/ds850dc-3_ds850dc-3-003_doc_1213882831_cert.pdf
+  - DS1050-3 80+ Gold Certificate: https://www.advancedenergy.com/getmedia/c7daa7a4-66db-4cc5-9201-916e66bea772/ds1050-3_80-_gold_1405605013_cert.pdf
+  - DS1050-3 BSMI Certificate: https://www.advancedenergy.com/getmedia/80bacbe4-1685-4659-8584-6528eea04110/ds1050-3_bsmi_1405607292_cert.pdf
+  - DS1050-3_001-FF CB CERTIFICATE: https://www.advancedenergy.com/getmedia/2c3ca327-ac41-4082-8653-99c35f16b0fb/ds1050-3_cb_certificate_1405608682_cert.pdf
+  - DS1050-3_001-FF CCC Certificate (CAVITE): https://www.advancedenergy.com/getmedia/a8a81417-0964-498c-9e3f-2e450d9feeb8/ds1050-3_ccc_cv_1405607007_cert.pdf
+  - DS1050-3_001-FF CCC Certificate (Laguna): https://www.advancedenergy.com/getmedia/13070da9-6e3a-4bf6-bfee-f17c4053a168/ds1050-3_ccc_lg_1405607700_cert.pdf
+  - DS1050-3_001-FF CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/2f4125e4-f950-4edb-bbfc-9d9e59a59082/ds1050-3_ce_1405607804_cert.pdf
+  - DS1050-3_001-FF DEMKO CERTIFICATE: https://www.advancedenergy.com/getmedia/5a9836a0-756d-4275-93fa-d324de582fc9/ds1050-3_demko_1405607876_cert.pdf
+  - DS1050-3_001-FF UL/CSA CERTIFICATE: https://www.advancedenergy.com/getmedia/3c656944-f013-49b8-8742-06dd95b6f545/ds1050-3_ul_1405607962_cert.pdf
+  - DS1050-3-001-FF BSMI Certificate: https://www.advancedenergy.com/getmedia/c3b80447-95ee-4fdd-909b-0a0381044298/ds1050-3-001-ff_bsmi_1469774233_cert.pdf
+  - DS1050-3-001-FF UL-AR Certificate: https://www.advancedenergy.com/getmedia/786ce5b2-0c11-4a86-8ead-591faea34ea6/ds1050-3-001-ff_ul-ar_1469774333_cert.pdf
+  - DS1100SDC_CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/a616b9b4-f7ea-4049-b61e-060baec68306/ds1100sdc-3-xxx_ce_1470753523_938.pdf
+  - DS1100SDC-3 DS500SDC-3 IEC 62368 CB Test Certificate: https://www.advancedenergy.com/getmedia/f0c2306e-674e-4eb5-a3d0-968a96f6cf7a/ds1100sdc-3_ds500sdc-3_62368-11615186977_cert.pdf
+  - DS1100SDC-3_DS1100SDC_IRAM: https://www.advancedenergy.com/getmedia/6dd4f638-6510-42db-bdb8-cc21b6b52efc/ds1100sdc-3_ds1100sdc_iram_1514901781_297.pdf
+  - DS1100SDC-3_DS500SDC-3_CCC Certificate: https://www.advancedenergy.com/getmedia/886962a0-cdf9-4bed-8f85-2ad69362e364/ds1100sdc-3_ds500sdc-3_ccc_1470753518_898.pdf
+  - DS1100SDC-3_DS500SDC-3_DEMKO Certificate: https://www.advancedenergy.com/getmedia/9003a096-6351-4902-89cf-01c976808b89/ds1100sdc-3_ds500sdc-3_demko_c1470753520_878.pdf
+  - DS1100SDC-3_DS500SDC-3_UL Certificate: https://www.advancedenergy.com/getmedia/28f26df3-b22e-41f4-a60f-f11985423764/ds1100sdc-3_ds500sdc-3_ul_cert1470753522_604.pdf
+  - DS1100TDC-3 CB Certificate: https://www.advancedenergy.com/getmedia/7b12c9a6-bbc0-4a48-a2d4-22c51b327da7/ds1100tdc-3_series_cb_certific1469867887_802.pdf
+  - DS1100TDC-3 CCC Certificate: https://www.advancedenergy.com/getmedia/737087c6-1119-4cd7-97fd-33bae6b28663/ds1100tdc-3_series_ccc_lg_1469867714_133.pdf
+  - DS1100TDC-3 DEMKO Certificate: https://www.advancedenergy.com/getmedia/4fa42dfc-b094-425c-956d-0868e1c48bb2/ds1100tdc-3_series_demko_certi1469867882_690.pdf
+  - DS1100TDC-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/4de6e27c-d6cb-461f-b7f3-366867d6f60e/ds1100tdc-3_series_ul_60950-1_1469867876_887.pdf
+  - DS1100TDC-3-413 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/9f2390d4-83f2-491a-9f3f-3bfff01a8992/ds1100tdc-3-413_ce_1469867874_586.pdf
+  - DS1200-3 CCC Certificate Cavite: https://www.advancedenergy.com/getmedia/b8550d8b-b443-4190-9d11-b84ac1da78d7/ds1200-3_ccc_cv_1470473737_208.pdf
+  - DS1200-3 CCC Certificate Laguna: https://www.advancedenergy.com/getmedia/a559158e-14b1-4dde-9e09-a95309c0f211/ds1200-3_ccc_lg_1470473740_693.pdf
+  - DS1200-3 DS1200-3-002 IEC 62368 CB Test Certificate: https://www.advancedenergy.com/getmedia/9a041bf7-3bce-43c0-9209-c93542c84391/TRN-AC-DC-DS1200-Release-2-2-(041622).pdf
+  - DS1200-3 NEMKO CB Certificate: https://www.advancedenergy.com/getmedia/b09d7e27-68b6-481f-81f0-faad83bf70e4/ds1200-3_nemko_cb_cert_1470473741_437.pdf
+  - DS1200-3_3-002 BSMI Certificate: https://www.advancedenergy.com/getmedia/dd6bfc77-ef74-4cfa-87d5-ee6b467a2b2b/ds1200-3_3-002_bsmi_1470473733_005.pdf
+  - DS1200-3_3-002 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/280c0bea-7722-4a53-a434-d283858882c7/ds1200-3_3-002_ce_1470473734_452.pdf
+  - DS1200-3_3-002 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/b04b15e4-12c7-405c-a110-2b2f78dc4792/ds1200-3_3-002_ul_60950-1_1470473736_505.pdf
+  - DS1200-3_3-002_NEMKO Certificate: https://www.advancedenergy.com/getmedia/841d5016-cc03-49d5-87a2-22355972371e/ds1200-3_3-002_nemko_certifica1470473736_048.pdf
+  - DS1200-3-002 CCC Certificate Cavite: https://www.advancedenergy.com/getmedia/e3e167e4-c721-41ec-895d-49d9c33f915a/ds1200-3-002_ccc_cvt_1470473745_695.pdf
+  - DS1200-3-002 CCC Certificate Laguna: https://www.advancedenergy.com/getmedia/b5d5dfe8-0449-45b2-bc75-fbedda7269e8/ds1200-3-002_ccc_lg_1470473743_695.pdf
+  - DS1200-3-002 NEMKO CB Certificate: https://www.advancedenergy.com/getmedia/1b1dd82c-2208-484d-afe9-6b96fb99f1c8/ds1200-3-002_nemko_cb_cert_1470473748_162.pdf
+  - DS1200-3-002 NRCS (SABS): https://www.advancedenergy.com/getmedia/3215c10c-95d8-40cb-b8e2-28bd9ee54ff7/ds1200-3-002_nrcs_sabs_1470473731_303.pdf
+  - DS1200DC-3 CCC Approval ZS: https://www.advancedenergy.com/getmedia/449a1c3c-2a24-4059-8c73-155fd7b7b82f/2012010907544250.pdf
+  - DS1600SPE-3 IRAM Certificate: https://www.advancedenergy.com/getmedia/28e5c9c1-8b6d-4fb0-8e28-967c0a18ddf0/ds1600spe-3_iram_1534918838_cert.pdf
+  - DS1600SPE-3-XXX 80+Platinum: https://www.advancedenergy.com/getmedia/5dceb68e-3bba-41b4-b64b-bc684f541f53/ds1600spe-3-xxx_80platinum_1470476043_665.pdf
+  - DS1600SPE-3-XXX BIS Certificate: https://www.advancedenergy.com/getmedia/d362a3fb-7822-49aa-9c55-f8dc2aa80657/ds1600spe-3-xxx_bis_1534918693_cert.pdf
+  - DS1600SPE-3-XXX BSMI Certificate: https://www.advancedenergy.com/getmedia/1b3e77e2-4dbc-4d18-bd7b-7f7c961dd4d4/ds1600spe-3-xxx_bsmi_1470476048_214.pdf
+  - DS1600SPE-3-XXX CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/f213784b-54bd-4e69-bd01-3d88e23e9b1c/ds1600spe-3-xxx_ce_1470476049_602.pdf
+  - DS1600SPE-3-XXX CQC Certificate: https://www.advancedenergy.com/getmedia/7a0735de-d6b0-4c70-9102-9fb60a9e3238/ds1600spe-3-xxx_cqc_1470476050_167.pdf
+  - DS1600SPE-3-XXX DEMKO CB Certificae: https://www.advancedenergy.com/getmedia/b16113c5-f208-4a95-8e8c-8c1631fb3901/ds1600spe-3-xxx_demko_cb_cert_1470476053_082.pdf
+  - DS1600SPE-3-XXX DEMKO Certificate: https://www.advancedenergy.com/getmedia/5ca4f96c-3d3d-468e-bfc5-e641fcc52e36/ds1600spe-3-xxx_demko_certific1470476052_294.pdf
+  - DS1600SPE-3-XXX UL/CSA Certificate: https://www.advancedenergy.com/getmedia/f507d221-522f-4db5-96d1-d70a5322347c/ds1600spe-3-xxx_ul_60950-1_1470476042_370.pdf
+  - DS2000SPE CB Certificate: https://www.advancedenergy.com/getmedia/9bb5e1c5-fa92-466d-958d-6baa3c32f3bb/211-2315074-100_switching_powe1472240006_cert.pdf
+  - DS2000SPE TUV Certificate: https://www.advancedenergy.com/getmedia/27aa0760-2bd0-4c0b-8d61-533456f7f638/tuv_certificate_1472240046_cert.pdf
+  - DS2400SPE-3 BIS Certificate: https://www.advancedenergy.com/getmedia/c5fae8b2-4796-4469-9984-99162f945984/DS2400SPE-3_BIS-R-41058882-20827_181025.pdf
+  - DS2400SPE-3 BSMI Certificate: https://www.advancedenergy.com/getmedia/77201c1e-08fe-41be-95ed-1e1a49cfbe1d/DS2400SPE-3_BSMI_240830.pdf
+  - DS2400SPE-3 CB Certificate: https://www.advancedenergy.com/getmedia/c84c5c89-30c3-4b8e-b067-dbf12f454090/DS2400SPE-3_UL-CB_29MAR23.pdf
+  - DS2400SPE-3 CE DoC: https://www.advancedenergy.com/getmedia/dc9e06e4-3ead-4b7d-a8ce-0a23ec810670/DS2400SPE-3_CE_210508.pdf
+  - DS2400SPE-3 CQC CV: https://www.advancedenergy.com/getmedia/1cb1f1f4-39b5-46f9-b6a7-776b0958c4b8/DS2400SPE-3_CQC-CV_21MAY23.pdf
+  - DS2400SPE-3 CQC LG: https://www.advancedenergy.com/getmedia/e370440f-5ab2-45e3-9d21-b35b376cc60d/DS2400SPE-3_CQC-LG_16MAY23.pdf
+  - DS2400SPE-3 EAC Certificate: https://www.advancedenergy.com/getmedia/ea26f651-698f-4d53-9bad-46a3137ebb45/DS2400SPE-3_EAC-DoC_29NOV21.pdf
+  - DS2400SPE-3 KC (EMC): https://www.advancedenergy.com/getmedia/b4c7444e-171b-48d2-95af-4045da190d15/DS2400SPE-3_KCC_07AUG18.pdf
+  - DS2400SPE-3 KC (Safety): https://www.advancedenergy.com/getmedia/6dbc8bd5-d3b5-4070-a744-5edb2747fe75/DS2400SPE-3_KTC_2AUG22.pdf
+  - DS2400SPE-3 UKCA: https://www.advancedenergy.com/getmedia/9fc7f758-3657-4fa9-8134-8e24f8de8ae5/DS2400SPE-3_UKCA_210628.pdf
+  - DS2400SPE-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/2e09cda4-db1e-463a-8f07-5003827f9abc/DS2400SPE-3_UL-CoC_180719.pdf
+  - DS450 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/7efba2f7-bbe9-4fef-8502-fafd0301baa6/ds450-3_001_002_ce_1334148626_cert.pdf
+  - DS450 Nemko Certificate: https://www.advancedenergy.com/getmedia/f4cc6b61-c38b-49a8-8f95-5c3eb2bb2715/ds450_nemko_cert_1336460391_cert.pdf
+  - DS450-3 BIS Certificate: https://www.advancedenergy.com/getmedia/9c08b5f5-330b-4025-abbb-f6377c5b448c/ds450-3_bis_1534753906_cert.pdf
+  - DS450-3 BSMI Certificate: https://www.advancedenergy.com/getmedia/aaa59969-98ee-48e1-a5bc-b0515cac9ae9/ds450-3_bsmi_1334149391_cert.pdf
+  - DS450-3 CCC Certificate: https://www.advancedenergy.com/getmedia/c755e8b6-a566-4e84-af58-9acad8206b28/ds450-3_ccc_1334151239_cert.pdf
+  - DS450-3 IEC 62368 CB Test Certificate: https://www.advancedenergy.com/getmedia/ef61dda4-4a05-4628-b28f-0b042fd61578/ds450-3_cb_62368_1615185672_cert.pdf
+  - DS450-3 Nemko CB Certificate: https://www.advancedenergy.com/getmedia/7ab6dbd4-a37b-4fa0-ae01-a3b86c943ee9/ds450-3_nemko_cb_cert_1334153372_cert.pdf
+  - DS450-3-001 CCC Certificate: https://www.advancedenergy.com/getmedia/1e4dbce8-ad3b-44db-a166-8697fc5fa723/ds450-3-001_ccc_1334151389_cert.pdf
+  - DS450-3-001 Nemko CB Certificate: https://www.advancedenergy.com/getmedia/c3d252d9-00fb-441e-a52f-3bb79beed63a/ds450-3-001_nemko_cb_cert_1334153409_cert.pdf
+  - DS450-3-002 BSMI Certificate: https://www.advancedenergy.com/getmedia/bba8eedb-371b-4238-9ae6-0ba77181f41e/ds450-3-002_bsmi_1334150917_cert.pdf
+  - DS450-3-002 CCC Certificate: https://www.advancedenergy.com/getmedia/6337dcec-f21d-4cf2-941e-5b5223900a28/ds450-3-002_ccc_1334151343_cert.pdf
+  - DS450-3-002 Nemko CB Certificate: https://www.advancedenergy.com/getmedia/bfff9f15-d117-40d5-a2d3-5e0ffa5d9e6d/ds450-3-002_nemko_cb_cert_1334153454_cert.pdf
+  - DS450DC-3 CB Certificate: https://www.advancedenergy.com/getmedia/424949e6-9bc6-46cb-84af-245a1842eabb/ds450dc-3_cb_cert_1460451471_075.pdf
+  - DS450DC-3 CCC Certificate: https://www.advancedenergy.com/getmedia/e7fa8320-fbe9-4d4b-9df7-b80e266c1d30/ds450dc-3_ccc_1460451469_637.pdf
+  - DS450DC-3-002 CB Certificate: https://www.advancedenergy.com/getmedia/c7b813b5-35c9-4b7f-a4c5-f575c7127ef2/ds450dc-3-002_cb_cert_1460451467_817.pdf
+  - DS450DC-3-002 CCC Certificate: https://www.advancedenergy.com/getmedia/a1f4b935-16bb-4eb5-9d08-b8bf8fa281fd/ds450dc-3-002_ccc_1469707276_cert.pdf
+  - DS495SPE-3 80+Platinum Safety Certificate: https://www.advancedenergy.com/getmedia/2a636937-8948-4cec-8b43-4eb9f1fd7303/ds495spe-3_80platinum_1470328982_091.pdf
+  - DS495SPE-3 MSIP Approval Safety Certificate: https://www.advancedenergy.com/getmedia/725bb5c4-4de6-4c9e-88a9-63b87abde08e/ds495spe-3_msip_1470329025_444.pdf
+  - DS495SPE-3_DS500SDC-3 BIS certificate Safety Certificate: https://www.advancedenergy.com/getmedia/a6ac133f-a0b3-4acc-bd6c-d3731299e071/ds495spe-3_ds500sdc-3_bis_cert1534762448_cert.pdf
+  - DS495SPE-3_KC Safety Certificate: https://www.advancedenergy.com/getmedia/4ec3a817-d2da-458a-b0ac-78d92c5ba175/ds495spe-3_kc_safety_1470329022_740.pdf
+  - DS495SPE-3-XXX BSMI Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/8fab4f05-ca38-4973-abf3-338b78b8b9a2/ds495spe-3-xxx_bsmi_1470329026_731.pdf
+  - DS495SPE-3-XXX CB ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/a706db0e-1f0c-44dd-9757-d7437975c4e8/ds495spe-3-xxx_cb_cert_ite_1470329034_985.pdf
+  - DS495SPE-3-XXX CCC Certificate Laguna Safety Certificate: https://www.advancedenergy.com/getmedia/3f87b88c-52b2-4999-82e8-86ee7475813e/ds495spe-3-xxx_ccc_lg_1470329028_783.pdf
+  - DS495SPE-3-XXX CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/6ae7238b-5ba9-455b-a254-62beb934fed6/ds495spe-3-xxx_ce_1470329029_525.pdf
+  - DS495SPE-3-XXX DEMKO Certificate (62368) Safety Certificate: https://www.advancedenergy.com/getmedia/1e722fa6-61cf-4146-b365-590786aae807/ds495spe-3-xxx_demko_certifica1470329032_147.pdf
+  - DS495SPE-3-XXX EAC Approval Safety Certificate: https://www.advancedenergy.com/getmedia/e7d9bc97-f2af-4a29-a15a-d1bb81ff3213/ds495spe-3-xxx_eac_1470329038_563.pdf
+  - DS495SPE-3-XXX UL/CSA Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/5c34435a-5958-4630-86f2-b3df3efc287d/ds495spe-3-xxx_ul_60950-1_1470328981_015.pdf
+  - DS550-3 CB Certificate: https://www.advancedenergy.com/getmedia/01fef5a3-0d95-4a10-8e13-6db00cbc92b5/ds550-3_cb_cert_1335174193_cert.pdf
+  - DS550-3 CCC Certificate: https://www.advancedenergy.com/getmedia/64dc7c08-a902-4154-acf6-bc2e822ba401/ds550-3_ccc_1335172463_cert.pdf
+  - DS550-3 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/73275423-01ac-4226-b75d-e679a3397b7b/ds550-3_ce_1335185613_cert.pdf
+  - DS550-3 IRAM Certificate: https://www.advancedenergy.com/getmedia/91b432bd-ea5d-4644-b983-be7b701819cf/ds550-3_iram_1335172742_cert.pdf
+  - DS550-3 Nemko Certificate: https://www.advancedenergy.com/getmedia/38311499-4113-4a3d-b6f8-7bc24ebb3477/ds550-3_nemko_1335173512_cert.pdf
+  - DS550DC-3 CB Certificate: https://www.advancedenergy.com/getmedia/cfcbc4cf-d747-4784-b95e-af6ce1eebe14/ds550dc-3_cb_cert_1460451464_970.pdf
+  - DS550DC-3 CCC Certificate: https://www.advancedenergy.com/getmedia/47071d1b-49c4-4058-be56-11a629c54a22/ds550dc-3_ccc_1460451463_578.pdf
+  - DS550DC-3-002 CB Certificate: https://www.advancedenergy.com/getmedia/00b6a20a-b009-4eff-bb17-6df52eb2b949/ds550dc-3-002_cb_cert_1469707903_cert.pdf
+  - DS550DC-3-002 CCC Certificate: https://www.advancedenergy.com/getmedia/9617e976-7e31-4430-ac7c-ca459a50ab8c/ds550dc-3-002_ccc_1469708488_cert.pdf
+  - DS550DC-3-003 CB Certificate: https://www.advancedenergy.com/getmedia/1fbfc110-652d-468a-ba64-3f5dc955ddcf/ds550dc-3-003_cb_cert_1469708609_cert.pdf
+  - DS550DC-3-003 CCC Certificate: https://www.advancedenergy.com/getmedia/f412393d-52d0-42bf-8657-d65d521728ea/ds550dc-3-003_ccc_1469708670_cert.pdf
+  - DS750PED-3 series BSMI Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/6f3f761b-0b11-4c30-b0f3-9e74ef08709d/ds750ped-3_series_bsmi_1470464831_435.pdf
+  - DS750PED-3-XXX 80+Platinum Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/7f52ae3d-31f8-453c-bde7-d6c85e58c786/ds750ped-3-xxx_80platinum_1470464832_705.pdf
+  - DS750PED-3-XXX BSMI Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/68c65860-e3eb-4fc9-9395-2d972e76e9d5/ds750ped-3-xxx_bsmi_1470464834_273.pdf
+  - DS750PED-3-XXX CB Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/f1c61fab-2e95-4c8b-91a4-2c34a0e235b6/ds750ped-3-xxx_dcb_cert_1470464840_508.pdf
+  - DS750PED-3-XXX CCC Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/0dc094ec-66a3-49c4-8d2e-cf21e7c84b9e/ds750ped-3-xxx_ccc_1470464838_296.pdf
+  - DS750PED-3-XXX CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/abb3ab36-f358-4ece-83fe-b233899d93d3/ds750ped-3-xxx_ce_1470464838_015.pdf
+  - DS750PED-3-XXX DEMKO Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/0c9ac777-1c19-4f53-8b35-f78948d7d464/ds750ped-3-xxx_demko_1470464842_302.pdf
+  - DS750PED-3-XXX UL/CSA Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/edef2e28-29c4-4471-90ba-6718e6ba7294/ds750ped-3-xxx_ulcul_1470464825_527.pdf
+  - NEMKO: https://www.advancedenergy.com/getmedia/4b1f00ef-c1c9-4950-afc6-5ae56eff7b71/ds650dc-3__ds850dc-3__nemk1232714509_cert.pdf
+  - NEMKO CB: https://www.advancedenergy.com/getmedia/b0c9f9ac-fc89-4da2-b601-7d932067f785/ds850dc-3_nemko_cb_1232714566_cert.pdf
+  - NEMKO Certificate: https://www.advancedenergy.com/getmedia/7a28b612-76ae-418d-a4fc-aae4fd410e87/ds450dc-3_550dc-3_nemko_certif1460451469_838.pdf
+  - UL Certificate: https://www.advancedenergy.com/getmedia/a9b0b7e9-d40c-4318-af39-38ce207b53b9/ds450-3_001_002_ul_1334150838_cert.pdf
+  - UL Report: https://www.advancedenergy.com/getmedia/b9a960d8-ea07-443c-bd75-e8b234e97e25/ds650dc-3__ds850dc-3__ul_1233234713_cert.pdf
+  - UL/CSA Certificate: https://www.advancedenergy.com/getmedia/aea2d9f0-cc17-4716-be94-0936328c60bc/ds450dc-3_ds550dc-3_ul_60950-11460432211_cert.pdf
+  - DS2400SPE-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/8383411d-1a7f-4b09-ba2e-b4033a303b81/DS2400SPE-3-SIM.pdf
+  - DS1200 Handle Change: https://www.advancedenergy.com/getmedia/20101edb-a3b7-499a-a151-251b7023c969/ds1200_handle_change_1260224405_appnote.pdf
+  - DS1050 Technical Reference Note: https://www.advancedenergy.com/getmedia/02a187f5-764f-49e9-8c66-d4ef5ad4cd1a/trn_ac-dc_ds1050-3_releasae1_01397796876_techref.pdf
+  - DS1100SDC-3 Technical Reference Note: https://www.advancedenergy.com/getmedia/8cdd80fb-759e-4e44-8bbf-6d685beab817/TRN-DC-DC-DS1100SDC-3-Release-1-9-(2022-03-18).pdf
+  - DS1100SDC-3-001 Product Change Notification: https://www.advancedenergy.com/getmedia/f23aa8ba-8349-4774-9ede-cae2ef6347f4/pcn-ew20-ds1100sdc-3-001_stand1521770429_techref.pdf
+  - DS1100TDC-3 Technical Reference Note: https://www.advancedenergy.com/getmedia/5bf35d39-2da0-497b-8ed2-bedf82c6577d/TRN-DC-DC-DS1100TDC-3-Release-1-7-(2022-03-18).pdf
+  - DS1200 Technical Reference Note: https://www.advancedenergy.com/getmedia/3cbea16f-d578-4ac6-8942-54a4e02f9575/TRN-AC-DC-DS1200-Release-2-2-(041622).pdf
+  - DS1200DC Technical Reference Note: https://www.advancedenergy.com/getmedia/e3a3b5ce-7561-4d3f-9310-21b3f6079a78/TRN-AC-DC-DS1200DC-Release-1-5-(2022-04-19).pdf
+  - DS1200HE-3: https://www.advancedenergy.com/getmedia/0beae17d-7b79-4e55-8775-dc7a45739393/TRN-AC-DC-DS1200HE-3-Release-1-6-(2021-05-11).pdf
+  - DS1600SPE Technical Reference Note: https://www.advancedenergy.com/getmedia/7c968656-f815-4e9e-9a8a-3fc3bc260bfd/trn_ac-dc_ds1600spe-3_trn_rele1421105206_techref.pdf
+  - DS1600SPE-3 PCN July 2016: https://www.advancedenergy.com/getmedia/034f6a2c-3cfc-4fd1-b744-1ebfa094d3f2/ds1600spe-3ds1600spe-3-001_pr1469568375_techref.pdf
+  - DS2000SPE Communication Specifications: https://www.advancedenergy.com/getmedia/70e08805-32c0-4eff-9b68-883a839b066d/ds2000spe_communication_interf1472239859_techref.pdf
+  - DS2000SPE-3 Technical Reference Note: https://www.advancedenergy.com/getmedia/47732b32-d133-4902-8e2e-d04e617cfb5f/TRN-AC-DC-DS2000SPE-3-TRN-Release-1-6-(2022-04-27).pdf
+  - DS2400SPE Series Technical Reference Note: https://www.advancedenergy.com/getmedia/d5ca9b21-02c4-42a8-8774-2e56f933cf0d/TRN-AC-DC-DS2400SPE-3-Release-1-3-(03-21-2024).pdf
+  - DS450-3 Product Change Notification: https://www.advancedenergy.com/getmedia/c91b48b2-6dbb-4cfa-b20e-bf0d14e8a59d/pcn_ds450-3_rebranding_1432272994_techref.pdf
+  - DS450DC Technical reference notes: https://www.advancedenergy.com/getmedia/6ffb6d4b-cecc-41a8-ad1a-5f7848c7b930/ENG-DS450-3-DS550-3-235-02-04-20-22.pdf
+  - DS495SPE Technical Reference Notes: https://www.advancedenergy.com/getmedia/5f42029a-5178-4260-959f-fe7b20ee3dee/TRN-AC-DC-DS495SPE-3-TRN-Release-1-9-(2022-04-27).pdf
+  - DS750PED-3 Technical Reference Note: https://www.advancedenergy.com/getmedia/077445b9-66a7-4a2b-8776-f8170819777b/TRN-AC-DC-DS750PED-3-TRN-1-6-(2022-05-10).pdf
+  - PCN DS1600SPE Series Model Revision Change: https://www.advancedenergy.com/getmedia/e8dede14-24bd-4036-8ca3-e7497238b90c/ds1600spe-3-001_product_chang1491514941_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/53a04a82-9647-444a-af4e-a6d7899972e1/f2014927_-_ds_series_folder_sc1493173707.pdf
+  - https://www.advancedenergy.com/getmedia/b3b1652e-3136-44a3-a669-e9527a4f7005/ds_series-v3g_1488564775_000.pdf
+  - https://www.advancedenergy.com/getmedia/eb662d86-1e1a-4972-9bf8-376f7fbcda38/f2014927_-_ds_series_folder_jp1495093407.pdf
+  - https://www.advancedenergy.com/getmedia/e5d0982e-eda6-4392-b94c-fbf83f27c9da/ds1050_ds_1286844996.pdf
+  - https://www.advancedenergy.com/getmedia/a0e58ae5-b23d-4d70-8475-74010c4d1043/ds1100sdc_ds_553578caf0.pdf
+  - https://www.advancedenergy.com/getmedia/ab5430d7-782e-4ee3-9e57-3837b44692d9/ds1100tdc_1442614097.pdf
+  - https://www.advancedenergy.com/getmedia/70f054bd-9a51-4bec-b6a7-7c50c9948054/ENG-DS1200-235-02-04-16-22.pdf
+  - https://www.advancedenergy.com/getmedia/4e8c971c-ca34-4993-92c8-7ed1134d81df/ENG-DS1200DC-235-02-04-20-22.pdf
+  - https://www.advancedenergy.com/getmedia/046a1b34-95d7-41c0-8ac9-95d55ebc919b/ds1200he_03-26-2014_99a8f96b5b.pdf
+  - https://www.advancedenergy.com/getmedia/4fa49b28-7eee-4a35-96e0-ece3176a6fcd/ENG-DS1600SPE-235-02-04-26-22.pdf
+  - https://www.advancedenergy.com/getmedia/039521f4-9c7d-4418-815d-ef7dd0efa6da/ENG-DS2000SPE-235-02-04-27-22.pdf
+  - https://www.advancedenergy.com/getmedia/c587cad8-fe78-40bb-a7e6-0460d6dae34c/ENG-DS2400SPE-235-02-03-20-24.pdf
+  - https://www.advancedenergy.com/getmedia/7bda448a-93b1-45cc-b94b-8feabdc1bb74/ENG-DS450DC-3-DS550DC-3-235-02-05-09-22.pdf
+  - https://www.advancedenergy.com/getmedia/65660805-cc97-4426-995d-b6a42057ea89/ENG-DS495SPE-235-01-05-05.pdf
+  - https://www.advancedenergy.com/getmedia/2dcb64bb-cac4-4495-b07b-cdd7df2457b8/ds650dc-3_ds850dc-3_ds_1198193043.pdf
+  - https://www.advancedenergy.com/getmedia/c22a30b7-f89e-4fca-b795-3d22ecc9e61a/ENG-DS750PED-235-02-05-10-22.pdf
+  - https://www.advancedenergy.com/getmedia/2dcfcb43-7708-4a04-ad13-54620ca0f917/reach144_ds750ped-3_ds750ped-31391228720_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/0b858763-363e-475c-9789-0f93a3c8cdf1/ds450-3-002_1213433631_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e4d37920-4f60-456b-aeb6-38e1e05f4a18/ds450dc-3_rohs_coc_1213433682_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/837e8d99-bb4d-410b-a005-f4938b80f0d5/ds550dc-3_031108_1213433712_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/108f35e8-66c3-498d-b47b-7da232772c56/ds850dc-3_1213693575_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/cae8f678-8898-4994-8bab-b1d8206082dd/ds450-3_and_ds550-_1213183543_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a3363281-676b-4554-b636-cdcea1d89c72/ds1100sdc-3_rohs3_1548671005_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/89100fee-bdba-4fcd-9bd5-bb3f9bc389b4/rohs2_coc_ds1100sdc-3-405_01081467859363_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/7df0149e-308e-4c22-8c6f-02fc1344f55c/rohs2_coc_ds1200-3-002_041516_1467859407_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/fe4523bb-f0f9-4b8d-95f2-b0571b46c899/rohs2_coc_ds1600spe-3-407_05241467861951_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/73629ff7-c010-46ec-8873-0cd843d46bdd/rohs2_coc_ds495spe-3_031316_1467859163_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d4db69c5-5888-49bd-bad5-78adf6248f49/rohs2_coc_ds495spe-3-001_031311467859218_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d5b65a7a-3bc0-4aaa-b899-f17e8a18b88f/rohs2_coc_ds650dc-3_091712_1394794315_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/27106ae2-9980-484e-baef-0f737003e18f/ds750ped-3_ds750ped-3-001_rohs1391228674_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e37955fb-257d-4660-a7df-9f75c81d0862/rohs2_coc_ds850dc-3_082812_1394794500_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e1cf9469-ad90-4f69-980e-d1b8beee1b59/ds850dc-3_ccc_aecl_1213883187_cert.pdf
+  - https://www.advancedenergy.com/getmedia/588d2986-4409-44d0-b677-332fc3310855/ds450dc_550dc_ce_1460451472_419.pdf
+  - https://www.advancedenergy.com/getmedia/b6a6ad98-aa44-48f5-bfb5-03d42c3f4d31/ds650dc_ds850dc_series_ce_1564042811_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6f5a28ec-533d-410c-970f-d203d0a7cfc1/ds850dc-3_ds850dc-3-003_doc_1213882831_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c7daa7a4-66db-4cc5-9201-916e66bea772/ds1050-3_80-_gold_1405605013_cert.pdf
+  - https://www.advancedenergy.com/getmedia/80bacbe4-1685-4659-8584-6528eea04110/ds1050-3_bsmi_1405607292_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2c3ca327-ac41-4082-8653-99c35f16b0fb/ds1050-3_cb_certificate_1405608682_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a8a81417-0964-498c-9e3f-2e450d9feeb8/ds1050-3_ccc_cv_1405607007_cert.pdf
+  - https://www.advancedenergy.com/getmedia/13070da9-6e3a-4bf6-bfee-f17c4053a168/ds1050-3_ccc_lg_1405607700_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2f4125e4-f950-4edb-bbfc-9d9e59a59082/ds1050-3_ce_1405607804_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5a9836a0-756d-4275-93fa-d324de582fc9/ds1050-3_demko_1405607876_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3c656944-f013-49b8-8742-06dd95b6f545/ds1050-3_ul_1405607962_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c3b80447-95ee-4fdd-909b-0a0381044298/ds1050-3-001-ff_bsmi_1469774233_cert.pdf
+  - https://www.advancedenergy.com/getmedia/786ce5b2-0c11-4a86-8ead-591faea34ea6/ds1050-3-001-ff_ul-ar_1469774333_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a616b9b4-f7ea-4049-b61e-060baec68306/ds1100sdc-3-xxx_ce_1470753523_938.pdf
+  - https://www.advancedenergy.com/getmedia/f0c2306e-674e-4eb5-a3d0-968a96f6cf7a/ds1100sdc-3_ds500sdc-3_62368-11615186977_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6dd4f638-6510-42db-bdb8-cc21b6b52efc/ds1100sdc-3_ds1100sdc_iram_1514901781_297.pdf
+  - https://www.advancedenergy.com/getmedia/886962a0-cdf9-4bed-8f85-2ad69362e364/ds1100sdc-3_ds500sdc-3_ccc_1470753518_898.pdf
+  - https://www.advancedenergy.com/getmedia/9003a096-6351-4902-89cf-01c976808b89/ds1100sdc-3_ds500sdc-3_demko_c1470753520_878.pdf
+  - https://www.advancedenergy.com/getmedia/28f26df3-b22e-41f4-a60f-f11985423764/ds1100sdc-3_ds500sdc-3_ul_cert1470753522_604.pdf
+  - https://www.advancedenergy.com/getmedia/7b12c9a6-bbc0-4a48-a2d4-22c51b327da7/ds1100tdc-3_series_cb_certific1469867887_802.pdf
+  - https://www.advancedenergy.com/getmedia/737087c6-1119-4cd7-97fd-33bae6b28663/ds1100tdc-3_series_ccc_lg_1469867714_133.pdf
+  - https://www.advancedenergy.com/getmedia/4fa42dfc-b094-425c-956d-0868e1c48bb2/ds1100tdc-3_series_demko_certi1469867882_690.pdf
+  - https://www.advancedenergy.com/getmedia/4de6e27c-d6cb-461f-b7f3-366867d6f60e/ds1100tdc-3_series_ul_60950-1_1469867876_887.pdf
+  - https://www.advancedenergy.com/getmedia/9f2390d4-83f2-491a-9f3f-3bfff01a8992/ds1100tdc-3-413_ce_1469867874_586.pdf
+  - https://www.advancedenergy.com/getmedia/b8550d8b-b443-4190-9d11-b84ac1da78d7/ds1200-3_ccc_cv_1470473737_208.pdf
+  - https://www.advancedenergy.com/getmedia/a559158e-14b1-4dde-9e09-a95309c0f211/ds1200-3_ccc_lg_1470473740_693.pdf
+  - https://www.advancedenergy.com/getmedia/9a041bf7-3bce-43c0-9209-c93542c84391/TRN-AC-DC-DS1200-Release-2-2-(041622).pdf
+  - https://www.advancedenergy.com/getmedia/b09d7e27-68b6-481f-81f0-faad83bf70e4/ds1200-3_nemko_cb_cert_1470473741_437.pdf
+  - https://www.advancedenergy.com/getmedia/dd6bfc77-ef74-4cfa-87d5-ee6b467a2b2b/ds1200-3_3-002_bsmi_1470473733_005.pdf
+  - https://www.advancedenergy.com/getmedia/280c0bea-7722-4a53-a434-d283858882c7/ds1200-3_3-002_ce_1470473734_452.pdf
+  - https://www.advancedenergy.com/getmedia/b04b15e4-12c7-405c-a110-2b2f78dc4792/ds1200-3_3-002_ul_60950-1_1470473736_505.pdf
+  - https://www.advancedenergy.com/getmedia/841d5016-cc03-49d5-87a2-22355972371e/ds1200-3_3-002_nemko_certifica1470473736_048.pdf
+  - https://www.advancedenergy.com/getmedia/e3e167e4-c721-41ec-895d-49d9c33f915a/ds1200-3-002_ccc_cvt_1470473745_695.pdf
+  - https://www.advancedenergy.com/getmedia/b5d5dfe8-0449-45b2-bc75-fbedda7269e8/ds1200-3-002_ccc_lg_1470473743_695.pdf
+  - https://www.advancedenergy.com/getmedia/1b1dd82c-2208-484d-afe9-6b96fb99f1c8/ds1200-3-002_nemko_cb_cert_1470473748_162.pdf
+  - https://www.advancedenergy.com/getmedia/3215c10c-95d8-40cb-b8e2-28bd9ee54ff7/ds1200-3-002_nrcs_sabs_1470473731_303.pdf
+  - https://www.advancedenergy.com/getmedia/449a1c3c-2a24-4059-8c73-155fd7b7b82f/2012010907544250.pdf
+  - https://www.advancedenergy.com/getmedia/28e5c9c1-8b6d-4fb0-8e28-967c0a18ddf0/ds1600spe-3_iram_1534918838_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5dceb68e-3bba-41b4-b64b-bc684f541f53/ds1600spe-3-xxx_80platinum_1470476043_665.pdf
+  - https://www.advancedenergy.com/getmedia/d362a3fb-7822-49aa-9c55-f8dc2aa80657/ds1600spe-3-xxx_bis_1534918693_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1b3e77e2-4dbc-4d18-bd7b-7f7c961dd4d4/ds1600spe-3-xxx_bsmi_1470476048_214.pdf
+  - https://www.advancedenergy.com/getmedia/f213784b-54bd-4e69-bd01-3d88e23e9b1c/ds1600spe-3-xxx_ce_1470476049_602.pdf
+  - https://www.advancedenergy.com/getmedia/7a0735de-d6b0-4c70-9102-9fb60a9e3238/ds1600spe-3-xxx_cqc_1470476050_167.pdf
+  - https://www.advancedenergy.com/getmedia/b16113c5-f208-4a95-8e8c-8c1631fb3901/ds1600spe-3-xxx_demko_cb_cert_1470476053_082.pdf
+  - https://www.advancedenergy.com/getmedia/5ca4f96c-3d3d-468e-bfc5-e641fcc52e36/ds1600spe-3-xxx_demko_certific1470476052_294.pdf
+  - https://www.advancedenergy.com/getmedia/f507d221-522f-4db5-96d1-d70a5322347c/ds1600spe-3-xxx_ul_60950-1_1470476042_370.pdf
+  - https://www.advancedenergy.com/getmedia/9bb5e1c5-fa92-466d-958d-6baa3c32f3bb/211-2315074-100_switching_powe1472240006_cert.pdf
+  - https://www.advancedenergy.com/getmedia/27aa0760-2bd0-4c0b-8d61-533456f7f638/tuv_certificate_1472240046_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c5fae8b2-4796-4469-9984-99162f945984/DS2400SPE-3_BIS-R-41058882-20827_181025.pdf
+  - https://www.advancedenergy.com/getmedia/77201c1e-08fe-41be-95ed-1e1a49cfbe1d/DS2400SPE-3_BSMI_240830.pdf
+  - https://www.advancedenergy.com/getmedia/c84c5c89-30c3-4b8e-b067-dbf12f454090/DS2400SPE-3_UL-CB_29MAR23.pdf
+  - https://www.advancedenergy.com/getmedia/dc9e06e4-3ead-4b7d-a8ce-0a23ec810670/DS2400SPE-3_CE_210508.pdf
+  - https://www.advancedenergy.com/getmedia/1cb1f1f4-39b5-46f9-b6a7-776b0958c4b8/DS2400SPE-3_CQC-CV_21MAY23.pdf
+  - https://www.advancedenergy.com/getmedia/e370440f-5ab2-45e3-9d21-b35b376cc60d/DS2400SPE-3_CQC-LG_16MAY23.pdf
+  - https://www.advancedenergy.com/getmedia/ea26f651-698f-4d53-9bad-46a3137ebb45/DS2400SPE-3_EAC-DoC_29NOV21.pdf
+  - https://www.advancedenergy.com/getmedia/b4c7444e-171b-48d2-95af-4045da190d15/DS2400SPE-3_KCC_07AUG18.pdf
+  - https://www.advancedenergy.com/getmedia/6dbc8bd5-d3b5-4070-a744-5edb2747fe75/DS2400SPE-3_KTC_2AUG22.pdf
+  - https://www.advancedenergy.com/getmedia/9fc7f758-3657-4fa9-8134-8e24f8de8ae5/DS2400SPE-3_UKCA_210628.pdf
+  - https://www.advancedenergy.com/getmedia/2e09cda4-db1e-463a-8f07-5003827f9abc/DS2400SPE-3_UL-CoC_180719.pdf
+  - https://www.advancedenergy.com/getmedia/7efba2f7-bbe9-4fef-8502-fafd0301baa6/ds450-3_001_002_ce_1334148626_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f4cc6b61-c38b-49a8-8f95-5c3eb2bb2715/ds450_nemko_cert_1336460391_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9c08b5f5-330b-4025-abbb-f6377c5b448c/ds450-3_bis_1534753906_cert.pdf
+  - https://www.advancedenergy.com/getmedia/aaa59969-98ee-48e1-a5bc-b0515cac9ae9/ds450-3_bsmi_1334149391_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c755e8b6-a566-4e84-af58-9acad8206b28/ds450-3_ccc_1334151239_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ef61dda4-4a05-4628-b28f-0b042fd61578/ds450-3_cb_62368_1615185672_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7ab6dbd4-a37b-4fa0-ae01-a3b86c943ee9/ds450-3_nemko_cb_cert_1334153372_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1e4dbce8-ad3b-44db-a166-8697fc5fa723/ds450-3-001_ccc_1334151389_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c3d252d9-00fb-441e-a52f-3bb79beed63a/ds450-3-001_nemko_cb_cert_1334153409_cert.pdf
+  - https://www.advancedenergy.com/getmedia/bba8eedb-371b-4238-9ae6-0ba77181f41e/ds450-3-002_bsmi_1334150917_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6337dcec-f21d-4cf2-941e-5b5223900a28/ds450-3-002_ccc_1334151343_cert.pdf
+  - https://www.advancedenergy.com/getmedia/bfff9f15-d117-40d5-a2d3-5e0ffa5d9e6d/ds450-3-002_nemko_cb_cert_1334153454_cert.pdf
+  - https://www.advancedenergy.com/getmedia/424949e6-9bc6-46cb-84af-245a1842eabb/ds450dc-3_cb_cert_1460451471_075.pdf
+  - https://www.advancedenergy.com/getmedia/e7fa8320-fbe9-4d4b-9df7-b80e266c1d30/ds450dc-3_ccc_1460451469_637.pdf
+  - https://www.advancedenergy.com/getmedia/c7b813b5-35c9-4b7f-a4c5-f575c7127ef2/ds450dc-3-002_cb_cert_1460451467_817.pdf
+  - https://www.advancedenergy.com/getmedia/a1f4b935-16bb-4eb5-9d08-b8bf8fa281fd/ds450dc-3-002_ccc_1469707276_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2a636937-8948-4cec-8b43-4eb9f1fd7303/ds495spe-3_80platinum_1470328982_091.pdf
+  - https://www.advancedenergy.com/getmedia/725bb5c4-4de6-4c9e-88a9-63b87abde08e/ds495spe-3_msip_1470329025_444.pdf
+  - https://www.advancedenergy.com/getmedia/a6ac133f-a0b3-4acc-bd6c-d3731299e071/ds495spe-3_ds500sdc-3_bis_cert1534762448_cert.pdf
+  - https://www.advancedenergy.com/getmedia/4ec3a817-d2da-458a-b0ac-78d92c5ba175/ds495spe-3_kc_safety_1470329022_740.pdf
+  - https://www.advancedenergy.com/getmedia/8fab4f05-ca38-4973-abf3-338b78b8b9a2/ds495spe-3-xxx_bsmi_1470329026_731.pdf
+  - https://www.advancedenergy.com/getmedia/a706db0e-1f0c-44dd-9757-d7437975c4e8/ds495spe-3-xxx_cb_cert_ite_1470329034_985.pdf
+  - https://www.advancedenergy.com/getmedia/3f87b88c-52b2-4999-82e8-86ee7475813e/ds495spe-3-xxx_ccc_lg_1470329028_783.pdf
+  - https://www.advancedenergy.com/getmedia/6ae7238b-5ba9-455b-a254-62beb934fed6/ds495spe-3-xxx_ce_1470329029_525.pdf
+  - https://www.advancedenergy.com/getmedia/1e722fa6-61cf-4146-b365-590786aae807/ds495spe-3-xxx_demko_certifica1470329032_147.pdf
+  - https://www.advancedenergy.com/getmedia/e7d9bc97-f2af-4a29-a15a-d1bb81ff3213/ds495spe-3-xxx_eac_1470329038_563.pdf
+  - https://www.advancedenergy.com/getmedia/5c34435a-5958-4630-86f2-b3df3efc287d/ds495spe-3-xxx_ul_60950-1_1470328981_015.pdf
+  - https://www.advancedenergy.com/getmedia/01fef5a3-0d95-4a10-8e13-6db00cbc92b5/ds550-3_cb_cert_1335174193_cert.pdf
+  - https://www.advancedenergy.com/getmedia/64dc7c08-a902-4154-acf6-bc2e822ba401/ds550-3_ccc_1335172463_cert.pdf
+  - https://www.advancedenergy.com/getmedia/73275423-01ac-4226-b75d-e679a3397b7b/ds550-3_ce_1335185613_cert.pdf
+  - https://www.advancedenergy.com/getmedia/91b432bd-ea5d-4644-b983-be7b701819cf/ds550-3_iram_1335172742_cert.pdf
+  - https://www.advancedenergy.com/getmedia/38311499-4113-4a3d-b6f8-7bc24ebb3477/ds550-3_nemko_1335173512_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cfcbc4cf-d747-4784-b95e-af6ce1eebe14/ds550dc-3_cb_cert_1460451464_970.pdf
+  - https://www.advancedenergy.com/getmedia/47071d1b-49c4-4058-be56-11a629c54a22/ds550dc-3_ccc_1460451463_578.pdf
+  - https://www.advancedenergy.com/getmedia/00b6a20a-b009-4eff-bb17-6df52eb2b949/ds550dc-3-002_cb_cert_1469707903_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9617e976-7e31-4430-ac7c-ca459a50ab8c/ds550dc-3-002_ccc_1469708488_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1fbfc110-652d-468a-ba64-3f5dc955ddcf/ds550dc-3-003_cb_cert_1469708609_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f412393d-52d0-42bf-8657-d65d521728ea/ds550dc-3-003_ccc_1469708670_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6f3f761b-0b11-4c30-b0f3-9e74ef08709d/ds750ped-3_series_bsmi_1470464831_435.pdf
+  - https://www.advancedenergy.com/getmedia/7f52ae3d-31f8-453c-bde7-d6c85e58c786/ds750ped-3-xxx_80platinum_1470464832_705.pdf
+  - https://www.advancedenergy.com/getmedia/68c65860-e3eb-4fc9-9395-2d972e76e9d5/ds750ped-3-xxx_bsmi_1470464834_273.pdf
+  - https://www.advancedenergy.com/getmedia/f1c61fab-2e95-4c8b-91a4-2c34a0e235b6/ds750ped-3-xxx_dcb_cert_1470464840_508.pdf
+  - https://www.advancedenergy.com/getmedia/0dc094ec-66a3-49c4-8d2e-cf21e7c84b9e/ds750ped-3-xxx_ccc_1470464838_296.pdf
+  - https://www.advancedenergy.com/getmedia/abb3ab36-f358-4ece-83fe-b233899d93d3/ds750ped-3-xxx_ce_1470464838_015.pdf
+  - https://www.advancedenergy.com/getmedia/0c9ac777-1c19-4f53-8b35-f78948d7d464/ds750ped-3-xxx_demko_1470464842_302.pdf
+  - https://www.advancedenergy.com/getmedia/edef2e28-29c4-4471-90ba-6718e6ba7294/ds750ped-3-xxx_ulcul_1470464825_527.pdf
+  - https://www.advancedenergy.com/getmedia/4b1f00ef-c1c9-4950-afc6-5ae56eff7b71/ds650dc-3__ds850dc-3__nemk1232714509_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b0c9f9ac-fc89-4da2-b601-7d932067f785/ds850dc-3_nemko_cb_1232714566_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7a28b612-76ae-418d-a4fc-aae4fd410e87/ds450dc-3_550dc-3_nemko_certif1460451469_838.pdf
+  - https://www.advancedenergy.com/getmedia/a9b0b7e9-d40c-4318-af39-38ce207b53b9/ds450-3_001_002_ul_1334150838_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b9a960d8-ea07-443c-bd75-e8b234e97e25/ds650dc-3__ds850dc-3__ul_1233234713_cert.pdf
+  - https://www.advancedenergy.com/getmedia/aea2d9f0-cc17-4716-be94-0936328c60bc/ds450dc-3_ds550dc-3_ul_60950-11460432211_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8383411d-1a7f-4b09-ba2e-b4033a303b81/DS2400SPE-3-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/20101edb-a3b7-499a-a151-251b7023c969/ds1200_handle_change_1260224405_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/02a187f5-764f-49e9-8c66-d4ef5ad4cd1a/trn_ac-dc_ds1050-3_releasae1_01397796876_techref.pdf
+  - https://www.advancedenergy.com/getmedia/8cdd80fb-759e-4e44-8bbf-6d685beab817/TRN-DC-DC-DS1100SDC-3-Release-1-9-(2022-03-18).pdf
+  - https://www.advancedenergy.com/getmedia/f23aa8ba-8349-4774-9ede-cae2ef6347f4/pcn-ew20-ds1100sdc-3-001_stand1521770429_techref.pdf
+  - https://www.advancedenergy.com/getmedia/5bf35d39-2da0-497b-8ed2-bedf82c6577d/TRN-DC-DC-DS1100TDC-3-Release-1-7-(2022-03-18).pdf
+  - https://www.advancedenergy.com/getmedia/3cbea16f-d578-4ac6-8942-54a4e02f9575/TRN-AC-DC-DS1200-Release-2-2-(041622).pdf
+  - https://www.advancedenergy.com/getmedia/e3a3b5ce-7561-4d3f-9310-21b3f6079a78/TRN-AC-DC-DS1200DC-Release-1-5-(2022-04-19).pdf
+  - https://www.advancedenergy.com/getmedia/0beae17d-7b79-4e55-8775-dc7a45739393/TRN-AC-DC-DS1200HE-3-Release-1-6-(2021-05-11).pdf
+  - https://www.advancedenergy.com/getmedia/7c968656-f815-4e9e-9a8a-3fc3bc260bfd/trn_ac-dc_ds1600spe-3_trn_rele1421105206_techref.pdf
+  - https://www.advancedenergy.com/getmedia/034f6a2c-3cfc-4fd1-b744-1ebfa094d3f2/ds1600spe-3ds1600spe-3-001_pr1469568375_techref.pdf
+  - https://www.advancedenergy.com/getmedia/70e08805-32c0-4eff-9b68-883a839b066d/ds2000spe_communication_interf1472239859_techref.pdf
+  - https://www.advancedenergy.com/getmedia/47732b32-d133-4902-8e2e-d04e617cfb5f/TRN-AC-DC-DS2000SPE-3-TRN-Release-1-6-(2022-04-27).pdf
+  - https://www.advancedenergy.com/getmedia/d5ca9b21-02c4-42a8-8774-2e56f933cf0d/TRN-AC-DC-DS2400SPE-3-Release-1-3-(03-21-2024).pdf
+  - https://www.advancedenergy.com/getmedia/c91b48b2-6dbb-4cfa-b20e-bf0d14e8a59d/pcn_ds450-3_rebranding_1432272994_techref.pdf
+  - https://www.advancedenergy.com/getmedia/6ffb6d4b-cecc-41a8-ad1a-5f7848c7b930/ENG-DS450-3-DS550-3-235-02-04-20-22.pdf
+  - https://www.advancedenergy.com/getmedia/5f42029a-5178-4260-959f-fe7b20ee3dee/TRN-AC-DC-DS495SPE-3-TRN-Release-1-9-(2022-04-27).pdf
+  - https://www.advancedenergy.com/getmedia/077445b9-66a7-4a2b-8776-f8170819777b/TRN-AC-DC-DS750PED-3-TRN-1-6-(2022-05-10).pdf
+  - https://www.advancedenergy.com/getmedia/e8dede14-24bd-4036-8ca3-e7497238b90c/ds1600spe-3-001_product_chang1491514941_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/695f7c37-09f6-4e44-89b8-7424a8c39c9c/928eacf1e6_2_1488486582_219.png
+  - Image: https://www.advancedenergy.com/getattachment/6e03fc07-5942-4cd5-9c5f-a8b2c03bb444/datacenter5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6e03fc07-5942-4cd5-9c5f-a8b2c03bb444/datacenter5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/da84be47-13f4-4c14-9448-3a4eb7fe2b18/telecom_1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/da84be47-13f4-4c14-9448-3a4eb7fe2b18/telecom_1-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Data Center ComputingAs a leading power solutions provider, we offer a comprehensive portfolio of products that simplify architectures, enabling swift deployment in data centers.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/
+  - Explore Data Center Computing: https://www.advancedenergy.com/en-us/applications/datacenter-computing/
+  - Telecom and NetworkingWe are the market leader for reliable power supply solutions for telecom and network applications, offering high conversion efficiency and cost savings.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/
+  - Explore Telecom and Networking: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+  ↓
+DS Short SeriesCommon Form FactorDigital Control (PMBus®)500 to 2000 W High Density & Reliability

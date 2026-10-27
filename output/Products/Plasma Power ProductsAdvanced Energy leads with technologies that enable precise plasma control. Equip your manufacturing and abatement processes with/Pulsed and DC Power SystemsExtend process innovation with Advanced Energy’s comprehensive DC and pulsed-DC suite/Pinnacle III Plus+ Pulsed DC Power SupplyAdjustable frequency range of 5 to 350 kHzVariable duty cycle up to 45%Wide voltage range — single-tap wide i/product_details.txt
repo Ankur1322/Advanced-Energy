@@ -1,0 +1,104 @@
+==============================================================================
+PRODUCT DETAILS: Pinnacle III Plus+ Pulsed DC Power SupplyAdjustable frequency range of 5 to 350 kHzVariable duty cycle up to 45%Wide voltage range — single-tap wide impedance range
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/
+Category Description: Extend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Pinnacle III Plus+ Pulsed DC Power SupplyAdjustable frequency range of 5 to 350 kHzVariable duty cycle up to 45%Wide voltage range — single-tap wide impedance range
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/pinnacle-iii-plus/
+
+Complete Product Description:
+Pinnacle Plus+ generators deliver DC power in a pulsing configuration enabling reactive sputtering of extremely uniform, high-quality dielectric films.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/a3661133-eeed-495c-abfe-ed8451f17f52/en-ppg-pinnacle-plus-series-data-sheet.pdf
+  - Pinnacle Plus Data Sheet Download Pinnacle Plus+ Series Brochure for details regarding product specifications, electrical specifications, mechanical specifications and ordering information. Discover how Pinnacle Plus+'s superior efficiency, and high power factor meet your needs. View Resource: https://www.advancedenergy.com/getmedia/a3661133-eeed-495c-abfe-ed8451f17f52/en-ppg-pinnacle-plus-series-data-sheet.pdf
+  - Pinnacle Plus+ Halo Pulsed-DC Power Supplies Datasheet View Resource: https://www.advancedenergy.com/getmedia/a1f47e94-684f-4ca2-b18d-83e4e95daf2e/ENG-Pinnacle-Plus-HALO-02-25-24.pdf
+  - PowerInsight by Advanced Energy PowerInsight acts as a flight recorder, capturing AE power delivery system performance data. Download PowerInsight brochure to see how AE's IoT solutions meet your needs. View Resource: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - PowerInsight by Advanced Energy: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - Pinnacle Plus Data Sheet: https://www.advancedenergy.com/getmedia/a3661133-eeed-495c-abfe-ed8451f17f52/en-ppg-pinnacle-plus-series-data-sheet.pdf
+  - Pinnacle Plus+ Halo Pulsed-DC Power Supplies Datasheet: https://www.advancedenergy.com/getmedia/a1f47e94-684f-4ca2-b18d-83e4e95daf2e/ENG-Pinnacle-Plus-HALO-02-25-24.pdf
+  - Optimizing Static Deposition Processes White Paper: https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/a3661133-eeed-495c-abfe-ed8451f17f52/en-ppg-pinnacle-plus-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/a3661133-eeed-495c-abfe-ed8451f17f52/en-ppg-pinnacle-plus-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/a1f47e94-684f-4ca2-b18d-83e4e95daf2e/ENG-Pinnacle-Plus-HALO-02-25-24.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/a3661133-eeed-495c-abfe-ed8451f17f52/en-ppg-pinnacle-plus-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/a1f47e94-684f-4ca2-b18d-83e4e95daf2e/ENG-Pinnacle-Plus-HALO-02-25-24.pdf
+  - https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d17638d7-6cf1-45cb-8770-fe99100cbd43/pinnacle-plus-fr-wp_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a53285b3-f612-4143-a845-6de16c2b84b5/pinnacle-plus-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/83a39ea2-cd67-4b2a-ad13-228236ecaa64/pinnacle-plus-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/85fb75bf-4706-474b-90b6-44c91022f847/pinnacle-plus-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/485b032d-a277-45d9-8100-5926fe9235c5/pinnacle-plus-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d17638d7-6cf1-45cb-8770-fe99100cbd43/pinnacle-plus-fr-wp_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a53285b3-f612-4143-a845-6de16c2b84b5/pinnacle-plus-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/83a39ea2-cd67-4b2a-ad13-228236ecaa64/pinnacle-plus-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/85fb75bf-4706-474b-90b6-44c91022f847/pinnacle-plus-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/485b032d-a277-45d9-8100-5926fe9235c5/pinnacle-plus-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d17638d7-6cf1-45cb-8770-fe99100cbd43/pinnacle-plus-fr-wp_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a53285b3-f612-4143-a845-6de16c2b84b5/pinnacle-plus-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/83a39ea2-cd67-4b2a-ad13-228236ecaa64/pinnacle-plus-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/85fb75bf-4706-474b-90b6-44c91022f847/pinnacle-plus-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/485b032d-a277-45d9-8100-5926fe9235c5/pinnacle-plus-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Solar PhotovoltaicsTo compete in today’s energy market, photovoltaic (PV) fabrication enterprises require solar manufacturing equipment that increases productivity and reduces costs.: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Explore Solar Photovoltaics: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+  ↓
+Pinnacle III Plus+ Pulsed DC Power SupplyAdjustable frequency range of 5 to 350 kHzVariable duty cycle up to 45%Wide voltage range — single-tap wide impedance range

@@ -1,0 +1,101 @@
+==============================================================================
+PRODUCT DETAILS: ADN-C 3-Phase SeriesSlim Form FactorHigh Efficiency up to 94%High Quality through DMTBF > 450,000h
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: DIN Rail PSUsOur ADN-C series provides a compact and efficient solution for industrial applications. Our power supplies are available in single-phase DIN rail—which maximizes per-rail power density with its slim form factor—and three-phase DIN rail for heavy-duty industrial applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/din-rail-psus/
+Category Description: Our ADN-C series provides a compact and efficient solution for industrial applications. Our power supplies are available in single-phase DIN rail—which maximizes per-rail power density with its slim form factor—and three-phase DIN rail for heavy-duty industrial applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: ADN-C 3-Phase SeriesSlim Form FactorHigh Efficiency up to 94%High Quality through DMTBF > 450,000h
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/din-rail-psus/adn-c-3-phase/
+
+Complete Product Description:
+The ADN-C series of three-phase DIN rail mounting AC-DC power supplies is ideal for a wide range of heavy duty industrial applications – especially those involving large inductive loads – including machine control, semiconductor fabrication, conveyor and material handling systems.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/b10e6bf3-133f-429e-aab8-756e89adc9ae/adn-c_series_3-phase_ds_26009aa0c33.pdf
+  - ADN-C Three-Phase Data Sheet: https://www.advancedenergy.com/getmedia/b10e6bf3-133f-429e-aab8-756e89adc9ae/adn-c_series_3-phase_ds_26009aa0c33.pdf
+  - ADN10-24-3PM-C RoHS2 CoC: https://www.advancedenergy.com/getmedia/0612d7a6-6a2b-4584-8672-43a6a90c7494/rohs2_coc_adn10-24-3pm-c_020211394705386_rohs_.pdf
+  - ADN20-24-3PM-C roHS2 CoC: https://www.advancedenergy.com/getmedia/71ce0f01-abd4-4de4-929a-ab7e6d4da356/rohs2_coc_adn20-24-3pm-c_040311394706123_rohs_.pdf
+  - ADN20-24-3PM-C RoHS2 CoC: https://www.advancedenergy.com/getmedia/410ee212-2038-49c3-a80c-2b578860a546/rohs2_coc_adn20-24-3pm-c_040311394706308_rohs_.pdf
+  - ADN40-24-3PM-C RoHS2 CoC: https://www.advancedenergy.com/getmedia/6502a2ad-bfc7-4848-839a-cdd90a6c268a/rohs2_coc_adn40-24-3pm-c_040311394706216_rohs_.pdf
+  - ADN5-24-3PM-C RoHS2 CoC: https://www.advancedenergy.com/getmedia/e8b3ff57-5c8e-43cf-84cc-44d9fde1b504/rohs2_coc_adn5-24-3pm-c_0202121394705972_rohs_.pdf
+  - ADN-C 3-Phase—ADN20-24-3PM-C CB Certificate: https://www.advancedenergy.com/getmedia/c0f7de38-92f0-404e-bead-2b8433cb6d5d/adn20-24-3pm-c_cb_cert_1299043984_cert.pdf
+  - ADN-C 3-Phase—ADN40-24-3PM-C CB Certificate: https://www.advancedenergy.com/getmedia/122005ff-5cb0-4265-8292-04989c0b5c61/adn40-24-3pm-c_cb_cert_1299043936_cert.pdf
+  - Declaration of Conformity: https://www.advancedenergy.com/getmedia/d53781fe-3c73-4917-853f-3bb9be3449fe/adn10-24-3pm-c_1394682834_cert.pdf
+  - ADN-C 3-Phase—ADN40-24-3PM-C Manual: https://www.advancedenergy.com/getmedia/ab14bc6b-84bb-4fae-97f4-7dff112c50e9/adn40-24-3pm-c_manual_1299043653_install.pdf
+  - ADN-C 3-Phase—ADN20-24-1PM-C Manual: https://www.advancedenergy.com/getmedia/8ed38b60-57c1-4702-9b39-8bfd7367144f/adn20-24-3pm-c_manual_1299043592.pdf
+  - ADN-C 3-Phase—ADN40-24-3PM-C Signals and Installation Specs: https://www.advancedenergy.com/getmedia/2f1d9ba3-6f96-436f-82a5-0e2ed273db51/adn40-24-3pm-c_signals_insta1299043697.pdf
+  - ADN-C Technical Reference Note: https://www.advancedenergy.com/getmedia/5fdff226-e1fb-4d26-8e28-585ef36edcf5/trn_ac-dc_adn-c_release_2_2_21396924811_techref.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b10e6bf3-133f-429e-aab8-756e89adc9ae/adn-c_series_3-phase_ds_26009aa0c33.pdf
+  - https://www.advancedenergy.com/getmedia/b10e6bf3-133f-429e-aab8-756e89adc9ae/adn-c_series_3-phase_ds_26009aa0c33.pdf
+  - https://www.advancedenergy.com/getmedia/0612d7a6-6a2b-4584-8672-43a6a90c7494/rohs2_coc_adn10-24-3pm-c_020211394705386_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/71ce0f01-abd4-4de4-929a-ab7e6d4da356/rohs2_coc_adn20-24-3pm-c_040311394706123_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/410ee212-2038-49c3-a80c-2b578860a546/rohs2_coc_adn20-24-3pm-c_040311394706308_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/6502a2ad-bfc7-4848-839a-cdd90a6c268a/rohs2_coc_adn40-24-3pm-c_040311394706216_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e8b3ff57-5c8e-43cf-84cc-44d9fde1b504/rohs2_coc_adn5-24-3pm-c_0202121394705972_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/c0f7de38-92f0-404e-bead-2b8433cb6d5d/adn20-24-3pm-c_cb_cert_1299043984_cert.pdf
+  - https://www.advancedenergy.com/getmedia/122005ff-5cb0-4265-8292-04989c0b5c61/adn40-24-3pm-c_cb_cert_1299043936_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d53781fe-3c73-4917-853f-3bb9be3449fe/adn10-24-3pm-c_1394682834_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ab14bc6b-84bb-4fae-97f4-7dff112c50e9/adn40-24-3pm-c_manual_1299043653_install.pdf
+  - https://www.advancedenergy.com/getmedia/8ed38b60-57c1-4702-9b39-8bfd7367144f/adn20-24-3pm-c_manual_1299043592.pdf
+  - https://www.advancedenergy.com/getmedia/2f1d9ba3-6f96-436f-82a5-0e2ed273db51/adn40-24-3pm-c_signals_insta1299043697.pdf
+  - https://www.advancedenergy.com/getmedia/5fdff226-e1fb-4d26-8e28-585ef36edcf5/trn_ac-dc_adn-c_release_2_2_21396924811_techref.pdf
+  - https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/31cb4e68-084b-482b-8efb-8c0a9db567a1/354f4b7298.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2abf0b5-22ab-4b13-9914-7bda7b123f5c/1409012507-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7c2ed8a7-6d04-471f-bb2e-ddfbb3211b60/c7541eadb9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31cb4e68-084b-482b-8efb-8c0a9db567a1/354f4b7298.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2abf0b5-22ab-4b13-9914-7bda7b123f5c/1409012507-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7c2ed8a7-6d04-471f-bb2e-ddfbb3211b60/c7541eadb9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31cb4e68-084b-482b-8efb-8c0a9db567a1/354f4b7298.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2abf0b5-22ab-4b13-9914-7bda7b123f5c/1409012507-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7c2ed8a7-6d04-471f-bb2e-ddfbb3211b60/c7541eadb9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/daca6d38-948c-46b4-a17c-0b76813cb237/1409788161-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedADN-C Single Phase SeriesDin Rail Mounting Single-Phase AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/din-rail-psus/adn-c-single-phase/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+DIN Rail PSUsOur ADN-C series provides a compact and efficient solution for industrial applications. Our power supplies are available in single-phase DIN rail—which maximizes per-rail power density with its slim form factor—and three-phase DIN rail for heavy-duty industrial applications.
+  ↓
+ADN-C 3-Phase SeriesSlim Form FactorHigh Efficiency up to 94%High Quality through DMTBF > 450,000h

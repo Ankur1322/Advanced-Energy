@@ -1,0 +1,159 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNGB660 Series660 W Single Output Medical & Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 501 - 999 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsChassis mount constructionPeak power capabilities
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/
+Category Description: Advanced Energy power supplies within the 500 to 1000 W range provide even more power for energy-hungry applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNGB660 Series660 W Single Output Medical & Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb660-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power NGB660 medically-approved AC-DC power supplies are available with a nominal main output of 12 V, 15 V, 24 V, or 48 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - Revolutionizing Medical Devices with AE's Power Solutions for Pulsed Field Ablation View Resource: https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+  - NGB660 Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660-05-19-2025_1.pdf
+  - NGB660 Long Form Datasheet: https://www.advancedenergy.com/getmedia/f6ebde18-abcc-49df-a8de-ee987b0bb543/ENG-NGB660-LFDS-05-19-2025.pdf
+  - NGB660 ITE Class I & II Demko Certificate: https://www.advancedenergy.com/getmedia/c9c765c8-32e5-452c-8be5-0732096a769b/NGB660%20ITE%20Class%20I%20&%20II%20Demko%20Certificate.pdf
+  - NGB660 Medical Class I & II Demko Certificate: https://www.advancedenergy.com/getmedia/2482ba20-8d95-46ce-a5bf-3744bac6bf53/NGB660%20Medical%20Class%20I%20&%20II%20Demko%20Certificate.pdf
+  - NGB660S REACH Declaration: https://www.advancedenergy.com/getmedia/b4de47d5-0ce7-4097-a0c9-b4a5169cfaca/SL%20Power%20REACH%20209%20NGB660S%20Series.pdf
+  - NGB660S RoHS statement: https://www.advancedenergy.com/getmedia/cff41db6-b810-41dc-b219-752cfe6abeb9/RoHS%20statement%20SL%20Power%20NGB660S%20Series.pdf
+  - NGB660 EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/f7048fc4-ad1c-4e1f-9ee6-399fc95181af/NGB660%20EU%20Declaration%20of%20Conformity.pdf
+  - NGB660 family EU DoC.pdf: https://www.advancedenergy.com/getmedia/5362bb14-06c8-445d-87b9-185bfba739ff/NGB660%20family%20EU%20DoC%20-%202022-09-17.pdf
+  - NGB660 family UKCA Declaration: https://www.advancedenergy.com/getmedia/2f324b65-9e3f-4ca2-8f05-f11b2649ade1/NGB660%20family%20UKCA%20DoC%20-%202022-09=17.pdf
+  - NGB660 ITE CB Class I Certificate: https://www.advancedenergy.com/getmedia/a99e911a-5047-4129-a90c-ea1b6b32d30b/NGB660%20ITE%20CB%20Class%20I%20Cert%20US-37075-UL.pdf
+  - NGB660 ITE CB Class I Certificate UL: https://www.advancedenergy.com/getmedia/34be6177-ea05-4307-9def-ccb0e6a7eb37/NGB660%20ITE%20CB%20Class%20I%20Certificate%20UL.pdf
+  - NGB660 ITE CB Class II Certificate: https://www.advancedenergy.com/getmedia/42ef3c01-ea69-45f4-a5ba-141cd3de35c9/NGB660%20ITE%20CB%20Class%20II%20Cert%20-%20US-37076-UL.pdf
+  - NGB660 ITE CB Class II Certificate UL: https://www.advancedenergy.com/getmedia/59c258c2-ef6a-449d-b698-556d260d71c0/NGB660%20ITE%20CB%20Class%20II%20Certificate%20UL.pdf
+  - NGB660 ITE UL Certificate: https://www.advancedenergy.com/getmedia/a9273130-d9eb-433e-aa9c-0f606ab11a5c/NGB660%20ITE%20UL%20Certificate.pdf
+  - NGB660 Medical CB Class I Certificate: https://www.advancedenergy.com/getmedia/6aff15f8-9498-4071-a860-d3e706b8c6eb/NGB660%20Medical%20CB%20Class%20I%20Certificate.pdf
+  - NGB660 Medical CB Class II Certificate UL: https://www.advancedenergy.com/getmedia/01884e11-777f-472f-a6a0-a36a4a1bd7bc/NGB660%20Medical%20CB%20Class%20II%20Certificate%20UL.pdf
+  - NGB660 Medical UL Certificate: https://www.advancedenergy.com/getmedia/bcb71bb8-c614-4241-9485-d08ddb659d4c/NGB660%20Medical%20UL%20Certificate.pdf
+  - NGB660 UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/e9709b6a-ba9e-4c68-b0e3-5ad238860af5/NGB660%20UKCA%20Declaration%20of%20Conformity.pdf
+  - Advanced Energy’s NGB660 modified for high hold-up time requirement: https://www.advancedenergy.com/getmedia/049aa2c6-1c57-4a41-badc-a09f3f868a94/ENG-NGB660-modified-Case-Study-295-01.pdf
+  - Revolutionizing Medical Devices with AE's Power Solutions for Pulsed Field Ablation: https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+  - NGB660 Value Proposition: https://www.advancedenergy.com/getmedia/4a8f92f9-f9cd-4881-bda4-f284a0b52e09/NGB660_Value_Proposition.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/271aa545-abd5-4acf-96ff-d67f34f4c13b/ENG-NGB425-LFDS-03-08-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8ab778fa-da21-4e9f-931a-2d9d02590f2b/ENG-LU500-03.24.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660-05-19-2025_1.pdf
+  - https://www.advancedenergy.com/getmedia/f6ebde18-abcc-49df-a8de-ee987b0bb543/ENG-NGB660-LFDS-05-19-2025.pdf
+  - https://www.advancedenergy.com/getmedia/c9c765c8-32e5-452c-8be5-0732096a769b/NGB660%20ITE%20Class%20I%20&%20II%20Demko%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/2482ba20-8d95-46ce-a5bf-3744bac6bf53/NGB660%20Medical%20Class%20I%20&%20II%20Demko%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/b4de47d5-0ce7-4097-a0c9-b4a5169cfaca/SL%20Power%20REACH%20209%20NGB660S%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/cff41db6-b810-41dc-b219-752cfe6abeb9/RoHS%20statement%20SL%20Power%20NGB660S%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/f7048fc4-ad1c-4e1f-9ee6-399fc95181af/NGB660%20EU%20Declaration%20of%20Conformity.pdf
+  - https://www.advancedenergy.com/getmedia/5362bb14-06c8-445d-87b9-185bfba739ff/NGB660%20family%20EU%20DoC%20-%202022-09-17.pdf
+  - https://www.advancedenergy.com/getmedia/2f324b65-9e3f-4ca2-8f05-f11b2649ade1/NGB660%20family%20UKCA%20DoC%20-%202022-09=17.pdf
+  - https://www.advancedenergy.com/getmedia/a99e911a-5047-4129-a90c-ea1b6b32d30b/NGB660%20ITE%20CB%20Class%20I%20Cert%20US-37075-UL.pdf
+  - https://www.advancedenergy.com/getmedia/34be6177-ea05-4307-9def-ccb0e6a7eb37/NGB660%20ITE%20CB%20Class%20I%20Certificate%20UL.pdf
+  - https://www.advancedenergy.com/getmedia/42ef3c01-ea69-45f4-a5ba-141cd3de35c9/NGB660%20ITE%20CB%20Class%20II%20Cert%20-%20US-37076-UL.pdf
+  - https://www.advancedenergy.com/getmedia/59c258c2-ef6a-449d-b698-556d260d71c0/NGB660%20ITE%20CB%20Class%20II%20Certificate%20UL.pdf
+  - https://www.advancedenergy.com/getmedia/a9273130-d9eb-433e-aa9c-0f606ab11a5c/NGB660%20ITE%20UL%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/6aff15f8-9498-4071-a860-d3e706b8c6eb/NGB660%20Medical%20CB%20Class%20I%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/01884e11-777f-472f-a6a0-a36a4a1bd7bc/NGB660%20Medical%20CB%20Class%20II%20Certificate%20UL.pdf
+  - https://www.advancedenergy.com/getmedia/bcb71bb8-c614-4241-9485-d08ddb659d4c/NGB660%20Medical%20UL%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/e9709b6a-ba9e-4c68-b0e3-5ad238860af5/NGB660%20UKCA%20Declaration%20of%20Conformity.pdf
+  - https://www.advancedenergy.com/getmedia/049aa2c6-1c57-4a41-badc-a09f3f868a94/ENG-NGB660-modified-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/4a8f92f9-f9cd-4881-bda4-f284a0b52e09/NGB660_Value_Proposition.pdf
+  - https://www.advancedenergy.com/getmedia/271aa545-abd5-4acf-96ff-d67f34f4c13b/ENG-NGB425-LFDS-03-08-24.pdf
+  - https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - https://www.advancedenergy.com/getmedia/8ab778fa-da21-4e9f-931a-2d9d02590f2b/ENG-LU500-03.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/11e9b794-6af9-42a1-ae90-44d5f3b75a0e/NGB660-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d616299b-7f0a-4727-8c40-6c5c95f12f1e/NGB660-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/db4920c8-dd90-447b-a148-da12d8d348e7/NGB660-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8be1a972-b95a-483c-88c5-36e23f0e7596/NGB660-D.jpg
+  - Image: https://img.youtube.com/vi/1yASKbnvDnQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/11e9b794-6af9-42a1-ae90-44d5f3b75a0e/NGB660-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d616299b-7f0a-4727-8c40-6c5c95f12f1e/NGB660-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/db4920c8-dd90-447b-a148-da12d8d348e7/NGB660-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8be1a972-b95a-483c-88c5-36e23f0e7596/NGB660-D.jpg
+  - Image: https://img.youtube.com/vi/1yASKbnvDnQ/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/11e9b794-6af9-42a1-ae90-44d5f3b75a0e/NGB660-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d616299b-7f0a-4727-8c40-6c5c95f12f1e/NGB660-B.jpg
+  - Image: https://www.advancedenergy.com/getattachment/db4920c8-dd90-447b-a148-da12d8d348e7/NGB660-C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8be1a972-b95a-483c-88c5-36e23f0e7596/NGB660-D.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - AE's SL Power NGB Series: https://i.ytimg.com/vi/1yASKbnvDnQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/de30fc64-bce6-4106-b9ce-d433da7f9f98/NGB425-img-1585955932.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7b135346-397a-440a-83f8-b6c12ba381d8/MINT1500.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ceb6f44f-04f2-4971-895e-f2850c18249c/LU500-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/0b6df03e-6227-4152-97d3-b7ae8befb70a/NGB800-img-1663798077.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNGB425 Series425 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/ngb425-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/271aa545-abd5-4acf-96ff-d67f34f4c13b/ENG-NGB425-LFDS-03-08-24.pdf
+  - FeaturedMINT1500 Series500 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/mint1500-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - FeaturedLU500 Series500 W Single Output LED Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/lu500-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/8ab778fa-da21-4e9f-931a-2d9d02590f2b/ENG-LU500-03.24.23.pdf
+  - FeaturedNGB800 Series800 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb800-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - UltrasoundAdvanced Energy provides power supply solutions for medical imaging ultrasound equipment, providing reliable and efficient power to these essential medical devices.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - Explore Ultrasound: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Industrial and Collaborative RobotsModifiable AC-DC and DC-DC solutions for industrial and collaborative robots. Efficient, reliable power supplies support high-volume production and cut costs: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - Explore Industrial and Collaborative Robots: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - PEF / PFAOur precision power control solutions are designed to empower medical equipment designers to deliver advanced ablation systems that enable more precise targeting of tumors, improve the efficacy of treatments, and ultimately deliver better outcomes for patients and doctors.: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - Explore PEF: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+501 - 999 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsChassis mount constructionPeak power capabilities
+  ↓
+FeaturedNGB660 Series660 W Single Output Medical & Industrial Grade

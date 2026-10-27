@@ -1,0 +1,98 @@
+==============================================================================
+PRODUCT DETAILS: High Voltage AmplifiersEnable extreme control as high voltage output passes through 0 VDC regionsMore accurately track and reproduce fast-changing voltage control profilesCompensate for varying external loads by adaptively controlling both output voltage and current
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: UltraVolt High Voltage PCB MountOur HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/high-voltage-boost-(u-v)/
+Category Description: Our HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: High Voltage AmplifiersEnable extreme control as high voltage output passes through 0 VDC regionsMore accurately track and reproduce fast-changing voltage control profilesCompensate for varying external loads by adaptively controlling both output voltage and current
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/high-voltage-boost-(u-v)/high-voltage-amplifiers/
+
+Complete Product Description:
+Our extensive line of high voltage amplifiers offer numerous voltage and current ranges to accommodate your demanding applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Embedded Power Brochure: https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - Medical Power Supplies Brochure: https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - Rapid Modification & Value-Added Engineering Solutions: https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - UltraVolt 10HVA and 20HVA Series: https://www.advancedenergy.com/getmedia/791269dd-a10b-4a6b-b3ed-59e11c81e651/en-hv-10hva-20hva-series-data-sheet.pdf
+  - UltraVolt HVA Series Data Sheet: https://www.advancedenergy.com/getmedia/6475d563-3853-49b6-8f20-caec34b77d41/ultravolt-hvaseries-data-sheet.pdf
+  - Medical Power Supplies Selector Guide: https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - Derating of Aluminum  Electrolytic Capacitors in High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - Medical Lasers and Aesthetic Equipment Application Note: https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - Parallel Operation of UltraVolt HVPS Application Note: https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - Performing Isolation Tests on High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - Programming the HVA Series Application Note: https://www.advancedenergy.com/getmedia/2b52a66a-1433-48e6-a63d-d711c878872a/en-hv-programming-hva-series-application-note.pdf
+  - Programming the HVA Series Application Note: https://www.advancedenergy.com/getmedia/7b833ed7-96a8-43cc-a6a0-db0890903f2a/en-hv-programming-hva-series-application-note.pdf
+  - Protection of High Voltage Power Supplies in Single and Multiple Applications Application Note: https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - Remote Control of High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/4237f6e6-116e-4721-bfe9-384dc3391053/en-hv-remote-control-high-voltage-power-supply-application-note.pdf
+  - UltraVolt HVPS Polarity Reversing Configurations Application Note: https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - High Voltage Power Supply Enables EHD System Performance: https://www.advancedenergy.com/getmedia/3ee31362-fa34-4400-866f-31056a1bf195/ENG-EHD-System-Case-Study-295-01.pdf
+  - HV Power Supply Femtosecond Laser Equipment Case Study: https://www.advancedenergy.com/getmedia/52dfd2af-60b4-4e18-a192-b6a400bef6ac/en-hv-eye-surgery-case-study.pdf
+  - Multiple High-Voltage Power Supplies Required in Electron Gun Controller: https://www.advancedenergy.com/getmedia/5c41ee09-1125-4614-af09-142f74b0fc35/ENG-Electron-Gun-Controller-Case-Study-295-01_final.pdf
+  - Transforming Semiconductor Testing with Advanced Energy 's Cutting-Edge High Voltage Amplifier: https://www.advancedenergy.com/getmedia/476fe4ab-4600-41b2-81ea-72d204071479/ENG-Semiconductor-Testing-Case-Study-295-01.pdf
+  - Medical Equipment Power Supplies Checklist: https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/791269dd-a10b-4a6b-b3ed-59e11c81e651/en-hv-10hva-20hva-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/6475d563-3853-49b6-8f20-caec34b77d41/ultravolt-hvaseries-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/2b52a66a-1433-48e6-a63d-d711c878872a/en-hv-programming-hva-series-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/7b833ed7-96a8-43cc-a6a0-db0890903f2a/en-hv-programming-hva-series-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/4237f6e6-116e-4721-bfe9-384dc3391053/en-hv-remote-control-high-voltage-power-supply-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3ee31362-fa34-4400-866f-31056a1bf195/ENG-EHD-System-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/52dfd2af-60b4-4e18-a192-b6a400bef6ac/en-hv-eye-surgery-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/5c41ee09-1125-4614-af09-142f74b0fc35/ENG-Electron-Gun-Controller-Case-Study-295-01_final.pdf
+  - https://www.advancedenergy.com/getmedia/476fe4ab-4600-41b2-81ea-72d204071479/ENG-Semiconductor-Testing-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c220c611-b6a9-404c-9485-37b54e5b71cc/HVA-Series.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+UltraVolt High Voltage PCB MountOur HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+  ↓
+High Voltage AmplifiersEnable extreme control as high voltage output passes through 0 VDC regionsMore accurately track and reproduce fast-changing voltage control profilesCompensate for varying external loads by adaptively controlling both output voltage and current

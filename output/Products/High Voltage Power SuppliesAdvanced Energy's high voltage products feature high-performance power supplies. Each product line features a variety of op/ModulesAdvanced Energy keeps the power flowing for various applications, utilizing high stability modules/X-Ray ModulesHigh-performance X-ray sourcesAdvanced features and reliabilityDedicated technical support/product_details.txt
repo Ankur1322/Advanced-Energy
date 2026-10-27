@@ -1,0 +1,62 @@
+==============================================================================
+PRODUCT DETAILS: X-Ray ModulesHigh-performance X-ray sourcesAdvanced features and reliabilityDedicated technical support
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: ModulesAdvanced Energy keeps the power flowing for various applications, utilizing high stability modules.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: X-Ray ModulesHigh-performance X-ray sourcesAdvanced features and reliabilityDedicated technical support
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/x-ray-modules/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - MH100 Series Data Sheet: https://www.advancedenergy.com/getmedia/1ead61d5-622b-46d3-989d-e40f3529c161/ENG-HV-MH100-235-05-02-19-25.pdf
+  - XRG70 Series Data Sheet: https://www.advancedenergy.com/getmedia/004e37ea-abb6-4f18-a27a-8f1793c1bfa1/ENG-HV-XRG70-231-06-02-07-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/1ead61d5-622b-46d3-989d-e40f3529c161/ENG-HV-MH100-235-05-02-19-25.pdf
+  - https://www.advancedenergy.com/getmedia/004e37ea-abb6-4f18-a27a-8f1793c1bfa1/ENG-HV-XRG70-231-06-02-07-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/8dfc7bd9-8283-4559-ac19-084b5dc7cc25/xr150-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+ModulesAdvanced Energy keeps the power flowing for various applications, utilizing high stability modules.
+  ↓
+X-Ray ModulesHigh-performance X-ray sourcesAdvanced features and reliabilityDedicated technical support

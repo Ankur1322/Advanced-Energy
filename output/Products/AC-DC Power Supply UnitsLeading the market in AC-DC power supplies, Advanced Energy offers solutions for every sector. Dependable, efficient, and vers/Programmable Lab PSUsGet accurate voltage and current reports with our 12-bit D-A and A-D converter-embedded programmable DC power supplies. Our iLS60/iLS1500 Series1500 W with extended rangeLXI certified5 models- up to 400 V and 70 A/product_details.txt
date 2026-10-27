@@ -1,0 +1,88 @@
+==============================================================================
+PRODUCT DETAILS: iLS1500 Series1500 W with extended rangeLXI certified5 models: up to 400 V and 70 A
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Programmable Lab PSUsGet accurate voltage and current reports with our 12-bit D/A and A/D converter-embedded programmable DC power supplies. Our iLS600 and iLS1500 series offer a single power output of 600 W and 1,500 W.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/programmable-lab-psus/
+Category Description: Get accurate voltage and current reports with our 12-bit D/A and A/D converter-embedded programmable DC power supplies. Our iLS600 and iLS1500 series offer a single power output of 600 W and 1,500 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: iLS1500 Series1500 W with extended rangeLXI certified5 models: up to 400 V and 70 A
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/programmable-lab-psus/ils1500-series/
+
+Complete Product Description:
+Advanced Energy’s Artesyn iLS1500 series is a programmable DC power supply with a single 1500 W output.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/796a6810-da55-4b19-9e33-2f756a8ddfba/eng-ils1500-235-01_3_31_1617631625562157.pdf
+  - iLS1500 Series Datasheet: https://www.advancedenergy.com/getmedia/796a6810-da55-4b19-9e33-2f756a8ddfba/ENG-iLS1500-235-01-03-06-24.pdf
+  - iLS Programming Manual: https://www.advancedenergy.com/getmedia/e0cb9965-ab16-4b3f-a107-eec0a5ff39aa/ac-dc_bench_ils_series_-_progr1625564145_037.pdf
+  - iLS Series Scripting Language Manual: https://www.advancedenergy.com/getmedia/3163e9e8-69b6-4ab6-a835-5a852b6826fa/ac-dc_bench_ils_series_-_scrip1625564146_662.pdf
+  - iLS1500 Series User Manual Technical Reference: https://www.advancedenergy.com/getmedia/ae7c5e5f-0cc3-4b1c-a92b-0a48e3ed6533/ac-dc_ils1500_series_user_manu1625564151_006.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/54e845ff-52fd-4ac7-a24a-3ed78bcef790/eng-ils600-235-01_3_31_1617634261.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/796a6810-da55-4b19-9e33-2f756a8ddfba/eng-ils1500-235-01_3_31_1617631625562157.pdf
+  - https://www.advancedenergy.com/getmedia/796a6810-da55-4b19-9e33-2f756a8ddfba/ENG-iLS1500-235-01-03-06-24.pdf
+  - https://www.advancedenergy.com/getmedia/e0cb9965-ab16-4b3f-a107-eec0a5ff39aa/ac-dc_bench_ils_series_-_progr1625564145_037.pdf
+  - https://www.advancedenergy.com/getmedia/3163e9e8-69b6-4ab6-a835-5a852b6826fa/ac-dc_bench_ils_series_-_scrip1625564146_662.pdf
+  - https://www.advancedenergy.com/getmedia/ae7c5e5f-0cc3-4b1c-a92b-0a48e3ed6533/ac-dc_ils1500_series_user_manu1625564151_006.pdf
+  - https://www.advancedenergy.com/getmedia/54e845ff-52fd-4ac7-a24a-3ed78bcef790/eng-ils600-235-01_3_31_1617634261.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/fe719c51-e70e-46c4-9f1b-434f67ba8726/9ae7e4b93b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0236b193-6e1d-43ba-b863-e52b5f4b7dce/1cb791db19.jpg
+  - Image: https://www.advancedenergy.com/getattachment/253701a5-5b99-454d-ac0c-2b00b71c0d8b/f2acf2b3a8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d66a2e6-20cf-4231-86cc-71138ba2bba4/fd98a7e376.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fe719c51-e70e-46c4-9f1b-434f67ba8726/9ae7e4b93b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0236b193-6e1d-43ba-b863-e52b5f4b7dce/1cb791db19.jpg
+  - Image: https://www.advancedenergy.com/getattachment/253701a5-5b99-454d-ac0c-2b00b71c0d8b/f2acf2b3a8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d66a2e6-20cf-4231-86cc-71138ba2bba4/fd98a7e376.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fe719c51-e70e-46c4-9f1b-434f67ba8726/9ae7e4b93b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0236b193-6e1d-43ba-b863-e52b5f4b7dce/1cb791db19.jpg
+  - Image: https://www.advancedenergy.com/getattachment/253701a5-5b99-454d-ac0c-2b00b71c0d8b/f2acf2b3a8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d66a2e6-20cf-4231-86cc-71138ba2bba4/fd98a7e376.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e84a4bc8-5134-4a18-9f11-64e3740fb2fc/ils1500_front_1621586137_310_1625731996_668.png
+  - Intelligent Programmable DC Power Supplies - Advanced Energy’s Artesyn iLS Series: https://i.ytimg.com/vi/FyxeWm7aayA/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f0aa9667-1143-4d95-ace6-5de90a02ddac/3d20d0dfff.png
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturediLS600 SeriesIntelligent Laboratory Power 600 W Bench Programmable Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/programmable-lab-psus/ils600-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/54e845ff-52fd-4ac7-a24a-3ed78bcef790/eng-ils600-235-01_3_31_1617634261.pdf
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Programmable Lab PSUsGet accurate voltage and current reports with our 12-bit D/A and A/D converter-embedded programmable DC power supplies. Our iLS600 and iLS1500 series offer a single power output of 600 W and 1,500 W.
+  ↓
+iLS1500 Series1500 W with extended rangeLXI certified5 models: up to 400 V and 70 A

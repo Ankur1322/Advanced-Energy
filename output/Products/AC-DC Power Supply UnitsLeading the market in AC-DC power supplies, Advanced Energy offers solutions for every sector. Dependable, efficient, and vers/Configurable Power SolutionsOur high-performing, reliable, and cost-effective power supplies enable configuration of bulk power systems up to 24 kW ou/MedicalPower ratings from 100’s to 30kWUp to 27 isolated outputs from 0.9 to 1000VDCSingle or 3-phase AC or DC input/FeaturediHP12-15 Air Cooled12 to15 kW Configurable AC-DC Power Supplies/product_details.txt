@@ -1,0 +1,183 @@
+==============================================================================
+PRODUCT DETAILS: FeaturediHP12/15 Air Cooled12 to15 kW Configurable AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: MedicalPower ratings from 100’s to 30kWUp to 27 isolated outputs from 0.9 to 1000VDCSingle or 3-phase AC or DC input
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/medical/
+Category Description: Configurable Products for Medical Applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturediHP12/15 Air Cooled12 to15 kW Configurable AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/medical/ihp12-15/
+
+Complete Product Description:
+12 to15 kW Configurable AC-DC Power Supplies
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - Horticultural Lighting Brochure_Chinese Version Catalog: https://www.advancedenergy.com/getmedia/adcfdb56-e711-41ea-a024-1d13cced90b7/horticulture_lighting_brochure1497936883.pdf
+  - Horticultural Lighting Brochure_English Version Catalog: https://www.advancedenergy.com/getmedia/003c8611-0b96-42d9-a147-44e6fa0d17b0/ENG-OT-Horticultural-Lighting-265-03.pdf
+  - Horticultural Lighting Brochure_Japanese Version Catalog: https://www.advancedenergy.com/getmedia/fbb00f13-5b03-4eac-9c86-83398d23e966/horticulture_lighting_brochure1497937020.pdf
+  - iHP Series Brochure_Chinese Version Catalog: https://www.advancedenergy.com/getmedia/d63b8e25-38a6-4c14-8703-e92b7a45ada5/f2014876_-_ihp_brochure_sc_04-1493173860.pdf
+  - iHP Series Brochure_English Version Catalog: https://www.advancedenergy.com/getmedia/417c6548-cdc4-47fa-aa2b-229c4e2319fb/ihpbrochure-lr_1490626822.pdf
+  - iHP Series Brochure_Japanese Version Catalog: https://www.advancedenergy.com/getmedia/a4e87b4a-e2c0-4452-949c-6d1bf88f45d5/f2014876_-_ihp_brochure_jp_04-1494489985.pdf
+  - iHP Datasheet: https://www.advancedenergy.com/getmedia/e590bd21-b453-4364-aeae-cb19cce83ac0/ENG-IHP-235-01-12-24-25.pdf
+  - DK-53706-A2-UL Safety Certificate: https://www.advancedenergy.com/getmedia/8822f8c7-aefe-43bd-9b37-e6afff17d09e/dk-53706-a2-ul_1544208366_378.pdf
+  - DK-62653-A2-UL Safety Certificate: https://www.advancedenergy.com/getmedia/03642e65-de83-40b3-a634-7afd2acccf20/dk-62653-a2-ul_1544208374_549.pdf
+  - E186249-A314-CB-1-Amendment-2 Safety Certificate: https://www.advancedenergy.com/getmedia/f1ce408d-0c3e-438f-a5cb-288d59ebb4d3/e186249-a314-cb-1-amendment-2_1544208440_979.pdf
+  - iHP 125V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/c7036e43-1279-4b72-99b0-1c9ff38edf46/73-936-0125_ce_1544207164_186.pdf
+  - iHP 12V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/d4237bd7-c4f3-4560-a18b-cb5b73729ae6/73-936-0012_ce_1544205649_cert.pdf
+  - iHP 200V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/f1e6dc93-e0a7-4437-8a26-4f097be6eeab/73-936-0200_ce_1544207168_135.pdf
+  - iHP 24V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/55264405-d2c1-430f-86a4-1b9c5a72714f/73-936-0024_ce_1544205699_cert.pdf
+  - iHP 250V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/a3699081-ab74-4011-bde2-07601ad4e762/73-936-0250_ce_1544207174_158.pdf
+  - iHP 32V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/e8425621-b9d2-430b-90b3-92d9e1d732bf/73-936-0032_ce_1544206946_cert.pdf
+  - iHP 48V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/1f708b0e-1be5-447c-8d55-a796161db4bc/73-936-0048_ce_1544207005_847.pdf
+  - iHP 80V 3000W Module CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/b01d27a6-2f01-4bb1-acd3-b5fc321ce66b/73-936-0080_ce_1544207159_868.pdf
+  - iHP CB Test Cert for 12/24 KW Racks Safety Certificate: https://www.advancedenergy.com/getmedia/d54c47e1-f75e-4816-ab0a-18d7a45b325c/73-959-0001_73-958-0001_sg_psb1544207995_cert.pdf
+  - iHP config_CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/0baf24bf-21fe-4648-b808-69ce2c6b6e41/ihp_config_ce_1544208445_180.pdf
+  - iHP IEC 62368 CB Test Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/fe57e979-a917-4209-a767-8de3e0e68dc3/ihp_module_cb_cert_1598869309_cert.pdf
+  - iHP Modules CB Test Cert Safety Certificate: https://www.advancedenergy.com/getmedia/5c2e8da7-135c-47ed-becb-1f8740a1a701/73-936-0xxx_cb_cert_sg_psb-md-1544204950_cert.pdf
+  - iHP Modules TUV Cert Safety Certificate: https://www.advancedenergy.com/getmedia/84b5553c-02ad-4620-8f77-46f1bc936b0c/73-936-0xxx_tuv_certificate_1544205373_cert.pdf
+  - iHP Modules UL Test Report 60950-1 Safety Certificate: https://www.advancedenergy.com/getmedia/c13fa9a4-9e04-4034-acd8-3bc70f7b2077/73-936-0xxx_ul_60950-1_1544205500_cert.pdf
+  - iHP modules UL Test Report ES60601 Safety Certificate: https://www.advancedenergy.com/getmedia/99ed6685-77ff-4a7c-a679-e9991435c315/73-936-0xxx_es_60601-1_3_1_1544205157_cert.pdf
+  - iHP TUV Cert 12/24 KW Racks Safety Certificate: https://www.advancedenergy.com/getmedia/ff8df7e8-7c82-49d3-9e68-80b6e19174eb/73-959-0001_73-958-0001_tuv_ce1544208080_cert.pdf
+  - iHP UL 60950 Cert 12/24 KW Racks Safety Certificate: https://www.advancedenergy.com/getmedia/d92465e8-56c6-4d85-84a0-4ce052770b50/73-959-0001_73-958-0001_ul_6091544208257_cert.pdf
+  - iHP UL Test Report for 12/24 KW Racks Safety Certificate: https://www.advancedenergy.com/getmedia/6271b03d-d049-44f1-86b6-dde6fdeefb4c/73-959-0001_73-958-0001_es_6061544207820_cert.pdf
+  - iHP12 Rack CE Declaration Safety Certificate: https://www.advancedenergy.com/getmedia/ea82804f-dd68-4a54-9c68-d01af09028b7/73-958-0001_ce_1544207656_cert.pdf
+  - iHP Product Users Manual Operating Instructions: https://www.advancedenergy.com/getmedia/403a4a3a-6a39-496b-8321-96102d6e46c0/ihp_operating_manual_release_91505761247.pdf
+  - iHP Compatibility Revision Reference Technical Reference: https://www.advancedenergy.com/getmedia/abc9b522-b44b-4c08-8bcf-d29f5f87862f/970-012814-0000_ihp_compatibil1506381448_techref.pdf
+  - iHP Series Software Technical Reference Note: https://www.advancedenergy.com/getmedia/d3ea0a5f-6241-4938-a204-5b15a73d588d/TRN-AC-DC-iHP-Software-Release-1-3-(110525).pdf
+  - iHP Series Technical Reference Note: https://www.advancedenergy.com/getmedia/74c93d00-6179-46ea-a5a8-493c3392f4c3/TRN-AC-DC-iHP-Series-Release-2-5-(110625).pdf
+  - Horticultural White Paper - Chinese Version: https://www.advancedenergy.com/getmedia/b4d221df-f0dc-4beb-83e1-3ead62cb7c96/horticultural_white_paper_20191558952654_WP.pdf
+  - Horticultural White Paper - English Version: https://www.advancedenergy.com/getmedia/0bad5223-18f5-4f65-822b-ddf485fa6654/horticultural_white_paper_20191554457715_545.pdf
+  - Horticultural White Paper - Japan Version: https://www.advancedenergy.com/getmedia/3f743616-c72e-4fe5-833b-5e024b5bed45/horticultural_white_paper_20191558952720_WP.pdf
+  - Horticultural White Paper - Korea Version: https://www.advancedenergy.com/getmedia/cbf9a851-22c9-409c-a06a-69ca8806a94b/horticultural_white_paper_20191558952688_WP.pdf
+  - iHP Modules: https://www.advancedenergy.com/getmedia/8c1be776-a674-492c-9cc1-28f56797db88/ENG-IHP-Modules-05-19-2025.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/56c33c3a-3377-4ba5-8072-cf544ed468f9/ENG-iHP-Liquid-Cooled-10-31-2025.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/adcfdb56-e711-41ea-a024-1d13cced90b7/horticulture_lighting_brochure1497936883.pdf
+  - https://www.advancedenergy.com/getmedia/003c8611-0b96-42d9-a147-44e6fa0d17b0/ENG-OT-Horticultural-Lighting-265-03.pdf
+  - https://www.advancedenergy.com/getmedia/fbb00f13-5b03-4eac-9c86-83398d23e966/horticulture_lighting_brochure1497937020.pdf
+  - https://www.advancedenergy.com/getmedia/d63b8e25-38a6-4c14-8703-e92b7a45ada5/f2014876_-_ihp_brochure_sc_04-1493173860.pdf
+  - https://www.advancedenergy.com/getmedia/417c6548-cdc4-47fa-aa2b-229c4e2319fb/ihpbrochure-lr_1490626822.pdf
+  - https://www.advancedenergy.com/getmedia/a4e87b4a-e2c0-4452-949c-6d1bf88f45d5/f2014876_-_ihp_brochure_jp_04-1494489985.pdf
+  - https://www.advancedenergy.com/getmedia/e590bd21-b453-4364-aeae-cb19cce83ac0/ENG-IHP-235-01-12-24-25.pdf
+  - https://www.advancedenergy.com/getmedia/8822f8c7-aefe-43bd-9b37-e6afff17d09e/dk-53706-a2-ul_1544208366_378.pdf
+  - https://www.advancedenergy.com/getmedia/03642e65-de83-40b3-a634-7afd2acccf20/dk-62653-a2-ul_1544208374_549.pdf
+  - https://www.advancedenergy.com/getmedia/f1ce408d-0c3e-438f-a5cb-288d59ebb4d3/e186249-a314-cb-1-amendment-2_1544208440_979.pdf
+  - https://www.advancedenergy.com/getmedia/c7036e43-1279-4b72-99b0-1c9ff38edf46/73-936-0125_ce_1544207164_186.pdf
+  - https://www.advancedenergy.com/getmedia/d4237bd7-c4f3-4560-a18b-cb5b73729ae6/73-936-0012_ce_1544205649_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f1e6dc93-e0a7-4437-8a26-4f097be6eeab/73-936-0200_ce_1544207168_135.pdf
+  - https://www.advancedenergy.com/getmedia/55264405-d2c1-430f-86a4-1b9c5a72714f/73-936-0024_ce_1544205699_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a3699081-ab74-4011-bde2-07601ad4e762/73-936-0250_ce_1544207174_158.pdf
+  - https://www.advancedenergy.com/getmedia/e8425621-b9d2-430b-90b3-92d9e1d732bf/73-936-0032_ce_1544206946_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1f708b0e-1be5-447c-8d55-a796161db4bc/73-936-0048_ce_1544207005_847.pdf
+  - https://www.advancedenergy.com/getmedia/b01d27a6-2f01-4bb1-acd3-b5fc321ce66b/73-936-0080_ce_1544207159_868.pdf
+  - https://www.advancedenergy.com/getmedia/d54c47e1-f75e-4816-ab0a-18d7a45b325c/73-959-0001_73-958-0001_sg_psb1544207995_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0baf24bf-21fe-4648-b808-69ce2c6b6e41/ihp_config_ce_1544208445_180.pdf
+  - https://www.advancedenergy.com/getmedia/fe57e979-a917-4209-a767-8de3e0e68dc3/ihp_module_cb_cert_1598869309_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5c2e8da7-135c-47ed-becb-1f8740a1a701/73-936-0xxx_cb_cert_sg_psb-md-1544204950_cert.pdf
+  - https://www.advancedenergy.com/getmedia/84b5553c-02ad-4620-8f77-46f1bc936b0c/73-936-0xxx_tuv_certificate_1544205373_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c13fa9a4-9e04-4034-acd8-3bc70f7b2077/73-936-0xxx_ul_60950-1_1544205500_cert.pdf
+  - https://www.advancedenergy.com/getmedia/99ed6685-77ff-4a7c-a679-e9991435c315/73-936-0xxx_es_60601-1_3_1_1544205157_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ff8df7e8-7c82-49d3-9e68-80b6e19174eb/73-959-0001_73-958-0001_tuv_ce1544208080_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d92465e8-56c6-4d85-84a0-4ce052770b50/73-959-0001_73-958-0001_ul_6091544208257_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6271b03d-d049-44f1-86b6-dde6fdeefb4c/73-959-0001_73-958-0001_es_6061544207820_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ea82804f-dd68-4a54-9c68-d01af09028b7/73-958-0001_ce_1544207656_cert.pdf
+  - https://www.advancedenergy.com/getmedia/403a4a3a-6a39-496b-8321-96102d6e46c0/ihp_operating_manual_release_91505761247.pdf
+  - https://www.advancedenergy.com/getmedia/abc9b522-b44b-4c08-8bcf-d29f5f87862f/970-012814-0000_ihp_compatibil1506381448_techref.pdf
+  - https://www.advancedenergy.com/getmedia/d3ea0a5f-6241-4938-a204-5b15a73d588d/TRN-AC-DC-iHP-Software-Release-1-3-(110525).pdf
+  - https://www.advancedenergy.com/getmedia/74c93d00-6179-46ea-a5a8-493c3392f4c3/TRN-AC-DC-iHP-Series-Release-2-5-(110625).pdf
+  - https://www.advancedenergy.com/getmedia/b4d221df-f0dc-4beb-83e1-3ead62cb7c96/horticultural_white_paper_20191558952654_WP.pdf
+  - https://www.advancedenergy.com/getmedia/0bad5223-18f5-4f65-822b-ddf485fa6654/horticultural_white_paper_20191554457715_545.pdf
+  - https://www.advancedenergy.com/getmedia/3f743616-c72e-4fe5-833b-5e024b5bed45/horticultural_white_paper_20191558952720_WP.pdf
+  - https://www.advancedenergy.com/getmedia/cbf9a851-22c9-409c-a06a-69ca8806a94b/horticultural_white_paper_20191558952688_WP.pdf
+  - https://www.advancedenergy.com/getmedia/8c1be776-a674-492c-9cc1-28f56797db88/ENG-IHP-Modules-05-19-2025.pdf
+  - https://www.advancedenergy.com/getmedia/56c33c3a-3377-4ba5-8072-cf544ed468f9/ENG-iHP-Liquid-Cooled-10-31-2025.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/25800e7b-0afc-4cc7-a511-dc49cf51f4be/iHP12-15.jpg
+  - Image: https://www.advancedenergy.com/getattachment/25800e7b-0afc-4cc7-a511-dc49cf51f4be/iHP12-15.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/07653bc5-acb0-4589-abe0-d0c9edbd744f/iHP-ECAT-ISOCOMM-3/
+  - Image: https://www.advancedenergy.com/getmetafile/77d71def-981a-4747-9a8b-91ada4539202/iHP-ECAT-ISOCOMM-3/
+  - Image: https://www.advancedenergy.com/images/config-pro.png
+  - iHP Group digital voltage source setup: https://i.ytimg.com/vi/d0YfJ3M7LWw/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c44236f6-5fb7-4891-961c-f9b6a39e9d60/iHP-liquid-cooled-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/a8c0d591-7600-4c71-ac52-35f73203af74/iHP24-30-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/db3a6b71-27ca-41f3-98c5-3ddd308789c9/iHP24S-30S-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturediHP20S Liquid CooledUp to 20 kW Configurable, Liquid-Cooled AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp24-liquid-cool/
+  - Datasheet: https://www.advancedenergy.com/getmedia/56c33c3a-3377-4ba5-8072-cf544ed468f9/ENG-iHP-Liquid-Cooled-10-31-2025.pdf
+  - FeaturediHP24/30 Air Cooled24k to 30k W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp24-30/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - FeaturediHP24S/30S Air Cooled24k to 30k W Configurable, Short AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp24-30s/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+MedicalPower ratings from 100’s to 30kWUp to 27 isolated outputs from 0.9 to 1000VDCSingle or 3-phase AC or DC input
+  ↓
+FeaturediHP12/15 Air Cooled12 to15 kW Configurable AC-DC Power Supplies

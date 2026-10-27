@@ -1,0 +1,179 @@
+==============================================================================
+PRODUCT DETAILS: LGA DAdjustable output within the range of 0.6 V to 5.2 VDC by either PMBus or external resistor configurationFootprint of 1 x 0.5 inches (25.4 x 12.5 mm)Withstands reflow oven temperatures and supplied in tape-and-reel packaging for high-volume production
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Non-Isolated PCB MountMinimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/
+Category Description: Minimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: LGA DAdjustable output within the range of 0.6 V to 5.2 VDC by either PMBus or external resistor configurationFootprint of 1 x 0.5 inches (25.4 x 12.5 mm)Withstands reflow oven temperatures and supplied in tape-and-reel packaging for high-volume production
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/lga-d/
+
+Complete Product Description:
+The LGA-D family are non-isolated DC-DC converters designed for cost and space sensitive applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - Digital DC-DC Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - Digital DC-DC Brochure_English: https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - Digital DC-DC Brochure_Japanese Version: https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - LGA Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/d8422f68-f0d1-4129-9e8f-41355a79ca5a/zho-aep-dcdc-lga_9_07_1631082477.pdf
+  - LGA Brochure - English Version: https://www.advancedenergy.com/getmedia/3773344e-8737-46f4-a4bd-ec88726da0ff/eng-aep-dcdc-lga_9_07_1631082348.pdf
+  - LGA50D Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/4d19fcdb-1e81-4acc-9cf8-8b3e0c2c49c6/lga50d_brochure_sc_1550128876.pdf
+  - LGA50D Brochure_English: https://www.advancedenergy.com/getmedia/eba208be-0b7f-47c2-8914-f65d0714bef1/lga50d_brochure_1546445596.pdf
+  - LGA80D Product Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/dcdc61c0-7a97-45fd-8496-88bea98d6131/lga80d-brochure_s_07-11-16_1468208015.pdf
+  - LGA80D Product Brochure_English Version: https://www.advancedenergy.com/getmedia/f7917078-edcd-4555-93aa-58de4a1e08a3/lga80d-brochure-r1_web_1467821331.pdf
+  - LGA80D Product Brochure_Japanese Version: https://www.advancedenergy.com/getmedia/433e6182-cebc-4ad8-9859-d37bf922e368/lga80d-brochure_j_06-20-16_1466993878.pdf
+  - LGA110D Datasheet: https://www.advancedenergy.com/getmedia/b5f0640c-bc4c-4c5b-9559-13627f17f0d9/ENG-LGA110D-235-03-08-25-23.pdf
+  - LGA110D-01DADJJB Data Sheet: https://www.advancedenergy.com/getmedia/780db8d6-6959-45d0-ac25-1d6bcedfdc77/ENG-LGA110D-235-03-08-25-23.pdf
+  - LGA50D Low Profile Series Datasheet: https://www.advancedenergy.com/getmedia/6a3d8722-91eb-44c1-af9d-cf01c998abf2/lga50d-jlpj_jlp1j_ds_1547128401.pdf
+  - LGA50D Standard Profile Series Datasheet: https://www.advancedenergy.com/getmedia/f9239de8-7221-42e5-b657-45e76b4d1182/lga50d-jj_jsbj_ds_1547128401.pdf
+  - LGA80D Series Datasheet: https://www.advancedenergy.com/getmedia/3f2305e9-5b4a-4c8f-9ca7-728d23546afd/lga80d_ds_1465290025.pdf
+  - REACh-CoC_235_LGA110D-01DADJJB: https://www.advancedenergy.com/getmedia/e3c07fbd-b8ed-4dde-a740-302d6aa58d84/REACh-CoC_235_LGA110D-01DADJJB.pdf
+  - LGA110D REACH cert REACH Certificate: https://www.advancedenergy.com/getmedia/0b0da89e-d5d0-4f5b-8af0-3163a9e3a6c4/lga110d-01dadjj_reach_coc_1631696724_REACH.pdf
+  - LGA50D JLPJ REACH REACH Certificate: https://www.advancedenergy.com/getmedia/9ca58134-9dca-4c03-a75f-8670c6b29ef2/lga50d_jlpj_version_reach_1542974188_REACH.pdf
+  - LGA50D-01DADJJ REACH cert REACH Certificate: https://www.advancedenergy.com/getmedia/b69079ea-c3a9-4608-b1c5-3cf527bb0764/lga50d_jj_version_reach_1538745515_REACH.pdf
+  - LGA50D-01DADJSBJ REACH cert REACH Certificate: https://www.advancedenergy.com/getmedia/c306f0af-4fcd-41cf-84d3-458a1948e010/lga50d_jsbj_version_reach_1538745593_REACH.pdf
+  - LGA80D Reach Cert REACH Certificate: https://www.advancedenergy.com/getmedia/1ab965d1-b54a-4673-bc53-4b1222439721/reach_coc_lga80d-00dadjj_031621463137491_REACH.pdf
+  - LGA110D RoHS CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/bb3f0d39-a7fd-47d6-8820-569f3aa5273b/lga110d-01dadjj_rohs_coc_1629917199_rohs_.pdf
+  - LGA50D JLPJ RoHS RoHS Certificate: https://www.advancedenergy.com/getmedia/fd81f789-7440-4c99-9123-c7111b932278/lga50d_jlpj_version_rohs_1542974224_rohs_.pdf
+  - LGA50D-01DADJJ RoHS cert RoHS Certificate: https://www.advancedenergy.com/getmedia/10f2b6de-9362-47ad-ba88-30aa3e10eb1b/lga50d_jj_version_rohs_1538745634_rohs_.pdf
+  - LGA50D-01DADJSBJ RoHS cert RoHS Certificate: https://www.advancedenergy.com/getmedia/58140b04-1143-4531-862d-be14abae3ce7/lga50d_jsbj_version_rohs_1538745669_rohs_.pdf
+  - LGA80D RoHS cert RoHS Certificate: https://www.advancedenergy.com/getmedia/637920b4-2f17-4b93-92b0-99f6e5ba70d6/rohs2_coc_lga80d-00dadjj_031621463137449_rohs_.pdf
+  - REACH CoC LGA110D-01DADJJB: https://www.advancedenergy.com/getmedia/64e8dd74-7d49-44ff-b2ad-c90268c58aec/REACh-CoC_235_LGA110D-01DADJJB.pdf
+  - RoHS3-CoC for LGA110D-01DADJJB: https://www.advancedenergy.com/getmedia/b10a49a7-fb5c-4d99-be6f-edc7816293dd/RoHS3-CoC_LGA110D-01DADJJB_20JULY2023.pdf
+  - LGA GUI User manual: https://www.advancedenergy.com/getmedia/419c589b-2a50-4296-a993-51504c54163c/lga-dguiusermanual_rev09_1542976579.pdf
+  - LGA50D Evaluation Kit—LGA50D JJ and JSBJ demo-kit user manual: https://www.advancedenergy.com/getmedia/9e07de68-2480-4b0a-be2d-ed27c8f9a7b3/lga50d-jj_jsbj_evalboarduserma1541764237.pdf
+  - App Test Note - modifications required to connect 2 demo-cards together for 6ph O/P: https://www.advancedenergy.com/getmedia/edfa3213-ae29-40c3-8ad9-c5ce14eadca6/an10026_-_lga80d-00dadjj_-_6_p1477994769_appnote.pdf
+  - LGA110D-01DADJJB Tech Ref Note: https://www.advancedenergy.com/getmedia/600ab126-9b67-4d79-9c95-3938b723e635/TRN-DC-DC-LGA110D-Release-1-4-(011326).pdf
+  - LGA110D Demo Kit PCB Layout: https://www.advancedenergy.com/getmedia/06a60e1c-c45e-4986-b6f1-fd3e926795a8/LGA110D-4phase-Board-PCB-layout.pdf
+  - FFT test for LGA80D Technical Reference: https://www.advancedenergy.com/getmedia/458cb97d-c50b-48e2-bc15-ec1a9b725d46/0427_lga80d_fft_report_1463139401_techref.pdf
+  - LGA110D block-Pin- Large Technical Reference: https://www.advancedenergy.com/getmedia/51e7e04f-6bbf-443a-9209-982763881f5b/lga110d_large_blockpin_1629917268_techref.pdf
+  - LGA110D block-pin- Small Technical Reference: https://www.advancedenergy.com/getmedia/f91a6177-51ca-434a-9ff3-8990278a233e/lga110d_small_blockpin_1629917308_techref.pdf
+  - LGA110D Carrier Tape Technical Reference: https://www.advancedenergy.com/getmedia/7777b705-091a-46bd-8638-1f37e6855ce1/lga110d_carrier_tape_1629917101_techref.pdf
+  - LGA110D packaging drawing Technical Reference: https://www.advancedenergy.com/getmedia/4d7ba056-5188-4a2a-9a20-b7bf5543ddce/lga110d_packaging_drawing_669-1629917139_techref.pdf
+  - LGA50D JLPJ demo-kit user manual: https://www.advancedenergy.com/getmedia/2551a48a-778a-4391-b5ce-744ab7671c53/TRN-LGA50D-Evaluation-Board-Release-1-0-(2022-04-15).pdf
+  - LGA50D JLPJ Tech Ref note rev 1.1 Technical Reference: https://www.advancedenergy.com/getmedia/718afa4f-d618-41d4-8d7c-a98f8fac9ffe/lga50d-jlpj_jlp1j_ds_1547129650_techref.pdf
+  - LGA50D Series Technical Reference Note: https://www.advancedenergy.com/getmedia/43bb28bc-3bb8-4c9b-95bc-70506544fe1a/TRN-DC-DC-LGA50D-Release-1-9-(011824).pdf
+  - LGA50D-01DAD reflow profile Technical Reference: https://www.advancedenergy.com/getmedia/c4265281-0e67-4bc7-85eb-2f9a61cf8c6a/lga50d_reflow_soldering_profil1538746335_techref.pdf
+  - LGA50D-01DADJJ Block-pin 2 drawing Technical Reference: https://www.advancedenergy.com/getmedia/94e09300-73a2-4f0b-85a0-09bbb3104fc7/lga50d_jj_solder-block_pin_2_1538746248_techref.pdf
+  - LGA50D-01DADJJ Block-pin drawing Technical Reference: https://www.advancedenergy.com/getmedia/0cb0226e-3565-488c-b371-17995336b9f0/lga50d_jj_solder-block_pin_1538746202_techref.pdf
+  - LGA50D-01DADJJ stencil drawing Technical Reference: https://www.advancedenergy.com/getmedia/44fcd289-7458-4d13-a2b1-d5d15fef1768/lga50d_jj_stencil_information_1538746285_techref.pdf
+  - LGA50D-01DADJLPJ package drawing Technical Reference: https://www.advancedenergy.com/getmedia/f1451cd6-15cf-4bfa-ad4d-666c957d455a/lga50d-01dadjlpj_packaging_1538743109_techref.pdf
+  - LGA50D-01DADJLPJ tape drawing Technical Reference: https://www.advancedenergy.com/getmedia/343b2460-ea75-4a7f-a983-95f2c6989662/lga50d-01dadjlpj_tape_drawing_1538743150_techref.pdf
+  - LGA50D-01DADJSBJ package drawing Technical Reference: https://www.advancedenergy.com/getmedia/61c4116a-c1a8-402d-a900-71815e07392d/lga50d-01dadjsbj_packaging_1538743204_techref.pdf
+  - LGA50D-01DADJSBJ tape drawing Technical Reference: https://www.advancedenergy.com/getmedia/a58696df-016d-4cc2-b3e6-00efc0bf6a0e/lga50d-01dadjsbj_tape_drawing_1538743260_techref.pdf
+  - LGA80D Eval Board User Manual Rev2 3rd Nov 2017: https://www.advancedenergy.com/getmedia/07916537-f2fe-4e28-a6a7-7cc6c26e04d9/TRN-Evaluation-Board-LGA80D-Release-1-0-(2019-11-06).pdf
+  - LGA80D pallet packaging drawing Technical Reference: https://www.advancedenergy.com/getmedia/6aec46eb-ed37-46ab-bfd5-5df3ae45ad8b/packing_assembly_drawing_of_lg1463478761_techref.pdf
+  - LGA80D tape-and-reel packaging Technical Reference: https://www.advancedenergy.com/getmedia/d33d9d28-a21e-4dbb-b3d8-ba2b8b1745b1/carrier_tape_drawing_of_lga80d1463478721_techref.pdf
+  - LGA80D Technical Reference Note: https://www.advancedenergy.com/getmedia/6e4edcf6-524c-4e35-9d6e-fecf6632bbfa/TRN-AC-DC-LGA80D-Release-3-3-(011326).pdf
+  - LGA80D Termination Pin 2 drawing Technical Reference: https://www.advancedenergy.com/getmedia/5e5fe1aa-25de-4240-89b0-8a0316261333/solder-block_pin_2_1463137872_techref.pdf
+  - LGA80D Termination Pin drawing Technical Reference: https://www.advancedenergy.com/getmedia/8bc8a72d-8ba7-44cd-8676-40d34d06dc2c/solder-block_pin_1463137831_techref.pdf
+  - Designing DC-DC Power Systems: Internal Design vs. Off-the-Shelf Modules: https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+  - ARTESYN LGA110-EVAL-KIT Evaluation Test Board: https://www.advancedenergy.com/getmedia/1ec35748-ff3b-4d2f-b5b3-711d9cfc6061/TRN-Evaluation-Board-LGA110D-Release-1-0-(2022-01-17)-Update.pdf
+  - Designing DC-DC Power Systems: Internal Design vs. Off-the-Shelf Modules View Resource: https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - https://www.advancedenergy.com/getmedia/d8422f68-f0d1-4129-9e8f-41355a79ca5a/zho-aep-dcdc-lga_9_07_1631082477.pdf
+  - https://www.advancedenergy.com/getmedia/3773344e-8737-46f4-a4bd-ec88726da0ff/eng-aep-dcdc-lga_9_07_1631082348.pdf
+  - https://www.advancedenergy.com/getmedia/4d19fcdb-1e81-4acc-9cf8-8b3e0c2c49c6/lga50d_brochure_sc_1550128876.pdf
+  - https://www.advancedenergy.com/getmedia/eba208be-0b7f-47c2-8914-f65d0714bef1/lga50d_brochure_1546445596.pdf
+  - https://www.advancedenergy.com/getmedia/dcdc61c0-7a97-45fd-8496-88bea98d6131/lga80d-brochure_s_07-11-16_1468208015.pdf
+  - https://www.advancedenergy.com/getmedia/f7917078-edcd-4555-93aa-58de4a1e08a3/lga80d-brochure-r1_web_1467821331.pdf
+  - https://www.advancedenergy.com/getmedia/433e6182-cebc-4ad8-9859-d37bf922e368/lga80d-brochure_j_06-20-16_1466993878.pdf
+  - https://www.advancedenergy.com/getmedia/b5f0640c-bc4c-4c5b-9559-13627f17f0d9/ENG-LGA110D-235-03-08-25-23.pdf
+  - https://www.advancedenergy.com/getmedia/780db8d6-6959-45d0-ac25-1d6bcedfdc77/ENG-LGA110D-235-03-08-25-23.pdf
+  - https://www.advancedenergy.com/getmedia/6a3d8722-91eb-44c1-af9d-cf01c998abf2/lga50d-jlpj_jlp1j_ds_1547128401.pdf
+  - https://www.advancedenergy.com/getmedia/f9239de8-7221-42e5-b657-45e76b4d1182/lga50d-jj_jsbj_ds_1547128401.pdf
+  - https://www.advancedenergy.com/getmedia/3f2305e9-5b4a-4c8f-9ca7-728d23546afd/lga80d_ds_1465290025.pdf
+  - https://www.advancedenergy.com/getmedia/e3c07fbd-b8ed-4dde-a740-302d6aa58d84/REACh-CoC_235_LGA110D-01DADJJB.pdf
+  - https://www.advancedenergy.com/getmedia/0b0da89e-d5d0-4f5b-8af0-3163a9e3a6c4/lga110d-01dadjj_reach_coc_1631696724_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/9ca58134-9dca-4c03-a75f-8670c6b29ef2/lga50d_jlpj_version_reach_1542974188_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/b69079ea-c3a9-4608-b1c5-3cf527bb0764/lga50d_jj_version_reach_1538745515_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/c306f0af-4fcd-41cf-84d3-458a1948e010/lga50d_jsbj_version_reach_1538745593_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/1ab965d1-b54a-4673-bc53-4b1222439721/reach_coc_lga80d-00dadjj_031621463137491_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/bb3f0d39-a7fd-47d6-8820-569f3aa5273b/lga110d-01dadjj_rohs_coc_1629917199_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/fd81f789-7440-4c99-9123-c7111b932278/lga50d_jlpj_version_rohs_1542974224_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/10f2b6de-9362-47ad-ba88-30aa3e10eb1b/lga50d_jj_version_rohs_1538745634_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/58140b04-1143-4531-862d-be14abae3ce7/lga50d_jsbj_version_rohs_1538745669_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/637920b4-2f17-4b93-92b0-99f6e5ba70d6/rohs2_coc_lga80d-00dadjj_031621463137449_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/64e8dd74-7d49-44ff-b2ad-c90268c58aec/REACh-CoC_235_LGA110D-01DADJJB.pdf
+  - https://www.advancedenergy.com/getmedia/b10a49a7-fb5c-4d99-be6f-edc7816293dd/RoHS3-CoC_LGA110D-01DADJJB_20JULY2023.pdf
+  - https://www.advancedenergy.com/getmedia/419c589b-2a50-4296-a993-51504c54163c/lga-dguiusermanual_rev09_1542976579.pdf
+  - https://www.advancedenergy.com/getmedia/9e07de68-2480-4b0a-be2d-ed27c8f9a7b3/lga50d-jj_jsbj_evalboarduserma1541764237.pdf
+  - https://www.advancedenergy.com/getmedia/edfa3213-ae29-40c3-8ad9-c5ce14eadca6/an10026_-_lga80d-00dadjj_-_6_p1477994769_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/600ab126-9b67-4d79-9c95-3938b723e635/TRN-DC-DC-LGA110D-Release-1-4-(011326).pdf
+  - https://www.advancedenergy.com/getmedia/06a60e1c-c45e-4986-b6f1-fd3e926795a8/LGA110D-4phase-Board-PCB-layout.pdf
+  - https://www.advancedenergy.com/getmedia/458cb97d-c50b-48e2-bc15-ec1a9b725d46/0427_lga80d_fft_report_1463139401_techref.pdf
+  - https://www.advancedenergy.com/getmedia/51e7e04f-6bbf-443a-9209-982763881f5b/lga110d_large_blockpin_1629917268_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f91a6177-51ca-434a-9ff3-8990278a233e/lga110d_small_blockpin_1629917308_techref.pdf
+  - https://www.advancedenergy.com/getmedia/7777b705-091a-46bd-8638-1f37e6855ce1/lga110d_carrier_tape_1629917101_techref.pdf
+  - https://www.advancedenergy.com/getmedia/4d7ba056-5188-4a2a-9a20-b7bf5543ddce/lga110d_packaging_drawing_669-1629917139_techref.pdf
+  - https://www.advancedenergy.com/getmedia/2551a48a-778a-4391-b5ce-744ab7671c53/TRN-LGA50D-Evaluation-Board-Release-1-0-(2022-04-15).pdf
+  - https://www.advancedenergy.com/getmedia/718afa4f-d618-41d4-8d7c-a98f8fac9ffe/lga50d-jlpj_jlp1j_ds_1547129650_techref.pdf
+  - https://www.advancedenergy.com/getmedia/43bb28bc-3bb8-4c9b-95bc-70506544fe1a/TRN-DC-DC-LGA50D-Release-1-9-(011824).pdf
+  - https://www.advancedenergy.com/getmedia/c4265281-0e67-4bc7-85eb-2f9a61cf8c6a/lga50d_reflow_soldering_profil1538746335_techref.pdf
+  - https://www.advancedenergy.com/getmedia/94e09300-73a2-4f0b-85a0-09bbb3104fc7/lga50d_jj_solder-block_pin_2_1538746248_techref.pdf
+  - https://www.advancedenergy.com/getmedia/0cb0226e-3565-488c-b371-17995336b9f0/lga50d_jj_solder-block_pin_1538746202_techref.pdf
+  - https://www.advancedenergy.com/getmedia/44fcd289-7458-4d13-a2b1-d5d15fef1768/lga50d_jj_stencil_information_1538746285_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f1451cd6-15cf-4bfa-ad4d-666c957d455a/lga50d-01dadjlpj_packaging_1538743109_techref.pdf
+  - https://www.advancedenergy.com/getmedia/343b2460-ea75-4a7f-a983-95f2c6989662/lga50d-01dadjlpj_tape_drawing_1538743150_techref.pdf
+  - https://www.advancedenergy.com/getmedia/61c4116a-c1a8-402d-a900-71815e07392d/lga50d-01dadjsbj_packaging_1538743204_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a58696df-016d-4cc2-b3e6-00efc0bf6a0e/lga50d-01dadjsbj_tape_drawing_1538743260_techref.pdf
+  - https://www.advancedenergy.com/getmedia/07916537-f2fe-4e28-a6a7-7cc6c26e04d9/TRN-Evaluation-Board-LGA80D-Release-1-0-(2019-11-06).pdf
+  - https://www.advancedenergy.com/getmedia/6aec46eb-ed37-46ab-bfd5-5df3ae45ad8b/packing_assembly_drawing_of_lg1463478761_techref.pdf
+  - https://www.advancedenergy.com/getmedia/d33d9d28-a21e-4dbb-b3d8-ba2b8b1745b1/carrier_tape_drawing_of_lga80d1463478721_techref.pdf
+  - https://www.advancedenergy.com/getmedia/6e4edcf6-524c-4e35-9d6e-fecf6632bbfa/TRN-AC-DC-LGA80D-Release-3-3-(011326).pdf
+  - https://www.advancedenergy.com/getmedia/5e5fe1aa-25de-4240-89b0-8a0316261333/solder-block_pin_2_1463137872_techref.pdf
+  - https://www.advancedenergy.com/getmedia/8bc8a72d-8ba7-44cd-8676-40d34d06dc2c/solder-block_pin_1463137831_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+  - https://www.advancedenergy.com/getmedia/1ec35748-ff3b-4d2f-b5b3-711d9cfc6061/TRN-Evaluation-Board-LGA110D-Release-1-0-(2022-01-17)-Update.pdf
+  - https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/5a6a7c69-6438-4871-94b4-3e90a74631ca/LGA-D.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Non-Isolated PCB MountMinimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+  ↓
+LGA DAdjustable output within the range of 0.6 V to 5.2 VDC by either PMBus or external resistor configurationFootprint of 1 x 0.5 inches (25.4 x 12.5 mm)Withstands reflow oven temperatures and supplied in tape-and-reel packaging for high-volume production

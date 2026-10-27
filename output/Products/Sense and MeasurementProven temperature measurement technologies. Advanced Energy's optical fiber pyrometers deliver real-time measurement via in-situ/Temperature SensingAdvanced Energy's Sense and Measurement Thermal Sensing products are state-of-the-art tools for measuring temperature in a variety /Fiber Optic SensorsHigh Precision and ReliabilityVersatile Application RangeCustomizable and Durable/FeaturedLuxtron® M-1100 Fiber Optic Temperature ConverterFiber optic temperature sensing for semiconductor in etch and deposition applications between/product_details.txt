@@ -1,0 +1,123 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLuxtron® M-1100 Fiber Optic Temperature ConverterFiber optic temperature sensing for semiconductor in etch and deposition applications between -200 to 450C
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Fiber Optic SensorsHigh Precision and ReliabilityVersatile Application RangeCustomizable and Durable
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/fiber-optic-sensors/
+Category Description: Advanced Energy offers highly reliable and precise fiber optic sensors for temperature measurement and sensing applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLuxtron® M-1100 Fiber Optic Temperature ConverterFiber optic temperature sensing for semiconductor in etch and deposition applications between -200 to 450C
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/fiber-optic-sensors/luxtron-m-1100/
+
+Complete Product Description:
+The Advanced Energy's Luxtron® M-1100 is the latest FluorOptic® thermometry (FOT) converter platform, featuring an advanced light source and improved ultralow noise electronics.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/057d0c3d-f8d9-4b3e-9bcd-21f454c3a392/en-luxtron-m1100-data-sheet.pdf
+  - Luxtron M-1100 Data Sheet: https://www.advancedenergy.com/getmedia/057d0c3d-f8d9-4b3e-9bcd-21f454c3a392/ENG-M-1100-235-01-03-11-26.pdf
+  - Luxtron® Fiber Optic Thermometry Probes & Accessories Datasheet: https://www.advancedenergy.com/getmedia/7f97f5fa-a647-47e8-bd05-197615e1b34b/ENG-FOT-Probes-07312025.pdf
+  - Etching and Wafer Fab Equipment Application Note: https://www.advancedenergy.com/getmedia/755f3b16-79aa-4dc9-9248-26c7ddbd39a7/en-at-semiconductor-etching-wafer.pdf
+  - Flexible, Reliable, Accurate. Fiber Optic Sensors for Precision Temperature Measurement and Sensing Applications: https://www.advancedenergy.com/getmedia/c1abe303-61ce-448c-9b33-f93fd96f6a74/ENG-AppNote-FOT-265-01.pdf
+  - A Brief History of Phosphor Thermometry: https://www.advancedenergy.com/getmedia/94154ed1-dee1-4fbb-98d7-0d0f29b3350e/a-brief-history-of-phosphor-thermometry_meas-sci-tech-2019.pdf
+  - Reliable, Interference-Free Temperature  Monitoring in Harsh MRI Environments:  Luxtron® M-1100 Fiber Optic Solution: https://www.advancedenergy.com/getmedia/bfc8fa07-2163-471f-bd49-acd2a999ab0e/ENG-Monitoring-in-Harsh-Environments-Case-Study-295-01.pdf
+  - TrueTemp+ Download: https://www.advancedenergy.com/getmedia/7be23f62-9920-42c9-85c0-c59c854b34d3/TrueTempPlus_2023_v3.zip
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/057d0c3d-f8d9-4b3e-9bcd-21f454c3a392/en-luxtron-m1100-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/057d0c3d-f8d9-4b3e-9bcd-21f454c3a392/ENG-M-1100-235-01-03-11-26.pdf
+  - https://www.advancedenergy.com/getmedia/7f97f5fa-a647-47e8-bd05-197615e1b34b/ENG-FOT-Probes-07312025.pdf
+  - https://www.advancedenergy.com/getmedia/755f3b16-79aa-4dc9-9248-26c7ddbd39a7/en-at-semiconductor-etching-wafer.pdf
+  - https://www.advancedenergy.com/getmedia/c1abe303-61ce-448c-9b33-f93fd96f6a74/ENG-AppNote-FOT-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/94154ed1-dee1-4fbb-98d7-0d0f29b3350e/a-brief-history-of-phosphor-thermometry_meas-sci-tech-2019.pdf
+  - https://www.advancedenergy.com/getmedia/bfc8fa07-2163-471f-bd49-acd2a999ab0e/ENG-Monitoring-in-Harsh-Environments-Case-Study-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/39c9ff10-d95e-4ef5-bdc1-7a3121d7d23b/aei_m-1100_fr_w_label-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c6daab09-95b5-408e-89b7-716eb07489a5/IMG_1760.png
+  - Image: https://www.advancedenergy.com/getattachment/071e235b-7984-4218-b89b-7e81cecef6b1/IMG_1781.png
+  - Image: https://www.advancedenergy.com/getattachment/4e8169e1-a89f-406b-8c2b-4f3caeacc371/aei_m-1100_sr_w_label.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b5bbad3c-704a-4447-b8ee-25e7b15fe759/aei_m-1100_bb_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/19d79183-3f98-494a-9f58-747ddc92f221/aei_m-1100_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f2351a88-b762-4626-9373-51501296e3e9/aei_m-1100_fs_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dd98b9ad-7bcd-4aa5-8ea3-2259811d190c/aei_m-1100_ft_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6b3fe75f-98e5-4b51-bc75-8b696e9d4442/aei_m-1100_sl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/39c9ff10-d95e-4ef5-bdc1-7a3121d7d23b/aei_m-1100_fr_w_label-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c6daab09-95b5-408e-89b7-716eb07489a5/IMG_1760.png
+  - Image: https://www.advancedenergy.com/getattachment/071e235b-7984-4218-b89b-7e81cecef6b1/IMG_1781.png
+  - Image: https://www.advancedenergy.com/getattachment/4e8169e1-a89f-406b-8c2b-4f3caeacc371/aei_m-1100_sr_w_label.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b5bbad3c-704a-4447-b8ee-25e7b15fe759/aei_m-1100_bb_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/19d79183-3f98-494a-9f58-747ddc92f221/aei_m-1100_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f2351a88-b762-4626-9373-51501296e3e9/aei_m-1100_fs_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dd98b9ad-7bcd-4aa5-8ea3-2259811d190c/aei_m-1100_ft_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6b3fe75f-98e5-4b51-bc75-8b696e9d4442/aei_m-1100_sl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/39c9ff10-d95e-4ef5-bdc1-7a3121d7d23b/aei_m-1100_fr_w_label-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c6daab09-95b5-408e-89b7-716eb07489a5/IMG_1760.png
+  - Image: https://www.advancedenergy.com/getattachment/071e235b-7984-4218-b89b-7e81cecef6b1/IMG_1781.png
+  - Image: https://www.advancedenergy.com/getattachment/4e8169e1-a89f-406b-8c2b-4f3caeacc371/aei_m-1100_sr_w_label.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b5bbad3c-704a-4447-b8ee-25e7b15fe759/aei_m-1100_bb_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/19d79183-3f98-494a-9f58-747ddc92f221/aei_m-1100_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f2351a88-b762-4626-9373-51501296e3e9/aei_m-1100_fs_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dd98b9ad-7bcd-4aa5-8ea3-2259811d190c/aei_m-1100_ft_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6b3fe75f-98e5-4b51-bc75-8b696e9d4442/aei_m-1100_sl_w.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/software.png
+  - Putting FluorOptic® to Work: https://i.ytimg.com/vi/f3ObUI5IeSk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/39c9ff10-d95e-4ef5-bdc1-7a3121d7d23b/aei_m-1100_fr_w_label-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/a303da6c-7f0c-4dcd-80a6-127434e19aab/m900-1-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ac8c987d-d752-4da5-b6c5-8c5353284a43/Frame-905.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ac8c987d-d752-4da5-b6c5-8c5353284a43/Frame-905.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - ElectroporationAdvanced Energy's power solutions are designed to meet the specific power requirements of electroporation equipment, ensuring reliable and consistent power delivery for this critical life science application.: https://www.advancedenergy.com/en-us/applications/medical/life-science/electroporation/
+  - Explore Electroporation: https://www.advancedenergy.com/en-us/applications/medical/life-science/electroporation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Fiber Optic SensorsHigh Precision and ReliabilityVersatile Application RangeCustomizable and Durable
+  ↓
+FeaturedLuxtron® M-1100 Fiber Optic Temperature ConverterFiber optic temperature sensing for semiconductor in etch and deposition applications between -200 to 450C

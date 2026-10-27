@@ -1,0 +1,88 @@
+==============================================================================
+PRODUCT DETAILS: AIF 600W SeriesMaximum 600 W continuous power at 100°C baseplate temperature108 W/in3 (6.6 W/cm3)High efficiency - up to 90%
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: 400Vdc input DC-DC PCB MountAchieve cost-effective and efficient means of implementing high-voltage and low-loss DC power distribution systems using our application-specific, low-profile power supplies. These isolated converter modules are intended for use with power factor correction (PFC) modules.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/
+Category Description: Achieve cost-effective and efficient means of implementing high-voltage and low-loss DC power distribution systems using our application-specific, low-profile power supplies. These isolated converter modules are intended for use with power factor correction (PFC) modules.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AIF 600W SeriesMaximum 600 W continuous power at 100°C baseplate temperature108 W/in3 (6.6 W/cm3)High efficiency - up to 90%
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aif-600w/
+
+Complete Product Description:
+Housed in a robust 0.5-inch-high sealed case, the AIF series of 600 W DC-DC converters offer up to 90% efficiency and a high power density of 108 watts/cubic inch.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+  - AIF 300V Vin Series Datasheet: https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/ENG-AIF-300V-Vin-SERIES-235-02-08-28-24.pdf
+  - AIF12W300 Data Sheet: https://www.advancedenergy.com/getmedia/c6fd8b2f-dc2a-40d2-bea3-6f0ca576fc57/aif12w300_ds_02-09-15_fd0f6839ca.pdf
+  - AIF50B300N-L RoHS2 CoC: https://www.advancedenergy.com/getmedia/5376fb72-de12-43a2-8c68-eaf35b4d5972/rohs2_coc_aif50b300n-l_061516_1467855336_rohs_.pdf
+  - AIF 300V Vin SERIES Technical Reference Note: https://www.advancedenergy.com/getmedia/d75f75a2-f4f1-4248-a495-3e4006305651/TRN-DC-DC-AIF-300-Vin-Release-1-1-(082824).pdf
+  - AIF12W300 Technical Reference Note: https://www.advancedenergy.com/getmedia/d9ada14e-bd9a-4278-945b-7436feb98b7a/trn_dc-dc_aif12w300_release_1_1433255794_techref.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+  - https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/ENG-AIF-300V-Vin-SERIES-235-02-08-28-24.pdf
+  - https://www.advancedenergy.com/getmedia/c6fd8b2f-dc2a-40d2-bea3-6f0ca576fc57/aif12w300_ds_02-09-15_fd0f6839ca.pdf
+  - https://www.advancedenergy.com/getmedia/5376fb72-de12-43a2-8c68-eaf35b4d5972/rohs2_coc_aif50b300n-l_061516_1467855336_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d75f75a2-f4f1-4248-a495-3e4006305651/TRN-DC-DC-AIF-300-Vin-Release-1-1-(082824).pdf
+  - https://www.advancedenergy.com/getmedia/d9ada14e-bd9a-4278-945b-7436feb98b7a/trn_dc-dc_aif12w300_release_1_1433255794_techref.pdf
+  - https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+  - https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+
+Images:
+  - AIF 600W Series Product Image: https://www.advancedenergy.com/getattachment/6bde9dc1-17ff-421f-a91c-ad65ea7c459e/AIF-artesyn.jpg
+  - AIF 600W Series Product Image: https://www.advancedenergy.com/getattachment/6bde9dc1-17ff-421f-a91c-ad65ea7c459e/AIF-artesyn.jpg
+  - Image: https://www.advancedenergy.com/getattachment/65b337c0-5683-45cf-b552-b58c6a2ed6f0/AIH50F300_ang2_1000.png
+  - Image: https://www.advancedenergy.com/getattachment/167025d4-d3a6-43fc-9fcb-a5276086e3c3/33adb8f226.png
+  - Image: https://www.advancedenergy.com/getattachment/72e51ef8-9a2f-4485-ba5d-872642d4bee9/AIT02.png
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAIH 250W Series250 W High Voltage Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aih-250w/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - FeaturedAIQ02R Series65 W High Voltage Quarter-Brick Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aiq02r/
+  - Datasheet: https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+  - FeaturedAIT02ZPFC SeriesThree Quarter Brick PFC Modules: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/pfc-bmp/ait02zpfc/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+400Vdc input DC-DC PCB MountAchieve cost-effective and efficient means of implementing high-voltage and low-loss DC power distribution systems using our application-specific, low-profile power supplies. These isolated converter modules are intended for use with power factor correction (PFC) modules.
+  ↓
+AIF 600W SeriesMaximum 600 W continuous power at 100°C baseplate temperature108 W/in3 (6.6 W/cm3)High efficiency - up to 90%

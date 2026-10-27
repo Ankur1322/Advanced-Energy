@@ -1,0 +1,101 @@
+==============================================================================
+PRODUCT DETAILS: LDO15, 30, and 50 W series delivering 3, 6, and 10 A output current, respectivelyWide 3 to 13.8 VDC input range and offers a 0.59 to 5.1 VDC adjustable outputDesigned for cost- and space-sensitive applications
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Non-Isolated PCB MountMinimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/
+Category Description: Minimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: LDO15, 30, and 50 W series delivering 3, 6, and 10 A output current, respectivelyWide 3 to 13.8 VDC input range and offers a 0.59 to 5.1 VDC adjustable outputDesigned for cost- and space-sensitive applications
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/ldo/
+
+Complete Product Description:
+Advanced Energy provides high value DC-DC converters for cost-critical applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - LDO03C Datasheet: https://www.advancedenergy.com/getmedia/be9ef203-b765-4372-9488-5c8c77ace7bf/ldo03c_ds_03-21-14_34aacae4a6.pdf
+  - LDO06C Datasheet: https://www.advancedenergy.com/getmedia/787775a9-222e-4fbb-93ad-df0b71c0ae42/ldo06c_ds_8b681b332a.pdf
+  - LDO10C Series Data Sheet: https://www.advancedenergy.com/getmedia/0e23347e-e5f8-4d23-9041-e4c9efd32f88/ldo10c_ds_8a0e64e3ae.pdf
+  - LDO03C-005W05-HJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/a2356290-35e6-41dc-93c4-b46534545ab6/rohs2_coc_ldo03c-005w05-hj_0111467863972_rohs_.pdf
+  - LDO03C-005W05-SJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/317187bc-39af-4ac0-9af6-b67066e134de/rohs2_coc_ldo03c-005w05-sj_0301467864008_rohs_.pdf
+  - LDO03C-005W05-VJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/26be6449-71d7-4818-bd14-27c0344e9483/rohs2_coc_ldo03c-005w05-vj_0101467864043_rohs_.pdf
+  - LDO06C-005W05-HJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/26f9619c-dc78-4999-93ee-b467f18f3b38/rohs2_coc_ldo06c-005w05-hj_0311395041935_rohs_.pdf
+  - LDO06C-005W05-SJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/de497a7f-fe1b-49e7-ba2a-8a577a047f9a/rohs2_coc_ldo06c-005w05-sj_0221395042086_rohs_.pdf
+  - LDO06C-005W05-VJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/082b37cc-cbe3-4412-9b29-0937c4bffe74/rohs2_coc_ldo06c-005w05-vj_1201395042183_rohs_.pdf
+  - LDO10C-005W05-SJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/a1a31c47-a4dd-45f2-b45b-62c4bc296ab8/rohs2_coc_ldo10c-005w05-sj_1395042494_rohs_.pdf
+  - LDO10C-005W05-VJ RoHS2 CoC: https://www.advancedenergy.com/getmedia/eaf1aedd-7747-4cd6-b89a-a5e7309da87d/rohs2_coc_ldo10c-005w05-vj_1011395042358_rohs_.pdf
+  - RoHS Certificate of Compliance: https://www.advancedenergy.com/getmedia/4023c7de-f929-4878-affb-108a9a071fb4/ldo03c_coc_1199497233_rohs_.pdf
+  - RoHS Certificate of Compliance: https://www.advancedenergy.com/getmedia/e824b63e-3b27-450d-a316-f99c9cba2652/ldo06c_coc_1199503952_rohs_.pdf
+  - RoHS Certificate of Compliance: https://www.advancedenergy.com/getmedia/78dff2a7-92d7-412b-b7aa-6f211a2874e0/ldo10c_coc_1199504300_rohs_.pdf
+  - CB Report: https://www.advancedenergy.com/getmedia/008ce999-8ef2-471b-b197-4107dedaba1d/sil_smt_ldo_7001097_7001233_1213880281_cert.pdf
+  - SIL_SMT_LDO_70012XX_TUV Certificate (EN 62368-1): https://www.advancedenergy.com/getmedia/c4fd27d7-db9b-408c-9aee-d6bbc45c4029/sil_smt_ldo_70012xx_tuv_cert_1615202482_cert.pdf
+  - TUV: https://www.advancedenergy.com/getmedia/5032e4b4-ebea-472f-b5cf-2a0aee64c07c/sil_smt_ldo_7001236_7001237_1291363763_cert.pdf
+  - UL Safety Certificate: https://www.advancedenergy.com/getmedia/b0ecc73e-5ca7-48f8-a21c-ce97a2c698b4/sil_smt_ldo_7001097_7001233_1213879974_cert.pdf
+  - LDO03C Long Form Data Sheet: https://www.advancedenergy.com/getmedia/33b75d37-97eb-494c-ba08-d130ae2fcf43/lf_ldo03_1298948396_techref.pdf
+  - Longform Datasheet: https://www.advancedenergy.com/getmedia/1c87ead2-5334-4d01-866e-d3ae1c736653/lf_ld06_1298949071_techref.pdf
+  - Longform Datasheet: https://www.advancedenergy.com/getmedia/59350d72-d765-44ec-afbc-f6acd16c86d1/lf_ldo10_1298442084_techref.pdf
+  - Designing DC-DC Power Systems: Internal Design vs. Off-the-Shelf Modules View Resource: https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/be9ef203-b765-4372-9488-5c8c77ace7bf/ldo03c_ds_03-21-14_34aacae4a6.pdf
+  - https://www.advancedenergy.com/getmedia/787775a9-222e-4fbb-93ad-df0b71c0ae42/ldo06c_ds_8b681b332a.pdf
+  - https://www.advancedenergy.com/getmedia/0e23347e-e5f8-4d23-9041-e4c9efd32f88/ldo10c_ds_8a0e64e3ae.pdf
+  - https://www.advancedenergy.com/getmedia/a2356290-35e6-41dc-93c4-b46534545ab6/rohs2_coc_ldo03c-005w05-hj_0111467863972_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/317187bc-39af-4ac0-9af6-b67066e134de/rohs2_coc_ldo03c-005w05-sj_0301467864008_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/26be6449-71d7-4818-bd14-27c0344e9483/rohs2_coc_ldo03c-005w05-vj_0101467864043_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/26f9619c-dc78-4999-93ee-b467f18f3b38/rohs2_coc_ldo06c-005w05-hj_0311395041935_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/de497a7f-fe1b-49e7-ba2a-8a577a047f9a/rohs2_coc_ldo06c-005w05-sj_0221395042086_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/082b37cc-cbe3-4412-9b29-0937c4bffe74/rohs2_coc_ldo06c-005w05-vj_1201395042183_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a1a31c47-a4dd-45f2-b45b-62c4bc296ab8/rohs2_coc_ldo10c-005w05-sj_1395042494_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/eaf1aedd-7747-4cd6-b89a-a5e7309da87d/rohs2_coc_ldo10c-005w05-vj_1011395042358_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/4023c7de-f929-4878-affb-108a9a071fb4/ldo03c_coc_1199497233_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e824b63e-3b27-450d-a316-f99c9cba2652/ldo06c_coc_1199503952_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/78dff2a7-92d7-412b-b7aa-6f211a2874e0/ldo10c_coc_1199504300_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/008ce999-8ef2-471b-b197-4107dedaba1d/sil_smt_ldo_7001097_7001233_1213880281_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c4fd27d7-db9b-408c-9aee-d6bbc45c4029/sil_smt_ldo_70012xx_tuv_cert_1615202482_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5032e4b4-ebea-472f-b5cf-2a0aee64c07c/sil_smt_ldo_7001236_7001237_1291363763_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b0ecc73e-5ca7-48f8-a21c-ce97a2c698b4/sil_smt_ldo_7001097_7001233_1213879974_cert.pdf
+  - https://www.advancedenergy.com/getmedia/33b75d37-97eb-494c-ba08-d130ae2fcf43/lf_ldo03_1298948396_techref.pdf
+  - https://www.advancedenergy.com/getmedia/1c87ead2-5334-4d01-866e-d3ae1c736653/lf_ld06_1298949071_techref.pdf
+  - https://www.advancedenergy.com/getmedia/59350d72-d765-44ec-afbc-f6acd16c86d1/lf_ldo10_1298442084_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a341e258-cf5a-4179-94ff-28305d7a6d8d/ENG-Designing-DC-DC-Power-Systems-whitepaper-275-01-2-(1).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/29e4b794-5d4e-4dda-98c2-6e39c9974340/LDO10C.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Non-Isolated PCB MountMinimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+  ↓
+LDO15, 30, and 50 W series delivering 3, 6, and 10 A output current, respectivelyWide 3 to 13.8 VDC input range and offers a 0.59 to 5.1 VDC adjustable outputDesigned for cost- and space-sensitive applications

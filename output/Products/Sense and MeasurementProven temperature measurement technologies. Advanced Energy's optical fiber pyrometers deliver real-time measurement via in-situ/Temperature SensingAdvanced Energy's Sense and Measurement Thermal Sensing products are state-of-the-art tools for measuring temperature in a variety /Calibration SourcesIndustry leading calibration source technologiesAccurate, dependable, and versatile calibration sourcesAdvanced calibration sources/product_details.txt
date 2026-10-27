@@ -1,0 +1,131 @@
+==============================================================================
+PRODUCT DETAILS: Calibration SourcesIndustry leading calibration source technologiesAccurate, dependable, and versatile calibration sourcesAdvanced calibration sources for critical measurement tools
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Calibration SourcesIndustry leading calibration source technologiesAccurate, dependable, and versatile calibration sourcesAdvanced calibration sources for critical measurement tools
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/calibration-sources/
+
+Complete Product Description:
+Accurately verify the output signals of your pyrometers, thermal imaging systems, heat-flux measurement systems, or spectrographic analysis systems. We offer unique and very precise Mikron® calibration sources.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Factory Calibration Services: https://www.advancedenergy.com/getmedia/afffebc3-de98-4189-9848-a4669bac67b3/en-srv-factory-calibration-services.pdf
+  - Mikron IRC 35 to IRC 150 Data Sheet: https://www.advancedenergy.com/getmedia/fc2dd20f-515a-477f-8b6e-c459ecc197cb/en-bb-IRC35-data-sheet.pdf
+  - Mikron M300 Data Sheet: https://www.advancedenergy.com/getmedia/12e7e8f3-d31f-44e7-9084-569bcd3853e0/en-bb-m300-data-sheet.pdf
+  - Mikron M305 Data Sheet: https://www.advancedenergy.com/getmedia/67a5e198-e7f4-46c4-b963-54ec8b276ccf/en-bb-m305-data-sheet.pdf
+  - Mikron M310-HT Data Sheet: https://www.advancedenergy.com/getmedia/8c224101-a7aa-4cea-a801-2a3815a9304f/en-bb-m310ht-data-sheet.pdf
+  - Mikron M315-HT Data Sheet: https://www.advancedenergy.com/getmedia/1c0f3264-7072-48c2-a7fa-e316d1d95b8b/en-bb-m315ht-data-sheet.pdf
+  - Mikron M315X (X4, X6) Data Sheet: https://www.advancedenergy.com/getmedia/d9c80ba6-14e2-44c4-ae5b-ec11bd52127d/en-bb-m315x-data-sheet.pdf
+  - Mikron M315X-HT Data Sheet: https://www.advancedenergy.com/getmedia/c5b62bad-7672-4d0f-ae49-8dd2dc0cc91c/en-bb-m315xht-data-sheet.pdf
+  - Mikron M316 Data Sheet: https://www.advancedenergy.com/getmedia/6bdae704-3053-41c3-b0b7-d543902430e5/en-bb-m316-data-sheet.pdf
+  - Mikron M330 Data Sheet: https://www.advancedenergy.com/getmedia/fbadfc99-9a7a-4284-b55a-303c01d33515/en-bb-m330-data-sheet.pdf
+  - Mikron M340 Data Sheet: https://www.advancedenergy.com/getmedia/d9022a34-7fcd-433e-9e75-5ba27275b482/en-bb-m340-data-sheet.pdf
+  - Mikron M345X Series (X4, X6, X8, X12) Data Sheet: https://www.advancedenergy.com/getmedia/0f6bdde8-1a32-448b-a058-c06bd8885cc1/en-bb-m345x-data-sheet.pdf
+  - Mikron M360 Data Sheet: https://www.advancedenergy.com/getmedia/e017637e-d106-43b0-bf5b-06fd4d12bc55/en-bb-m360-data-sheet.pdf
+  - Mikron M390 Calibration Source Data Sheet: https://www.advancedenergy.com/getmedia/80e4386a-4f5d-469a-9285-ae4d889adf75/en-bb-m390-data-sheet.pdf
+  - Mikron IRC 45 to IRC 150 Manual: https://www.advancedenergy.com/getmedia/1d3abc0f-7c72-491e-a84a-03eb5effaada/en-bb-irc45-150-manual.pdf
+  - Mikron M300 Manual: https://www.advancedenergy.com/getmedia/f365ba3c-a843-4070-9301-546bcf449c54/en-bb-m300-manual.pdf
+  - Mikron M305 Manual: https://www.advancedenergy.com/getmedia/fbb60bb6-c6f3-48b7-8fbb-d9bf11c3e223/en-bb-m305-manual.pdf
+  - Mikron M310-HT Manual: https://www.advancedenergy.com/getmedia/9333adc3-e3e0-403e-ae90-e5e5cac06dd1/en-bb-m310-ht-manual.pdf
+  - Mikron M315-HT Manual: https://www.advancedenergy.com/getmedia/6556a811-7ce0-4f91-9691-3a9f62c4f0a3/en-bb-m315-ht-blackbody-manual.pdf
+  - Mikron M315X12-HT Manual: https://www.advancedenergy.com/getmedia/7bbc5b25-db81-46bf-9509-99a269814017/en-bb-m315x12-ht-manual.pdf
+  - Mikron M315X4 Blackbody Manual: https://www.advancedenergy.com/getmedia/f5716f27-bfa3-4243-94f8-ff26a59dd8c2/en-bb-m315x4-manual.pdf
+  - Mikron M315X4-HT Manual: https://www.advancedenergy.com/getmedia/2d62c986-f903-4193-a216-d2361ad34d2b/en-bb-m315x4ht-manual.pdf
+  - Mikron M315X6-HT and X8-HT Manual: https://www.advancedenergy.com/getmedia/645d8a7c-e721-4078-8efa-1ce6db0181ea/en-bb-m315x6-ht-m315x8-ht-manual.pdf
+  - Mikron M316 Manual: https://www.advancedenergy.com/getmedia/a40637ef-67f0-49f7-b5e3-029ec811724e/en-bb-m316-manual.pdf
+  - Mikron M330 Manual: https://www.advancedenergy.com/getmedia/7a209a7e-19ef-488e-8245-897ecf9e2f99/en-bb-m330-manual.pdf
+  - Mikron M335 Manual: https://www.advancedenergy.com/getmedia/95d06cbf-56eb-4bf1-99af-9b68ee92c865/en-bb-m335-manual.pdf
+  - Mikron M340 Manual: https://www.advancedenergy.com/getmedia/88f9d08a-d6ea-4912-b5b6-dc41fd143289/en-bb-m340-manual.pdf
+  - Mikron M345X12 Manual: https://www.advancedenergy.com/getmedia/a21a3b5d-ffb2-4000-82ed-e79dc6958f08/en-bb-m345x12-manual.pdf
+  - Mikron M345X4 Manual: https://www.advancedenergy.com/getmedia/5f4f5a99-0e52-47e4-884d-2219d28dccd8/en-bb-m345x4-manual.pdf
+  - Mikron M345X6 Manual: https://www.advancedenergy.com/getmedia/d4822820-bef4-4aae-9229-fd67cc60b325/en-bb-m345x6-manual.pdf
+  - Mikron M345X6-LC Manual: https://www.advancedenergy.com/getmedia/94a0e6b1-d43b-4bde-937d-75569b7232ff/en-bb-m345x6-lc-manual.pdf
+  - Mikron M345X8 Manual: https://www.advancedenergy.com/getmedia/26975b7e-81c6-4147-a7af-97a59d8a714a/en-bb-M345X8-Blackbody-manual.pdf
+  - Mikron M360 Manual: https://www.advancedenergy.com/getmedia/9dffdce0-08cc-4cb1-8bf0-3f7e58846f9d/en-bb-m360-manual.pdf
+  - Mikron M390 Manual: https://www.advancedenergy.com/getmedia/78e77c65-87ac-49b5-80b5-5d6f18bbde8e/en-bb-m390-manual.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/afffebc3-de98-4189-9848-a4669bac67b3/en-srv-factory-calibration-services.pdf
+  - https://www.advancedenergy.com/getmedia/fc2dd20f-515a-477f-8b6e-c459ecc197cb/en-bb-IRC35-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/12e7e8f3-d31f-44e7-9084-569bcd3853e0/en-bb-m300-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/67a5e198-e7f4-46c4-b963-54ec8b276ccf/en-bb-m305-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/8c224101-a7aa-4cea-a801-2a3815a9304f/en-bb-m310ht-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1c0f3264-7072-48c2-a7fa-e316d1d95b8b/en-bb-m315ht-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d9c80ba6-14e2-44c4-ae5b-ec11bd52127d/en-bb-m315x-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c5b62bad-7672-4d0f-ae49-8dd2dc0cc91c/en-bb-m315xht-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/6bdae704-3053-41c3-b0b7-d543902430e5/en-bb-m316-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/fbadfc99-9a7a-4284-b55a-303c01d33515/en-bb-m330-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d9022a34-7fcd-433e-9e75-5ba27275b482/en-bb-m340-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0f6bdde8-1a32-448b-a058-c06bd8885cc1/en-bb-m345x-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e017637e-d106-43b0-bf5b-06fd4d12bc55/en-bb-m360-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/80e4386a-4f5d-469a-9285-ae4d889adf75/en-bb-m390-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1d3abc0f-7c72-491e-a84a-03eb5effaada/en-bb-irc45-150-manual.pdf
+  - https://www.advancedenergy.com/getmedia/f365ba3c-a843-4070-9301-546bcf449c54/en-bb-m300-manual.pdf
+  - https://www.advancedenergy.com/getmedia/fbb60bb6-c6f3-48b7-8fbb-d9bf11c3e223/en-bb-m305-manual.pdf
+  - https://www.advancedenergy.com/getmedia/9333adc3-e3e0-403e-ae90-e5e5cac06dd1/en-bb-m310-ht-manual.pdf
+  - https://www.advancedenergy.com/getmedia/6556a811-7ce0-4f91-9691-3a9f62c4f0a3/en-bb-m315-ht-blackbody-manual.pdf
+  - https://www.advancedenergy.com/getmedia/7bbc5b25-db81-46bf-9509-99a269814017/en-bb-m315x12-ht-manual.pdf
+  - https://www.advancedenergy.com/getmedia/f5716f27-bfa3-4243-94f8-ff26a59dd8c2/en-bb-m315x4-manual.pdf
+  - https://www.advancedenergy.com/getmedia/2d62c986-f903-4193-a216-d2361ad34d2b/en-bb-m315x4ht-manual.pdf
+  - https://www.advancedenergy.com/getmedia/645d8a7c-e721-4078-8efa-1ce6db0181ea/en-bb-m315x6-ht-m315x8-ht-manual.pdf
+  - https://www.advancedenergy.com/getmedia/a40637ef-67f0-49f7-b5e3-029ec811724e/en-bb-m316-manual.pdf
+  - https://www.advancedenergy.com/getmedia/7a209a7e-19ef-488e-8245-897ecf9e2f99/en-bb-m330-manual.pdf
+  - https://www.advancedenergy.com/getmedia/95d06cbf-56eb-4bf1-99af-9b68ee92c865/en-bb-m335-manual.pdf
+  - https://www.advancedenergy.com/getmedia/88f9d08a-d6ea-4912-b5b6-dc41fd143289/en-bb-m340-manual.pdf
+  - https://www.advancedenergy.com/getmedia/a21a3b5d-ffb2-4000-82ed-e79dc6958f08/en-bb-m345x12-manual.pdf
+  - https://www.advancedenergy.com/getmedia/5f4f5a99-0e52-47e4-884d-2219d28dccd8/en-bb-m345x4-manual.pdf
+  - https://www.advancedenergy.com/getmedia/d4822820-bef4-4aae-9229-fd67cc60b325/en-bb-m345x6-manual.pdf
+  - https://www.advancedenergy.com/getmedia/94a0e6b1-d43b-4bde-937d-75569b7232ff/en-bb-m345x6-lc-manual.pdf
+  - https://www.advancedenergy.com/getmedia/26975b7e-81c6-4147-a7af-97a59d8a714a/en-bb-M345X8-Blackbody-manual.pdf
+  - https://www.advancedenergy.com/getmedia/9dffdce0-08cc-4cb1-8bf0-3f7e58846f9d/en-bb-m360-manual.pdf
+  - https://www.advancedenergy.com/getmedia/78e77c65-87ac-49b5-80b5-5d6f18bbde8e/en-bb-m390-manual.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/ed108f60-9afb-4299-b694-09120abfdf4b/Manufacturing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ed108f60-9afb-4299-b694-09120abfdf4b/Manufacturing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/369645fa-d0ae-496a-8e06-44cf9d5f2bd1/Mil-Aero-and-Transport.png
+  - Image: https://www.advancedenergy.com/getattachment/369645fa-d0ae-496a-8e06-44cf9d5f2bd1/Mil-Aero-and-Transport.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - ManufacturingIndustrial manufacturing requires accurate, efficient, and repeatable processes. Our power, control, and sensing solutions play a crucial role in optimizing manufacturing operations to maintain high-level quality and comply with regulations and standards.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/
+  - Explore Manufacturing: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/
+  - Defense and AerospaceDefense and Aerospace applications demand reliable operation in harsh environments. Our AC-DC power supplies and DC-DC converters are critical components for powering sensitive electronics and ensuring safe and dependable operation in rugged conditions.: https://www.advancedenergy.com/en-us/applications/industrial/defense-and-aerospace/
+  - Explore Defense and Aerospace: https://www.advancedenergy.com/en-us/applications/industrial/defense-and-aerospace/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Calibration SourcesIndustry leading calibration source technologiesAccurate, dependable, and versatile calibration sourcesAdvanced calibration sources for critical measurement tools

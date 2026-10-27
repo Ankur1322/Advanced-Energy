@@ -1,0 +1,99 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedIntrinsically Safe Temperature ProbesSensor Type J, K, T Probes
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Temperature ProbesExtensive line of temperature sensing probes, with many options for sensor type, handle, tip style and length, and moreCustom probe options also available
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-probes/
+Category Description: AE TEGAM offers a wide selection of thermocouple, RTD, and Thermistor temperature probes, with many probe tips styles and lengths.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedIntrinsically Safe Temperature ProbesSensor Type J, K, T Probes
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-probes/intrinsically-safe-temperature-probes/
+
+Complete Product Description:
+Advanced Energy's Intrinsically safe temperature probes are designed for fast reponse measurement of liquids, gases, or small area surfaces.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - TEGAM Thermometry Brochure: https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - Intrinsically Safe Probe Selection Guide: https://www.advancedenergy.com/getmedia/58786300-1689-4f88-8382-f72cf1b79773/IS-Page-from-TEGAM-Probe-Selection-Guide.pdf
+  - Probe Selection Guide: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/TEG_720A_DS_RevAC.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/720A-909-RevAF.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - https://www.advancedenergy.com/getmedia/58786300-1689-4f88-8382-f72cf1b79773/IS-Page-from-TEGAM-Probe-Selection-Guide.pdf
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/TEG_720A_DS_RevAC.pdf
+  - https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/720A-909-RevAF.pdf
+
+Images:
+  - Surface Tip: https://www.advancedenergy.com/getattachment/82b7fcff-e246-45f5-9e68-d7f632cfdb6c/Surface-tip.jpg
+  - Tri Shape Handle: https://www.advancedenergy.com/getattachment/a1334649-0dbd-4fa0-b256-277fc3c1a870/Tri-Shape-Handle-(1).jpg
+  - Surface Tip: https://www.advancedenergy.com/getattachment/82b7fcff-e246-45f5-9e68-d7f632cfdb6c/Surface-tip.jpg
+  - Tri Shape Handle: https://www.advancedenergy.com/getattachment/a1334649-0dbd-4fa0-b256-277fc3c1a870/Tri-Shape-Handle-(1).jpg
+  - Surface Tip: https://www.advancedenergy.com/getattachment/82b7fcff-e246-45f5-9e68-d7f632cfdb6c/Surface-tip.jpg
+  - Tri Shape Handle: https://www.advancedenergy.com/getattachment/a1334649-0dbd-4fa0-b256-277fc3c1a870/Tri-Shape-Handle-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/983dc5f4-5b18-43a2-a6c3-ba406a72aa4e/921B.png
+  - Digital, Dual-Channel Intrinsically Safe Thermometer: https://www.advancedenergy.com/getattachment/f69695bc-46b8-4c16-8bc3-2cc5b45f8353/922-Thumbnail-square-495x300.jpg
+  - 720A Product: https://www.advancedenergy.com/getattachment/a4ae944a-08ab-4daf-b3e5-a0f58b201087/TEG_AE_720A.png
+  - 720A Bond Meter Kit: https://www.advancedenergy.com/getattachment/eaba4491-b48a-4fca-8783-91bd5017a2f7/TEG_AE_720A_KIT-495x692.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured720A Intrinsically Safe Bond Meter / Milli-OhmmeterTEGAM® 720A Intrinsically Safe Bond Meter / Milli-Ohmmeter is a part of the TEGAM Series Bond Meters and Milli-ohmmeters. are designed with the clearest and most informative displays for mistake-free measurements, quickly produce accurate readings to reduce the time spent measuring. TEGAM® 720A Intrinsically Safe Bond Meter / Milli-Ohmmeter 4-wire probes have a wider range of configuration and des: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/handheld-bond-meters/720a-handheld-bond-meter/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/TEG_720A_DS_RevAC.pdf
+  - Featured720A-BK-KIT Handheld Bond Meter & BK Probe KitI.S. Bond Meter Kit includes 720A, BKP-M2S (2), BKP-B(2), 720-911 Carry Case: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/handheld-bond-meters/720a-bk-kit-handheld-bond-meter-bk-probe-kit/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/720A-909-RevAF.pdf
+  - Food SafetyOur digital temperature instruments are utilized directly on production lines for immediate verification and are essential in calibrating crucial process control equipment, addressing the pervasive issue of foodborne illnesses, and contributing to a safer, healthier food supply chain.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - Explore Food Safety: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - PetrochemicalsAdvanced Energy provides innovative temperature and gas sensing instruments for the petrochemical market that are designed for high-temperature, energy-intensive processes such as reforming and distillation operations..: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Explore Petrochemicals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Temperature ProbesExtensive line of temperature sensing probes, with many options for sensor type, handle, tip style and length, and moreCustom probe options also available
+  ↓
+FeaturedIntrinsically Safe Temperature ProbesSensor Type J, K, T Probes

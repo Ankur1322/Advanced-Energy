@@ -1,0 +1,144 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedCPS250-M Series250 W Industrial & Medical AC-DC Power Supply
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 151 - 250 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsAdded features such as standby output and monitoring signals
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/
+Category Description: Advanced Energy power supplies within the 151 to 250 W range are the backbone of many electronics, striking a balance between power and efficiency.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedCPS250-M Series250 W Industrial & Medical AC-DC Power Supply
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/cps250-m/
+
+Complete Product Description:
+The CPS250-M series of single output open-frame AC-DC power supplies are offered in 12 V, 24 V, or 48 V outputs with +10% Trim range.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/874507ab-c56f-4d8e-9c4e-9df6acd6db98/cps250-m-ds_1497375888.pdf
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - CPS250-M Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/874507ab-c56f-4d8e-9c4e-9df6acd6db98/cps250-m-ds_1497375888.pdf
+  - CPS253-M REACH Declaration: https://www.advancedenergy.com/getmedia/1ee86782-562a-45d0-9181-f6c92a95f73a/cps253-m_reach_coc_1512751766_REACH.pdf
+  - CPS255-M REACH Declaration: https://www.advancedenergy.com/getmedia/f4e70ec2-b902-477d-932f-54d84b7bd234/cps255-m_reach_coc_1512751799_REACH.pdf
+  - CPS258-M REACH Declaration: https://www.advancedenergy.com/getmedia/cda1d2e6-7d56-4656-9d87-56173544b561/cps258-m_reach_coc_1515778040_REACH.pdf
+  - CPS253-M RoHS CoC: https://www.advancedenergy.com/getmedia/df2912af-4e78-4c25-93de-4f2fe7054c3b/cps253-m_rohs_coc_1461077859_rohs_.pdf
+  - CPS253-M1 RoHS CoC: https://www.advancedenergy.com/getmedia/78a0001a-6585-4488-a4c2-cdabcc1ed654/rohs2_coc_cps253-m1_051916_1467856629_rohs_.pdf
+  - CPS255-M RoHS CoC: https://www.advancedenergy.com/getmedia/6b6e2baa-4769-422c-9d3a-affdc464f478/cps255-m_rohs_coc_1461077897_rohs_.pdf
+  - CPS258-M RoHS CoC: https://www.advancedenergy.com/getmedia/50df8ed4-7191-4d37-b5fd-82c77e93503f/cps258-m_rohs_coc_1461077940_rohs_.pdf
+  - CPS25X IEC 62368 CB Test Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/9a402372-c744-4fd3-b836-2b6221e5dd7b/cps25x-m_62368_cb_dk-85019-ul_1615184654_cert.pdf
+  - CPS25X IEC 62368 Test Report and Procedure Safety Certificate: https://www.advancedenergy.com/getmedia/4323ccb4-86e6-4ea6-877a-0e606cc9d18e/cps25x-m-xxx_ul_62368-1_1615184772_cert.pdf
+  - CPS25X Safety Certificate: https://www.advancedenergy.com/getmedia/5a19402e-519f-4ffa-b2c5-faf4d4734434/cps25x-mx-xxx_tuv_cert_62368-11598869807_cert.pdf
+  - CPS25X-M_UL (MED) CERTIFICATE ES 60601-1 ver 3.0 Safety Certificate: https://www.advancedenergy.com/getmedia/727f9ba3-ee9a-4a0b-b64a-e96e4630d778/cps25x-m_es_60601-1_3_0_1487301962_cert.pdf
+  - CPS25X-MX-XXX_CB (ITE) Certificate (CLASS I) Safety Certificate: https://www.advancedenergy.com/getmedia/579fb515-7fd9-4f61-93a1-407051ee0380/cps25x-mx-xxx_ite_cb_cert_clas1472803203_060.pdf
+  - CPS25X-MX-XXX_CB (ITE) Certificate (CLASS II) Safety Certificate: https://www.advancedenergy.com/getmedia/e4fa39d6-47c7-49e6-b8bf-7f970afb6b97/cps25x-mx-xxx_ite_cb_cert_clas1472803204_035.pdf
+  - CPS25X-MX-XXX_CB (Medical) Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/3667c190-c919-48f3-aee3-e02109b1b472/cps25x-m_cps25x-mx-xxx_sg_psb-1472803191_868.pdf
+  - CPS25X-MX-XXX_CCC Certificate (Cavite) Safety Certificate: https://www.advancedenergy.com/getmedia/fc2a2e29-a960-4a21-a6f6-e69801bdb42d/cps25x-mx-xxx_ccc_cv_1472803199_876.pdf
+  - CPS25X-MX-XXX_CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/7af8a7e8-2ed2-4d4f-9d83-00197f697e55/cps25x-mx-xxx_ce_1472803201_929.pdf
+  - CPS25X-MX-XXX_TUV Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/0b3fc5d8-bb40-40b0-8d89-69f8f35c1d88/cps25x-m_cps25x-mx-xxx_tuv_cer1472803197_350.pdf
+  - CPS25X-MX-XXX_UL (MED) CERTIFICATE ES 60601-1 ver 3.1 Safety Certificate: https://www.advancedenergy.com/getmedia/5760627c-28a1-401d-a2d7-28b45b80c391/cps25x-mx-xxx_es_60601-1_3_1_1472803201_708.pdf
+  - CPS25X-MX-XXX_UL ITE CERTIFICATE Safety Certificate: https://www.advancedenergy.com/getmedia/a4b6c3ec-1e99-43e8-bd53-687badff92d4/cps25x-mx-xxx_ul_60950-1_1472803204_781.pdf
+  - CPS250-M Technical Reference Note: https://www.advancedenergy.com/getmedia/7aaafa5d-dacf-4312-b13a-2449e16ab617/trn_ac-dc_cps250-m_released_1_1501726912_techref.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/874507ab-c56f-4d8e-9c4e-9df6acd6db98/cps250-m-ds_1497375888.pdf
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/874507ab-c56f-4d8e-9c4e-9df6acd6db98/cps250-m-ds_1497375888.pdf
+  - https://www.advancedenergy.com/getmedia/1ee86782-562a-45d0-9181-f6c92a95f73a/cps253-m_reach_coc_1512751766_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/f4e70ec2-b902-477d-932f-54d84b7bd234/cps255-m_reach_coc_1512751799_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/cda1d2e6-7d56-4656-9d87-56173544b561/cps258-m_reach_coc_1515778040_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/df2912af-4e78-4c25-93de-4f2fe7054c3b/cps253-m_rohs_coc_1461077859_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/78a0001a-6585-4488-a4c2-cdabcc1ed654/rohs2_coc_cps253-m1_051916_1467856629_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/6b6e2baa-4769-422c-9d3a-affdc464f478/cps255-m_rohs_coc_1461077897_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/50df8ed4-7191-4d37-b5fd-82c77e93503f/cps258-m_rohs_coc_1461077940_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/9a402372-c744-4fd3-b836-2b6221e5dd7b/cps25x-m_62368_cb_dk-85019-ul_1615184654_cert.pdf
+  - https://www.advancedenergy.com/getmedia/4323ccb4-86e6-4ea6-877a-0e606cc9d18e/cps25x-m-xxx_ul_62368-1_1615184772_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5a19402e-519f-4ffa-b2c5-faf4d4734434/cps25x-mx-xxx_tuv_cert_62368-11598869807_cert.pdf
+  - https://www.advancedenergy.com/getmedia/727f9ba3-ee9a-4a0b-b64a-e96e4630d778/cps25x-m_es_60601-1_3_0_1487301962_cert.pdf
+  - https://www.advancedenergy.com/getmedia/579fb515-7fd9-4f61-93a1-407051ee0380/cps25x-mx-xxx_ite_cb_cert_clas1472803203_060.pdf
+  - https://www.advancedenergy.com/getmedia/e4fa39d6-47c7-49e6-b8bf-7f970afb6b97/cps25x-mx-xxx_ite_cb_cert_clas1472803204_035.pdf
+  - https://www.advancedenergy.com/getmedia/3667c190-c919-48f3-aee3-e02109b1b472/cps25x-m_cps25x-mx-xxx_sg_psb-1472803191_868.pdf
+  - https://www.advancedenergy.com/getmedia/fc2a2e29-a960-4a21-a6f6-e69801bdb42d/cps25x-mx-xxx_ccc_cv_1472803199_876.pdf
+  - https://www.advancedenergy.com/getmedia/7af8a7e8-2ed2-4d4f-9d83-00197f697e55/cps25x-mx-xxx_ce_1472803201_929.pdf
+  - https://www.advancedenergy.com/getmedia/0b3fc5d8-bb40-40b0-8d89-69f8f35c1d88/cps25x-m_cps25x-mx-xxx_tuv_cer1472803197_350.pdf
+  - https://www.advancedenergy.com/getmedia/5760627c-28a1-401d-a2d7-28b45b80c391/cps25x-mx-xxx_es_60601-1_3_1_1472803201_708.pdf
+  - https://www.advancedenergy.com/getmedia/a4b6c3ec-1e99-43e8-bd53-687badff92d4/cps25x-mx-xxx_ul_60950-1_1472803204_781.pdf
+  - https://www.advancedenergy.com/getmedia/7aaafa5d-dacf-4312-b13a-2449e16ab617/trn_ac-dc_cps250-m_released_1_1501726912_techref.pdf
+  - https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+  - https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/aea33344-792d-4776-9306-5b89a86cd444/040e4cf342.png
+  - Image: https://www.advancedenergy.com/getattachment/fbfe512f-f867-44fa-83ed-d9d2ad4110e8/4662304284.png
+  - Image: https://www.advancedenergy.com/getattachment/6840f552-c91f-4a63-8f84-4c6334523cfe/5f474dca87.png
+  - Image: https://www.advancedenergy.com/getattachment/a0bc4bb5-b9a0-44a2-860c-eb391b9dcade/c281048a4d.png
+  - Image: https://www.advancedenergy.com/getattachment/aea33344-792d-4776-9306-5b89a86cd444/040e4cf342.png
+  - Image: https://www.advancedenergy.com/getattachment/fbfe512f-f867-44fa-83ed-d9d2ad4110e8/4662304284.png
+  - Image: https://www.advancedenergy.com/getattachment/6840f552-c91f-4a63-8f84-4c6334523cfe/5f474dca87.png
+  - Image: https://www.advancedenergy.com/getattachment/a0bc4bb5-b9a0-44a2-860c-eb391b9dcade/c281048a4d.png
+  - Image: https://www.advancedenergy.com/getattachment/aea33344-792d-4776-9306-5b89a86cd444/040e4cf342.png
+  - Image: https://www.advancedenergy.com/getattachment/fbfe512f-f867-44fa-83ed-d9d2ad4110e8/4662304284.png
+  - Image: https://www.advancedenergy.com/getattachment/6840f552-c91f-4a63-8f84-4c6334523cfe/5f474dca87.png
+  - Image: https://www.advancedenergy.com/getattachment/a0bc4bb5-b9a0-44a2-860c-eb391b9dcade/c281048a4d.png
+  - Image: https://www.advancedenergy.com/getattachment/3576b6ba-b5ea-4757-b685-bf2eaa25745a/b1cc4b0471_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/95744198-95d9-4272-80c2-cf2cac251082/c08f9b7822_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fb12830c-c683-4c71-a65e-ac0807117692/397fdf3599.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLPS200-M Series125 to 250 W Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lps200-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+  - FeaturedLPS100-M80 to 150 W AC-DC Medical Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/lps100-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - FeaturedLPQ200-M Series100 to 200 W Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lpq200-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+151 - 250 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsAdded features such as standby output and monitoring signals
+  ↓
+FeaturedCPS250-M Series250 W Industrial & Medical AC-DC Power Supply

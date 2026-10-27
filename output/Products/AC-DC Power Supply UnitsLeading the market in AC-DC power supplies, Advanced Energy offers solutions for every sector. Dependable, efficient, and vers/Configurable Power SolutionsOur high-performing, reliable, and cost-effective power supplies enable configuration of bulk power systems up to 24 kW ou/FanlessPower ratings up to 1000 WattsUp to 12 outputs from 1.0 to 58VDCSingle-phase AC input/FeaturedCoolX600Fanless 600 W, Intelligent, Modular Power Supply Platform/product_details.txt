@@ -1,0 +1,157 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedCoolX600Fanless 600 W, Intelligent, Modular Power Supply Platform
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: FanlessPower ratings up to 1000 WattsUp to 12 outputs from 1.0 to 58VDCSingle-phase AC input
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/fanless/
+Category Description: Configurable Products for Fanless Applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedCoolX600Fanless 600 W, Intelligent, Modular Power Supply Platform
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/fanless/coolx600/
+
+Complete Product Description:
+Fanless 600 W, Intelligent, Modular Power Supply Platform
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/183a169f-4baf-4009-a9cb-0edbb57d4d31/ENG-LV-COOLX600-235-07-04-07-24.pdf
+  - Simplify HiPot Testing for Medical Power Supplies: The CoolX-G Advantage View Resource: https://www.advancedenergy.com/getmedia/40eeb843-2fac-42d1-8a1e-83dc6dd7a74b/ENG-CoolX-G-HiPot-275-01.pdf
+  - Embedded Power Brochure: https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - Medical Power Supplies Brochure: https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - Rapid Modification & Value-Added Engineering Solutions: https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - CoolX600 Data Sheet: https://www.advancedenergy.com/getmedia/183a169f-4baf-4009-a9cb-0edbb57d4d31/ENG-LV-COOLX600-235-07-11-13-25.pdf
+  - Excelsys CoolMods Datasheet: https://www.advancedenergy.com/getmedia/1f85c75c-2e5e-4af4-98c8-cf2ab511f332/ENG-CoolMods-07-20-2025.pdf
+  - Medical Power Supplies Selector Guide: https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - CoolX600 Designers Manual: https://www.advancedenergy.com/getmedia/0ba902e1-a314-411d-aa67-66d5d3d0dc2d/AC-DC-CoolX600-Designer-Maunal-Release-1-2(102925).pdf
+  - CoolX600 Instruction Manual: https://www.advancedenergy.com/getmedia/c4d20044-2a80-41e1-b7f0-f76918838744/en-lv-coolX600-instruction-manual.pdf
+  - CX600 PMBus Manual: https://www.advancedenergy.com/getmedia/67da0d35-ffdf-4fad-9ac4-fbf13dd967bd/en-lv-cx600-pmbus-manual.pdf
+  - Electrosurgery Application Note: https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - Heat Sink in Switch Power Supply Application Note: https://www.advancedenergy.com/getmedia/b85270e9-2411-4236-933c-a1d68777b4b7/en-lv-heat-sink-in-switch-power-supply-application-note.pdf
+  - How to Select Power Supplies for High-Altitude Applications Application Note: https://www.advancedenergy.com/getmedia/86f5885a-6cd4-45a3-92c6-c1dbcaa5b020/en-lv-power-supplies-for-high-altitude-applications-application-note.pdf
+  - I2C Basics Application Note: https://www.advancedenergy.com/getmedia/1abf959e-3070-447f-9bad-b27d0e4c51ff/en-lv-i2c-basics-application-note.pdf
+  - Immunity to ESD Application Note: https://www.advancedenergy.com/getmedia/e721fa11-16a2-405a-b67c-47ef8c52d37f/en-lv-immunity-to-esd-application-note.pdf
+  - Life Science Application Note: https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - Medical Imaging Application Note: https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - Medical Lasers and Aesthetic Equipment Application Note: https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - Power Supplies for High-Altitude Applications: https://www.advancedenergy.com/getmedia/917a5f5b-4503-49b1-bc56-45e14c1247b9/en-lv-high-altitude-power-supply-design-application-note.pdf
+  - Semi F47-0706 Compliance: Voltage Sag Immunity Application Note: https://www.advancedenergy.com/getmedia/346f4ecd-3a42-4219-9a93-0a1ae94b64e5/en-lv-semi-F47-0706-compliance-voltage-sag-immunity.pdf
+  - Mass Spec Case Study: High Voltage and Fanless Configurable Products: https://www.advancedenergy.com/getmedia/33d2aa96-ed5a-42a0-8c0b-2d61b85967a2/en-xsell-mass-spectrometry-case-study.pdf
+  - Medical Equipment Power Supplies Checklist: https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+  - Simplify HiPot Testing for Medical Power Supplies: The CoolX-G Advantage: https://www.advancedenergy.com/getmedia/40eeb843-2fac-42d1-8a1e-83dc6dd7a74b/ENG-CoolX-G-HiPot-275-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/56383021-0b24-4d3e-90e7-1d2571b0a7d4/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2022-04-20.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0711fea5-e53e-4ff9-8386-dfcd8a248192/ENG-LV_Xgen-02-19-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/183a169f-4baf-4009-a9cb-0edbb57d4d31/ENG-LV-COOLX600-235-07-04-07-24.pdf
+  - https://www.advancedenergy.com/getmedia/40eeb843-2fac-42d1-8a1e-83dc6dd7a74b/ENG-CoolX-G-HiPot-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/183a169f-4baf-4009-a9cb-0edbb57d4d31/ENG-LV-COOLX600-235-07-11-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/1f85c75c-2e5e-4af4-98c8-cf2ab511f332/ENG-CoolMods-07-20-2025.pdf
+  - https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - https://www.advancedenergy.com/getmedia/0ba902e1-a314-411d-aa67-66d5d3d0dc2d/AC-DC-CoolX600-Designer-Maunal-Release-1-2(102925).pdf
+  - https://www.advancedenergy.com/getmedia/c4d20044-2a80-41e1-b7f0-f76918838744/en-lv-coolX600-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/67da0d35-ffdf-4fad-9ac4-fbf13dd967bd/en-lv-cx600-pmbus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b85270e9-2411-4236-933c-a1d68777b4b7/en-lv-heat-sink-in-switch-power-supply-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/86f5885a-6cd4-45a3-92c6-c1dbcaa5b020/en-lv-power-supplies-for-high-altitude-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/1abf959e-3070-447f-9bad-b27d0e4c51ff/en-lv-i2c-basics-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/e721fa11-16a2-405a-b67c-47ef8c52d37f/en-lv-immunity-to-esd-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/917a5f5b-4503-49b1-bc56-45e14c1247b9/en-lv-high-altitude-power-supply-design-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/346f4ecd-3a42-4219-9a93-0a1ae94b64e5/en-lv-semi-F47-0706-compliance-voltage-sag-immunity.pdf
+  - https://www.advancedenergy.com/getmedia/33d2aa96-ed5a-42a0-8c0b-2d61b85967a2/en-xsell-mass-spectrometry-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+  - https://www.advancedenergy.com/getmedia/40eeb843-2fac-42d1-8a1e-83dc6dd7a74b/ENG-CoolX-G-HiPot-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/56383021-0b24-4d3e-90e7-1d2571b0a7d4/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2022-04-20.pdf
+  - https://www.advancedenergy.com/getmedia/0711fea5-e53e-4ff9-8386-dfcd8a248192/ENG-LV_Xgen-02-19-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/09d5dfee-2d57-4247-a35f-d5ce937ad250/coolx600-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/09d5dfee-2d57-4247-a35f-d5ce937ad250/coolx600-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - How to Configure the CoolX 600: https://i.ytimg.com/vi/B6qXLHcHR_I/hqdefault.jpg
+  - Intro to the CoolX 600: https://i.ytimg.com/vi/5FahlzkbfuU/hqdefault.jpg
+  - CoolX Feature Overview: https://i.ytimg.com/vi/vFumaJ7mPnM/hqdefault.jpg
+  - CoolX Connectivity: https://i.ytimg.com/vi/JSNoyJ64iUk/hqdefault.jpg
+  - What is the Value of the CoolX 600?: https://i.ytimg.com/vi/M3gv5CMt7Fg/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35e34e84-bda7-41a1-9586-499ef2f9b339/uMP04-9-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/5d85205d-9e21-4323-9ff4-3e38cf8a4b67/DSC_0129.JPG
+  - Image: https://www.advancedenergy.com/getattachment/fae8dd2d-a4d6-49af-8d57-8cc6899082c5/xf-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/988d60ff-570f-4769-aa63-6c571497bd04/ultimod-4-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/09d5dfee-2d57-4247-a35f-d5ce937ad250/coolx600-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/acf0a478-7772-4e7c-8199-9e8b522b4049/uMP04-9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7e2c4fb1-f7fc-4494-99e0-edf27a7b559e/ultimod-4-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1d39eb71-1493-4f15-8d01-26d23915093a/xf-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7a33b27a-d442-4c97-9821-a80c53ccf732/ultimod-4-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeatureduMP04 Gen II400 to 600 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ump04-gen-ii/
+  - Datasheet: https://www.advancedenergy.com/getmedia/56383021-0b24-4d3e-90e7-1d2571b0a7d4/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - FeaturedUltimod UX6Up to 1200 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ux6/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - FeaturedXFBUp to 750 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/xfb/
+  - Datasheet: https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2022-04-20.pdf
+  - FeaturedXgen 4-slotUp to 750 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/xgen-4-slot/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0711fea5-e53e-4ff9-8386-dfcd8a248192/ENG-LV_Xgen-02-19-24.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+FanlessPower ratings up to 1000 WattsUp to 12 outputs from 1.0 to 58VDCSingle-phase AC input
+  ↓
+FeaturedCoolX600Fanless 600 W, Intelligent, Modular Power Supply Platform

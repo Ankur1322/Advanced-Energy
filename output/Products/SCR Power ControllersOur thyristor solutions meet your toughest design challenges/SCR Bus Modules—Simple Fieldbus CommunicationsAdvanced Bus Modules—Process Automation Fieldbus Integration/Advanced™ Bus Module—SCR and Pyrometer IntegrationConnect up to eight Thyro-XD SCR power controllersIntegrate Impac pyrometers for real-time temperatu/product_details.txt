@@ -1,0 +1,129 @@
+==============================================================================
+PRODUCT DETAILS: Advanced™ Bus Module—SCR and Pyrometer IntegrationConnect up to eight Thyro-XD SCR power controllersIntegrate Impac pyrometers for real-time temperature controlConnect to your network with a range of available fieldbus protocols
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+[Level 2] Category Name: SCR Bus Modules—Simple Fieldbus CommunicationsAdvanced Bus Modules—Process Automation Fieldbus Integration
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/bus-module/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Advanced™ Bus Module—SCR and Pyrometer IntegrationConnect up to eight Thyro-XD SCR power controllersIntegrate Impac pyrometers for real-time temperature controlConnect to your network with a range of available fieldbus protocols
+Product URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/bus-module/advanced-bus-module/
+
+Complete Product Description:
+Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/b8b4e3a6-e3cb-4bb0-9a66-7a1bd97c218a/ENG-Thyro-AdvancedBusModule-031525.pdf
+  - Thyro-PX Anybus EtherCAT Guide (390 KB): https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - Thyro-PX Anybus EtherCAT Operating Manual (390 KB): https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - Thyro-PX Anybus Ethernet/IP Operating Manual (302 KB): https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - Thyro-PX Anybus Modbus TCP Operating Manual (468 KB): https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - Thyro-PX Anybus Profibus (565 KB): https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - Thryo-PX Anybus Profinet Operating Manual (408 KB): https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - Advanced Bus Module Datasheet: https://www.advancedenergy.com/getmedia/b8b4e3a6-e3cb-4bb0-9a66-7a1bd97c218a/ENG-Thyro-AdvancedBusModule-031525.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-4-23-2025.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b8b4e3a6-e3cb-4bb0-9a66-7a1bd97c218a/ENG-Thyro-AdvancedBusModule-031525.pdf
+  - https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - https://www.advancedenergy.com/getmedia/b8b4e3a6-e3cb-4bb0-9a66-7a1bd97c218a/ENG-Thyro-AdvancedBusModule-031525.pdf
+  - https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-4-23-2025.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/773dbe25-00d3-4476-8b94-f980274dc3c0/Thyro-DX9-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/b4c83e9f-e68e-4c44-94d0-26485e08e5c4/Advanced-Bus-Module-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/8bb68e5e-4a3f-4ed9-ac2b-deb07bd8bebb/Advanced-Bus-Module-(3).png
+  - Image: https://www.advancedenergy.com/getattachment/7d4355df-ede2-4cdc-9022-7dc7bd0f23a6/Advanced-Bus-Module-(4).png
+  - Image: https://www.advancedenergy.com/getattachment/2793ea43-57c6-4353-84ac-5eac8503a657/Advanced-Bus-Module-(5).png
+  - Image: https://www.advancedenergy.com/getattachment/07c51a5d-2315-4117-ad6c-b8e46b203a4b/Advanced-Bus-Module-(6).png
+  - Image: https://www.advancedenergy.com/getattachment/f918cffb-37c3-46c5-953a-1c68c3fa224d/Advanced-Bus-Module.png
+  - Image: https://www.advancedenergy.com/getattachment/07c66dbe-604a-4d65-9353-202ce306c48a/Advanced-Bus-Module-8.png
+  - Image: https://www.advancedenergy.com/getattachment/f3ab78a9-2cdf-406b-9b3a-0ef5de03f2f2/Thyro-DX7.png
+  - Image: https://www.advancedenergy.com/getattachment/773dbe25-00d3-4476-8b94-f980274dc3c0/Thyro-DX9-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/b4c83e9f-e68e-4c44-94d0-26485e08e5c4/Advanced-Bus-Module-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/8bb68e5e-4a3f-4ed9-ac2b-deb07bd8bebb/Advanced-Bus-Module-(3).png
+  - Image: https://www.advancedenergy.com/getattachment/7d4355df-ede2-4cdc-9022-7dc7bd0f23a6/Advanced-Bus-Module-(4).png
+  - Image: https://www.advancedenergy.com/getattachment/2793ea43-57c6-4353-84ac-5eac8503a657/Advanced-Bus-Module-(5).png
+  - Image: https://www.advancedenergy.com/getattachment/07c51a5d-2315-4117-ad6c-b8e46b203a4b/Advanced-Bus-Module-(6).png
+  - Image: https://www.advancedenergy.com/getattachment/f918cffb-37c3-46c5-953a-1c68c3fa224d/Advanced-Bus-Module.png
+  - Image: https://www.advancedenergy.com/getattachment/07c66dbe-604a-4d65-9353-202ce306c48a/Advanced-Bus-Module-8.png
+  - Image: https://www.advancedenergy.com/getattachment/f3ab78a9-2cdf-406b-9b3a-0ef5de03f2f2/Thyro-DX7.png
+  - Image: https://www.advancedenergy.com/getattachment/773dbe25-00d3-4476-8b94-f980274dc3c0/Thyro-DX9-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/b4c83e9f-e68e-4c44-94d0-26485e08e5c4/Advanced-Bus-Module-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/8bb68e5e-4a3f-4ed9-ac2b-deb07bd8bebb/Advanced-Bus-Module-(3).png
+  - Image: https://www.advancedenergy.com/getattachment/7d4355df-ede2-4cdc-9022-7dc7bd0f23a6/Advanced-Bus-Module-(4).png
+  - Image: https://www.advancedenergy.com/getattachment/2793ea43-57c6-4353-84ac-5eac8503a657/Advanced-Bus-Module-(5).png
+  - Image: https://www.advancedenergy.com/getattachment/07c51a5d-2315-4117-ad6c-b8e46b203a4b/Advanced-Bus-Module-(6).png
+  - Image: https://www.advancedenergy.com/getattachment/f918cffb-37c3-46c5-953a-1c68c3fa224d/Advanced-Bus-Module.png
+  - Image: https://www.advancedenergy.com/getattachment/07c66dbe-604a-4d65-9353-202ce306c48a/Advanced-Bus-Module-8.png
+  - Image: https://www.advancedenergy.com/getattachment/f3ab78a9-2cdf-406b-9b3a-0ef5de03f2f2/Thyro-DX7.png
+  - Thyro-ABM-Diagram-(2).png: https://www.advancedenergy.com/getattachment/5f67b572-10c8-4fc7-bbd2-371e2a86c7c2/Thyro-ABM-Diagram-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/ffc869bc-c300-4e8f-a07a-a6abd2085cbb/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9803e0bb-7432-4c54-a349-c84b814bed11/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7aa03da6-425d-44e7-b686-e46edb583a2e/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98465f7b-0554-4251-ae2f-2bef71e6fa10/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f1a03a29-9d05-4299-8b79-e3a9ab615ff1/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6ef05719-25a1-4d11-a060-583f4657dfa1/software_12.jpg
+  - Image: https://www.advancedenergy.com/getattachment/716a1c4a-608f-45fa-b2c7-43168bb540ee/software_12.jpg
+  - Advanced Energy's SCR Power Controllers: https://i.ytimg.com/vi/VZRgWn7OuJU/hqdefault.jpg
+  - Advanced™ Bus Module—Thyro-XD(R) SCR and Pyrometer Integration: https://i.ytimg.com/vi/0uXxaHOIBXQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0edc70df-00e7-4416-bf95-41e5807c502b/Thyro-XD-S1-1Ph-2023-04-06_01-(2).JPG
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedThyro-XD™ SCR Power ControllerHighly Accurate & Reliable SCR Power Controller: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/thyro-xd-power-controller/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-4-23-2025.pdf
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Steel & MetalsAdvanced Energy's Steel & Metal solutions provide cutting-edge technology, ease-of-use, and dependability through our non-contact temperature sensors and power controllers.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Explore Steel & Metals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+  ↓
+SCR Bus Modules—Simple Fieldbus CommunicationsAdvanced Bus Modules—Process Automation Fieldbus Integration
+  ↓
+Advanced™ Bus Module—SCR and Pyrometer IntegrationConnect up to eight Thyro-XD SCR power controllersIntegrate Impac pyrometers for real-time temperature controlConnect to your network with a range of available fieldbus protocols

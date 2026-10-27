@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Modules
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power Supplies
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Modules
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d8824943-56df-48f7-b30c-d7b2e9f0a7dc/reversible-msrf-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6e52b40d-c4ef-4ed4-b584-35916c0774d6/ultra-low-ripple-msp-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8dfc7bd9-8283-4559-ac19-084b5dc7cc25/xr150-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d527a8d7-2a16-4787-8b94-b6b2ac9e3594/psm10-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/41bebb15-10b1-4cb0-8525-31671d40a935/reversible-msrf-fr-wp.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power Supplies
+  ↓
+Modules

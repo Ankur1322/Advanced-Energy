@@ -1,0 +1,50 @@
+==============================================================================
+PRODUCT DETAILS: Medical DC-DC PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC Converters
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Medical DC-DC PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/
+
+Complete Product Description:
+Keep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/04dbd3bf-888e-4014-b3f7-1a62b420969d/AEE-M.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ae7da9f0-02dc-4992-928f-bf16b6685f95/3de9c8f956.png
+  - Image: https://www.advancedenergy.com/getattachment/56665d18-669e-4782-ae24-1874442fca33/Medical.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC Converters
+  ↓
+Medical DC-DC PCB Mount

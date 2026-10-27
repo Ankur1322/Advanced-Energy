@@ -1,0 +1,110 @@
+==============================================================================
+PRODUCT DETAILS: MAXstream® Remote Plasma SourceMultiple models: MAXstream 300 for low flow applications and MAXstream 1200 for higher flow applicationsHighly reliable RPS maximizes tool uptime
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Remote Plasma SourcesAdvanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/
+Category Description: Advanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: MAXstream® Remote Plasma SourceMultiple models: MAXstream 300 for low flow applications and MAXstream 1200 for higher flow applicationsHighly reliable RPS maximizes tool uptime
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/maxstream/
+
+Complete Product Description:
+Advanced Energy’s MAXstream® line is the next generation of remote plasma sources for chamber cleaning.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+  - MAXstream 300 Data Sheet View Resource: https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+  - MAXStream 1200 Datasheet View Resource: https://www.advancedenergy.com/getmedia/087281d9-ee9b-4afb-bec2-785e9ca95529/ENG-MAXstream-1200-235-01-07-03-24.pdf
+  - MAXStream 1200 Datasheet: https://www.advancedenergy.com/getmedia/087281d9-ee9b-4afb-bec2-785e9ca95529/ENG-MAXstream-1200-235-01-07-03-24.pdf
+  - MAXstream 300 Data Sheet: https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/087281d9-ee9b-4afb-bec2-785e9ca95529/ENG-MAXstream-1200-235-01-07-03-24.pdf
+  - https://www.advancedenergy.com/getmedia/087281d9-ee9b-4afb-bec2-785e9ca95529/ENG-MAXstream-1200-235-01-07-03-24.pdf
+  - https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/378ce522-63e6-4f9e-8102-a4f7534ce551/maxstream300-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/efa6afc8-06ec-4c43-95b2-4d406b08f1cb/MAXstream_1200_BB_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/526b71ee-dd3f-4fd8-8502-c475ff75775d/MAXstream_1200_BB2_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7edd7972-808f-4046-9516-213b064c5e7d/MAXstream_1200_FR_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/772ff16f-6387-4382-97d1-3401acf4ba94/MAXstream_1200_FS_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a25049be-503a-413c-b3a5-9e586710979d/MAXstream_1200_FT_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7925fbe0-81e1-4c21-9a8f-447010a1077f/maxstream300-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fd061f58-a6cb-42ee-aee1-22a1e45f2d2f/maxstream300-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d4aadd38-430b-4c57-bb30-928da25da3fc/maxstream300-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b50fade0-a9b7-4627-b8f8-38e8e70f2d4b/maxstream300-sl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/378ce522-63e6-4f9e-8102-a4f7534ce551/maxstream300-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/efa6afc8-06ec-4c43-95b2-4d406b08f1cb/MAXstream_1200_BB_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/526b71ee-dd3f-4fd8-8502-c475ff75775d/MAXstream_1200_BB2_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7edd7972-808f-4046-9516-213b064c5e7d/MAXstream_1200_FR_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/772ff16f-6387-4382-97d1-3401acf4ba94/MAXstream_1200_FS_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a25049be-503a-413c-b3a5-9e586710979d/MAXstream_1200_FT_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7925fbe0-81e1-4c21-9a8f-447010a1077f/maxstream300-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fd061f58-a6cb-42ee-aee1-22a1e45f2d2f/maxstream300-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d4aadd38-430b-4c57-bb30-928da25da3fc/maxstream300-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b50fade0-a9b7-4627-b8f8-38e8e70f2d4b/maxstream300-sl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/378ce522-63e6-4f9e-8102-a4f7534ce551/maxstream300-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/efa6afc8-06ec-4c43-95b2-4d406b08f1cb/MAXstream_1200_BB_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/526b71ee-dd3f-4fd8-8502-c475ff75775d/MAXstream_1200_BB2_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7edd7972-808f-4046-9516-213b064c5e7d/MAXstream_1200_FR_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/772ff16f-6387-4382-97d1-3401acf4ba94/MAXstream_1200_FS_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a25049be-503a-413c-b3a5-9e586710979d/MAXstream_1200_FT_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7925fbe0-81e1-4c21-9a8f-447010a1077f/maxstream300-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fd061f58-a6cb-42ee-aee1-22a1e45f2d2f/maxstream300-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d4aadd38-430b-4c57-bb30-928da25da3fc/maxstream300-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b50fade0-a9b7-4627-b8f8-38e8e70f2d4b/maxstream300-sl-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Chamber Cleaning with Advanced Energy Remote Plasma Sources: https://i.ytimg.com/vi/jx2MlMkANHM/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Solar PhotovoltaicsTo compete in today’s energy market, photovoltaic (PV) fabrication enterprises require solar manufacturing equipment that increases productivity and reduces costs.: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Explore Solar Photovoltaics: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Remote Plasma SourcesAdvanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+  ↓
+MAXstream® Remote Plasma SourceMultiple models: MAXstream 300 for low flow applications and MAXstream 1200 for higher flow applicationsHighly reliable RPS maximizes tool uptime

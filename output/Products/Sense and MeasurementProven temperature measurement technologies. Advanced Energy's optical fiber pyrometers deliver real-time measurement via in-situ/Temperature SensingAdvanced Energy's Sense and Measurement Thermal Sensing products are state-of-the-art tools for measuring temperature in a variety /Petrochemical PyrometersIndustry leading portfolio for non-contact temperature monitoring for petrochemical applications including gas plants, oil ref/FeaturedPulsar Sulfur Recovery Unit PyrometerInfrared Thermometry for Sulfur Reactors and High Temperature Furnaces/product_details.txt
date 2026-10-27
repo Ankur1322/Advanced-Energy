@@ -1,0 +1,80 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedPulsar Sulfur Recovery Unit PyrometerInfrared Thermometry for Sulfur Reactors and High Temperature Furnaces
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Petrochemical PyrometersIndustry leading portfolio for non-contact temperature monitoring for petrochemical applications including gas plants, oil refineries, and chemical plantsInnovative products provide highly accurate data to help operators realize condition-based maintenance with continuous and remote monitoring.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/petrochemical-pyrometers/
+Category Description: Innovative temperature and embedded power solutions for petrochemical applications including gas plants, oil refineries, and chemical plants.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedPulsar Sulfur Recovery Unit PyrometerInfrared Thermometry for Sulfur Reactors and High Temperature Furnaces
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/petrochemical-pyrometers/pulsar/
+
+Complete Product Description:
+The PulsarTM 4 Advanced measurs two wavelenghts for continious and instantaneous measurment of refractory temperature (RT), gas teemperature (GT) and integrated temperature (FF), reporting both readings simultaniously in one instrument. The  E2T PulsarTM 4 is a single channel option for direct replacement of older Pulsar II models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/26a42341-144a-436b-b6df-c44fe01981c5/en-op-pulsar4-data-sheet.pdf
+  - Temperature Measurement for Petrochemical Brochure: https://www.advancedenergy.com/getmedia/e8d12a1b-a363-495e-9eb0-4fb8a04666e4/en-ge-petrochemical-brochure.pdf
+  - 石化测温: https://www.advancedenergy.com/getmedia/f72774ac-dfc5-4ea9-afd5-91d2c9c354c1/zho-ge-petrochemical-brochure.pdf
+  - E2T Pulsar 4 and Pulsar 4 Advanced Data Sheet: https://www.advancedenergy.com/getmedia/26a42341-144a-436b-b6df-c44fe01981c5/ENG-Pulsar4-235-03-09-25-23.pdf
+  - PULSAR 4 Datasheet Russian language: https://www.advancedenergy.com/getmedia/c73c8ab8-234d-4426-b9ac-a2de849f1620/PULSAR4_Datasheet-RU-Web.pdf
+  - Pulsar 4 Manual Rev J English: https://www.advancedenergy.com/getmedia/90f1b8bc-6df1-4fd0-8bc2-e9df86a781d6/Pulsar-4-Manual-Rev-J-EN.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/26a42341-144a-436b-b6df-c44fe01981c5/en-op-pulsar4-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e8d12a1b-a363-495e-9eb0-4fb8a04666e4/en-ge-petrochemical-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/f72774ac-dfc5-4ea9-afd5-91d2c9c354c1/zho-ge-petrochemical-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/26a42341-144a-436b-b6df-c44fe01981c5/ENG-Pulsar4-235-03-09-25-23.pdf
+  - https://www.advancedenergy.com/getmedia/c73c8ab8-234d-4426-b9ac-a2de849f1620/PULSAR4_Datasheet-RU-Web.pdf
+  - https://www.advancedenergy.com/getmedia/90f1b8bc-6df1-4fd0-8bc2-e9df86a781d6/Pulsar-4-Manual-Rev-J-EN.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/5e81bd8f-857d-47bf-9f8f-412a9db64029/e2t_pulsar4-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5e81bd8f-857d-47bf-9f8f-412a9db64029/e2t_pulsar4-fr-wp.jpg
+  - Infrared Thermometry for Sulfur Reactors - Advanced Energy's E2T Pulsar 4: https://i.ytimg.com/vi/cTzcI2bqe-E/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - PetrochemicalsAdvanced Energy provides innovative temperature and gas sensing instruments for the petrochemical market that are designed for high-temperature, energy-intensive processes such as reforming and distillation operations..: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Explore Petrochemicals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Petrochemical PyrometersIndustry leading portfolio for non-contact temperature monitoring for petrochemical applications including gas plants, oil refineries, and chemical plantsInnovative products provide highly accurate data to help operators realize condition-based maintenance with continuous and remote monitoring.
+  ↓
+FeaturedPulsar Sulfur Recovery Unit PyrometerInfrared Thermometry for Sulfur Reactors and High Temperature Furnaces

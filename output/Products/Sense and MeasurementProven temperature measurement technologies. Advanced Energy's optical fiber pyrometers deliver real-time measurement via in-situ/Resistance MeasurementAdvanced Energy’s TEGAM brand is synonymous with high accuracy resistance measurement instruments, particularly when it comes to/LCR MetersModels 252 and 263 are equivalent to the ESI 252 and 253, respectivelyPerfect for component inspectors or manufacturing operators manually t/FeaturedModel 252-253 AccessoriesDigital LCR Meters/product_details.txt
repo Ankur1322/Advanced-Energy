@@ -1,0 +1,81 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedModel 252/253 AccessoriesDigital LCR Meters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/
+Category Description: Advanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+
+[Level 3] Category Name: LCR MetersModels 252 and 263 are equivalent to the ESI 252 and 253, respectivelyPerfect for component inspectors or manufacturing operators manually testing of inductors, capacitors, and resistorsSupported with a variety of test lead options and accessories
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/lcr-meters/
+Category Description: The Advanced Energy TEGAM® Model 252 LCR Meter is perfect for component inspectors and manufacturing operators performing manual testing of inductors, capacitors, or resistors.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedModel 252/253 AccessoriesDigital LCR Meters
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/lcr-meters/model-252-and-accessories/
+
+Complete Product Description:
+Accessories for TEGAM Model 252/253 LCR Meters
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f53e84f-26e6-401c-951d-7638fa360e9a/252_253_909-01_RevCA-1.pdf
+  - 252/253 Accessory Sheet: https://www.advancedenergy.com/getmedia/24687c23-31ad-4b6a-a690-689e903e4ed6/252-253-Accessories-Sheet.pdf
+  - 252/253 Datasheet: https://www.advancedenergy.com/getmedia/a6be5021-edb0-45d5-9471-d9007599417d/252_253_909-01_RevCA-1_1.pdf
+  - 252 Manual: https://www.advancedenergy.com/getmedia/8699cc0f-a15f-4dff-a92a-05eeb139ee20/252-Manual-Rev-L.pdf
+  - AN102: How to Properly Zero a Kelvin Klip: https://www.advancedenergy.com/getmedia/182b9848-3133-4ff7-8719-9a9bbe594827/AN102.pdf
+  - AN300: Verify Fenwal Temperature Sensing Elements: https://www.advancedenergy.com/getmedia/78fa5e8b-7cbc-4db9-9688-55065aa4510d/AN300.pdf
+  - AN301: LCR Meter Measurement Accuracy: https://www.advancedenergy.com/getmedia/48f10723-398d-4e8e-aac2-2b5432f148e6/AN301.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/3f53e84f-26e6-401c-951d-7638fa360e9a/252_253_909-01_RevCA-1.pdf
+  - https://www.advancedenergy.com/getmedia/24687c23-31ad-4b6a-a690-689e903e4ed6/252-253-Accessories-Sheet.pdf
+  - https://www.advancedenergy.com/getmedia/a6be5021-edb0-45d5-9471-d9007599417d/252_253_909-01_RevCA-1_1.pdf
+  - https://www.advancedenergy.com/getmedia/8699cc0f-a15f-4dff-a92a-05eeb139ee20/252-Manual-Rev-L.pdf
+  - https://www.advancedenergy.com/getmedia/182b9848-3133-4ff7-8719-9a9bbe594827/AN102.pdf
+  - https://www.advancedenergy.com/getmedia/78fa5e8b-7cbc-4db9-9688-55065aa4510d/AN300.pdf
+  - https://www.advancedenergy.com/getmedia/48f10723-398d-4e8e-aac2-2b5432f148e6/AN301.pdf
+
+Images:
+  - 1 kHz Portable LCR Meter: https://www.advancedenergy.com/getattachment/f02c3a68-2685-49d6-88ff-21748d0fc251/252-General-Purpose-Portable-Impedance-LCR-Meter-zoom.jpg
+  - 1 kHz Portable LCR Meter: https://www.advancedenergy.com/getattachment/f02c3a68-2685-49d6-88ff-21748d0fc251/252-General-Purpose-Portable-Impedance-LCR-Meter-zoom.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fe8ad482-3434-4c52-8a9c-abf2befa8e71/Circuit-board-components-installation.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fe8ad482-3434-4c52-8a9c-abf2befa8e71/Circuit-board-components-installation.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Electronic Component TestAdvanced Energy's high-speed micro-ohmmeters perform a wide range of tasks to assist electronic component manufacturers on the production line and in the QA lab.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/electronic-component-test/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/electronic-component-test/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+  ↓
+LCR MetersModels 252 and 263 are equivalent to the ESI 252 and 253, respectivelyPerfect for component inspectors or manufacturing operators manually testing of inductors, capacitors, and resistorsSupported with a variety of test lead options and accessories
+  ↓
+FeaturedModel 252/253 AccessoriesDigital LCR Meters

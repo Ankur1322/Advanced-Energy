@@ -1,0 +1,60 @@
+==============================================================================
+PRODUCT DETAILS: Up to 35 kVReliable and precise power deliveryHigh voltage output with minimal distortionIdeal for a range of applications
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: Low PowerAdvanced Energy provides a line of high voltage, low power systems.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/low-power/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Up to 35 kVReliable and precise power deliveryHigh voltage output with minimal distortionIdeal for a range of applications
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/low-power/up-to-35kv/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - HiTek Power EG353 Series Data Sheet: https://www.advancedenergy.com/getmedia/798717a2-ba1e-41e5-b654-8c39c9ea2c66/ENG-HV-EG353-235-5-02-07-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/798717a2-ba1e-41e5-b654-8c39c9ea2c66/ENG-HV-EG353-235-5-02-07-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/73853d5e-0cf1-489d-aac6-8e79c5b1bdda/low-power-eg353-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+Low PowerAdvanced Energy provides a line of high voltage, low power systems.
+  ↓
+Up to 35 kVReliable and precise power deliveryHigh voltage output with minimal distortionIdeal for a range of applications

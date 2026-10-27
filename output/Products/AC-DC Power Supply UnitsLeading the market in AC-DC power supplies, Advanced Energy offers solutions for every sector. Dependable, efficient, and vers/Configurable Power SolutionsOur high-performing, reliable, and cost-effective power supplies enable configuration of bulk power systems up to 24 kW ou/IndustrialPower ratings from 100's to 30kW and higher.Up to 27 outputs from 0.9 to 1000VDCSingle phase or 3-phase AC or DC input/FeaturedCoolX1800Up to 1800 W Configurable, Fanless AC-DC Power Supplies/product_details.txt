@@ -1,0 +1,152 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedCoolX1800Up to 1800 W Configurable, Fanless AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: IndustrialPower ratings from 100's to 30kW and higher.Up to 27 outputs from 0.9 to 1000VDCSingle phase or 3-phase AC or DC input
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/
+Category Description: Configurable Products for Industrial Applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedCoolX1800Up to 1800 W Configurable, Fanless AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/coolx1800/
+
+Complete Product Description:
+Up to 1800 W Configurable, Fanless AC-DC Power Supplies
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/85fa05bf-c38a-402f-bd74-9c0e9d8074cf/ENG-LV-COOLX1800-235-16_04-07-24.pdf
+  - Driving Innovation in Microwave Ablation Systems with Advanced Energy’s CoolX1800 View Resource: https://www.advancedenergy.com/getmedia/aaf65cca-dbae-4113-8749-4046df28aefc/ENG-Microwave-Ablation-Systems-Case-Study-295-01.pdf
+  - Embedded Power Brochure: https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - Medical Power Supplies Brochure: https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - Rapid Modification & Value-Added Engineering Solutions: https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - CoolX1800 Data Sheet: https://www.advancedenergy.com/getmedia/85fa05bf-c38a-402f-bd74-9c0e9d8074cf/ENG-LV-COOLX1800-235-16_11-13-25.pdf
+  - Excelsys CoolMods Datasheet: https://www.advancedenergy.com/getmedia/1f85c75c-2e5e-4af4-98c8-cf2ab511f332/ENG-CoolMods-07-20-2025.pdf
+  - CoolX1800 Designers Manual: https://www.advancedenergy.com/getmedia/dedccbe0-384b-465e-8f04-26df0891821e/AC-DC-CoolX1800-Designer-Maunal-1-2-(111425).pdf
+  - CoolX1800 Instruction Manual: https://www.advancedenergy.com/getmedia/2f57cc85-2d19-4850-8066-470ce62a45b6/en-lv-coolX1800-instruction-manual.pdf
+  - CX1800 PMBus Manual: https://www.advancedenergy.com/getmedia/daba83c3-5047-463e-adc6-aa30aac8eabf/en-lv-cx1800-pmbus-manual.pdf
+  - CoolX Series - AN10440 - Hipot: https://www.advancedenergy.com/getmedia/64c34c2f-7724-4ac7-8e5a-6bb82031257b/ENG-AppNote-HiPot-265-01.pdf
+  - Electrosurgery Application Note: https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - How to Select Power Supplies for High-Altitude Applications Application Note: https://www.advancedenergy.com/getmedia/86f5885a-6cd4-45a3-92c6-c1dbcaa5b020/en-lv-power-supplies-for-high-altitude-applications-application-note.pdf
+  - I2C Basics Application Note: https://www.advancedenergy.com/getmedia/1abf959e-3070-447f-9bad-b27d0e4c51ff/en-lv-i2c-basics-application-note.pdf
+  - Immunity to ESD Application Note: https://www.advancedenergy.com/getmedia/e721fa11-16a2-405a-b67c-47ef8c52d37f/en-lv-immunity-to-esd-application-note.pdf
+  - Life Science Application Note: https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - Medical Imaging Application Note: https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - Medical Lasers and Aesthetic Equipment Application Note: https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - Semi F47-0706 Compliance: Voltage Sag Immunity Application Note: https://www.advancedenergy.com/getmedia/346f4ecd-3a42-4219-9a93-0a1ae94b64e5/en-lv-semi-F47-0706-compliance-voltage-sag-immunity.pdf
+  - AE's range of power solutions and responsiveness enables launch market leading Cell Sorter for OEM: https://www.advancedenergy.com/getmedia/8b5634c4-33f2-4a14-a83b-eea187a6b43d/ENG-CX18M-Opto-Acoustic-imaging-Case-Study-295-01-(1).pdf
+  - CoolX for Electrosurgery Power Console: https://www.advancedenergy.com/getmedia/c0816c2b-4c3a-4d74-afc8-52c11d69819e/eng-case-study-electrosurgery-power-console-2025.pdf
+  - CoolX-G Power Supplies for Next Generation Biomedical Analyser: https://www.advancedenergy.com/getmedia/75f70427-d365-45f5-9048-6772581521f4/ENG-Biomedical-Analyzer-Case-Study.pdf
+  - Driving Innovation in Microwave Ablation Systems with Advanced Energy’s CoolX1800: https://www.advancedenergy.com/getmedia/aaf65cca-dbae-4113-8749-4046df28aefc/ENG-Microwave-Ablation-Systems-Case-Study-295-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/32ea0fb9-b9e6-43ec-b2e9-5a19fd8ad27c/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/038b5b83-7d8d-4541-8862-8124088cf08d/ENG-IMP-235-01-04-12-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/85fa05bf-c38a-402f-bd74-9c0e9d8074cf/ENG-LV-COOLX1800-235-16_04-07-24.pdf
+  - https://www.advancedenergy.com/getmedia/aaf65cca-dbae-4113-8749-4046df28aefc/ENG-Microwave-Ablation-Systems-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/85fa05bf-c38a-402f-bd74-9c0e9d8074cf/ENG-LV-COOLX1800-235-16_11-13-25.pdf
+  - https://www.advancedenergy.com/getmedia/1f85c75c-2e5e-4af4-98c8-cf2ab511f332/ENG-CoolMods-07-20-2025.pdf
+  - https://www.advancedenergy.com/getmedia/dedccbe0-384b-465e-8f04-26df0891821e/AC-DC-CoolX1800-Designer-Maunal-1-2-(111425).pdf
+  - https://www.advancedenergy.com/getmedia/2f57cc85-2d19-4850-8066-470ce62a45b6/en-lv-coolX1800-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/daba83c3-5047-463e-adc6-aa30aac8eabf/en-lv-cx1800-pmbus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/64c34c2f-7724-4ac7-8e5a-6bb82031257b/ENG-AppNote-HiPot-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/86f5885a-6cd4-45a3-92c6-c1dbcaa5b020/en-lv-power-supplies-for-high-altitude-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/1abf959e-3070-447f-9bad-b27d0e4c51ff/en-lv-i2c-basics-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/e721fa11-16a2-405a-b67c-47ef8c52d37f/en-lv-immunity-to-esd-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/346f4ecd-3a42-4219-9a93-0a1ae94b64e5/en-lv-semi-F47-0706-compliance-voltage-sag-immunity.pdf
+  - https://www.advancedenergy.com/getmedia/8b5634c4-33f2-4a14-a83b-eea187a6b43d/ENG-CX18M-Opto-Acoustic-imaging-Case-Study-295-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/c0816c2b-4c3a-4d74-afc8-52c11d69819e/eng-case-study-electrosurgery-power-console-2025.pdf
+  - https://www.advancedenergy.com/getmedia/75f70427-d365-45f5-9048-6772581521f4/ENG-Biomedical-Analyzer-Case-Study.pdf
+  - https://www.advancedenergy.com/getmedia/aaf65cca-dbae-4113-8749-4046df28aefc/ENG-Microwave-Ablation-Systems-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/32ea0fb9-b9e6-43ec-b2e9-5a19fd8ad27c/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - https://www.advancedenergy.com/getmedia/038b5b83-7d8d-4541-8862-8124088cf08d/ENG-IMP-235-01-04-12-24.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/7c080031-eb57-45a4-a5cf-59a392df39f7/coolx1800.jpg
+  - Image: https://img.youtube.com/vi/ptiZd8bMuW4/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7c080031-eb57-45a4-a5cf-59a392df39f7/coolx1800.jpg
+  - Image: https://img.youtube.com/vi/ptiZd8bMuW4/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7c080031-eb57-45a4-a5cf-59a392df39f7/coolx1800.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4227de99-1166-47a6-8277-7c207df54d89/NP05-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/edac4529-69c8-45f0-8c47-b0fe2c690574/uMP10-16-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c3a282d8-dae6-481d-9ee5-38210fded693/iMP1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/9e38656f-b753-4231-bb8d-c61120f9f0e1/iVS1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7c080031-eb57-45a4-a5cf-59a392df39f7/coolx1800.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4227de99-1166-47a6-8277-7c207df54d89/NP05-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/432ce347-c05e-430f-b456-d12d30fd81f3/uMP10-16.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ceadcf4-8a98-4340-af29-29545f439fba/iMP1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fb475a97-2f67-4a94-b1e3-d7fa8dff37c9/iVS1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNP05Up to 2400 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/np05/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - FeatureduMP16 Gen II1000 to 1800 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ump16-gen-ii/
+  - Datasheet: https://www.advancedenergy.com/getmedia/32ea0fb9-b9e6-43ec-b2e9-5a19fd8ad27c/ENG-%ce%bcMP-235-01-05-15-25.pdf
+  - FeaturediMP11200 to 1500 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/imp1/
+  - Datasheet: https://www.advancedenergy.com/getmedia/038b5b83-7d8d-4541-8862-8124088cf08d/ENG-IMP-235-01-04-12-24.pdf
+  - FeaturediVS11500 to 3210 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ivs1/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+IndustrialPower ratings from 100's to 30kW and higher.Up to 27 outputs from 0.9 to 1000VDCSingle phase or 3-phase AC or DC input
+  ↓
+FeaturedCoolX1800Up to 1800 W Configurable, Fanless AC-DC Power Supplies

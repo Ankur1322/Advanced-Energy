@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: OCP Compliant Power Shelves
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: OCP Compliant Power Shelves
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/
+
+Complete Product Description:
+Advanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/decdab00-b5b2-4a74-97d2-bd785083a8c6/HPR_Shelf_Left.jpg
+  - Image: https://www.advancedenergy.com/getattachment/56649705-6f69-4cf2-bdbd-2e45dbb98621/Power-Shelves.png
+  - Image: https://www.advancedenergy.com/getattachment/1b915f85-f072-4529-8165-419742c515fb/ORV2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/decdab00-b5b2-4a74-97d2-bd785083a8c6/HPR_Shelf_Left.jpg?resizemode=force&maxsidesize=408
+  - Image: https://www.advancedenergy.com/getattachment/56649705-6f69-4cf2-bdbd-2e45dbb98621/Power-Shelves.png?resizemode=force&maxsidesize=408
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+OCP Compliant Power Shelves

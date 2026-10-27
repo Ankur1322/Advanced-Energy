@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Integrated Systems
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power Products
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/integrated-systems/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Integrated Systems
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/integrated-systems/
+
+Complete Product Description:
+Advanced Energy's integrated systems combine various AE products into tailored solutions that ensure consistent quality and enhance the efficiency of plasma processes across industries.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c2cf6b89-03db-4f4e-87d8-259c3ef630db/Omni.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2527d298-d4cf-4ccf-94d3-814abbcb4d4a/power-rack-ISO-render-sb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c2cf6b89-03db-4f4e-87d8-259c3ef630db/Omni.jpg?resizemode=force&maxsidesize=408
+  - Image: https://www.advancedenergy.com/getattachment/22d8d4a5-b2d3-4300-9e63-d45e6b652db9/Omni-300x300.jpg?resizemode=force&maxsidesize=512
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg?resizemode=force&maxsidesize=500
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power Products
+  ↓
+Integrated Systems

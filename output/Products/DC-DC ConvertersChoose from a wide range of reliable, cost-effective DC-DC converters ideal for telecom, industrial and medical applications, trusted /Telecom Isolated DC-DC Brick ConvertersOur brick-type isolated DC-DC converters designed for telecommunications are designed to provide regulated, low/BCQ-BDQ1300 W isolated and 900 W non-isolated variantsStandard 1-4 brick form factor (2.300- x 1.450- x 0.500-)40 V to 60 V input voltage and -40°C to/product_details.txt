@@ -1,0 +1,96 @@
+==============================================================================
+PRODUCT DETAILS: BCQ/BDQ1300 W isolated and 900 W non-isolated variantsStandard 1/4 brick form factor (2.300" x 1.450" x 0.500")40 V to 60 V input voltage and -40°C to 85°C operating temperature
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: BCQ/BDQ1300 W isolated and 900 W non-isolated variantsStandard 1/4 brick form factor (2.300" x 1.450" x 0.500")40 V to 60 V input voltage and -40°C to 85°C operating temperature
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/bcq-bdq/
+
+Complete Product Description:
+Advanced Energy's BDQ1300 & BCQ1300 series quarter-brick are isolated DC-DC converters that produce a single 12 V nominal output from an input voltage range of 40 to 60 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - Digital DC-DC Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - Digital DC-DC Brochure_English: https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - Digital DC-DC Brochure_Japanese Version: https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - BCQ1300W_BDQ1300W Datasheet: https://www.advancedenergy.com/getmedia/dd99bdcc-a3a3-4684-9d14-c8c003ad79ea/bcq1300_bdq1300_datasheet_4de1575443462.pdf
+  - BCQ1300 Coc: https://www.advancedenergy.com/getmedia/2b17eeb1-aa84-40c5-b041-d7ca8c27626c/rohs3_coc_1575443977_rohs_.pdf
+  - BDQ1300 CoC: https://www.advancedenergy.com/getmedia/7c26b0e8-e113-4a70-bb5c-ea110d304fc5/bdq1300-48s12_coc_1575443787_rohs_.pdf
+  - BCQ1300 CE DoC: https://www.advancedenergy.com/getmedia/1873a6ba-c961-44ec-8e37-e40bad9c2727/BCQ1300-48S12_CE_211110.pdf
+  - BCQ1300 TUV: https://www.advancedenergy.com/getmedia/ea2c3a0c-acdb-4ecd-a36d-0dfcdf1b2f92/BCQ1300-48S12_TUV_231024.pdf
+  - BCQ1300 TUV cert: https://www.advancedenergy.com/getmedia/acf08ec1-4494-45de-a6d9-bd1c6daa3088/6821018058601_dc-dc_converter_1575444120_cert.pdf
+  - BCQ1300 UKCA: https://www.advancedenergy.com/getmedia/3eb59eff-59b7-483f-8d18-a3c50cd10765/BCQ1300-48S12_UKCA_210617.pdf
+  - BCQ1300 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/a52634bb-a783-4b8a-993b-1a24e290d620/BCQ1300-48S12_UL-CoC_181124.pdf
+  - BDQ1300 CB cert: https://www.advancedenergy.com/getmedia/8122b841-db4d-45d9-9cbb-e1f147fd903d/211-21190321-000_cert_cb_1575443597_cert.pdf
+  - BDQ1300 TUV cert: https://www.advancedenergy.com/getmedia/c6c19b87-65be-4809-a487-0f52c792b4fe/6821019032102_cert_b_1575308652_cert.pdf
+  - BDQ1300 UL cert: https://www.advancedenergy.com/getmedia/88d2d810-b6cc-44c0-a193-17573d2d4851/e132002-20190610-certificateof1575308720_cert.pdf
+  - CB test Certificate: https://www.advancedenergy.com/getmedia/3a9a9cba-b3c3-4800-95e3-4a16971d5efa/211-21190321-000_cert_cb_1575308582_cert.pdf
+  - BCQ1300 Technical Reference Note: https://www.advancedenergy.com/getmedia/fa8e7507-7fe8-4153-8817-b059006fd165/TRN-DC-DC-BCQ1300-48S1B-4L-Release-1-2-(090924).pdf
+  - BDQ1300 Tech Ref Note: https://www.advancedenergy.com/getmedia/9fbb4495-b768-47e0-8cfc-f4491852ec89/TRN-DC-DC-BDQ1300-48S12B-4LI-Release1-3-(011523).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - https://www.advancedenergy.com/getmedia/dd99bdcc-a3a3-4684-9d14-c8c003ad79ea/bcq1300_bdq1300_datasheet_4de1575443462.pdf
+  - https://www.advancedenergy.com/getmedia/2b17eeb1-aa84-40c5-b041-d7ca8c27626c/rohs3_coc_1575443977_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/7c26b0e8-e113-4a70-bb5c-ea110d304fc5/bdq1300-48s12_coc_1575443787_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/1873a6ba-c961-44ec-8e37-e40bad9c2727/BCQ1300-48S12_CE_211110.pdf
+  - https://www.advancedenergy.com/getmedia/ea2c3a0c-acdb-4ecd-a36d-0dfcdf1b2f92/BCQ1300-48S12_TUV_231024.pdf
+  - https://www.advancedenergy.com/getmedia/acf08ec1-4494-45de-a6d9-bd1c6daa3088/6821018058601_dc-dc_converter_1575444120_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3eb59eff-59b7-483f-8d18-a3c50cd10765/BCQ1300-48S12_UKCA_210617.pdf
+  - https://www.advancedenergy.com/getmedia/a52634bb-a783-4b8a-993b-1a24e290d620/BCQ1300-48S12_UL-CoC_181124.pdf
+  - https://www.advancedenergy.com/getmedia/8122b841-db4d-45d9-9cbb-e1f147fd903d/211-21190321-000_cert_cb_1575443597_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c6c19b87-65be-4809-a487-0f52c792b4fe/6821019032102_cert_b_1575308652_cert.pdf
+  - https://www.advancedenergy.com/getmedia/88d2d810-b6cc-44c0-a193-17573d2d4851/e132002-20190610-certificateof1575308720_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3a9a9cba-b3c3-4800-95e3-4a16971d5efa/211-21190321-000_cert_cb_1575308582_cert.pdf
+  - https://www.advancedenergy.com/getmedia/fa8e7507-7fe8-4153-8817-b059006fd165/TRN-DC-DC-BCQ1300-48S1B-4L-Release-1-2-(090924).pdf
+  - https://www.advancedenergy.com/getmedia/9fbb4495-b768-47e0-8cfc-f4491852ec89/TRN-DC-DC-BDQ1300-48S12B-4LI-Release1-3-(011523).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/e4183d7c-e731-4455-9081-f4f14f5b7db1/BCQ-BDQ-NDQ.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+BCQ/BDQ1300 W isolated and 900 W non-isolated variantsStandard 1/4 brick form factor (2.300" x 1.450" x 0.500")40 V to 60 V input voltage and -40°C to 85°C operating temperature

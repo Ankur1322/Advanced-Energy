@@ -1,0 +1,83 @@
+==============================================================================
+PRODUCT DETAILS: BipolarControl parameters such as over-current, wafer-present, and wafer-clamped thresholds, clamp voltage, offset voltage and internal or external amplitude/offset controlIncreases efficiency and throughput with custom clamp and declamp sequences and wave shapesEliminates sticky/popping wafer issues
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: E-ChuckAdvanced Energy's Trek E-Chuck supplies have been a staple in the semiconductor industry for decades.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/e-chuck/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: BipolarControl parameters such as over-current, wafer-present, and wafer-clamped thresholds, clamp voltage, offset voltage and internal or external amplitude/offset controlIncreases efficiency and throughput with custom clamp and declamp sequences and wave shapesEliminates sticky/popping wafer issues
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/e-chuck/bipolar/
+
+Complete Product Description:
+Advanced Energy's electrostatic chuck power supplies tackle persistent issues and optimize the semiconductor manufacturing process.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Trek 645 Data Sheet: https://www.advancedenergy.com/getmedia/0cf5ce2a-2cdd-4c47-9294-ec712735b8ac/en-ecs-trek-645-data-sheet.pdf
+  - Trek 645-HT Data Sheet: https://www.advancedenergy.com/getmedia/40c3ad01-9e4d-4be2-933a-a6cb6f49e5f8/en-esc-trek-645-ht-data-sheet.pdf
+  - Trek 646 Data Sheet: https://www.advancedenergy.com/getmedia/960faa0e-eea7-4092-8bd9-4498f22b022a/ENG-ECS-Trek-646-235-02-03-15-23.pdf
+  - Electrostatic Semiconductor Wafer Clamping/Chucking System (ESC) Application Note: https://www.advancedenergy.com/getmedia/0765eec8-b47d-427a-8a36-bfb8af5351f7/en-hv-amplifier-electrostatic-semiconductor-wafer-system.pdf
+  - Electrostatic Semiconductor Wafer Clamping/Chucking System (ESC) Application Note The electrostatic chuck (ESC) is used in a variety of semiconductor processes to hold the wafer during processing. View Resource: https://www.advancedenergy.com/getmedia/525ad7bd-7ffb-4c3a-99aa-d3ce055ddef7/en-hv-amplifier-electrostatic-semiconductor-wafer-system.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0cf5ce2a-2cdd-4c47-9294-ec712735b8ac/en-ecs-trek-645-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/40c3ad01-9e4d-4be2-933a-a6cb6f49e5f8/en-esc-trek-645-ht-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/960faa0e-eea7-4092-8bd9-4498f22b022a/ENG-ECS-Trek-646-235-02-03-15-23.pdf
+  - https://www.advancedenergy.com/getmedia/0765eec8-b47d-427a-8a36-bfb8af5351f7/en-hv-amplifier-electrostatic-semiconductor-wafer-system.pdf
+  - https://www.advancedenergy.com/getmedia/525ad7bd-7ffb-4c3a-99aa-d3ce055ddef7/en-hv-amplifier-electrostatic-semiconductor-wafer-system.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/91edafe4-7914-4c7f-9ee7-0d8fdc42e33a/bipolar-thumbnail-645646_web.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/application-note.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/f2f7d510-c0f3-4f90-a2eb-f45e69357189/Electron-Beam.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f2f7d510-c0f3-4f90-a2eb-f45e69357189/Electron-Beam.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Electron Beam InspectionOur products deliver stable, reliable power to electron beam inspection systems. This exacting control enables highly accurate defect identification, ensuring that memory and logic devices meet stringent specifications.: https://www.advancedenergy.com/en-us/applications/semiconductor/electron-beam-inspection/
+  - Explore Electron Beam Inspection: https://www.advancedenergy.com/en-us/applications/semiconductor/electron-beam-inspection/
+  - ImplantOur products are engineered with a focus on optimizing efficiency and power density to ensure precise control of ion energy.: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+  - Explore Implant: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+E-ChuckAdvanced Energy's Trek E-Chuck supplies have been a staple in the semiconductor industry for decades.
+  ↓
+BipolarControl parameters such as over-current, wafer-present, and wafer-clamped thresholds, clamp voltage, offset voltage and internal or external amplitude/offset controlIncreases efficiency and throughput with custom clamp and declamp sequences and wave shapesEliminates sticky/popping wafer issues

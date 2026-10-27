@@ -1,0 +1,106 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNPS40-M Series40 to 60 W Industrial & Medical AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 0 - 50 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 50 WBoard only construction
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/
+Category Description: Advanced Energy power supplies within the 0 to 50 W range play a vital role in powering a diverse array of electronic devices for medical and industrial applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNPS40-M Series40 to 60 W Industrial & Medical AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/nps40-m/
+
+Complete Product Description:
+The NPS40-M series of open-frame AC-DC power supplies comprises five single output models, offering voltages of 5 V, 12 V, 15 V, 24 V or 48 VDC.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/3966ac74-24ee-492c-af12-3e0a44e81aac/nps40-m_ds_05-09-2014_0c782fd991.pdf
+  - NPS40-M Series Datasheet: https://www.advancedenergy.com/getmedia/3966ac74-24ee-492c-af12-3e0a44e81aac/nps40-m_ds_05-09-2014_0c782fd991.pdf
+  - NPS40-M CB Certificate ITE Safety Certificate: https://www.advancedenergy.com/getmedia/a2fbb293-08aa-4274-a5a0-f3c428703b1f/nps4x-m_ite_cb_cert_1394758615_cert.pdf
+  - NPS40-M CB Certificate Medical Safety Certificate: https://www.advancedenergy.com/getmedia/0da92477-dd70-41e3-bca2-81ab2344b7b0/nps4x-m_med_cb_cert_1394758664_cert.pdf
+  - NPS40-M CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/900c110b-f9a1-4f8a-9c79-850440a9ddf6/nps4x-m_ce_1394758325_cert.pdf
+  - NPS40-M CQC Cavite Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/e7d239af-0193-4613-a896-09c5241300b6/nps4x-m_cqc_cv_1394758401_cert.pdf
+  - NPS40-M TUV ITE/Medical Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/e931edcb-7cd9-42c0-8fe3-abd2ef83ab71/nps4x-m_tuv_cert_1394758712_cert.pdf
+  - NPS40-M UL/CSA (ES60601-1) Medical Certificate ver 3.1 Safety Certificate: https://www.advancedenergy.com/getmedia/dd752cf1-0245-448d-aa59-482c2cbe2ce1/nps4x-m_es_60601-1_1394758525_cert.pdf
+  - NPS40-M UL/CSA ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/292e2f0b-0954-444e-b0cf-4d6e05a3ddf9/nps4x-m_iec_60950-1_1394758564_cert.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3c193bea-83b3-4d97-a795-3845c4978a5f/nps20-m_ds_e342259126.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/980664c0-b87a-4596-9835-6a8804bed99c/nps60-m_ds_3ca389f902.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/3966ac74-24ee-492c-af12-3e0a44e81aac/nps40-m_ds_05-09-2014_0c782fd991.pdf
+  - https://www.advancedenergy.com/getmedia/3966ac74-24ee-492c-af12-3e0a44e81aac/nps40-m_ds_05-09-2014_0c782fd991.pdf
+  - https://www.advancedenergy.com/getmedia/a2fbb293-08aa-4274-a5a0-f3c428703b1f/nps4x-m_ite_cb_cert_1394758615_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0da92477-dd70-41e3-bca2-81ab2344b7b0/nps4x-m_med_cb_cert_1394758664_cert.pdf
+  - https://www.advancedenergy.com/getmedia/900c110b-f9a1-4f8a-9c79-850440a9ddf6/nps4x-m_ce_1394758325_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e7d239af-0193-4613-a896-09c5241300b6/nps4x-m_cqc_cv_1394758401_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e931edcb-7cd9-42c0-8fe3-abd2ef83ab71/nps4x-m_tuv_cert_1394758712_cert.pdf
+  - https://www.advancedenergy.com/getmedia/dd752cf1-0245-448d-aa59-482c2cbe2ce1/nps4x-m_es_60601-1_1394758525_cert.pdf
+  - https://www.advancedenergy.com/getmedia/292e2f0b-0954-444e-b0cf-4d6e05a3ddf9/nps4x-m_iec_60950-1_1394758564_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3c193bea-83b3-4d97-a795-3845c4978a5f/nps20-m_ds_e342259126.pdf
+  - https://www.advancedenergy.com/getmedia/980664c0-b87a-4596-9835-6a8804bed99c/nps60-m_ds_3ca389f902.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/04c3d74f-4fab-4aa6-aaf0-99a98f00377d/16f5d86c0d.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6cb6c1d8-aff5-4b6f-ad72-158269f1708b/1267055715-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/88bef04b-71c2-46bd-b840-679fdece866c/1282340952-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04c3d74f-4fab-4aa6-aaf0-99a98f00377d/16f5d86c0d.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6cb6c1d8-aff5-4b6f-ad72-158269f1708b/1267055715-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/88bef04b-71c2-46bd-b840-679fdece866c/1282340952-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04c3d74f-4fab-4aa6-aaf0-99a98f00377d/16f5d86c0d.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6cb6c1d8-aff5-4b6f-ad72-158269f1708b/1267055715-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/88bef04b-71c2-46bd-b840-679fdece866c/1282340952-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/de2fa1ba-c5ba-4505-895c-f496315ae659/f33efa9551.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e4b41114-e067-4920-9263-7e34b5db5b22/4b64ea4a5b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNPS20-M Series25 to 40 W Industrial & Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/0-50-watt-range/nps20-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3c193bea-83b3-4d97-a795-3845c4978a5f/nps20-m_ds_e342259126.pdf
+  - FeaturedNPS60-M Series60 W Industrial & Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/nps60-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/980664c0-b87a-4596-9835-6a8804bed99c/nps60-m_ds_3ca389f902.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+0 - 50 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 50 WBoard only construction
+  ↓
+FeaturedNPS40-M Series40 to 60 W Industrial & Medical AC-DC Power Supplies

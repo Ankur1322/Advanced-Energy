@@ -1,0 +1,152 @@
+==============================================================================
+PRODUCT DETAILS: Thyro-XD™ SCR Power ControllerHighest accuracy (0.5% power) and repeatabilityFast detection of load resistance changesReal-time temperature control with pyrometer integrationCompact for semiconductor tools
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+[Level 2] Category Name: Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Thyro-XD™ SCR Power ControllerHighest accuracy (0.5% power) and repeatabilityFast detection of load resistance changesReal-time temperature control with pyrometer integrationCompact for semiconductor tools
+Product URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/thyro-xd-power-controller/
+
+Complete Product Description:
+Thyro-XD SCR Power Controller—High-accuracy SCRs with long-term reliability and advanced integration capabilities
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-4-23-2025.pdf
+  - Thyro-PX Anybus EtherCAT Guide (390 KB): https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - Thyro-PX Anybus EtherCAT Operating Manual (390 KB): https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - Thyro-PX Anybus Ethernet/IP Operating Manual (302 KB): https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - Thyro-PX Anybus Modbus TCP Operating Manual (468 KB): https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - Thyro-PX Anybus Profibus (565 KB): https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - Thryo-PX Anybus Profinet Operating Manual (408 KB): https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - Thyro-XD Datasheet View Resource: https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-04-22-26.pdf
+  - Thyro-XD Datasheet: https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-04-22-26.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b8b4e3a6-e3cb-4bb0-9a66-7a1bd97c218a/ENG-Thyro-AdvancedBusModule-031525.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-4-23-2025.pdf
+  - https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-04-22-26.pdf
+  - https://www.advancedenergy.com/getmedia/c85c8e91-704b-477a-95be-b229131f4ce2/ENG-Thyro-XD-04-22-26.pdf
+  - https://www.advancedenergy.com/getmedia/b8b4e3a6-e3cb-4bb0-9a66-7a1bd97c218a/ENG-Thyro-AdvancedBusModule-031525.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/755276b8-b0a9-4e4f-a9e7-aa57e8d64fe0/Thyro-XD-S1-1Ph-2023-04-06_01-(1).JPG
+  - Image: https://www.advancedenergy.com/getattachment/df397b13-8b54-4584-8909-36995dcc5e51/ThyroXD-no-display.png
+  - Image: https://www.advancedenergy.com/getattachment/f430ff1c-62ba-4087-a436-8be3beb8dc8d/Thyro-XD-V02.png
+  - Image: https://www.advancedenergy.com/getattachment/55694826-5821-4cb6-ad8d-d2cb2694cf94/Thyro-XD-V04.png
+  - Image: https://www.advancedenergy.com/getattachment/7e0502e5-9d1f-4b4d-9faf-f8f5fd953c78/Thyro-XD-V05.png
+  - Image: https://www.advancedenergy.com/getattachment/9df336ac-e2ef-42d4-9f16-106fe5358e0e/Thyro-XD-V06.png
+  - Image: https://www.advancedenergy.com/getattachment/94be7f8d-ab69-4ab8-a905-b43103f18c07/Thyro-XD-V07.png
+  - Image: https://www.advancedenergy.com/getattachment/1b54bb42-d976-4364-a7e7-2262bbf97712/Thyro-XD-V09.png
+  - Image: https://www.advancedenergy.com/getattachment/98f00900-8aca-4ec4-bee3-850440935f6f/Thyro-XD-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/5c6d4ae9-6ccf-4387-bba7-023076e5febf/Thyro-XD-V10.png
+  - Image: https://www.advancedenergy.com/getattachment/6a8d5b72-58eb-4ee2-abc3-c3116d4ed6fc/Thyro-XD-V11.png
+  - Image: https://www.advancedenergy.com/getattachment/f830908b-0c31-4499-ae73-ec7a5f11f53d/Thyro-XD-V12.png
+  - Image: https://www.advancedenergy.com/getattachment/c0de2836-69c9-4596-94ac-6c646055f901/Thyro-XD-V13.png
+  - Image: https://www.advancedenergy.com/getattachment/26f39063-7218-4e78-b539-7f2a8eaf28d6/Thyro-XD-V14.png
+  - Image: https://www.advancedenergy.com/getattachment/ed649a2f-fdce-4b37-825a-46ae35620d6d/Thyro-XD-V15.png
+  - Image: https://www.advancedenergy.com/getattachment/421fce9c-4e73-472f-ba92-0813c9a694fb/Thyro-XD-V16.png
+  - Image: https://www.advancedenergy.com/getattachment/8a30efff-9316-4d37-8d3a-1fbf69f7be53/Thyro-XD-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/a9ee68e4-80a2-4a28-acbf-f414404f4f6e/Thyro-XD-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/1be1d465-3a76-4ddc-ae50-256182652bef/Thyro-XD-V6.png
+  - Image: https://www.advancedenergy.com/getattachment/755276b8-b0a9-4e4f-a9e7-aa57e8d64fe0/Thyro-XD-S1-1Ph-2023-04-06_01-(1).JPG
+  - Image: https://www.advancedenergy.com/getattachment/df397b13-8b54-4584-8909-36995dcc5e51/ThyroXD-no-display.png
+  - Image: https://www.advancedenergy.com/getattachment/f430ff1c-62ba-4087-a436-8be3beb8dc8d/Thyro-XD-V02.png
+  - Image: https://www.advancedenergy.com/getattachment/55694826-5821-4cb6-ad8d-d2cb2694cf94/Thyro-XD-V04.png
+  - Image: https://www.advancedenergy.com/getattachment/7e0502e5-9d1f-4b4d-9faf-f8f5fd953c78/Thyro-XD-V05.png
+  - Image: https://www.advancedenergy.com/getattachment/9df336ac-e2ef-42d4-9f16-106fe5358e0e/Thyro-XD-V06.png
+  - Image: https://www.advancedenergy.com/getattachment/94be7f8d-ab69-4ab8-a905-b43103f18c07/Thyro-XD-V07.png
+  - Image: https://www.advancedenergy.com/getattachment/1b54bb42-d976-4364-a7e7-2262bbf97712/Thyro-XD-V09.png
+  - Image: https://www.advancedenergy.com/getattachment/98f00900-8aca-4ec4-bee3-850440935f6f/Thyro-XD-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/5c6d4ae9-6ccf-4387-bba7-023076e5febf/Thyro-XD-V10.png
+  - Image: https://www.advancedenergy.com/getattachment/6a8d5b72-58eb-4ee2-abc3-c3116d4ed6fc/Thyro-XD-V11.png
+  - Image: https://www.advancedenergy.com/getattachment/f830908b-0c31-4499-ae73-ec7a5f11f53d/Thyro-XD-V12.png
+  - Image: https://www.advancedenergy.com/getattachment/c0de2836-69c9-4596-94ac-6c646055f901/Thyro-XD-V13.png
+  - Image: https://www.advancedenergy.com/getattachment/26f39063-7218-4e78-b539-7f2a8eaf28d6/Thyro-XD-V14.png
+  - Image: https://www.advancedenergy.com/getattachment/ed649a2f-fdce-4b37-825a-46ae35620d6d/Thyro-XD-V15.png
+  - Image: https://www.advancedenergy.com/getattachment/421fce9c-4e73-472f-ba92-0813c9a694fb/Thyro-XD-V16.png
+  - Image: https://www.advancedenergy.com/getattachment/8a30efff-9316-4d37-8d3a-1fbf69f7be53/Thyro-XD-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/a9ee68e4-80a2-4a28-acbf-f414404f4f6e/Thyro-XD-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/1be1d465-3a76-4ddc-ae50-256182652bef/Thyro-XD-V6.png
+  - Image: https://www.advancedenergy.com/getattachment/755276b8-b0a9-4e4f-a9e7-aa57e8d64fe0/Thyro-XD-S1-1Ph-2023-04-06_01-(1).JPG
+  - Image: https://www.advancedenergy.com/getattachment/df397b13-8b54-4584-8909-36995dcc5e51/ThyroXD-no-display.png
+  - Image: https://www.advancedenergy.com/getattachment/f430ff1c-62ba-4087-a436-8be3beb8dc8d/Thyro-XD-V02.png
+  - Image: https://www.advancedenergy.com/getattachment/55694826-5821-4cb6-ad8d-d2cb2694cf94/Thyro-XD-V04.png
+  - Image: https://www.advancedenergy.com/getattachment/7e0502e5-9d1f-4b4d-9faf-f8f5fd953c78/Thyro-XD-V05.png
+  - Image: https://www.advancedenergy.com/getattachment/9df336ac-e2ef-42d4-9f16-106fe5358e0e/Thyro-XD-V06.png
+  - Image: https://www.advancedenergy.com/getattachment/94be7f8d-ab69-4ab8-a905-b43103f18c07/Thyro-XD-V07.png
+  - Image: https://www.advancedenergy.com/getattachment/1b54bb42-d976-4364-a7e7-2262bbf97712/Thyro-XD-V09.png
+  - Image: https://www.advancedenergy.com/getattachment/98f00900-8aca-4ec4-bee3-850440935f6f/Thyro-XD-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/5c6d4ae9-6ccf-4387-bba7-023076e5febf/Thyro-XD-V10.png
+  - Image: https://www.advancedenergy.com/getattachment/6a8d5b72-58eb-4ee2-abc3-c3116d4ed6fc/Thyro-XD-V11.png
+  - Image: https://www.advancedenergy.com/getattachment/f830908b-0c31-4499-ae73-ec7a5f11f53d/Thyro-XD-V12.png
+  - Image: https://www.advancedenergy.com/getattachment/c0de2836-69c9-4596-94ac-6c646055f901/Thyro-XD-V13.png
+  - Image: https://www.advancedenergy.com/getattachment/26f39063-7218-4e78-b539-7f2a8eaf28d6/Thyro-XD-V14.png
+  - Image: https://www.advancedenergy.com/getattachment/ed649a2f-fdce-4b37-825a-46ae35620d6d/Thyro-XD-V15.png
+  - Image: https://www.advancedenergy.com/getattachment/421fce9c-4e73-472f-ba92-0813c9a694fb/Thyro-XD-V16.png
+  - Image: https://www.advancedenergy.com/getattachment/8a30efff-9316-4d37-8d3a-1fbf69f7be53/Thyro-XD-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/a9ee68e4-80a2-4a28-acbf-f414404f4f6e/Thyro-XD-V4.png
+  - Image: https://www.advancedenergy.com/getattachment/1be1d465-3a76-4ddc-ae50-256182652bef/Thyro-XD-V6.png
+  - Thyro-ABM-Diagram-(1).png: https://www.advancedenergy.com/getattachment/438b1574-ba8a-47a5-ae9b-c404940695d8/Thyro-ABM-Diagram-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/ffc869bc-c300-4e8f-a07a-a6abd2085cbb/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9803e0bb-7432-4c54-a349-c84b814bed11/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7aa03da6-425d-44e7-b686-e46edb583a2e/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98465f7b-0554-4251-ae2f-2bef71e6fa10/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f1a03a29-9d05-4299-8b79-e3a9ab615ff1/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/other.png
+  - Thyro-XD™ SCR Power Controller | Exacting Temperature Control for Lamp-Based Heating: https://i.ytimg.com/vi/K6mI6FWO9_E/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d944db6-a23e-4a9e-9207-03d204a5bee8/Thyro-DX7-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAdvanced™ Bus Module—SCR and Pyrometer IntegrationFieldbus Communication for Thyro-XD SCR and Impac Pyrometer Integration: https://www.advancedenergy.com/en-us/products/scr-power-controllers/bus-module/advanced-bus-module/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b8b4e3a6-e3cb-4bb0-9a66-7a1bd97c218a/ENG-Thyro-AdvancedBusModule-031525.pdf
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+  ↓
+Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+  ↓
+Thyro-XD™ SCR Power ControllerHighest accuracy (0.5% power) and repeatabilityFast detection of load resistance changesReal-time temperature control with pyrometer integrationCompact for semiconductor tools

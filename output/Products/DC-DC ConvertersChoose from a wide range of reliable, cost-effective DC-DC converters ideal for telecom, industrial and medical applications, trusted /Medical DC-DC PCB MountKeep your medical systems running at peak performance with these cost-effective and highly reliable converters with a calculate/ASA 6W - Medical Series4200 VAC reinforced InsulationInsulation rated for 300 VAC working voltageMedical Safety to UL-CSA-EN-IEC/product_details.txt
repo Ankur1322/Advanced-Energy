@@ -1,0 +1,97 @@
+==============================================================================
+PRODUCT DETAILS: ASA 6W - Medical Series4200 VAC reinforced InsulationInsulation rated for 300 VAC working voltageMedical Safety to UL/CSA/EN/IEC
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Medical DC-DC PCB MountKeep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/
+Category Description: Keep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: ASA 6W - Medical Series4200 VAC reinforced InsulationInsulation rated for 300 VAC working voltageMedical Safety to UL/CSA/EN/IEC
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/asa-6w-medical/
+
+Complete Product Description:
+The ASA6W-M series of 6 W isolated DC-DC converters are designed for demanding instrumentation applications that require supplementary or reinforced insulation to comply with stringent industrial or medical safety standards.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f441221-5f47-4bc4-87fd-8a6abb85d7bf/asa6w-m_ds_1467216741.pdf
+  - ASA 6W Medical Datasheet: https://www.advancedenergy.com/getmedia/3f441221-5f47-4bc4-87fd-8a6abb85d7bf/ENG-ASA6W-M-235-01-11-29-23.pdf
+  - ASA 6W - M REACH COC REACH Certificate: https://www.advancedenergy.com/getmedia/6a9e210b-5cbb-4786-8c21-0abc6fec3fa3/reach_coc_168_asa-m_series_0701468308959_REACH.pdf
+  - ASA 6W - M RoHS Certificate: https://www.advancedenergy.com/getmedia/a20c061a-a511-4834-9ee4-9e84cef216ed/rohs2_coc_asa-m_series_070116_1468309044_rohs_.pdf
+  - ASA6W - M, UL Certicate Safety Certificate: https://www.advancedenergy.com/getmedia/cfe16824-9d9e-4618-ad88-ae600c5bb214/ul60950_coc_for_ata_6w_8w_and_1486689054_cert.pdf
+  - ASA 6W Technical Reference Note: https://www.advancedenergy.com/getmedia/74c98a8b-c72e-44d3-9d48-6fe8e266425a/TRN-DC-DC-ASA-6W-Release1-2-(2024-12-03)_1.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/86a96836-01d4-423f-a77d-77393cd8dd8e/aee20w-m_ds_1497461077.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/aee15w-m_ds_1497461005.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/3f441221-5f47-4bc4-87fd-8a6abb85d7bf/asa6w-m_ds_1467216741.pdf
+  - https://www.advancedenergy.com/getmedia/3f441221-5f47-4bc4-87fd-8a6abb85d7bf/ENG-ASA6W-M-235-01-11-29-23.pdf
+  - https://www.advancedenergy.com/getmedia/6a9e210b-5cbb-4786-8c21-0abc6fec3fa3/reach_coc_168_asa-m_series_0701468308959_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/a20c061a-a511-4834-9ee4-9e84cef216ed/rohs2_coc_asa-m_series_070116_1468309044_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/cfe16824-9d9e-4618-ad88-ae600c5bb214/ul60950_coc_for_ata_6w_8w_and_1486689054_cert.pdf
+  - https://www.advancedenergy.com/getmedia/74c98a8b-c72e-44d3-9d48-6fe8e266425a/TRN-DC-DC-ASA-6W-Release1-2-(2024-12-03)_1.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - https://www.advancedenergy.com/getmedia/86a96836-01d4-423f-a77d-77393cd8dd8e/aee20w-m_ds_1497461077.pdf
+  - https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/aee15w-m_ds_1497461005.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/ae7da9f0-02dc-4992-928f-bf16b6685f95/3de9c8f956.png
+  - Image: https://www.advancedenergy.com/getattachment/88378506-b2d6-4a23-8dac-88bbd28fd828/71c651c468.png
+  - Image: https://www.advancedenergy.com/getattachment/eb21f54d-b0e0-4243-ba41-e253c4e7d7d1/c463e78824.png
+  - Image: https://www.advancedenergy.com/getattachment/b43d8889-c538-457c-9533-4e465ae65437/c5fb000505.png
+  - Image: https://www.advancedenergy.com/getattachment/ae7da9f0-02dc-4992-928f-bf16b6685f95/3de9c8f956.png
+  - Image: https://www.advancedenergy.com/getattachment/88378506-b2d6-4a23-8dac-88bbd28fd828/71c651c468.png
+  - Image: https://www.advancedenergy.com/getattachment/eb21f54d-b0e0-4243-ba41-e253c4e7d7d1/c463e78824.png
+  - Image: https://www.advancedenergy.com/getattachment/b43d8889-c538-457c-9533-4e465ae65437/c5fb000505.png
+  - Image: https://www.advancedenergy.com/getattachment/ae7da9f0-02dc-4992-928f-bf16b6685f95/3de9c8f956.png
+  - Image: https://www.advancedenergy.com/getattachment/88378506-b2d6-4a23-8dac-88bbd28fd828/71c651c468.png
+  - Image: https://www.advancedenergy.com/getattachment/eb21f54d-b0e0-4243-ba41-e253c4e7d7d1/c463e78824.png
+  - Image: https://www.advancedenergy.com/getattachment/b43d8889-c538-457c-9533-4e465ae65437/c5fb000505.png
+  - Image: https://www.advancedenergy.com/getattachment/0c84d099-0cc3-4fbb-9c6a-684f128b6626/31ef14ffca.jpg
+  - Image: https://www.advancedenergy.com/getattachment/20de679c-ff10-449d-a0c4-697909e28706/AEE-15W-ang1_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ff5c9b4b-fb4f-4c9d-ad5a-1c9bff94fef6/AEE-40W-and-50W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/16c66807-7744-43f7-86ec-e6069ba578c0/Transportation-Robotics-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/16c66807-7744-43f7-86ec-e6069ba578c0/Transportation-Robotics-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAEE 20 Watt Medical Series20 W 2BY1 Medical DC-DC Converter: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/aee-m/aee-20-watt-medical/
+  - Datasheet: https://www.advancedenergy.com/getmedia/86a96836-01d4-423f-a77d-77393cd8dd8e/aee20w-m_ds_1497461077.pdf
+  - FeaturedAEE 15 Watt Medical Series15 W Medical DC-DC Converter: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/medical-dc-dc-pcb-mount/aee-m/aee-15-watt-medical/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c9179d30-d26f-4203-be12-898d0cb0701d/aee15w-m_ds_1497461005.pdf
+  - FeaturedAEEAdvanced Energy offers a variety of isolated DC-DC converters for low power applications in industrial automation, instrumentation, test and measurement, medical equipment, and telecommunications.: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/aee/
+  - Robotics & Transport Power SuppliesWe lead the way in power solutions for your robotics applications with our dedicated PSUs. Perfect for automated manufacturing, packaging, & transport systems.: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/
+  - Explore Transport & Robotics: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Medical DC-DC PCB MountKeep your medical systems running at peak performance with these cost-effective and highly reliable converters with a calculated Mean Time Between Failures (MTBF) of 1 million hours. These series have medical safety certification to UL/cUL/EN/ IEC 60601-1 3rd Edition and EMI characteristics that can meet EN 55022, class A, and FCC level A.
+  ↓
+ASA 6W - Medical Series4200 VAC reinforced InsulationInsulation rated for 300 VAC working voltageMedical Safety to UL/CSA/EN/IEC

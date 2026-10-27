@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Thyro Family
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: SCR Power Controllers
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Thyro Family
+Product URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/
+
+Complete Product Description:
+Explore Advanced Energy's Thyristor SCR power controllers for precise, efficient power control in industrial heating and process applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/ebb8ade5-7344-49e8-9213-f9718710ac18/thyros-035a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8f7c8544-d6c4-42f8-b4f7-b0f508e84315/thyroa-041a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/280d7f46-ea5d-4bee-b5e0-9e602bbec079/thyropx0-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c57dce20-c415-4188-a1b4-d707c4559153/55370000A_SG-(V6).png
+  - Image: https://www.advancedenergy.com/getattachment/9b44778b-405d-49a6-aecc-1a1e7ecc8def/thyroa_onephase_display_fl_w.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+SCR Power Controllers
+  ↓
+Thyro Family

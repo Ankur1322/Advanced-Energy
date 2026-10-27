@@ -1,0 +1,194 @@
+==============================================================================
+PRODUCT DETAILS: LCC SeriesAvailable in 250, 600 and 1200 W seriesSingle, adjustable output (series dependent) of 12 to 48 V with auxiliary 5 V standbyOperating temperature range of -40°C to 85°C (baseplate) and optional IP64 or IP65 rating
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Conduction Cooled IP Sealed Power SuppliesGlobal-ready conduction cooled power supplies offer wide operating temperatures, IP64 protection & adaptable mounting, perfect for medical and indoor applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/
+Category Description: Global-ready conduction cooled power supplies offer wide operating temperatures, IP64 protection & adaptable mounting, perfect for medical and indoor applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: LCC SeriesAvailable in 250, 600 and 1200 W seriesSingle, adjustable output (series dependent) of 12 to 48 V with auxiliary 5 V standbyOperating temperature range of -40°C to 85°C (baseplate) and optional IP64 or IP65 rating
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/lcc-family/
+
+Complete Product Description:
+Advanced Energy's Embedded Power offers the LCC series of fanless, fully-enclosed AC-DC power supplies.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - Horticultural Lighting Brochure_Chinese Version Catalog: https://www.advancedenergy.com/getmedia/adcfdb56-e711-41ea-a024-1d13cced90b7/horticulture_lighting_brochure1497936883.pdf
+  - Horticultural Lighting Brochure_English Version Catalog: https://www.advancedenergy.com/getmedia/003c8611-0b96-42d9-a147-44e6fa0d17b0/ENG-OT-Horticultural-Lighting-265-03.pdf
+  - Horticultural Lighting Brochure_Japanese Version Catalog: https://www.advancedenergy.com/getmedia/fbb00f13-5b03-4eac-9c86-83398d23e966/horticulture_lighting_brochure1497937020.pdf
+  - LCC1200  Datasheet: https://www.advancedenergy.com/getmedia/445e4d8d-3a33-47cc-ab4c-239f33d0d631/ENG-LCC1200-235-01-06-25-25.pdf
+  - LCC250 Data Sheet: https://www.advancedenergy.com/getmedia/7ee366d2-4726-4060-9ba6-688acf815d6c/lcc250_1296600575.pdf
+  - LCC600 Data Sheet: https://www.advancedenergy.com/getmedia/68ce0197-499a-4410-b254-d221f8d113c7/ENG-LCC600-235-01-120325.pdf
+  - LCC600 Data Sheet_Chinese version: https://www.advancedenergy.com/getmedia/dd288456-a242-46fc-9634-383b11c37d51/f2013476_-_datasheet_-_lcc600_1460539571.pdf
+  - LCC250-12U-XYYY ROHS2 CoC: https://www.advancedenergy.com/getmedia/408649bd-dc18-4841-960a-b9395d01aa8e/lcc250-12u-xyyy_rohs2_coc_1396397264_rohs_.pdf
+  - LCC250-24U-XYYY ROSH2 CoC: https://www.advancedenergy.com/getmedia/5e029d68-60cb-442f-a217-fd412eac528e/lcc250-24u-xyyy_rohs2_coc_1396397310_rohs_.pdf
+  - LCC250-48U-XYYY ROHS2 CoC: https://www.advancedenergy.com/getmedia/a51a8ec7-a5c4-4116-ae64-513f6c73ea11/lcc250-48u-xyyy_rohs2_coc_1396397369_rohs_.pdf
+  - LCC600-28U-9P RoHS2 CoC: https://www.advancedenergy.com/getmedia/84b5a6e8-de0e-4745-96a9-dd3b5cf64e99/rohs2_coc_lcc600-28u-9p_0222161467862352_rohs_.pdf
+  - LCC600-48U-9P RoHS2 CoC: https://www.advancedenergy.com/getmedia/8a0d1060-f562-435e-a4b2-2810936691cf/rohs2_coc_lcc600-48u-9p_0613161467862741_rohs_.pdf
+  - LCC1200 SER UL/CSA CERTIFICATE: https://www.advancedenergy.com/getmedia/660166aa-b4c9-45c2-9c48-f8690a136923/lcc1200-UL-COC.pdf
+  - LCC1200-28U-XXXX CB (60950-1): https://www.advancedenergy.com/getmedia/b7bf7541-233f-4220-895b-a492394d873f/dk-120636-ul_60950-1_1646299593_cert.pdf
+  - LCC1200-28U-XXXX CB (62368-1): https://www.advancedenergy.com/getmedia/fbb7b0af-b7e7-4ed8-a9c1-2a5c7824b349/dk-120664-ul_62368-1_1646299529_cert.pdf
+  - LCC1200-28U-XXXX CCC: https://www.advancedenergy.com/getmedia/e8e0aa34-e330-4cf0-b6d3-fa66e0b78f70/ccc_2021010907440012_1646298740_cert.pdf
+  - LCC1200-28U-XXXX CE: https://www.advancedenergy.com/getmedia/9744856c-f194-4d27-b7e3-cd4bf6131abf/lcc1200-28u-xx_ce_1646299323_cert.pdf
+  - LCC1200-28U-XXXX Demko: https://www.advancedenergy.com/getmedia/cd24f187-9001-4e53-b916-8ef8ec461669/d-08888_1646298909_cert.pdf
+  - LCC1200-28U-XXXX UKCA: https://www.advancedenergy.com/getmedia/5e9abad1-15d9-444b-97ba-01de06779a3c/lcc1200-28u-xx_ukca_1646299272_cert.pdf
+  - LCC1200-48-XXXX CB CERTIFICATE (ITE): https://www.advancedenergy.com/getmedia/11479418-78f2-4583-a774-61c002d81eac/DK-120664-M3-UL.pdf
+  - LCC1200-48-XXXX CCC (CV): https://www.advancedenergy.com/getmedia/63c94c36-35e4-4a17-9f6f-876fc35a92bb/LCC1200-48_2021010907440012_1.pdf
+  - LCC1200-48U-XXXX CE: https://www.advancedenergy.com/getmedia/b307d069-2082-4c7c-8d7e-566c4cdd9784/LCC1200-48-3782-rev-1_CE.pdf
+  - LCC1200-48U-XXXX UKCA: https://www.advancedenergy.com/getmedia/289e8ccb-d174-467c-a8bb-cb76da20d488/LCC1200-48-3783-Rev-1_UKCA.pdf
+  - LCC250 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/b3823f9f-bb90-493c-95ea-58c6c58c4f40/lcc250-12u_24u_48u_ce_1464336057_cert.pdf
+  - LCC250 Demko CB Certificate (ITE): https://www.advancedenergy.com/getmedia/c9d25948-ef66-4a83-8681-f2bc96fc8c42/dk-49243-ul_1534920939_cert.pdf
+  - LCC250 TUV CB Certificate (61347): https://www.advancedenergy.com/getmedia/2f38721f-b22c-4e24-823b-d782587011d5/lcc250-12u_24u_48u_tuv_cb_61341387328858_cert.pdf
+  - LCC250 TUV CB Certificate (ITE): https://www.advancedenergy.com/getmedia/54fa14f1-437b-4fe8-89aa-ab68d9675d65/lcc250-12u_24u_48u_tuv_cb_ite_1387328788_cert.pdf
+  - LCC250 TUV CB Certificate (Med): https://www.advancedenergy.com/getmedia/d25c7e54-84e3-4c71-bebc-16065ea75c73/lcc250-12u_24u_48u_tuv_cb_med_1387328353_cert.pdf
+  - LCC250 TUV Certificate (61347): https://www.advancedenergy.com/getmedia/8fea3187-79ff-4e44-ba1e-a93608ac6077/lcc250-12u_24u_48u_tuv_61347_c1393840688_cert.pdf
+  - LCC250 TUV Certificate (ITE/Med): https://www.advancedenergy.com/getmedia/cf8f24be-70b4-4839-87c0-775b3c7a5944/lcc250-12u_24u_48u_tuv_60950_61410810244_cert.pdf
+  - LCC250 UL/CSA Medical Certificate: https://www.advancedenergy.com/getmedia/01318834-b230-40af-8dc2-4fcf4f436589/lcc250-12u_24u_48u_ulcul_med_31393840325_cert.pdf
+  - LCC250 UL/CSA Medical Certificate ver 3.1: https://www.advancedenergy.com/getmedia/9bb390a4-068a-4664-9ff0-7e14fe40ff1d/lcc250-12u_24u_48u-xyyy_es_6061483676065_cert.pdf
+  - LCC250-12U CCC (CVT) Certificate: https://www.advancedenergy.com/getmedia/36c776e8-c184-461e-8317-648022d9af06/lcc250-12u-xyyy_ccc_cavite_1393841165_cert.pdf
+  - LCC250-24U CCC Certificate (CVT): https://www.advancedenergy.com/getmedia/cc841ab4-bf95-49aa-ae41-7c1d018cfcef/lcc250-24u-xyyy_ccc_cavite_1393841213_cert.pdf
+  - LCC250-24U CCC CERTIFICATE (LG): https://www.advancedenergy.com/getmedia/0574b8a5-b999-441a-8833-e4c433ba2978/lcc250-24u-xyyy_ccc_lg_1483694923_878.pdf
+  - LCC250-24U TUV Certificate (ITE): https://www.advancedenergy.com/getmedia/47248cb5-477b-4387-a38d-c9d8a6a937b5/lcc250-24u-4403_tuv_certificat1483676624_cert.pdf
+  - LCC250-24U-XYYY_CCC Certificate_1: https://www.advancedenergy.com/getmedia/30b49845-a087-491a-9351-71f396fbc771/lcc250-24u-xyyy_ccc_certificat1637048591_cert.pdf
+  - LCC250-24U-XYYY_CCC Certificate_2: https://www.advancedenergy.com/getmedia/ac24e872-c121-44a9-810c-c1185b7b078d/lcc250-24u-xyyy_ccc_certificat1637048630_cert.pdf
+  - LCC250-48U CCC (CVT) Certificate: https://www.advancedenergy.com/getmedia/ea63c07b-8b79-4b08-85d7-d1a893a3aae5/lcc250-48u-xyyy_ccc_cav_1393841272_cert.pdf
+  - LCC600 HSeries CCC Certificate CVT: https://www.advancedenergy.com/getmedia/d0d86476-b076-459c-af45-240fa750ca3c/lcc600-28h_48h_36h_12h-xxxx_cc1491301415_cert.pdf
+  - LCC600 IEC 62368 CB Test Certificate: https://www.advancedenergy.com/getmedia/5fcb68b0-2a41-45c5-90b3-0140fce03613/lcc600-xxx_cb_cert_iec62368_1598869388_cert.pdf
+  - LCC600 series CB Certificate (IEC62368-1): https://www.advancedenergy.com/getmedia/44dc3e31-6846-40cc-b999-009a332ec617/lcc600-xxx_cb_cert_62368_1538966760_cert.pdf
+  - LCC600 series CB Certificate (ITE): https://www.advancedenergy.com/getmedia/fc34c2a3-fade-4bcf-acb3-c7a68da526c5/lcc600_series_cb_certificate_1491300278_cert.pdf
+  - LCC600 series DEMKO Certificate (EN62368-1): https://www.advancedenergy.com/getmedia/f8310260-19fe-4a56-83cd-8087fbfb2150/lcc600-xxx_demko_en_62368-1_1538966800_cert.pdf
+  - LCC600 Series TUV Certificate (ITE): https://www.advancedenergy.com/getmedia/617de47c-c486-4495-bd86-d4cbc838f3b3/lcc600-28h_36h_48h_12h-xxxx_tu1491301271_cert.pdf
+  - LCC600 Series TUV Certificate (ITE+MED): https://www.advancedenergy.com/getmedia/29ce603c-18d3-49ac-94e8-f509a4f18ecd/lcc600-28u_36u_48u_12u-xxxx_tu1491301502_cert.pdf
+  - LCC600 Series UL Certificate (Med) ver 3.0: https://www.advancedenergy.com/getmedia/8ba6d3ca-d906-4434-a946-13995a658579/lcc600-28u_48u_36u_12u-xx_es_61491301586_cert.pdf
+  - LCC600 Series UL Certificate (Med) ver 3.1: https://www.advancedenergy.com/getmedia/8597a5a7-56fe-4117-8f14-2260d1d0a4a6/lcc600-28u_48u_36u_12u-xx_es_61491301635_cert.pdf
+  - LCC600 series_CB Certificate (Med): https://www.advancedenergy.com/getmedia/e38ada6c-6670-4076-ba67-4ce122471e8c/lcc600_series_cb_certificate_1491300684_cert.pdf
+  - LCC600 series_DEMKO Certificate: https://www.advancedenergy.com/getmedia/6c407cf3-513c-43d6-a4de-2bd689f38b10/lcc600_series_demko_certificat1517993072_209.pdf
+  - LCC600 series_UL Certificate (ITE): https://www.advancedenergy.com/getmedia/c3753a1d-7267-4fa9-9484-f38fc01fa0b7/lcc600_series_ul_60950-1_1517993073_471.pdf
+  - LCC600 Useries CCC Certificate CVT: https://www.advancedenergy.com/getmedia/29ab4689-3ddd-449c-801f-35bfed7db767/lcc600-28u_48u_36u_12u-xxxx_cc1517993081_481.pdf
+  - LCC600-12 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/a2e61c45-2034-4db1-bec6-7833cab49c5f/lcc600-12h_12u-xx_ce_1491301068_cert.pdf
+  - LCC600-28 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/31175f69-3c20-4d5d-b9d3-f23b928c093e/lcc600-28h_28u-xx_ce_1491301123_cert.pdf
+  - LCC600-36 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/5aaedac8-28f8-410e-8fe2-05b70ab2431a/lcc600-36h_36u-xx_ce_1491302038_cert.pdf
+  - LCC600-36U TUV ENEC (EN61347): https://www.advancedenergy.com/getmedia/7d1e3a73-eb84-4f6e-9345-e84656174029/lcc600-36u-xx-xxxx_tuv_enec_1491302112_cert.pdf
+  - LCC600-48 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/2f6f6703-8db1-46f2-91b8-2d5380391111/lcc600-48h_48u-xx_ce_1491302194_cert.pdf
+  - LCC600-48 UL8750 Certificate: https://www.advancedenergy.com/getmedia/46040ea3-ce17-421a-98df-867e3adf8d2d/lcc600-48h_48u-xxxx_ul8750_cer1491302264_cert.pdf
+  - LCC600-48 UL8750 CoC: https://www.advancedenergy.com/getmedia/00d54268-2c32-4c9e-934c-0aa907b96307/lcc600-48h_48u-xxxx_ul8750_coc1491302325_cert.pdf
+  - LCC600-48U_48H_36U-XXXX_CB Certificate IEC61347: https://www.advancedenergy.com/getmedia/6f77ced6-6161-4f5c-9979-8324e0ff6eaf/lcc600-48u_48h_36u-xxxx_cb_cer1491302537_cert.pdf
+  - LCC600-48U_48H_36U-XXXX_TUV Certificate EN61347: https://www.advancedenergy.com/getmedia/d1c07ede-4ab6-458c-a5dc-d3d6f53e07d6/lcc600-48u_48h_36u-xxxx_tuv_ce1491302595_cert.pdf
+  - LCC600-48U-4P_FCC Supplier Declaration of Conformity: https://www.advancedenergy.com/getmedia/c589ea85-2ee8-4a4c-8889-4af96ff1e2fe/lcc600-48u-4p_fcc_sdoc_1553138338_cert.pdf
+  - LCC1200 Series Technical Reference Note: https://www.advancedenergy.com/getmedia/d7af0414-9079-47f9-9df9-ec9935057ad0/TRN-AC-DC-LCC1200-Series-Released-2-0-(051826).pdf
+  - LCC250 Technical Reference Note: https://www.advancedenergy.com/getmedia/0393e71e-10f8-4cbe-949f-9fa3b4cc513e/TRN-AC-DC-LCC250-Series-Released-2-1-(042522).pdf
+  - LCC600 Technical Reference Note: https://www.advancedenergy.com/getmedia/1a80e829-1d84-4928-a0f4-903c045f0d0c/TRN-AC-DC-LCC600-Series-Released-3-9-(052026%ef%bc%89.pdf
+  - Modified LCC600 W: A Unique Solution for Industrial Conveyance Applications: https://www.advancedenergy.com/getmedia/704da035-e299-466f-89e5-dc555ae15e2e/ENG-Industrial-Conveyance-Case-Study-295-01-(5).pdf
+  - A New Category of Rugged, Fanless Power Supply: https://www.advancedenergy.com/getmedia/3331100c-239b-4cf7-9588-e05205b70cdb/lcc_white_paper_reva_1525864861_391.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/adcfdb56-e711-41ea-a024-1d13cced90b7/horticulture_lighting_brochure1497936883.pdf
+  - https://www.advancedenergy.com/getmedia/003c8611-0b96-42d9-a147-44e6fa0d17b0/ENG-OT-Horticultural-Lighting-265-03.pdf
+  - https://www.advancedenergy.com/getmedia/fbb00f13-5b03-4eac-9c86-83398d23e966/horticulture_lighting_brochure1497937020.pdf
+  - https://www.advancedenergy.com/getmedia/445e4d8d-3a33-47cc-ab4c-239f33d0d631/ENG-LCC1200-235-01-06-25-25.pdf
+  - https://www.advancedenergy.com/getmedia/7ee366d2-4726-4060-9ba6-688acf815d6c/lcc250_1296600575.pdf
+  - https://www.advancedenergy.com/getmedia/68ce0197-499a-4410-b254-d221f8d113c7/ENG-LCC600-235-01-120325.pdf
+  - https://www.advancedenergy.com/getmedia/dd288456-a242-46fc-9634-383b11c37d51/f2013476_-_datasheet_-_lcc600_1460539571.pdf
+  - https://www.advancedenergy.com/getmedia/408649bd-dc18-4841-960a-b9395d01aa8e/lcc250-12u-xyyy_rohs2_coc_1396397264_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/5e029d68-60cb-442f-a217-fd412eac528e/lcc250-24u-xyyy_rohs2_coc_1396397310_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a51a8ec7-a5c4-4116-ae64-513f6c73ea11/lcc250-48u-xyyy_rohs2_coc_1396397369_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/84b5a6e8-de0e-4745-96a9-dd3b5cf64e99/rohs2_coc_lcc600-28u-9p_0222161467862352_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/8a0d1060-f562-435e-a4b2-2810936691cf/rohs2_coc_lcc600-48u-9p_0613161467862741_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/660166aa-b4c9-45c2-9c48-f8690a136923/lcc1200-UL-COC.pdf
+  - https://www.advancedenergy.com/getmedia/b7bf7541-233f-4220-895b-a492394d873f/dk-120636-ul_60950-1_1646299593_cert.pdf
+  - https://www.advancedenergy.com/getmedia/fbb7b0af-b7e7-4ed8-a9c1-2a5c7824b349/dk-120664-ul_62368-1_1646299529_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e8e0aa34-e330-4cf0-b6d3-fa66e0b78f70/ccc_2021010907440012_1646298740_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9744856c-f194-4d27-b7e3-cd4bf6131abf/lcc1200-28u-xx_ce_1646299323_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cd24f187-9001-4e53-b916-8ef8ec461669/d-08888_1646298909_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5e9abad1-15d9-444b-97ba-01de06779a3c/lcc1200-28u-xx_ukca_1646299272_cert.pdf
+  - https://www.advancedenergy.com/getmedia/11479418-78f2-4583-a774-61c002d81eac/DK-120664-M3-UL.pdf
+  - https://www.advancedenergy.com/getmedia/63c94c36-35e4-4a17-9f6f-876fc35a92bb/LCC1200-48_2021010907440012_1.pdf
+  - https://www.advancedenergy.com/getmedia/b307d069-2082-4c7c-8d7e-566c4cdd9784/LCC1200-48-3782-rev-1_CE.pdf
+  - https://www.advancedenergy.com/getmedia/289e8ccb-d174-467c-a8bb-cb76da20d488/LCC1200-48-3783-Rev-1_UKCA.pdf
+  - https://www.advancedenergy.com/getmedia/b3823f9f-bb90-493c-95ea-58c6c58c4f40/lcc250-12u_24u_48u_ce_1464336057_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c9d25948-ef66-4a83-8681-f2bc96fc8c42/dk-49243-ul_1534920939_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2f38721f-b22c-4e24-823b-d782587011d5/lcc250-12u_24u_48u_tuv_cb_61341387328858_cert.pdf
+  - https://www.advancedenergy.com/getmedia/54fa14f1-437b-4fe8-89aa-ab68d9675d65/lcc250-12u_24u_48u_tuv_cb_ite_1387328788_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d25c7e54-84e3-4c71-bebc-16065ea75c73/lcc250-12u_24u_48u_tuv_cb_med_1387328353_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8fea3187-79ff-4e44-ba1e-a93608ac6077/lcc250-12u_24u_48u_tuv_61347_c1393840688_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cf8f24be-70b4-4839-87c0-775b3c7a5944/lcc250-12u_24u_48u_tuv_60950_61410810244_cert.pdf
+  - https://www.advancedenergy.com/getmedia/01318834-b230-40af-8dc2-4fcf4f436589/lcc250-12u_24u_48u_ulcul_med_31393840325_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9bb390a4-068a-4664-9ff0-7e14fe40ff1d/lcc250-12u_24u_48u-xyyy_es_6061483676065_cert.pdf
+  - https://www.advancedenergy.com/getmedia/36c776e8-c184-461e-8317-648022d9af06/lcc250-12u-xyyy_ccc_cavite_1393841165_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cc841ab4-bf95-49aa-ae41-7c1d018cfcef/lcc250-24u-xyyy_ccc_cavite_1393841213_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0574b8a5-b999-441a-8833-e4c433ba2978/lcc250-24u-xyyy_ccc_lg_1483694923_878.pdf
+  - https://www.advancedenergy.com/getmedia/47248cb5-477b-4387-a38d-c9d8a6a937b5/lcc250-24u-4403_tuv_certificat1483676624_cert.pdf
+  - https://www.advancedenergy.com/getmedia/30b49845-a087-491a-9351-71f396fbc771/lcc250-24u-xyyy_ccc_certificat1637048591_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ac24e872-c121-44a9-810c-c1185b7b078d/lcc250-24u-xyyy_ccc_certificat1637048630_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ea63c07b-8b79-4b08-85d7-d1a893a3aae5/lcc250-48u-xyyy_ccc_cav_1393841272_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d0d86476-b076-459c-af45-240fa750ca3c/lcc600-28h_48h_36h_12h-xxxx_cc1491301415_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5fcb68b0-2a41-45c5-90b3-0140fce03613/lcc600-xxx_cb_cert_iec62368_1598869388_cert.pdf
+  - https://www.advancedenergy.com/getmedia/44dc3e31-6846-40cc-b999-009a332ec617/lcc600-xxx_cb_cert_62368_1538966760_cert.pdf
+  - https://www.advancedenergy.com/getmedia/fc34c2a3-fade-4bcf-acb3-c7a68da526c5/lcc600_series_cb_certificate_1491300278_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f8310260-19fe-4a56-83cd-8087fbfb2150/lcc600-xxx_demko_en_62368-1_1538966800_cert.pdf
+  - https://www.advancedenergy.com/getmedia/617de47c-c486-4495-bd86-d4cbc838f3b3/lcc600-28h_36h_48h_12h-xxxx_tu1491301271_cert.pdf
+  - https://www.advancedenergy.com/getmedia/29ce603c-18d3-49ac-94e8-f509a4f18ecd/lcc600-28u_36u_48u_12u-xxxx_tu1491301502_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8ba6d3ca-d906-4434-a946-13995a658579/lcc600-28u_48u_36u_12u-xx_es_61491301586_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8597a5a7-56fe-4117-8f14-2260d1d0a4a6/lcc600-28u_48u_36u_12u-xx_es_61491301635_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e38ada6c-6670-4076-ba67-4ce122471e8c/lcc600_series_cb_certificate_1491300684_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6c407cf3-513c-43d6-a4de-2bd689f38b10/lcc600_series_demko_certificat1517993072_209.pdf
+  - https://www.advancedenergy.com/getmedia/c3753a1d-7267-4fa9-9484-f38fc01fa0b7/lcc600_series_ul_60950-1_1517993073_471.pdf
+  - https://www.advancedenergy.com/getmedia/29ab4689-3ddd-449c-801f-35bfed7db767/lcc600-28u_48u_36u_12u-xxxx_cc1517993081_481.pdf
+  - https://www.advancedenergy.com/getmedia/a2e61c45-2034-4db1-bec6-7833cab49c5f/lcc600-12h_12u-xx_ce_1491301068_cert.pdf
+  - https://www.advancedenergy.com/getmedia/31175f69-3c20-4d5d-b9d3-f23b928c093e/lcc600-28h_28u-xx_ce_1491301123_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5aaedac8-28f8-410e-8fe2-05b70ab2431a/lcc600-36h_36u-xx_ce_1491302038_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7d1e3a73-eb84-4f6e-9345-e84656174029/lcc600-36u-xx-xxxx_tuv_enec_1491302112_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2f6f6703-8db1-46f2-91b8-2d5380391111/lcc600-48h_48u-xx_ce_1491302194_cert.pdf
+  - https://www.advancedenergy.com/getmedia/46040ea3-ce17-421a-98df-867e3adf8d2d/lcc600-48h_48u-xxxx_ul8750_cer1491302264_cert.pdf
+  - https://www.advancedenergy.com/getmedia/00d54268-2c32-4c9e-934c-0aa907b96307/lcc600-48h_48u-xxxx_ul8750_coc1491302325_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6f77ced6-6161-4f5c-9979-8324e0ff6eaf/lcc600-48u_48h_36u-xxxx_cb_cer1491302537_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d1c07ede-4ab6-458c-a5dc-d3d6f53e07d6/lcc600-48u_48h_36u-xxxx_tuv_ce1491302595_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c589ea85-2ee8-4a4c-8889-4af96ff1e2fe/lcc600-48u-4p_fcc_sdoc_1553138338_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d7af0414-9079-47f9-9df9-ec9935057ad0/TRN-AC-DC-LCC1200-Series-Released-2-0-(051826).pdf
+  - https://www.advancedenergy.com/getmedia/0393e71e-10f8-4cbe-949f-9fa3b4cc513e/TRN-AC-DC-LCC250-Series-Released-2-1-(042522).pdf
+  - https://www.advancedenergy.com/getmedia/1a80e829-1d84-4928-a0f4-903c045f0d0c/TRN-AC-DC-LCC600-Series-Released-3-9-(052026%ef%bc%89.pdf
+  - https://www.advancedenergy.com/getmedia/704da035-e299-466f-89e5-dc555ae15e2e/ENG-Industrial-Conveyance-Case-Study-295-01-(5).pdf
+  - https://www.advancedenergy.com/getmedia/3331100c-239b-4cf7-9588-e05205b70cdb/lcc_white_paper_reva_1525864861_391.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/8ed922ad-a0ae-4af2-bada-d0be3b3d9847/LCC-family.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Conduction Cooled IP Sealed Power SuppliesGlobal-ready conduction cooled power supplies offer wide operating temperatures, IP64 protection & adaptable mounting, perfect for medical and indoor applications.
+  ↓
+LCC SeriesAvailable in 250, 600 and 1200 W seriesSingle, adjustable output (series dependent) of 12 to 48 V with auxiliary 5 V standbyOperating temperature range of -40°C to 85°C (baseplate) and optional IP64 or IP65 rating

@@ -1,0 +1,51 @@
+==============================================================================
+PRODUCT DETAILS: Programmable Lab PSUs
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/programmable-lab-psus/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Programmable Lab PSUs
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/programmable-lab-psus/
+
+Complete Product Description:
+Get accurate voltage and current reports with our 12-bit D/A and A/D converter-embedded programmable DC power supplies. Our iLS600 and iLS1500 series offer a single power output of 600 W and 1,500 W.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/fe719c51-e70e-46c4-9f1b-434f67ba8726/9ae7e4b93b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f0aa9667-1143-4d95-ace6-5de90a02ddac/3d20d0dfff.png
+  - Image: https://www.advancedenergy.com/getattachment/738e24f7-11df-48d8-8056-7f4a2def51c7/86902cd68d.png
+  - Image: https://www.advancedenergy.com/getattachment/22287605-7241-4279-92fb-0528e49a52fc/Programmable-Lab-PSUs-(1).png?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+Programmable Lab PSUs

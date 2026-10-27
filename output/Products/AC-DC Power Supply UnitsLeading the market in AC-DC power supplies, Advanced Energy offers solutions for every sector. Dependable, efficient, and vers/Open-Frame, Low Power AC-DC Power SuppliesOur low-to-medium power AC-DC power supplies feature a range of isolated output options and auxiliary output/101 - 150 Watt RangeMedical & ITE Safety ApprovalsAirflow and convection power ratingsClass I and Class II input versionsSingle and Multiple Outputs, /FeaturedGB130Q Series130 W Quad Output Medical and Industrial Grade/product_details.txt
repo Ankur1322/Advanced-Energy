@@ -1,0 +1,121 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedGB130Q Series130 W Quad Output Medical and Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 101 - 150 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsSingle and Multiple Outputs, Up to 150 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/
+Category Description: Advanced Energy power supplies within the 101 to 150 W range are the go-to choice for medium-scale electronic applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedGB130Q Series130 W Quad Output Medical and Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/gb130q-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power GB130Q series of open-frame AC-DC power supplies comprises five quad outputs models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ba38184-2dda-4135-9ce9-91d8c28de808/ENG-GB130Q-01-10-24.pdf
+  - GB130Q Datasheet: https://www.advancedenergy.com/getmedia/7ba38184-2dda-4135-9ce9-91d8c28de808/ENG-GB130Q-01-10-24.pdf
+  - GB130 HT Demko Certificate: https://www.advancedenergy.com/getmedia/c95ee1e7-a0f7-4798-a3d7-f7934201165e/GB130%20HT%20Demko%20Cert.pdf
+  - GB130Q DEMKO Certificate (ITE/AV): https://www.advancedenergy.com/getmedia/26111efa-705b-4e87-b33c-3ff968f20c77/GB130Q_ITE_DEMKO_Certificate.pdf
+  - GB130 HT CB Certificate: https://www.advancedenergy.com/getmedia/43f87dea-3e15-408c-9abf-c9d8b1535dec/GB130%20HT%20CB%20Cert.pdf
+  - GB130Q CB Certificate (ITE/AV): https://www.advancedenergy.com/getmedia/e6dd93c2-a975-4121-bde7-ed0aa9609546/GB130Q_ITE_CB_Certificate.pdf
+  - GB130Q CB CofA (ITE/AV): https://www.advancedenergy.com/getmedia/7c2559fb-88a7-499e-93cc-6312165205fd/GB130Q_ITE_CB_CofA.pdf
+  - GB130Q HT UL Cert of Compliance: https://www.advancedenergy.com/getmedia/5549ced2-b63d-4db5-89e2-127996ed10d4/GB130Q%20HT%20UL%20Cert%20of%20Compliance.pdf
+  - GB130Q UL 62368 Certificate: https://www.advancedenergy.com/getmedia/8469f272-2f5a-457f-b1f4-631b2f7c027c/GB130Q_UL_Cert%2062368.pdf
+  - GB130Q UL Certificate (ITE/AV): https://www.advancedenergy.com/getmedia/6e313273-67a2-4132-8947-3ec0edb74b56/GB130Q_ITE_UL_Certificate.pdf
+  - GB130Q UL Certificate of Compliance (ITE/AV): https://www.advancedenergy.com/getmedia/ebf7fc20-439c-421c-8a0f-b1d20d8ac3a8/GB130Q_ITE_UL_Certificate_of_Compliance.pdf
+  - GB130Q UL Report (ITE/AV): https://www.advancedenergy.com/getmedia/eb3f4976-f680-49e5-86b7-3b5e0ce3d64d/GB130Q_ITE_UL_Report.pdf
+  - GB130Q Value Proposition: https://www.advancedenergy.com/getmedia/3b95e1f8-1035-4337-928b-ca3eac9b5277/GB130Q-Value-Prop.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9dfc7e67-8c34-4781-967a-5e1ebd82faa7/ENG-MB120-08.24.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/97b34354-f20f-45d5-be60-d4241c10350f/ENG-SLB125%20-04.12.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3b64fff3-1f2f-4abe-8ed3-1d21ba3f07a6/ENG-LB130S56K-08.25.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/7ba38184-2dda-4135-9ce9-91d8c28de808/ENG-GB130Q-01-10-24.pdf
+  - https://www.advancedenergy.com/getmedia/7ba38184-2dda-4135-9ce9-91d8c28de808/ENG-GB130Q-01-10-24.pdf
+  - https://www.advancedenergy.com/getmedia/c95ee1e7-a0f7-4798-a3d7-f7934201165e/GB130%20HT%20Demko%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/26111efa-705b-4e87-b33c-3ff968f20c77/GB130Q_ITE_DEMKO_Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/43f87dea-3e15-408c-9abf-c9d8b1535dec/GB130%20HT%20CB%20Cert.pdf
+  - https://www.advancedenergy.com/getmedia/e6dd93c2-a975-4121-bde7-ed0aa9609546/GB130Q_ITE_CB_Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/7c2559fb-88a7-499e-93cc-6312165205fd/GB130Q_ITE_CB_CofA.pdf
+  - https://www.advancedenergy.com/getmedia/5549ced2-b63d-4db5-89e2-127996ed10d4/GB130Q%20HT%20UL%20Cert%20of%20Compliance.pdf
+  - https://www.advancedenergy.com/getmedia/8469f272-2f5a-457f-b1f4-631b2f7c027c/GB130Q_UL_Cert%2062368.pdf
+  - https://www.advancedenergy.com/getmedia/6e313273-67a2-4132-8947-3ec0edb74b56/GB130Q_ITE_UL_Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/ebf7fc20-439c-421c-8a0f-b1d20d8ac3a8/GB130Q_ITE_UL_Certificate_of_Compliance.pdf
+  - https://www.advancedenergy.com/getmedia/eb3f4976-f680-49e5-86b7-3b5e0ce3d64d/GB130Q_ITE_UL_Report.pdf
+  - https://www.advancedenergy.com/getmedia/3b95e1f8-1035-4337-928b-ca3eac9b5277/GB130Q-Value-Prop.pdf
+  - https://www.advancedenergy.com/getmedia/9dfc7e67-8c34-4781-967a-5e1ebd82faa7/ENG-MB120-08.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/97b34354-f20f-45d5-be60-d4241c10350f/ENG-SLB125%20-04.12.23.pdf
+  - https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/3b64fff3-1f2f-4abe-8ed3-1d21ba3f07a6/ENG-LB130S56K-08.25.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/da52adf4-b3a1-48ed-8e9f-a173370b40be/GB130Q-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/da52adf4-b3a1-48ed-8e9f-a173370b40be/GB130Q-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/3ab301a1-130a-4fa1-b226-f0e0cbecb791/MB120-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c9913ece-3184-40e9-8e7b-7b6ef55b256a/SLB125-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/56000d79-600b-4e77-932d-0d8ec647d989/NGB150-img-1701071836.jpg
+  - Image: https://www.advancedenergy.com/getattachment/60281b79-b1d5-475a-8423-767a16e070e4/LB130S.jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedMB120 Series120 W Single Output Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/mb120-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9dfc7e67-8c34-4781-967a-5e1ebd82faa7/ENG-MB120-08.24.23.pdf
+  - FeaturedSLB125 Series125 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/slb125-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/97b34354-f20f-45d5-be60-d4241c10350f/ENG-SLB125%20-04.12.23.pdf
+  - FeaturedNGB150 Series120/150 W Medical/Industrial: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/ngb150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - FeaturedLB130S Series130 W Single Output LED Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/lb130s-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3b64fff3-1f2f-4abe-8ed3-1d21ba3f07a6/ENG-LB130S56K-08.25.23.pdf
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Entertainment Lighting and AV ControlsInnovative lighting and precise control systems enhance performance atmosphere in motion picture, stage, and studio settings.: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - Explore Entertainment Lighting and AV Controls: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+101 - 150 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsSingle and Multiple Outputs, Up to 150 W
+  ↓
+FeaturedGB130Q Series130 W Quad Output Medical and Industrial Grade

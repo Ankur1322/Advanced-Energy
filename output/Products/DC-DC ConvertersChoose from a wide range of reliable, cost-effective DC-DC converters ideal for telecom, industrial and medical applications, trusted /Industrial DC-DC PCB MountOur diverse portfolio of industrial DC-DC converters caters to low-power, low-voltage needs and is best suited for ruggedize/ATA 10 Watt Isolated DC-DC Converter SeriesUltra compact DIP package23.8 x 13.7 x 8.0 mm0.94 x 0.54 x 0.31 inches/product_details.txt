@@ -1,0 +1,101 @@
+==============================================================================
+PRODUCT DETAILS: ATA 10 Watt Isolated DC-DC Converter SeriesUltra compact DIP package23.8 x 13.7 x 8.0 mm0.94 x 0.54 x 0.31 inches
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+Category Description: Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: ATA 10 Watt Isolated DC-DC Converter SeriesUltra compact DIP package23.8 x 13.7 x 8.0 mm0.94 x 0.54 x 0.31 inches
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/ata-series-10-watt-isolated-dcdc-converters/
+
+Complete Product Description:
+Advanced Energy’s ATA series 10 W isolated DC-DC converters are suitable for a diverse range of low power applications, including data communication, telecommunication and computer peripheral equipment, industrial automation and mobile battery-powered systems.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/8f8654cb-0e7a-40b0-99d4-da5b49f60af7/ata_10w_series_ds_1536591065.pdf
+  - ATA series 10W Datasheet: https://www.advancedenergy.com/getmedia/8f8654cb-0e7a-40b0-99d4-da5b49f60af7/ENG-ATA-10W-235-01-11-29-24.pdf
+  - ATA 10W EMI cert: https://www.advancedenergy.com/getmedia/87e328da-6228-4440-8119-907a503fd5ad/ata03_series_cocen_55032_24_1544131488_techref.pdf
+  - ATA 10W Tech Ref Note: https://www.advancedenergy.com/getmedia/5f722124-d057-4f7f-b13e-11275f6aa494/trn_ac-dc_ata_10w_series_relea1538746991_techref.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/19ab21d2-4fb1-4dc4-851a-62387b96d56b/ata_8w_series_ds_1495215571.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/420b228c-e146-4129-bde6-e280dabd6975/axa10w_1439829542.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/8f8654cb-0e7a-40b0-99d4-da5b49f60af7/ata_10w_series_ds_1536591065.pdf
+  - https://www.advancedenergy.com/getmedia/8f8654cb-0e7a-40b0-99d4-da5b49f60af7/ENG-ATA-10W-235-01-11-29-24.pdf
+  - https://www.advancedenergy.com/getmedia/87e328da-6228-4440-8119-907a503fd5ad/ata03_series_cocen_55032_24_1544131488_techref.pdf
+  - https://www.advancedenergy.com/getmedia/5f722124-d057-4f7f-b13e-11275f6aa494/trn_ac-dc_ata_10w_series_relea1538746991_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - https://www.advancedenergy.com/getmedia/19ab21d2-4fb1-4dc4-851a-62387b96d56b/ata_8w_series_ds_1495215571.pdf
+  - https://www.advancedenergy.com/getmedia/420b228c-e146-4129-bde6-e280dabd6975/axa10w_1439829542.pdf
+  - https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+  - https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/620e4c42-9b85-455b-8045-ba71dc074e1a/4feccd92dd.jpg
+  - Image: https://www.advancedenergy.com/getattachment/05247d1c-4df3-4545-a206-4c6fb9147485/2547218340.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33301408-81a1-4cb8-8299-f58a2f3049a2/9f4b7635f7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/45472f10-d93d-4aa2-9a18-6910f557a64a/cc5c1341a7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/620e4c42-9b85-455b-8045-ba71dc074e1a/4feccd92dd.jpg
+  - Image: https://www.advancedenergy.com/getattachment/05247d1c-4df3-4545-a206-4c6fb9147485/2547218340.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33301408-81a1-4cb8-8299-f58a2f3049a2/9f4b7635f7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/45472f10-d93d-4aa2-9a18-6910f557a64a/cc5c1341a7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/620e4c42-9b85-455b-8045-ba71dc074e1a/4feccd92dd.jpg
+  - Image: https://www.advancedenergy.com/getattachment/05247d1c-4df3-4545-a206-4c6fb9147485/2547218340.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33301408-81a1-4cb8-8299-f58a2f3049a2/9f4b7635f7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/45472f10-d93d-4aa2-9a18-6910f557a64a/cc5c1341a7.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ba9802b1-00d7-40c8-a38a-41197021f778/fea179282e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9e2583db-4a87-4d1a-b00a-79ee0c941b54/e8738aafcd.jpg
+  - Image: https://www.advancedenergy.com/getattachment/079ee90b-6405-4485-b2e4-e45de03fe1ac/ASA02A48.png
+  - Image: https://www.advancedenergy.com/getattachment/bc8ab360-8fd0-4cdd-8140-b877b9ab2a26/ASA10-48V-I-P.png
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedATA 8 Watt Isolated DC-DC Converter Series8 W Industrial DC-DC Converter: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/ata-series-8-watt-isolated-dc-dc-converters/
+  - Datasheet: https://www.advancedenergy.com/getmedia/19ab21d2-4fb1-4dc4-851a-62387b96d56b/ata_8w_series_ds_1495215571.pdf
+  - FeaturedAXA 10W 9-75 Vin Series1BY1 4:1 DC-DC Converter: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/axa/axa-10w-9-75-vin/
+  - Datasheet: https://www.advancedenergy.com/getmedia/420b228c-e146-4129-bde6-e280dabd6975/axa10w_1439829542.pdf
+  - FeaturedASA 10W 48Vin Series10 W Isolated DC-DC Converters (48 Vin): https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/asa/asa-10w-48vin-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+  - FeaturedASA 10W 24Vin Series10 W Isolated DC-DC Converters (24 VIN): https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/asa/asa-10w-24vin-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+  ↓
+ATA 10 Watt Isolated DC-DC Converter SeriesUltra compact DIP package23.8 x 13.7 x 8.0 mm0.94 x 0.54 x 0.31 inches

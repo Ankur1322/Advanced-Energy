@@ -1,0 +1,115 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLinear - AA SeriesLow Noise Linear Technology Power Supply
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: Linear Type PSUsMedical & ITE versionsChassis mount constructionUltra-low ripple and noise
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/linear-type-psus/
+Category Description: Linear power supplies are traditional, reliable devices used to convert AC voltage into stable, low noise DC power.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLinear - AA SeriesLow Noise Linear Technology Power Supply
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/linear-type-psus/linear-aa-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power linear series power supplies are dual output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - International RoHS Linears Datasheet: https://www.advancedenergy.com/getmedia/f1e01493-5d94-4cbf-9625-4832f94f21e0/Linears_DS.pdf
+  - Linear Covers: https://www.advancedenergy.com/getmedia/dc03ac7b-6247-40e7-b015-379559455b10/ENG-Linear%20Covers%20AN-02.28.23.pdf
+  - Linear Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - International Linears Safety Certs: https://www.advancedenergy.com/getmedia/fe29b1b2-cfae-426c-8312-7f0944d613ad/Linears_SC.pdf
+  - Linear Installation A to D: https://www.advancedenergy.com/getmedia/5b8e14e2-228e-4cab-9bb7-a935031782be/ENG-Linear%20Installation%20A%20to%20D-02.28.23.pdf
+  - Linear Medical Safety Certificates: https://www.advancedenergy.com/getmedia/1d570b62-fc66-4466-86c9-907fe4a19bb8/LinearMed_SC.pdf
+  - Linear Options: https://www.advancedenergy.com/getmedia/9cc4f549-4a53-4659-acd6-3af9836c0b03/ENG-Linear%20Options%20AN-03.02.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - https://www.advancedenergy.com/getmedia/f1e01493-5d94-4cbf-9625-4832f94f21e0/Linears_DS.pdf
+  - https://www.advancedenergy.com/getmedia/dc03ac7b-6247-40e7-b015-379559455b10/ENG-Linear%20Covers%20AN-02.28.23.pdf
+  - https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - https://www.advancedenergy.com/getmedia/fe29b1b2-cfae-426c-8312-7f0944d613ad/Linears_SC.pdf
+  - https://www.advancedenergy.com/getmedia/5b8e14e2-228e-4cab-9bb7-a935031782be/ENG-Linear%20Installation%20A%20to%20D-02.28.23.pdf
+  - https://www.advancedenergy.com/getmedia/1d570b62-fc66-4466-86c9-907fe4a19bb8/LinearMed_SC.pdf
+  - https://www.advancedenergy.com/getmedia/9cc4f549-4a53-4659-acd6-3af9836c0b03/ENG-Linear%20Options%20AN-03.02.23.pdf
+  - https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d229281b-004b-4d26-b49f-cbc55fca77dc/Linear-AA-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/d229281b-004b-4d26-b49f-cbc55fca77dc/Linear-AA-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/abdd4aae-42d6-40cc-958a-ec4dfea4e919/Linear-AA-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/fd1bfc24-fcf6-4828-a47c-ec0b353ebb91/Linear-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8e444240-3160-407a-a53e-792b5542dd4f/Linear-AA-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/206c96e2-50e3-4c89-9cd1-ca700c229f2b/Linear-AA-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/8d935b1d-5e65-42c5-8cf6-fbdc019f9e46/Medical-Imaging-CT.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d935b1d-5e65-42c5-8cf6-fbdc019f9e46/Medical-Imaging-CT.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d90acb58-0dbc-40a7-ab04-550540207bfc/PET-Scanner-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d90acb58-0dbc-40a7-ab04-550540207bfc/PET-Scanner-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLinear - BB SeriesLow Noise Linear Technology Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/linear-type-psus/linear-bb-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - FeaturedLinear - CC SeriesLow Noise Linear Technology Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/linear-type-psus/linear-cc-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - FeaturedLinear - B SeriesLow Noise Linear Technology Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/linear-type-psus/linear-b-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - FeaturedLinear - C SeriesLow Noise Linear Technology Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/linear-type-psus/linear-c-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a5def8f2-b161-4bba-9b54-3e37ba3b946b/ENG-Linear-Datasheet-02-28-23.pdf
+  - CTAdvanced Energy provides power supply solutions for medical imaging CT equipment, which utilizes rotating X-ray beams and detectors to generate detailed internal images of the body.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ct/
+  - Explore CT: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ct/
+  - PET / SPECTPositron Emission Tomography (PET) scanners use radioactive tracers to generate three-dimensional images of the body's metabolic activity, requiring precise and consistent power delivery for accurate and reliable imaging.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/pet/
+  - Explore PET: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/pet/
+  - UltrasoundAdvanced Energy provides power supply solutions for medical imaging ultrasound equipment, providing reliable and efficient power to these essential medical devices.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - Explore Ultrasound: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+Linear Type PSUsMedical & ITE versionsChassis mount constructionUltra-low ripple and noise
+  ↓
+FeaturedLinear - AA SeriesLow Noise Linear Technology Power Supply

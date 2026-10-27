@@ -1,0 +1,133 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNP08Up to 4000 W Configurable AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: MedicalPower ratings from 100’s to 30kWUp to 27 isolated outputs from 0.9 to 1000VDCSingle or 3-phase AC or DC input
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/medical/
+Category Description: Configurable Products for Medical Applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNP08Up to 4000 W Configurable AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/medical/np08/
+
+Complete Product Description:
+Up to 4000 W Configurable AC-DC Power Supplies
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - RS-485 MODBUS Cable: https://www.advancedenergy.com/getmedia/803c3e8f-1c86-407f-860c-4b1f70abbd6e/ENG-Artesyn-RS485-MODBUS-Programming-Cable-06-26-24.pdf
+  - NeoPower Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-06-23-26-without-R.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - English Version: https://www.advancedenergy.com/getmedia/66ce3112-8233-48d3-80a3-c7a2f38a73d7/configurable_white_paper_r3_1_1367959072_WP.pdf
+  - NP08 Series TRN: https://www.advancedenergy.com/getmedia/beff5293-f7e7-4a86-b0ed-65ef2cbaecc4/TRN-AC-DC-NP08-Series-Release-1-1-(120225).pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/803c3e8f-1c86-407f-860c-4b1f70abbd6e/ENG-Artesyn-RS485-MODBUS-Programming-Cable-06-26-24.pdf
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-06-23-26-without-R.pdf
+  - https://www.advancedenergy.com/getmedia/66ce3112-8233-48d3-80a3-c7a2f38a73d7/configurable_white_paper_r3_1_1367959072_WP.pdf
+  - https://www.advancedenergy.com/getmedia/beff5293-f7e7-4a86-b0ed-65ef2cbaecc4/TRN-AC-DC-NP08-Series-Release-1-1-(120225).pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c4d681fb-f3da-4077-97cb-9f3b5591899b/NP08.png
+  - Image: https://www.advancedenergy.com/getattachment/e97d9749-c125-4490-b129-041ade7263e5/NP08-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/0fc59798-d05d-48a4-8af9-732c58a433f2/NP-Dual-Output-View-4.png
+  - Image: https://www.advancedenergy.com/getattachment/a3efcc9d-8b7a-4b5a-a06a-36c2bb91bb74/1-slot-low-noise.png
+  - Image: https://www.advancedenergy.com/getattachment/c0066077-6ebd-4746-a719-ab8dbc4ebd6d/1-slot-medical.png
+  - Image: https://www.advancedenergy.com/getattachment/c4d681fb-f3da-4077-97cb-9f3b5591899b/NP08.png
+  - Image: https://www.advancedenergy.com/getattachment/e97d9749-c125-4490-b129-041ade7263e5/NP08-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/0fc59798-d05d-48a4-8af9-732c58a433f2/NP-Dual-Output-View-4.png
+  - Image: https://www.advancedenergy.com/getattachment/a3efcc9d-8b7a-4b5a-a06a-36c2bb91bb74/1-slot-low-noise.png
+  - Image: https://www.advancedenergy.com/getattachment/c0066077-6ebd-4746-a719-ab8dbc4ebd6d/1-slot-medical.png
+  - Image: https://www.advancedenergy.com/getattachment/c4d681fb-f3da-4077-97cb-9f3b5591899b/NP08.png
+  - Image: https://www.advancedenergy.com/getattachment/e97d9749-c125-4490-b129-041ade7263e5/NP08-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/0fc59798-d05d-48a4-8af9-732c58a433f2/NP-Dual-Output-View-4.png
+  - Image: https://www.advancedenergy.com/getattachment/a3efcc9d-8b7a-4b5a-a06a-36c2bb91bb74/1-slot-low-noise.png
+  - Image: https://www.advancedenergy.com/getattachment/c0066077-6ebd-4746-a719-ab8dbc4ebd6d/1-slot-medical.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/baa1350b-738e-4dac-bf8f-5c34870bbb15/Neo.PNG
+  - Advanced Energy Artesyn Configurable NeoPower Unboxing Video: https://i.ytimg.com/vi/6Ua42XYn4u0/hqdefault.jpg
+  - Artesyn NeoPower Introduction: https://i.ytimg.com/vi/-XK2qrQHP2M/hqdefault.jpg
+  - PowerPro CANbus and PMbus Communication Dongle: https://i.ytimg.com/vi/0apjSoUm4BQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/00a66d83-df11-4c48-a70d-befc5a4facf5/iVS3-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/dd02a1c4-532f-43da-b505-33b901192404/iVS6-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d4bad8c-dc16-46cb-96a6-e79f8eb8491c/iVS8-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturediVS31800 to 4500 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ivs3/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - FeaturediVS63120 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ivs6/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - FeaturediVS84920 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ivs8/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+MedicalPower ratings from 100’s to 30kWUp to 27 isolated outputs from 0.9 to 1000VDCSingle or 3-phase AC or DC input
+  ↓
+FeaturedNP08Up to 4000 W Configurable AC-DC Power Supplies

@@ -1,0 +1,80 @@
+==============================================================================
+PRODUCT DETAILS: UFE1300/2000 / UFR6000 SeriesActive Power Factor CorrectionActive AC Inrush limit ControlHigh Density (22 W/cu-in)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+Category Description: Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: UFE1300/2000 / UFR6000 SeriesActive Power Factor CorrectionActive AC Inrush limit ControlHigh Density (22 W/cu-in)
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/ufe1300-2000-ufr6000/
+
+Complete Product Description:
+The UFE series of bulk front end AC-DC power supplies comprises one single output 24 V model and six single output 48 V models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/becd20b7-dd49-4df8-bb37-cdc7d5c8026d/ufe_ufr_2000_single_ds_1210635350.pdf
+  - Universal PMBus GUI User's Manual (5 MB): https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - UFE/UFR Series Data Sheet: https://www.advancedenergy.com/getmedia/becd20b7-dd49-4df8-bb37-cdc7d5c8026d/ufe_ufr_2000_single_ds_1210635350.pdf
+  - Appendix B: Application Note 210 I2C Serial Bus Interface: https://www.advancedenergy.com/getmedia/fb0831ae-28f0-403b-a247-919aa5ad9b06/appendix_b-_ufe2000_-_an_210_-1501628948_appnote.pdf
+  - Appendix C: Application Note 211 - PMBus Commands: https://www.advancedenergy.com/getmedia/eb97378f-28d4-4a36-911b-bd46147f027d/ufe2000_an_1245883587_appnote.pdf
+  - Appendix D: Application Note 212 - Feature, Functions, EMC & Safety: https://www.advancedenergy.com/getmedia/514838f2-2beb-4705-b15d-aa25583e93d4/appendix_d-_ufe2000_-_an_212-_1501629124_appnote.pdf
+  - Appendix F: Application Note - Rack and Unit Connections: https://www.advancedenergy.com/getmedia/c896c4b8-6248-4c4b-a6d7-cfea01d37e8a/appendix_f-_ufe_-connections_a1501629232_appnote.pdf
+  - Appendix A: UFR6000 Platform Specification: https://www.advancedenergy.com/getmedia/ce90f31e-b48c-4641-adcc-b7d2c0ee9a80/appendix_a-_ufr6000_platform_s1501628864_techref.pdf
+  - Appendix E - TRN - Installing/Programming UFE/UFR6000 with Universal PMBus GUI: https://www.advancedenergy.com/getmedia/f1653050-dfb6-42f9-8f4b-8ed4ddb423d5/ufe_trn_1267507118_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/becd20b7-dd49-4df8-bb37-cdc7d5c8026d/ufe_ufr_2000_single_ds_1210635350.pdf
+  - https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - https://www.advancedenergy.com/getmedia/becd20b7-dd49-4df8-bb37-cdc7d5c8026d/ufe_ufr_2000_single_ds_1210635350.pdf
+  - https://www.advancedenergy.com/getmedia/fb0831ae-28f0-403b-a247-919aa5ad9b06/appendix_b-_ufe2000_-_an_210_-1501628948_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/eb97378f-28d4-4a36-911b-bd46147f027d/ufe2000_an_1245883587_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/514838f2-2beb-4705-b15d-aa25583e93d4/appendix_d-_ufe2000_-_an_212-_1501629124_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/c896c4b8-6248-4c4b-a6d7-cfea01d37e8a/appendix_f-_ufe_-connections_a1501629232_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/ce90f31e-b48c-4641-adcc-b7d2c0ee9a80/appendix_a-_ufr6000_platform_s1501628864_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f1653050-dfb6-42f9-8f4b-8ed4ddb423d5/ufe_trn_1267507118_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/816fd2be-2622-453e-8af2-eb5df99057ad/a50de27816.jpg
+  - Image: https://www.advancedenergy.com/getattachment/97c4a87e-664e-4b8b-8bdf-1c1b4460953e/1210784150-pr.jpg
+  - Image: https://www.advancedenergy.com/getattachment/816fd2be-2622-453e-8af2-eb5df99057ad/a50de27816.jpg
+  - Image: https://www.advancedenergy.com/getattachment/97c4a87e-664e-4b8b-8bdf-1c1b4460953e/1210784150-pr.jpg
+  - Image: https://www.advancedenergy.com/getattachment/816fd2be-2622-453e-8af2-eb5df99057ad/a50de27816.jpg
+  - Image: https://www.advancedenergy.com/getattachment/97c4a87e-664e-4b8b-8bdf-1c1b4460953e/1210784150-pr.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f878926d-371b-4af5-b266-4f30e527bb35/pmbusgui_large.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+  ↓
+UFE1300/2000 / UFR6000 SeriesActive Power Factor CorrectionActive AC Inrush limit ControlHigh Density (22 W/cu-in)

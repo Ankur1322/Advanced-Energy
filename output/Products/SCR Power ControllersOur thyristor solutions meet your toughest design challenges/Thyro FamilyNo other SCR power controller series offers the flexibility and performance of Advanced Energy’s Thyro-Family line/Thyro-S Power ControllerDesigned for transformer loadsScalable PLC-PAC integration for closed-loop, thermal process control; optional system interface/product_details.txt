@@ -1,0 +1,181 @@
+==============================================================================
+PRODUCT DETAILS: Thyro-S Power ControllerDesigned for transformer loadsScalable PLC/PAC integration for closed-loop, thermal process control; optional system interface connection of up to eight power controllers to bus module or BasicBus Module (Profibus DPV1,  CANopen, PROFINET, Modbus TCP/IP, EtherNet/IP, EtherCAT)DIN-rail mounting up to 60 A systems
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+[Level 2] Category Name: Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Thyro-S Power ControllerDesigned for transformer loadsScalable PLC/PAC integration for closed-loop, thermal process control; optional system interface connection of up to eight power controllers to bus module or BasicBus Module (Profibus DPV1,  CANopen, PROFINET, Modbus TCP/IP, EtherNet/IP, EtherCAT)DIN-rail mounting up to 60 A systems
+Product URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/thyro-s/
+
+Complete Product Description:
+Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/59df5074-cc54-4e19-a2da-a4abc1b2e574/en-thyro-s-data-sheet.pdf
+  - Basic Bus Module Anybus Profibus Manual (1 MB): https://www.advancedenergy.com/getmedia/aac86bb3-717e-4a88-bb6a-e40148320d90/en-scr-basic-bus-module-anybus-profibus-manual.pdf
+  - Thyro Basic Bus Module Operating Manual (1 MB): https://www.advancedenergy.com/getmedia/872c1bbb-bfe7-48db-b34f-7d5a3b9d811b/en-scr-thyro-basic-busmodule-operating-manual.pdf
+  - Thyro Family Accessories Brochure (2 MB): https://www.advancedenergy.com/getmedia/b56dee8e-782d-4690-8bb8-4c437ee07ecb/thyro-family-accessories.pdf
+  - Thyro-PX Anybus Ethernet/IP Operating Manual (302 KB): https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - Thyro-PX Anybus EtherCAT Guide (390 KB): https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - Thyro-PX Anybus EtherCAT Operating Manual (390 KB): https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - Thyro-PX Anybus Profibus (565 KB): https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - Thryo-PX Anybus Profinet Operating Manual (408 KB): https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - Thyro-PX Anybus Modbus TCP Operating Manual (468 KB): https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - Thyro Family Accessories Brochure: https://www.advancedenergy.com/getmedia/bef74c1c-2158-4c7a-8d6d-285a3f4300f8/thyro-family-accessories.pdf
+  - Thyro Family Brochure: https://www.advancedenergy.com/getmedia/32f27151-f4f6-4a5d-8f19-6785ef1ae0a4/de-scr-thyro-family-brochure.pdf
+  - Thyro Family SCR Power Controllers Brochure: https://www.advancedenergy.com/getmedia/10eaf95b-0877-43d0-a9a1-0acea6557dab/en-thyro-family-scr-power-controllers-brochure.pdf
+  - Thyro-Familie Zubehor Broschüre: https://www.advancedenergy.com/getmedia/3a187b45-5c69-4ba2-98a4-eaba3d14a891/de-scr-thyro-accessories-brochure.pdf
+  - BasicBusModul for Thyro-Familie: https://www.advancedenergy.com/getmedia/5a600c81-92b8-4d01-8d17-f16254a1a253/de-scr-basicbusmodule-data-sheet.pdf
+  - BasicBusModule Series: https://www.advancedenergy.com/getmedia/8494160b-6988-487d-921f-41af241b7b89/en-scr-basicbusmodule-data-sheet.pdf
+  - Thyro-Familie Zubehor Datenblatt: https://www.advancedenergy.com/getmedia/f2c9fa2a-3c0a-44bc-9619-336f5c319ad0/de-src-thyro-accessories-data-sheet.pdf
+  - Thyro-S Data Sheet: https://www.advancedenergy.com/getmedia/59df5074-cc54-4e19-a2da-a4abc1b2e574/ENG-Thyro-S-235-02-06-14-25.pdf
+  - Thyro-S Digitaler Thyristor Schalter Datenblatt: https://www.advancedenergy.com/getmedia/1e45d094-5ff8-4583-adb6-2e2e5e454050/de-scr-thyro-s-data-sheet.pdf
+  - Busmodul CANopen Benutzerhandbuch: https://www.advancedenergy.com/getmedia/5502ae3f-0a6d-471f-b77b-fed964763487/de-scr-Busmodul-CANopen-operating-manual.pdf
+  - Busmodul DeviceNet Benutzerhandbuch: https://www.advancedenergy.com/getmedia/79e645d7-b01d-441c-9145-9e614776fdf5/de-scr-Busmodul-DeviceNet-operating-manual.pdf
+  - Busmodul ModbusRTU Benutzerhandbuch: https://www.advancedenergy.com/getmedia/e12f4600-46f6-43db-a8ce-bbc58335bf93/de-scr-Busmodul_ModbusRTU-operating-manual.pdf
+  - Busmodul ModbusTCP Benutzerhandbuch: https://www.advancedenergy.com/getmedia/e8b3fc4c-8912-4da8-91b4-9df7ccc03820/de-scr-Busmodul-ModbusTCP-operating-manual.pdf
+  - Busmodul Profinet Benutzerhandbuch: https://www.advancedenergy.com/getmedia/f906eac7-95cf-4e29-965e-93437e772098/de-scr-Busmodul-Profinet-operating-manual.pdf
+  - Busmodule CANopen Benutzerhandbuch: https://www.advancedenergy.com/getmedia/984aada0-b3f9-42f2-b9ed-0a9a4151ef9a/de-scr-Busmodul_CANopen-operating-manual.pdf
+  - Busmodule Profibus DPV1 Benutzerhandbuch: https://www.advancedenergy.com/getmedia/43529b3b-a6c6-40e0-b90e-4bda690c664f/de-scr-Busmodule-Profibus-operating-manual.pdf
+  - Thyro Basic Bus Module Operating Manual: https://www.advancedenergy.com/getmedia/29ce0e26-11ec-4991-9b60-069376617ae4/en-scr-thyro-basic-busmodule-operating-manual.pdf
+  - Thyro Bus Module - Modbus RTU Manual: https://www.advancedenergy.com/getmedia/901cfdf7-9364-4992-94d3-aa26c96c3536/busmodul_modbusrtu_en_ae_operating-manual.pdf
+  - Thyro Bus Module - Modbus TCP Operating Manual: https://www.advancedenergy.com/getmedia/585f1bd2-808c-4c3e-9b4f-ef0fa83a5280/busmodul_modbustcp_en_ae_operating-manual.pdf
+  - Thyro Bus Module CANopen Operating Manual: https://www.advancedenergy.com/getmedia/1a3ef8d1-7a08-4661-9034-d9332c973de9/en-scr-bus-module-canopen-operating-manual.pdf
+  - Thyro Bus Module DeviceNet Operating Manual: https://www.advancedenergy.com/getmedia/50e4f51a-19a5-4ebe-b427-af7f2e36a776/busmodul_devicenet_en_ae_operating-manual.pdf
+  - Thyro Bus Module Ethernet/IP Operating Manual: https://www.advancedenergy.com/getmedia/5ea4f488-74a9-4327-80c2-d41df25b9d50/busmodul_ethernetip_en_ae_4.pdf
+  - Thyro Bus Module Profinet Operating Manual: https://www.advancedenergy.com/getmedia/ab9aabfb-f0c8-477f-af9a-c606296598d8/busmodul_profinet_en_ae_v3_operating-manual.pdf
+  - Thyro BusModule CANopen Manual: https://www.advancedenergy.com/getmedia/44159871-4531-446e-a625-4794086ac2b9/en-scr-thyro-busmodule-canopen-manual.pdf
+  - Thyro-Power Manager Operating Instructions: https://www.advancedenergy.com/getmedia/53a3ede8-cdab-48ee-929e-c21ebd3e0105/en-scr-thyro-power-manager-manual.pdf
+  - Thyro-S Leistungssteller Benutzerhandbuch: https://www.advancedenergy.com/getmedia/e83309de-f7a5-4ac5-8fd9-46c39c765767/de-scr-Thyro-S-operating-manual.pdf
+  - Precision Heat Qualifier: https://www.advancedenergy.com/getmedia/e415d637-d110-47a2-a816-8c48a4cb5dca/en-op-precision-heat-qualifier.pdf
+  - SCR Power Controllers Infographic: https://www.advancedenergy.com/getmedia/aa4425c8-688e-4eb3-a6f5-23239da60cea/scr-advantages-infographic.pdf
+  - SCR Power Control Benefits White Paper: https://www.advancedenergy.com/getmedia/6ab8e808-0ee4-4e89-8c6e-b8685c5f2634/scr-power-control-benefits-white-paper.pdf
+  - Top Advantages of SCR Power Controllers White Paper: https://www.advancedenergy.com/getmedia/077b21ce-ef20-4578-aff6-b262b3e48cf8/top-advantages-scrs-white-paper.pdf
+  - What You Need to Know About SCR Power Controllers: https://www.advancedenergy.com/getmedia/64f11c97-f3dd-4c8d-acde-761a359cf9e7/what-you-need-to-know-about-scr-power-controllers.pdf
+  - Thyro-S Operating Manual English: https://www.advancedenergy.com/getmedia/9cdae7e6-40b6-4839-805c-e8119497d51a/57010170-00F.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/59df5074-cc54-4e19-a2da-a4abc1b2e574/en-thyro-s-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/aac86bb3-717e-4a88-bb6a-e40148320d90/en-scr-basic-bus-module-anybus-profibus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/872c1bbb-bfe7-48db-b34f-7d5a3b9d811b/en-scr-thyro-basic-busmodule-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/b56dee8e-782d-4690-8bb8-4c437ee07ecb/thyro-family-accessories.pdf
+  - https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - https://www.advancedenergy.com/getmedia/bef74c1c-2158-4c7a-8d6d-285a3f4300f8/thyro-family-accessories.pdf
+  - https://www.advancedenergy.com/getmedia/32f27151-f4f6-4a5d-8f19-6785ef1ae0a4/de-scr-thyro-family-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/10eaf95b-0877-43d0-a9a1-0acea6557dab/en-thyro-family-scr-power-controllers-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/3a187b45-5c69-4ba2-98a4-eaba3d14a891/de-scr-thyro-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/5a600c81-92b8-4d01-8d17-f16254a1a253/de-scr-basicbusmodule-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/8494160b-6988-487d-921f-41af241b7b89/en-scr-basicbusmodule-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/f2c9fa2a-3c0a-44bc-9619-336f5c319ad0/de-src-thyro-accessories-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/59df5074-cc54-4e19-a2da-a4abc1b2e574/ENG-Thyro-S-235-02-06-14-25.pdf
+  - https://www.advancedenergy.com/getmedia/1e45d094-5ff8-4583-adb6-2e2e5e454050/de-scr-thyro-s-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/5502ae3f-0a6d-471f-b77b-fed964763487/de-scr-Busmodul-CANopen-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/79e645d7-b01d-441c-9145-9e614776fdf5/de-scr-Busmodul-DeviceNet-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/e12f4600-46f6-43db-a8ce-bbc58335bf93/de-scr-Busmodul_ModbusRTU-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/e8b3fc4c-8912-4da8-91b4-9df7ccc03820/de-scr-Busmodul-ModbusTCP-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/f906eac7-95cf-4e29-965e-93437e772098/de-scr-Busmodul-Profinet-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/984aada0-b3f9-42f2-b9ed-0a9a4151ef9a/de-scr-Busmodul_CANopen-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/43529b3b-a6c6-40e0-b90e-4bda690c664f/de-scr-Busmodule-Profibus-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/29ce0e26-11ec-4991-9b60-069376617ae4/en-scr-thyro-basic-busmodule-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/901cfdf7-9364-4992-94d3-aa26c96c3536/busmodul_modbusrtu_en_ae_operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/585f1bd2-808c-4c3e-9b4f-ef0fa83a5280/busmodul_modbustcp_en_ae_operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/1a3ef8d1-7a08-4661-9034-d9332c973de9/en-scr-bus-module-canopen-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/50e4f51a-19a5-4ebe-b427-af7f2e36a776/busmodul_devicenet_en_ae_operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/5ea4f488-74a9-4327-80c2-d41df25b9d50/busmodul_ethernetip_en_ae_4.pdf
+  - https://www.advancedenergy.com/getmedia/ab9aabfb-f0c8-477f-af9a-c606296598d8/busmodul_profinet_en_ae_v3_operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/44159871-4531-446e-a625-4794086ac2b9/en-scr-thyro-busmodule-canopen-manual.pdf
+  - https://www.advancedenergy.com/getmedia/53a3ede8-cdab-48ee-929e-c21ebd3e0105/en-scr-thyro-power-manager-manual.pdf
+  - https://www.advancedenergy.com/getmedia/e83309de-f7a5-4ac5-8fd9-46c39c765767/de-scr-Thyro-S-operating-manual.pdf
+  - https://www.advancedenergy.com/getmedia/e415d637-d110-47a2-a816-8c48a4cb5dca/en-op-precision-heat-qualifier.pdf
+  - https://www.advancedenergy.com/getmedia/aa4425c8-688e-4eb3-a6f5-23239da60cea/scr-advantages-infographic.pdf
+  - https://www.advancedenergy.com/getmedia/6ab8e808-0ee4-4e89-8c6e-b8685c5f2634/scr-power-control-benefits-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/077b21ce-ef20-4578-aff6-b262b3e48cf8/top-advantages-scrs-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/64f11c97-f3dd-4c8d-acde-761a359cf9e7/what-you-need-to-know-about-scr-power-controllers.pdf
+  - https://www.advancedenergy.com/getmedia/9cdae7e6-40b6-4839-805c-e8119497d51a/57010170-00F.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/ebb8ade5-7344-49e8-9213-f9718710ac18/thyros-035a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e35d025-e8c5-4627-8f56-e7fdc1833ed9/thyro-2s-065-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d14994-83f3-4d64-a34c-455205094c29/thyro-3s-071-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c8338f59-797e-47c1-a4cd-5e70cb596d81/thyros-035a-bb-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8204f120-0ddd-4bcb-a3f3-5d92c6d67f09/thyros-035a-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/40add0f1-9d17-4944-80ae-5d04a7c3455c/thyros-035a-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ebb8ade5-7344-49e8-9213-f9718710ac18/thyros-035a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e35d025-e8c5-4627-8f56-e7fdc1833ed9/thyro-2s-065-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d14994-83f3-4d64-a34c-455205094c29/thyro-3s-071-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c8338f59-797e-47c1-a4cd-5e70cb596d81/thyros-035a-bb-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8204f120-0ddd-4bcb-a3f3-5d92c6d67f09/thyros-035a-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/40add0f1-9d17-4944-80ae-5d04a7c3455c/thyros-035a-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ebb8ade5-7344-49e8-9213-f9718710ac18/thyros-035a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e35d025-e8c5-4627-8f56-e7fdc1833ed9/thyro-2s-065-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d14994-83f3-4d64-a34c-455205094c29/thyro-3s-071-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c8338f59-797e-47c1-a4cd-5e70cb596d81/thyros-035a-bb-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8204f120-0ddd-4bcb-a3f3-5d92c6d67f09/thyros-035a-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/40add0f1-9d17-4944-80ae-5d04a7c3455c/thyros-035a-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3e4f5cbd-524c-47cf-b711-2d5902f5615e/thyro-basicbusmodule-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9803e0bb-7432-4c54-a349-c84b814bed11/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ffc869bc-c300-4e8f-a07a-a6abd2085cbb/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98465f7b-0554-4251-ae2f-2bef71e6fa10/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f1a03a29-9d05-4299-8b79-e3a9ab615ff1/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7aa03da6-425d-44e7-b686-e46edb583a2e/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6ef05719-25a1-4d11-a060-583f4657dfa1/software_12.jpg
+  - Image: https://www.advancedenergy.com/getattachment/716a1c4a-608f-45fa-b2c7-43168bb540ee/software_12.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ebb8ade5-7344-49e8-9213-f9718710ac18/thyros-035a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8f7c8544-d6c4-42f8-b4f7-b0f508e84315/thyroa-041a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9b44778b-405d-49a6-aecc-1a1e7ecc8def/thyroa_onephase_display_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/280d7f46-ea5d-4bee-b5e0-9e602bbec079/thyropx0-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Steel & MetalsAdvanced Energy's Steel & Metal solutions provide cutting-edge technology, ease-of-use, and dependability through our non-contact temperature sensors and power controllers.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Explore Steel & Metals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - PetrochemicalsAdvanced Energy provides innovative temperature and gas sensing instruments for the petrochemical market that are designed for high-temperature, energy-intensive processes such as reforming and distillation operations..: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Explore Petrochemicals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+  ↓
+Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+  ↓
+Thyro-S Power ControllerDesigned for transformer loadsScalable PLC/PAC integration for closed-loop, thermal process control; optional system interface connection of up to eight power controllers to bus module or BasicBus Module (Profibus DPV1,  CANopen, PROFINET, Modbus TCP/IP, EtherNet/IP, EtherCAT)DIN-rail mounting up to 60 A systems

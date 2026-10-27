@@ -1,0 +1,110 @@
+==============================================================================
+PRODUCT DETAILS: Xstream Remote Plasma SourceHighly reliable RPS maximizes tool uptimeEffective reactive species transportation to process chamber for improved performanceTransformer coupled plasma (TCP) source with integrated Active Match Network (AMN)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Remote Plasma SourcesAdvanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/
+Category Description: Advanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Xstream Remote Plasma SourceHighly reliable RPS maximizes tool uptimeEffective reactive species transportation to process chamber for improved performanceTransformer coupled plasma (TCP) source with integrated Active Match Network (AMN)
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/xstream/
+
+Complete Product Description:
+The highly efficient Xstream® RPS dissociates large volumes of NF3 and quickly cleans chambers, improving your overall tool performance.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/1c4c5e8c-d267-4ce0-94d1-d101e455a33f/xstream-remote-plasma-source-data-sheet.pdf
+  - Xstream RPS Data Sheet View Resource: https://www.advancedenergy.com/getmedia/1c4c5e8c-d267-4ce0-94d1-d101e455a33f/xstream-remote-plasma-source-data-sheet.pdf
+  - 3 Tips for Sourcing Chamber Cleaning RPS Systems View Resource: https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+  - Advanced Ignition RPS View Resource: https://www.advancedenergy.com/getmedia/3559c63c-5e05-4d21-a328-8a6e86251c0b/advanced-ignition-remote-plasma-sources-white-paper.pdf
+  - 采用主动匹配网络的XSTREAM远程等离子体源: https://www.advancedenergy.com/getmedia/ce9a11c2-ee85-4495-951c-ccbd651fe647/ch-rps-xstream-brochure.pdf
+  - Xstream RPS Data Sheet: https://www.advancedenergy.com/getmedia/1c4c5e8c-d267-4ce0-94d1-d101e455a33f/xstream-remote-plasma-source-data-sheet.pdf
+  - 3 Tips for Sourcing Chamber Cleaning RPS Systems: https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+  - Advanced Ignition RPS: https://www.advancedenergy.com/getmedia/3559c63c-5e05-4d21-a328-8a6e86251c0b/advanced-ignition-remote-plasma-sources-white-paper.pdf
+  - RPS Chamber Anodization: https://www.advancedenergy.com/getmedia/d8939186-a919-491a-9c70-49ad651a1c1a/remote-plasma-source-chamber-anodization-white-paper.pdf
+  - RPS Chamber Cleaning System Impact on Cost of Ownership: https://www.advancedenergy.com/getmedia/b036a1b6-bee5-494a-a021-522d03d79de6/en-rps-cost-of-ownership-whitepaper.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/1c4c5e8c-d267-4ce0-94d1-d101e455a33f/xstream-remote-plasma-source-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1c4c5e8c-d267-4ce0-94d1-d101e455a33f/xstream-remote-plasma-source-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+  - https://www.advancedenergy.com/getmedia/3559c63c-5e05-4d21-a328-8a6e86251c0b/advanced-ignition-remote-plasma-sources-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/ce9a11c2-ee85-4495-951c-ccbd651fe647/ch-rps-xstream-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/1c4c5e8c-d267-4ce0-94d1-d101e455a33f/xstream-remote-plasma-source-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+  - https://www.advancedenergy.com/getmedia/3559c63c-5e05-4d21-a328-8a6e86251c0b/advanced-ignition-remote-plasma-sources-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/d8939186-a919-491a-9c70-49ad651a1c1a/remote-plasma-source-chamber-anodization-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/b036a1b6-bee5-494a-a021-522d03d79de6/en-rps-cost-of-ownership-whitepaper.pdf
+  - https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/9600f894-01f5-4c99-ba61-104f4f0ac1f3/xstream-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33c28fea-9ada-4efe-9196-d59637a1c353/xstream-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3067ff27-cc7f-469f-aa45-e1cbcd2f3477/xstream-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/32ebdf79-c318-4d45-ac43-2151b1d80f98/xstream-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/70a1f5a5-7d6f-46a2-9cb1-db87449fbd04/xstream-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9600f894-01f5-4c99-ba61-104f4f0ac1f3/xstream-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33c28fea-9ada-4efe-9196-d59637a1c353/xstream-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3067ff27-cc7f-469f-aa45-e1cbcd2f3477/xstream-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/32ebdf79-c318-4d45-ac43-2151b1d80f98/xstream-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/70a1f5a5-7d6f-46a2-9cb1-db87449fbd04/xstream-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9600f894-01f5-4c99-ba61-104f4f0ac1f3/xstream-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33c28fea-9ada-4efe-9196-d59637a1c353/xstream-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3067ff27-cc7f-469f-aa45-e1cbcd2f3477/xstream-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/32ebdf79-c318-4d45-ac43-2151b1d80f98/xstream-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/70a1f5a5-7d6f-46a2-9cb1-db87449fbd04/xstream-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/infographic.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/getattachment/378ce522-63e6-4f9e-8102-a4f7534ce551/maxstream300-fl-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2660c4e5-d9b3-4fa5-9652-4d3bee3f625c/solar_panel_manufacturing_op.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedMAXstream® Remote Plasma SourceReliable Performance for Chamber Clean Applications: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/maxstream/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e961f52a-c5b5-49dc-a3ff-0d576baba604/en-rps-maxstream-300-data-sheet.pdf
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Solar PhotovoltaicsTo compete in today’s energy market, photovoltaic (PV) fabrication enterprises require solar manufacturing equipment that increases productivity and reduces costs.: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Explore Solar Photovoltaics: https://www.advancedenergy.com/en-us/applications/industrial/energy/solar-photovoltaics/
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Remote Plasma SourcesAdvanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+  ↓
+Xstream Remote Plasma SourceHighly reliable RPS maximizes tool uptimeEffective reactive species transportation to process chamber for improved performanceTransformer coupled plasma (TCP) source with integrated Active Match Network (AMN)

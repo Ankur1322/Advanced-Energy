@@ -1,0 +1,112 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedSLB300 Series300 W Single Output Medical & Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/
+Category Description: Advanced Energy power supplies in the 251 to 500 W range are used in a wide array of applications. They offer more power for demanding applications, including surgical equipment, instrumentation, life science applications, and industrial equipment.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedSLB300 Series300 W Single Output Medical & Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/slb300-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power SLB300 medically-approved AT A GLANCE AC-DC power supplies are available with a nominal main output of 12 V, 15 V, 18 V, 24 V, 36 V, 48 V or 56 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - SLB300 Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300-07-18-2025.pdf
+  - SLB300 Long Form Datasheet: https://www.advancedenergy.com/getmedia/80e1d0b2-3e61-4e53-baac-0b8eb697664c/ENG-SLB300-LFDS-07-21-2025.pdf
+  - SLB300 Class I & II Demko Certificate: https://www.advancedenergy.com/getmedia/a12e3604-6323-44f4-9686-f947dcc5ba7d/SLB300%20Class%20I%20&%20II%20Demko%20Certificate.pdf
+  - SLB300 Class I CB Test Certificate UL: https://www.advancedenergy.com/getmedia/8ee9ef99-185c-4dba-858b-c967111b2999/SLB300%20Class%20I%20CB%20Test%20Certificate%20UL.pdf
+  - SLB300 Class II CB Test Certificate UL: https://www.advancedenergy.com/getmedia/6d13b421-289f-4cf9-9b2c-187989ac99e1/SLB300%20Class%20II%20CB%20Test%20Certificate%20UL.pdf
+  - SLB300 EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/89238ab2-da6d-4566-9682-99b55d7ac498/SLB300%20EU%20Declaration%20of%20Conformity.pdf
+  - SLB300 UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/0c645e56-551f-40db-bece-0b325315ba10/SLB300%20UKCA%20Declaration%20of%20Conformity.pdf
+  - SLB300 UL Certificate: https://www.advancedenergy.com/getmedia/e465da92-c69f-4850-b55a-c1444590168a/SLB300%20UL%20Certificate.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/cac7675b-ac07-432c-8d14-3b13c0f015d1/ENG-MINT1275-03.25.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d6a614c-0856-496e-9e1e-7ff1a8f7f82f/ENG-CINT1275-03.04.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300-07-18-2025.pdf
+  - https://www.advancedenergy.com/getmedia/80e1d0b2-3e61-4e53-baac-0b8eb697664c/ENG-SLB300-LFDS-07-21-2025.pdf
+  - https://www.advancedenergy.com/getmedia/a12e3604-6323-44f4-9686-f947dcc5ba7d/SLB300%20Class%20I%20&%20II%20Demko%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/8ee9ef99-185c-4dba-858b-c967111b2999/SLB300%20Class%20I%20CB%20Test%20Certificate%20UL.pdf
+  - https://www.advancedenergy.com/getmedia/6d13b421-289f-4cf9-9b2c-187989ac99e1/SLB300%20Class%20II%20CB%20Test%20Certificate%20UL.pdf
+  - https://www.advancedenergy.com/getmedia/89238ab2-da6d-4566-9682-99b55d7ac498/SLB300%20EU%20Declaration%20of%20Conformity.pdf
+  - https://www.advancedenergy.com/getmedia/0c645e56-551f-40db-bece-0b325315ba10/SLB300%20UKCA%20Declaration%20of%20Conformity.pdf
+  - https://www.advancedenergy.com/getmedia/e465da92-c69f-4850-b55a-c1444590168a/SLB300%20UL%20Certificate.pdf
+  - https://www.advancedenergy.com/getmedia/cac7675b-ac07-432c-8d14-3b13c0f015d1/ENG-MINT1275-03.25.23.pdf
+  - https://www.advancedenergy.com/getmedia/0d6a614c-0856-496e-9e1e-7ff1a8f7f82f/ENG-CINT1275-03.04.23.pdf
+  - https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/18dd2125-795f-4e6c-a16d-2fffbd14ab19/SLB300-Main.png
+  - Image: https://www.advancedenergy.com/getattachment/18dd2125-795f-4e6c-a16d-2fffbd14ab19/SLB300-Main.png
+  - Image: https://www.advancedenergy.com/getattachment/7e84ab6e-2568-4f4a-a6c1-ba022d4c738e/MINT1275.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9fe71a84-0326-4c49-b154-f88be8f4ca08/CINT1275.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7f625eba-4d37-4807-9ff2-e4f6f8ad0618/NGB250-img-1633990271.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedMINT1275 Series275 W Single Output Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/mint1275-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/cac7675b-ac07-432c-8d14-3b13c0f015d1/ENG-MINT1275-03.25.23.pdf
+  - FeaturedCINT1275 Series275 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/cint1275-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d6a614c-0856-496e-9e1e-7ff1a8f7f82f/ENG-CINT1275-03.04.23.pdf
+  - FeaturedNGB250 Series250 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/ngb250-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Industrial and Collaborative RobotsModifiable AC-DC and DC-DC solutions for industrial and collaborative robots. Efficient, reliable power supplies support high-volume production and cut costs: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - Explore Industrial and Collaborative Robots: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+  ↓
+FeaturedSLB300 Series300 W Single Output Medical & Industrial Grade

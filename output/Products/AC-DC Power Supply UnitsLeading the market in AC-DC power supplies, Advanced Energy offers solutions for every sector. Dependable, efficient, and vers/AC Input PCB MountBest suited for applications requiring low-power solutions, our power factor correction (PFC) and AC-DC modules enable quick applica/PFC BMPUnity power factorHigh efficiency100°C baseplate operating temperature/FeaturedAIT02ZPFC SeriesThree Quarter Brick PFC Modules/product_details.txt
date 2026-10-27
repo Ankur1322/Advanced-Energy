@@ -1,0 +1,102 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedAIT02ZPFC SeriesThree Quarter Brick PFC Modules
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/
+Category Description: Best suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+
+[Level 3] Category Name: PFC BMPUnity power factorHigh efficiency100°C baseplate operating temperature
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/pfc-bmp/
+Category Description: Advanced Energy’s PFC modules are designed to operate from an input of universal AC-mains voltage and feed one or more downstream high voltage isolated DC-DC converters, which provide the required low voltage.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedAIT02ZPFC SeriesThree Quarter Brick PFC Modules
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/pfc-bmp/ait02zpfc/
+
+Complete Product Description:
+The AIT02ZPFC series three-quarter-brick power factor correction module accepts a wide 85 to 264 VAC input and presents a unity power factor.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - AIT02ZPFC Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - AIT02ZPFC-01NL RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/67943d2f-d903-43a9-b70d-5b2fa2110bec/rohs2_coc_ait02zpfc-01nl_052411394707731_rohs_.pdf
+  - AIT02ZPFC—CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/3c459f39-57b2-418d-bdf4-55c522e1d907/ait02zpfc-01_ce_marking_1213274506_cert.pdf
+  - AIT02ZPFC—TUV Certificate: https://www.advancedenergy.com/getmedia/5bf34996-979e-417f-85c0-46421c940eb6/ait_tuv_cert_1213274647_cert.pdf
+  - AIT02ZPFC—UL Certificate: https://www.advancedenergy.com/getmedia/f55f3672-7b66-4494-aa17-5f93b1371e6d/ait02zpfc-01_ul_cert_1213274688_cert.pdf
+  - AIT02ZPFC Technical Reference Note: https://www.advancedenergy.com/getmedia/3f29a4c4-a807-4b7c-be9b-9508c67fc3a3/TRN-AC-DC-AIT02ZPFC-Release-1-3-(2022-10-10).pdf
+  - Technical Reference Notes: https://www.advancedenergy.com/getmedia/a8fd83e6-2044-450e-9abc-a66f50b4a502/ait02pfc_trn_rev02_1459391550_techref.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - https://www.advancedenergy.com/getmedia/b90c2d50-3828-497e-8274-f4b111b96fd2/ait02zpfc_datasheet_rev01_1192030301.pdf
+  - https://www.advancedenergy.com/getmedia/67943d2f-d903-43a9-b70d-5b2fa2110bec/rohs2_coc_ait02zpfc-01nl_052411394707731_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/3c459f39-57b2-418d-bdf4-55c522e1d907/ait02zpfc-01_ce_marking_1213274506_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5bf34996-979e-417f-85c0-46421c940eb6/ait_tuv_cert_1213274647_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f55f3672-7b66-4494-aa17-5f93b1371e6d/ait02zpfc-01_ul_cert_1213274688_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3f29a4c4-a807-4b7c-be9b-9508c67fc3a3/TRN-AC-DC-AIT02ZPFC-Release-1-3-(2022-10-10).pdf
+  - https://www.advancedenergy.com/getmedia/a8fd83e6-2044-450e-9abc-a66f50b4a502/ait02pfc_trn_rev02_1459391550_techref.pdf
+  - https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+  - https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/72e51ef8-9a2f-4485-ba5d-872642d4bee9/AIT02.png
+  - Image: https://www.advancedenergy.com/getattachment/72e51ef8-9a2f-4485-ba5d-872642d4bee9/AIT02.png
+  - Image: https://www.advancedenergy.com/getattachment/167025d4-d3a6-43fc-9fcb-a5276086e3c3/33adb8f226.png
+  - Image: https://www.advancedenergy.com/getattachment/65b337c0-5683-45cf-b552-b58c6a2ed6f0/AIH50F300_ang2_1000.png
+  - AIF 600W Series Product Image: https://www.advancedenergy.com/getattachment/6bde9dc1-17ff-421f-a91c-ad65ea7c459e/AIF-artesyn.jpg
+  - Image: https://www.advancedenergy.com/getattachment/16c66807-7744-43f7-86ec-e6069ba578c0/Transportation-Robotics-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/16c66807-7744-43f7-86ec-e6069ba578c0/Transportation-Robotics-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a78e2e1c-daee-48d4-b359-09bd32f016fb/Tethered-Drone-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a78e2e1c-daee-48d4-b359-09bd32f016fb/Tethered-Drone-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAIQ02R Series65 W High Voltage Quarter-Brick Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aiq02r/
+  - Datasheet: https://www.advancedenergy.com/getmedia/90c5c449-e918-4200-b96c-b6a0b0042c5e/aiq02r300-l_12-15-14_be35df7b78.pdf
+  - FeaturedAIH 250W Series250 W High Voltage Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aih-250w/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9574d18c-a3eb-4f26-8fdb-c66382a01d1c/aih_series_ds_1494262658.pdf
+  - FeaturedAIF 600W Series600 W High Voltage Isolated DC-DC Converters: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/400vdc-in-bmp/aif-600w/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e4ee8291-8e8b-4fca-b307-4e181668569a/aif_series_ds_1494262429.pdf
+  - Robotics & Transport Power SuppliesWe lead the way in power solutions for your robotics applications with our dedicated PSUs. Perfect for automated manufacturing, packaging, & transport systems.: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/
+  - Explore Transport & Robotics: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/
+  - Tethered DronesAdvanced Energy’s wide selection of AC‑DC power conversion solutions is designed to meet the diverse DC voltages and power levels required by tethered drones. In addition, our Point‑of‑Load (POL) and Board Mounted Power (BMP) brick converters deliver low‑voltage conversion to energize onboard electronics in tethered drone applications.: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/tethered-drone/
+  - Explore Tethered Drone: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/tethered-drone/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC Input PCB MountBest suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+  ↓
+PFC BMPUnity power factorHigh efficiency100°C baseplate operating temperature
+  ↓
+FeaturedAIT02ZPFC SeriesThree Quarter Brick PFC Modules

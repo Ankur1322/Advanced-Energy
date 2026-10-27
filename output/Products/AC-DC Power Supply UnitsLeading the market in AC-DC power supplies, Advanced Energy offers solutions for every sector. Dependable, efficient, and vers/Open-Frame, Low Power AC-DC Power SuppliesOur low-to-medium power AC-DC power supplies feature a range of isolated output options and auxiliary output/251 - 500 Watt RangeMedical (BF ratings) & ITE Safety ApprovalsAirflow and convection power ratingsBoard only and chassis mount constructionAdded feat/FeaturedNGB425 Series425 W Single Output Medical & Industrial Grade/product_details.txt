@@ -1,0 +1,142 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNGB425 Series425 W Single Output Medical & Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/
+Category Description: Advanced Energy power supplies in the 251 to 500 W range are used in a wide array of applications. They offer more power for demanding applications, including surgical equipment, instrumentation, life science applications, and industrial equipment.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNGB425 Series425 W Single Output Medical & Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/ngb425-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power NGB425 medically-approved AT A GLANCE AC-DC power supplies are available with a nominal main output of 12 V, 15 V, 24 V or 48 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/271aa545-abd5-4acf-96ff-d67f34f4c13b/ENG-NGB425-LFDS-03-08-24.pdf
+  - Seamless Transition to a New Power Supply Solution – An Example of Product Line Extension (PLE) Download Product Line Extension Case Study to learn how AE’s NGB425 value-add solution ensured mechanical and electrical backward compatibility, enabling a smooth transition from a discontinued PSU with long-term support. View Resource: https://www.advancedenergy.com/getmedia/a9c410f0-ea3d-46b1-9324-ee26858662af/ENG-Product-Line-Extension-Case-Study-295-01.pdf
+  - NGB425 Long Form Datasheet: https://www.advancedenergy.com/getmedia/271aa545-abd5-4acf-96ff-d67f34f4c13b/ENG-NGB425-LFDS-02-09-26.pdf
+  - NGB425S HT Demko Cert Class II.pdf: https://www.advancedenergy.com/getmedia/c6b050e0-7614-425a-9766-40f7e636a8db/NGB425S%20HT%20Demko%20Cert%20Class%20II.pdf
+  - NGB425S HT Demko Certificate Class I: https://www.advancedenergy.com/getmedia/89a6784e-a504-4cfe-af90-4f5088dc6aea/NGB425S%20HT%20Demko%20Cert%20Class%20I.pdf
+  - NGB425 REACH Certificate: https://www.advancedenergy.com/getmedia/5d8b5245-4f1b-498a-80c4-27ddd03ec757/NGB425_REACH.pdf
+  - NGB425 RoHS Certificate: https://www.advancedenergy.com/getmedia/e43e28aa-6a35-4c93-acd7-139dab2172bd/NGB425_RoHS.pdf
+  - NGB425 CB 60601 Class I: https://www.advancedenergy.com/getmedia/73e50772-b851-4e4c-8c23-19246ea7b634/NGB425_CB_60601_Class%20I.pdf
+  - NGB425 CB 60601 Class II: https://www.advancedenergy.com/getmedia/b9fc6508-2f84-48c1-9753-a49ed35e76a0/NGB425_CB_60601_Class%20II.pdf
+  - NGB425 CB 62368 Class I: https://www.advancedenergy.com/getmedia/57bde6e6-4acc-46aa-af8f-a980d5468681/NGB425_CB_62368_Class%20I.pdf
+  - NGB425 CB 62368 Class II: https://www.advancedenergy.com/getmedia/db6f2876-2538-4620-8af2-8617ba56be6c/NGB425_CB_62368_Class%20II.pdf
+  - NGB425 EN 60601 Class I & II: https://www.advancedenergy.com/getmedia/c422386c-6bcd-4d4e-80b7-8bc82fe2737c/NGB425_EN_60601_Class%20I%20&%20II.pdf
+  - NGB425 EN 62368 Class I: https://www.advancedenergy.com/getmedia/1c452b51-293a-4eb7-82c9-deb3640fc8e0/NGB425_EN_62368_Class%20I.pdf
+  - NGB425 EN 62368 Class II: https://www.advancedenergy.com/getmedia/f27b1a97-9683-4256-8ae1-bc6bc6329513/NGB425_EN_62368_Class%20II.pdf
+  - NGB425 UL NoA EN 62368 Class I & II: https://www.advancedenergy.com/getmedia/4862668f-1f9e-450f-88ae-fba729c7b55d/NGB425_UL_%20NoA%20EN_62368_Class%20I%20&%20II.pdf
+  - NGB425S EU Declaration of Conformity.pdf: https://www.advancedenergy.com/getmedia/abfb4071-7e4a-4ebc-81ad-e433ba5bdc12/CE-NGB425S-Series-2020-with-EU-Rep-R.pdf
+  - NGB425S HT CB Certificate Class I: https://www.advancedenergy.com/getmedia/71283e59-ffe9-43bd-be3c-91e42e06d177/NGB425S%20HT%20CB%20Cert%20Class%20I.pdf
+  - NGB425S HT CB Certificate Class II: https://www.advancedenergy.com/getmedia/bdf7bcb0-8f3b-464d-9c0c-2cfefc7f111d/NGB425S%20HT%20CB%20Cert%20Class%20II.pdf
+  - NGB425S HT UL Certificate of Compliance Class I: https://www.advancedenergy.com/getmedia/bc279009-9327-40df-8e22-68bea367aaf0/NGB425S%20HT%20UL%20Certificate%20of%20Compliance%20Class%20I.pdf
+  - NGB425S HT UL Certificate of Compliance Class II: https://www.advancedenergy.com/getmedia/cf0c12b5-b14a-446a-ae7a-6337f14588dd/NGB425S%20HT%20UL%20Cert%20of%20Compliance%20Class%20II.pdf
+  - NGB425 Value Proposition: https://www.advancedenergy.com/getmedia/10b532f7-374e-43b6-962d-53f3963e6f08/NGB425-Application-Note.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/271aa545-abd5-4acf-96ff-d67f34f4c13b/ENG-NGB425-LFDS-03-08-24.pdf
+  - https://www.advancedenergy.com/getmedia/a9c410f0-ea3d-46b1-9324-ee26858662af/ENG-Product-Line-Extension-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/271aa545-abd5-4acf-96ff-d67f34f4c13b/ENG-NGB425-LFDS-02-09-26.pdf
+  - https://www.advancedenergy.com/getmedia/c6b050e0-7614-425a-9766-40f7e636a8db/NGB425S%20HT%20Demko%20Cert%20Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/89a6784e-a504-4cfe-af90-4f5088dc6aea/NGB425S%20HT%20Demko%20Cert%20Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/5d8b5245-4f1b-498a-80c4-27ddd03ec757/NGB425_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/e43e28aa-6a35-4c93-acd7-139dab2172bd/NGB425_RoHS.pdf
+  - https://www.advancedenergy.com/getmedia/73e50772-b851-4e4c-8c23-19246ea7b634/NGB425_CB_60601_Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/b9fc6508-2f84-48c1-9753-a49ed35e76a0/NGB425_CB_60601_Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/57bde6e6-4acc-46aa-af8f-a980d5468681/NGB425_CB_62368_Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/db6f2876-2538-4620-8af2-8617ba56be6c/NGB425_CB_62368_Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/c422386c-6bcd-4d4e-80b7-8bc82fe2737c/NGB425_EN_60601_Class%20I%20&%20II.pdf
+  - https://www.advancedenergy.com/getmedia/1c452b51-293a-4eb7-82c9-deb3640fc8e0/NGB425_EN_62368_Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/f27b1a97-9683-4256-8ae1-bc6bc6329513/NGB425_EN_62368_Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/4862668f-1f9e-450f-88ae-fba729c7b55d/NGB425_UL_%20NoA%20EN_62368_Class%20I%20&%20II.pdf
+  - https://www.advancedenergy.com/getmedia/abfb4071-7e4a-4ebc-81ad-e433ba5bdc12/CE-NGB425S-Series-2020-with-EU-Rep-R.pdf
+  - https://www.advancedenergy.com/getmedia/71283e59-ffe9-43bd-be3c-91e42e06d177/NGB425S%20HT%20CB%20Cert%20Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/bdf7bcb0-8f3b-464d-9c0c-2cfefc7f111d/NGB425S%20HT%20CB%20Cert%20Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/bc279009-9327-40df-8e22-68bea367aaf0/NGB425S%20HT%20UL%20Certificate%20of%20Compliance%20Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/cf0c12b5-b14a-446a-ae7a-6337f14588dd/NGB425S%20HT%20UL%20Cert%20of%20Compliance%20Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/10b532f7-374e-43b6-962d-53f3963e6f08/NGB425-Application-Note.pdf
+  - https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/de30fc64-bce6-4106-b9ce-d433da7f9f98/NGB425-img-1585955932.jpg
+  - Image: https://www.advancedenergy.com/getattachment/de30fc64-bce6-4106-b9ce-d433da7f9f98/NGB425-img-1585955932.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/getattachment/11e9b794-6af9-42a1-ae90-44d5f3b75a0e/NGB660-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7b135346-397a-440a-83f8-b6c12ba381d8/MINT1500.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18dd2125-795f-4e6c-a16d-2fffbd14ab19/SLB300-Main.png
+  - Image: https://www.advancedenergy.com/getattachment/0b6df03e-6227-4152-97d3-b7ae8befb70a/NGB800-img-1663798077.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNGB660 Series660 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb660-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - FeaturedMINT1500 Series500 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/mint1500-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - FeaturedSLB300 Series300 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/slb300-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - FeaturedNGB800 Series800 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb800-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - PEF / PFAOur precision power control solutions are designed to empower medical equipment designers to deliver advanced ablation systems that enable more precise targeting of tumors, improve the efficacy of treatments, and ultimately deliver better outcomes for patients and doctors.: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - Explore PEF: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - Industrial and Collaborative RobotsModifiable AC-DC and DC-DC solutions for industrial and collaborative robots. Efficient, reliable power supplies support high-volume production and cut costs: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - Explore Industrial and Collaborative Robots: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - DialysisAdvanced Energy’s reliable and efficient power solutions for Patient Monitoring Dialysis equipment are designed to meet the specific power requirements of dialysis machines, which require precise and consistent power delivery for accurate monitoring of patient vital signs.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+  - Explore Dialysis: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+  ↓
+FeaturedNGB425 Series425 W Single Output Medical & Industrial Grade

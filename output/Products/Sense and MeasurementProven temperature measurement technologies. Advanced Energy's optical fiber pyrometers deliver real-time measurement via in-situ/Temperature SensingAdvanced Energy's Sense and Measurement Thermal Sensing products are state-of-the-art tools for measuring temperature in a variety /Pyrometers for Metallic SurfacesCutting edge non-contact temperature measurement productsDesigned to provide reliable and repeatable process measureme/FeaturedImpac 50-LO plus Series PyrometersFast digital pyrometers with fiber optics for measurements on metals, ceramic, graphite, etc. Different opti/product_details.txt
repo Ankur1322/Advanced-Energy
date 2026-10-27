@@ -1,0 +1,158 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedImpac 50-LO plus Series PyrometersFast digital pyrometers with fiber optics for measurements on metals, ceramic, graphite, etc. Different optical heads available. Temperature ranges between 250 and 3500°C.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Pyrometers for Metallic SurfacesCutting edge non-contact temperature measurement productsDesigned to provide reliable and repeatable process measurement and controlProducts for a huge range of applications in various industries
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/pyrometers-for-metallic,-ceramic-and-graphite-surfaces/
+Category Description: Increasing quality standards and higher energy costs demand more accurate and consistent temperature control in steel-making processes. Our digital and infrared pyrometers for metal applications provide cutting-edge technology, ease-of-use, and dependability.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedImpac 50-LO plus Series PyrometersFast digital pyrometers with fiber optics for measurements on metals, ceramic, graphite, etc. Different optical heads available. Temperature ranges between 250 and 3500°C.
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/pyrometers-for-metallic,-ceramic-and-graphite-surfaces/impac-50-lo-plus-series/
+
+Complete Product Description:
+The Impac® 50-LO plus and IGA 50-LO plus series include highly accurate, infrared measuring instruments with fiber optics for non-contact measurement on metals, ceramics, graphite, and more in temperature ranges between 250 and 3500°C.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/d0c702f1-4406-4869-8720-92fbfaa1f8a5/en-op-isiga50loplus-data-sheet.pdf
+  - Infrawin Datenblatt (224 KB): https://www.advancedenergy.com/getmedia/837b4132-f0c7-4726-9c88-083a3675cd8f/de-op-infrawin-data-sheet.pdf
+  - InfraWin 5 Manual (2 MB): https://www.advancedenergy.com/getmedia/a07963e8-d4f7-4974-b3da-507e150734e2/en-op-infrawin5-software_manual.pdf
+  - InfraWin Data Sheet (656 KB): https://www.advancedenergy.com/getmedia/32ae17e7-26ea-4160-9ae4-00d6b85f6ab8/en-op-infrawin-data-sheet.pdf
+  - InfraWin 5 Installation Manual (56 KB): https://www.advancedenergy.com/getmedia/c985fd72-cc4f-4e2f-9c64-d696337adc84/en-op-infrawin-software-install-manual.pdf
+  - Impac Electrical Accessories Brochure (769 KB): https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - DA 4000 Datenblatt (99 KB): https://www.advancedenergy.com/getmedia/dffa9f45-7f5a-48e7-8b4b-d4512bdac2ba/de-op-da4000-data-sheet.pdf
+  - DA 4000 Manual (332 KB): https://www.advancedenergy.com/getmedia/3a5328d1-e400-434f-b561-9cbef9805bbf/en-op-da4000_da4000-n_manual.pdf
+  - DA 4000 Data Sheet (105 KB): https://www.advancedenergy.com/getmedia/7ea26e74-29a0-41c0-a0d0-8df64da8508c/en-op-da4000_da4000-n-data-sheet.pdf
+  - Impac Mechanical Accessories Brochure (1 MB): https://www.advancedenergy.com/getmedia/46d97cb7-200a-4c86-b93b-f16267ab8eaa/en-op-impac-mechanical-accessories-brochure.pdf
+  - TQCS Datenblatt (2 MB): https://www.advancedenergy.com/getmedia/ee5a7381-f806-4fd5-8f6c-d8e52658f2b7/de-op-tqcs-data-sheet.pdf
+  - TQCS Schmiede Betriebsanleitung (2 MB): https://www.advancedenergy.com/getmedia/d5e404bc-9dda-4615-b3d6-82b820d3fc45/de-op-tqcs-software-manual.pdf
+  - TQCS - Temperature Quality Control System Data Sheet (721 KB): https://www.advancedenergy.com/getmedia/b9c4f57c-437f-484e-ac7d-757dcaab1d35/en-op-tqcs-data-sheet.pdf
+  - TQCS Forging Software Manual (2 MB): https://www.advancedenergy.com/getmedia/33ab2b39-883f-4d98-9750-7dd9de46da9c/en-op-tqcs-forging-software_manual.pdf
+  - Impac Spannungsversorgungen Datenblatt (143 KB): https://www.advancedenergy.com/getmedia/e9fdffbe-c890-47d4-bb12-77b9d726e5c7/de-op-impac-powersupplies-data-sheet.pdf
+  - Power Supplies Data Sheet (156 KB): https://www.advancedenergy.com/getmedia/31463acb-f166-49b9-8bec-195c00375b6a/en-op-powersupplies_impac-pyrometers-data-sheet.pdf
+  - PI 6000 Datenblatt (389 KB): https://www.advancedenergy.com/getmedia/99dea52d-df53-4a7a-9cc2-0f5611ee528e/de-op-pi6000-data-sheet.pdf
+  - PI 6000 Controller Manual (2 MB): https://www.advancedenergy.com/getmedia/ba28294c-faa9-487b-8088-00d87f61ac60/en-op-pi6000_manual.pdf
+  - PI 6000 Controller Data Sheet (367 KB): https://www.advancedenergy.com/getmedia/9feac1f0-db72-418f-8209-d6afbcb58014/en-op-pi6000-data-sheet.pdf
+  - DA 6000-N Datenblatt (153 KB): https://www.advancedenergy.com/getmedia/c5b0c4a7-797e-460a-b402-b927fb8a2150/de-ti-da6000n-data-sheet.pdf
+  - DA 6000-N Data Sheet (430 KB): https://www.advancedenergy.com/getmedia/70793919-3718-4eab-a3bd-6bbdd1a47eda/en-op-da6000-n-data-sheet.pdf
+  - DA 6000-N Manual (730 KB): https://www.advancedenergy.com/getmedia/b28841ec-68e4-4e2e-8dd9-75487843a3f1/en-op-da6000-n-manual.pdf
+  - DA 6000 Datenblatt (133 KB): https://www.advancedenergy.com/getmedia/b71daa11-640e-4022-b00d-d415e4a78b4e/de-op-da6000-data-sheet.pdf
+  - DA 6000 Manual (1 MB): https://www.advancedenergy.com/getmedia/753e7919-6f22-417a-8b2c-0e41e0a3ae24/en-op-da6000_manual.pdf
+  - DA 6000 Data Sheet (146 KB): https://www.advancedenergy.com/getmedia/28d9afdb-335a-4139-a9e1-908214f31d52/en-op-da6000-data-sheet.pdf
+  - Glass Production Solutions Brochure: https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - Pyrometer Overview: https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - Pyrometer-Gesamtübersicht: https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - Temperature Measurement for Steel Brochure: https://www.advancedenergy.com/getmedia/87a3da61-2c7f-4320-b59b-d300266925a3/en-im-steel-overview-brochure.pdf
+  - 钢铁测温 - 用于改进钢铁生产过程中的过程监控和 提高效率的非接触式温度传感器: https://www.advancedenergy.com/getmedia/6d243285-5d9b-4c87-b277-81c218662dfb/zho-im-steel-overview-brochure.pdf
+  - 高温计概述 - 用于非接触式测温的高精度红外测温仪: https://www.advancedenergy.com/getmedia/1d37b78d-50f6-4f95-81e5-4bab4888a623/zho-op-pyrometer-overview-brochure.pdf
+  - Impac IS 50-LO plus and IGA 50-LO plus Series Data Sheet: https://www.advancedenergy.com/getmedia/d0c702f1-4406-4869-8720-92fbfaa1f8a5/en-op-isiga50loplus-data-sheet.pdf
+  - Impac IS 50-LO plus und IGA 50-LO plus Serie Datenblatt: https://www.advancedenergy.com/getmedia/9854e04a-6fd7-46d9-b0a2-9692cb50c78e/de-op-isiga50loplus-data-sheet.pdf
+  - Impac IS-IGA 50-LO plus Betriebsanleitung: https://www.advancedenergy.com/getmedia/cabe7e26-7ffc-4a77-aa6f-79aa990d3319/de-op-isiga50-lo-plus-manual.pdf
+  - IS-IGA 50-LO plus Manual: https://www.advancedenergy.com/getmedia/75c08659-eb39-483b-a0f1-0472704b4c96/en-op-isiga50-lo-plus-manual.pdf
+  - Flat Glass Regenerator Application Note: https://www.advancedenergy.com/getmedia/d0221619-a110-4bef-b167-e06768c7b80b/en-im-glass-regenerator-application-note.pdf
+  - Hot Forming of Metals Application Note: https://www.advancedenergy.com/getmedia/89da603f-9a4c-48b1-a2a3-3fc125b95acf/en-im-steel-hot-forming-application-note.pdf
+  - Induction Heating Application Note: https://www.advancedenergy.com/getmedia/3501d8e7-19a0-462e-9548-d2227551b9e2/en-im-steel-induction-heating-application-note.pdf
+  - Induction Soldering Application Note: https://www.advancedenergy.com/getmedia/fdd75196-2e6b-4c93-8989-5e39611ebb96/en-im-steel-induction-soldering-application-note.pdf
+  - Temperature Measurement Quotation Request Form: https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/d0c702f1-4406-4869-8720-92fbfaa1f8a5/en-op-isiga50loplus-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/837b4132-f0c7-4726-9c88-083a3675cd8f/de-op-infrawin-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/a07963e8-d4f7-4974-b3da-507e150734e2/en-op-infrawin5-software_manual.pdf
+  - https://www.advancedenergy.com/getmedia/32ae17e7-26ea-4160-9ae4-00d6b85f6ab8/en-op-infrawin-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c985fd72-cc4f-4e2f-9c64-d696337adc84/en-op-infrawin-software-install-manual.pdf
+  - https://www.advancedenergy.com/getmedia/7d4ee7be-ae09-464f-b418-8c253bc8a66d/en-op-impac-electrical-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/dffa9f45-7f5a-48e7-8b4b-d4512bdac2ba/de-op-da4000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/3a5328d1-e400-434f-b561-9cbef9805bbf/en-op-da4000_da4000-n_manual.pdf
+  - https://www.advancedenergy.com/getmedia/7ea26e74-29a0-41c0-a0d0-8df64da8508c/en-op-da4000_da4000-n-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/46d97cb7-200a-4c86-b93b-f16267ab8eaa/en-op-impac-mechanical-accessories-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/ee5a7381-f806-4fd5-8f6c-d8e52658f2b7/de-op-tqcs-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d5e404bc-9dda-4615-b3d6-82b820d3fc45/de-op-tqcs-software-manual.pdf
+  - https://www.advancedenergy.com/getmedia/b9c4f57c-437f-484e-ac7d-757dcaab1d35/en-op-tqcs-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/33ab2b39-883f-4d98-9750-7dd9de46da9c/en-op-tqcs-forging-software_manual.pdf
+  - https://www.advancedenergy.com/getmedia/e9fdffbe-c890-47d4-bb12-77b9d726e5c7/de-op-impac-powersupplies-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/31463acb-f166-49b9-8bec-195c00375b6a/en-op-powersupplies_impac-pyrometers-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/99dea52d-df53-4a7a-9cc2-0f5611ee528e/de-op-pi6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/ba28294c-faa9-487b-8088-00d87f61ac60/en-op-pi6000_manual.pdf
+  - https://www.advancedenergy.com/getmedia/9feac1f0-db72-418f-8209-d6afbcb58014/en-op-pi6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c5b0c4a7-797e-460a-b402-b927fb8a2150/de-ti-da6000n-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/70793919-3718-4eab-a3bd-6bbdd1a47eda/en-op-da6000-n-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b28841ec-68e4-4e2e-8dd9-75487843a3f1/en-op-da6000-n-manual.pdf
+  - https://www.advancedenergy.com/getmedia/b71daa11-640e-4022-b00d-d415e4a78b4e/de-op-da6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/753e7919-6f22-417a-8b2c-0e41e0a3ae24/en-op-da6000_manual.pdf
+  - https://www.advancedenergy.com/getmedia/28d9afdb-335a-4139-a9e1-908214f31d52/en-op-da6000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/842e067e-81db-4d48-97de-cdba32a63240/en-im-glass-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/337cf3b5-5065-44c8-8712-094a377863c9/ENG-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/a39d2356-fde8-4fb3-9c9d-a50eb14bcdf4/DEU-Pyrometer-Overview-261-022823.pdf
+  - https://www.advancedenergy.com/getmedia/87a3da61-2c7f-4320-b59b-d300266925a3/en-im-steel-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/6d243285-5d9b-4c87-b277-81c218662dfb/zho-im-steel-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/1d37b78d-50f6-4f95-81e5-4bab4888a623/zho-op-pyrometer-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/d0c702f1-4406-4869-8720-92fbfaa1f8a5/en-op-isiga50loplus-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/9854e04a-6fd7-46d9-b0a2-9692cb50c78e/de-op-isiga50loplus-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/cabe7e26-7ffc-4a77-aa6f-79aa990d3319/de-op-isiga50-lo-plus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/75c08659-eb39-483b-a0f1-0472704b4c96/en-op-isiga50-lo-plus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/d0221619-a110-4bef-b167-e06768c7b80b/en-im-glass-regenerator-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/89da603f-9a4c-48b1-a2a3-3fc125b95acf/en-im-steel-hot-forming-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3501d8e7-19a0-462e-9548-d2227551b9e2/en-im-steel-induction-heating-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/fdd75196-2e6b-4c93-8989-5e39611ebb96/en-im-steel-induction-soldering-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/19d6ffdf-316c-4b06-aad6-631612f09a01/is50loplus-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/19d6ffdf-316c-4b06-aad6-631612f09a01/is50loplus-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3bc6fe76-8ee0-409e-a62f-70d4c0f8bb90/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/2975188d-a89f-4427-8a8c-fdd35b1a2a0a/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/721bf0f9-2cf3-40ef-92f4-43fbcc8c9ec9/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/3cc5740e-ac62-462b-8bde-79684e450664/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/4db4ef10-e1b2-476d-9af3-e88164aeec6a/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/34c65a76-1eb6-42dc-b6e7-ab090ecc881f/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/24753501-3c2b-4c60-a7b3-41c725538927/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/46279722-fb07-444e-95ae-1d191ae59e80/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/2feb29a2-dd66-41e6-b29e-ccf617297c8b/Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/38b3d0c5-64f6-4fb6-a1e2-28a9d2c91359/Thumbnail.png
+  - Advanced Pyrometers: Enhancing Process Repeatability: https://i.ytimg.com/vi/teYgES8AyNk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Steel & MetalsAdvanced Energy's Steel & Metal solutions provide cutting-edge technology, ease-of-use, and dependability through our non-contact temperature sensors and power controllers.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Explore Steel & Metals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Pyrometers for Metallic SurfacesCutting edge non-contact temperature measurement productsDesigned to provide reliable and repeatable process measurement and controlProducts for a huge range of applications in various industries
+  ↓
+FeaturedImpac 50-LO plus Series PyrometersFast digital pyrometers with fiber optics for measurements on metals, ceramic, graphite, etc. Different optical heads available. Temperature ranges between 250 and 3500°C.

@@ -1,0 +1,49 @@
+==============================================================================
+PRODUCT DETAILS: Conduction Cooled IP Sealed Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Conduction Cooled IP Sealed Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/
+
+Complete Product Description:
+Global-ready conduction cooled power supplies offer wide operating temperatures, IP64 protection & adaptable mounting, perfect for medical and indoor applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/8ed922ad-a0ae-4af2-bada-d0be3b3d9847/LCC-family.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f12474ab-3019-4c17-872b-20b1173be75e/LCC-family.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+Conduction Cooled IP Sealed Power Supplies

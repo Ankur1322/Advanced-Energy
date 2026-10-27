@@ -1,0 +1,141 @@
+==============================================================================
+PRODUCT DETAILS: eVoS ME Bias SolutionCustomized ion energy distribution maximizes concentration to process-optimal levels.Independently regulated voltage and current output enhances control of bias conditions.Proprietary control system enables direct manipulation of wafer bias characteristics.Fast, digitized metrology provides real-time output monitoring and control.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Power Delivery SystemsAdvanced Energy’s field-proven Precision Power™ solutions offer best-in-class control and stability across a wide range of plasma power applications.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/power-delivery-systems/
+Category Description: Advanced Energy’s field-proven Precision Power™ solutions offer best-in-class control and stability across a wide range of plasma power applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: eVoS ME Bias SolutionCustomized ion energy distribution maximizes concentration to process-optimal levels.Independently regulated voltage and current output enhances control of bias conditions.Proprietary control system enables direct manipulation of wafer bias characteristics.Fast, digitized metrology provides real-time output monitoring and control.
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/power-delivery-systems/evos™-me-asymmetric-bias-waveform-generator/
+
+Complete Product Description:
+The eVoS® platform enables direct control of wafer-surface voltage and ion energy distribution, empowering process engineers to optimize bias performance for specific process results.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/a012d5b0-f53b-48ff-9bb0-7cc46142705d/en-ppg-evos-me-data-sheet.pdf
+  - eVoS ME Data Sheet Asymmetric bias waveform generator for direct control of substrate voltage and ion energy View Resource: https://www.advancedenergy.com/getmedia/a012d5b0-f53b-48ff-9bb0-7cc46142705d/en-ppg-evos-me-data-sheet.pdf
+  - eVoS™ Family Brochure By maximizing the ability to tailor 
+ion energy, the eVoS asymmetric bias waveform generator enables precise command of etch and deposition geometries at very small dimensions. View Resource: https://www.advancedenergy.com/getmedia/7a065036-461a-48c9-af4e-8a303010fcbe/eVoS%e2%84%a2-Family-Brochure.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - eVoS™ Family Brochure: https://www.advancedenergy.com/getmedia/7a065036-461a-48c9-af4e-8a303010fcbe/eVoS%e2%84%a2-Family-Brochure.pdf
+  - eVoS™ 非対称バイアス波形ジェネレータ: https://www.advancedenergy.com/getmedia/09d5b527-e92d-4f04-96e2-d7efd5b44807/JPN-eVoS-Family-A4-230-01-screen.pdf
+  - eVoS ME Data Sheet: https://www.advancedenergy.com/getmedia/a012d5b0-f53b-48ff-9bb0-7cc46142705d/en-ppg-evos-me-data-sheet.pdf
+  - eVoS™ Datasheet: https://www.advancedenergy.com/getmedia/b592a5bc-a36f-4a83-b383-3b26568f4eca/en-ppg-evos-data-sheet.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/a012d5b0-f53b-48ff-9bb0-7cc46142705d/en-ppg-evos-me-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/a012d5b0-f53b-48ff-9bb0-7cc46142705d/en-ppg-evos-me-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/7a065036-461a-48c9-af4e-8a303010fcbe/eVoS%e2%84%a2-Family-Brochure.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/7a065036-461a-48c9-af4e-8a303010fcbe/eVoS%e2%84%a2-Family-Brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09d5b527-e92d-4f04-96e2-d7efd5b44807/JPN-eVoS-Family-A4-230-01-screen.pdf
+  - https://www.advancedenergy.com/getmedia/a012d5b0-f53b-48ff-9bb0-7cc46142705d/en-ppg-evos-me-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b592a5bc-a36f-4a83-b383-3b26568f4eca/en-ppg-evos-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/cdfe756c-b0e9-405c-bfb5-841df1d65da8/AEI_eVoS-ME_FR_T.png
+  - Image: https://www.advancedenergy.com/getattachment/49486d8c-a662-4015-9b85-fe2a4092cb2a/AEI_eVoS-ME_BB_T.png
+  - Image: https://www.advancedenergy.com/getattachment/d35e1652-98f5-4e05-8c38-8421493e67f2/AEI_eVoS-ME_FL_T.png
+  - Image: https://www.advancedenergy.com/getattachment/ead600dc-8496-426e-9028-2eb25503cccb/AEI_eVoS-ME_FS_T.png
+  - Image: https://www.advancedenergy.com/getattachment/0c94002b-567b-42f8-9339-0dc96c30a60c/AEI_eVoS-ME_FT_T.png
+  - Image: https://www.advancedenergy.com/getattachment/45d01050-5dc2-4001-aad2-7a1ce0d0890f/AEI_eVoS-ME_SL_T.png
+  - Image: https://www.advancedenergy.com/getattachment/da875696-2ba5-4e6b-8672-705123e52cd0/AEI_eVoS-ME_SR_T.png
+  - Image: https://www.advancedenergy.com/getattachment/3c47bcca-46bb-42f2-8269-c8b1f5aee6db/IMG_0227-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cce97cd4-5b92-44cc-ab4f-585758039e22/IMG_0249-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4009ea7e-13ad-4700-910b-3e5a17bac4d1/IMG_0256-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cb2f2b3f-9b63-4063-b5eb-b7ce819b56bd/IMG_0260-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4c50b1e5-a77b-4afa-b36e-c834b50c9807/IMG_0272-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8739872e-4432-4898-a763-3f67fc035b91/IMG_0292-4-Edit.jpg
+  - Image: https://img.youtube.com/vi/p-cfYhZ441Q/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cdfe756c-b0e9-405c-bfb5-841df1d65da8/AEI_eVoS-ME_FR_T.png
+  - Image: https://www.advancedenergy.com/getattachment/49486d8c-a662-4015-9b85-fe2a4092cb2a/AEI_eVoS-ME_BB_T.png
+  - Image: https://www.advancedenergy.com/getattachment/d35e1652-98f5-4e05-8c38-8421493e67f2/AEI_eVoS-ME_FL_T.png
+  - Image: https://www.advancedenergy.com/getattachment/ead600dc-8496-426e-9028-2eb25503cccb/AEI_eVoS-ME_FS_T.png
+  - Image: https://www.advancedenergy.com/getattachment/0c94002b-567b-42f8-9339-0dc96c30a60c/AEI_eVoS-ME_FT_T.png
+  - Image: https://www.advancedenergy.com/getattachment/45d01050-5dc2-4001-aad2-7a1ce0d0890f/AEI_eVoS-ME_SL_T.png
+  - Image: https://www.advancedenergy.com/getattachment/da875696-2ba5-4e6b-8672-705123e52cd0/AEI_eVoS-ME_SR_T.png
+  - Image: https://www.advancedenergy.com/getattachment/3c47bcca-46bb-42f2-8269-c8b1f5aee6db/IMG_0227-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cce97cd4-5b92-44cc-ab4f-585758039e22/IMG_0249-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4009ea7e-13ad-4700-910b-3e5a17bac4d1/IMG_0256-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cb2f2b3f-9b63-4063-b5eb-b7ce819b56bd/IMG_0260-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4c50b1e5-a77b-4afa-b36e-c834b50c9807/IMG_0272-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8739872e-4432-4898-a763-3f67fc035b91/IMG_0292-4-Edit.jpg
+  - Image: https://img.youtube.com/vi/p-cfYhZ441Q/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cdfe756c-b0e9-405c-bfb5-841df1d65da8/AEI_eVoS-ME_FR_T.png
+  - Image: https://www.advancedenergy.com/getattachment/49486d8c-a662-4015-9b85-fe2a4092cb2a/AEI_eVoS-ME_BB_T.png
+  - Image: https://www.advancedenergy.com/getattachment/d35e1652-98f5-4e05-8c38-8421493e67f2/AEI_eVoS-ME_FL_T.png
+  - Image: https://www.advancedenergy.com/getattachment/ead600dc-8496-426e-9028-2eb25503cccb/AEI_eVoS-ME_FS_T.png
+  - Image: https://www.advancedenergy.com/getattachment/0c94002b-567b-42f8-9339-0dc96c30a60c/AEI_eVoS-ME_FT_T.png
+  - Image: https://www.advancedenergy.com/getattachment/45d01050-5dc2-4001-aad2-7a1ce0d0890f/AEI_eVoS-ME_SL_T.png
+  - Image: https://www.advancedenergy.com/getattachment/da875696-2ba5-4e6b-8672-705123e52cd0/AEI_eVoS-ME_SR_T.png
+  - Image: https://www.advancedenergy.com/getattachment/3c47bcca-46bb-42f2-8269-c8b1f5aee6db/IMG_0227-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cce97cd4-5b92-44cc-ab4f-585758039e22/IMG_0249-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4009ea7e-13ad-4700-910b-3e5a17bac4d1/IMG_0256-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cb2f2b3f-9b63-4063-b5eb-b7ce819b56bd/IMG_0260-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4c50b1e5-a77b-4afa-b36e-c834b50c9807/IMG_0272-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8739872e-4432-4898-a763-3f67fc035b91/IMG_0292-4-Edit.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Advanced Energy’s eVoS™: A Paradigm Shift in Semiconductor Bias Technology: https://i.ytimg.com/vi/p-cfYhZ441Q/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eff6a1bf-93e7-4bef-bb78-0478257facca/aei_everest_fr_t700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/d7410e5b-fde7-4ec4-b8d2-cc3abdf758fd/paramountplus-mf5002-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedeVerest® RF GeneratorAngstrom Era Precision Power: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/everest/
+  - Datasheet: https://www.advancedenergy.com/getmedia/da18973a-2e75-4926-a7a8-e4ce186c39df/New-eVerest-datasheet.pdf
+  - FeaturedParamount Plus RF GeneratorMulti-Level Pulsing and Pulse Waveform Control for Emerging Plasma Applications: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/paramount-plus/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Power Delivery SystemsAdvanced Energy’s field-proven Precision Power™ solutions offer best-in-class control and stability across a wide range of plasma power applications.
+  ↓
+eVoS ME Bias SolutionCustomized ion energy distribution maximizes concentration to process-optimal levels.Independently regulated voltage and current output enhances control of bias conditions.Proprietary control system enables direct manipulation of wafer bias characteristics.Fast, digitized metrology provides real-time output monitoring and control.

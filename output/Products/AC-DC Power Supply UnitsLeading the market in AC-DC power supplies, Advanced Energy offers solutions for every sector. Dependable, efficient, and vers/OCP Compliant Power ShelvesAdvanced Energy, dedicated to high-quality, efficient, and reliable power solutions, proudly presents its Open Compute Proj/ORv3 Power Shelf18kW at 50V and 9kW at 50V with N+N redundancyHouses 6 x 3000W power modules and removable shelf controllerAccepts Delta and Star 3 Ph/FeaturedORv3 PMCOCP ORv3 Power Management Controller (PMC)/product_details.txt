@@ -1,0 +1,77 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedORv3 PMCOCP ORv3 Power Management Controller (PMC)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/
+Category Description: Advanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+
+[Level 3] Category Name: ORv3 Power Shelf18kW at 50V and 9kW at 50V with N+N redundancyHouses 6 x 3000W power modules and removable shelf controllerAccepts Delta and Star 3 Phase AC input configurations
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/ocp-compliant/
+Category Description: 15 kW (N + 1) and 9 kW (N + N)
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedORv3 PMCOCP ORv3 Power Management Controller (PMC)
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/ocp-compliant/orv3-pmc/
+
+Complete Product Description:
+OCP ORv3 Power Management Controller (PMC)
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/419e5178-ace5-40ec-91b0-5e230535109e/eng-orv3-pmc-datasheet.pdf
+  - ORV3 PMC Datasheet: https://www.advancedenergy.com/getmedia/419e5178-ace5-40ec-91b0-5e230535109e/ENG-ORV3_18KW-PMC-Phase-2_235-01-09-28-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/5dca9acc-ff4f-4f90-a928-1ced8e1fb23a/eng-50v_18kw_1ou_orv3_power_sh1663154852.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f68cb28-0ea8-46f5-9f58-9037c8ba3899/eng-50v_3kw_open_rack_v3_psu-21663144142.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/419e5178-ace5-40ec-91b0-5e230535109e/eng-orv3-pmc-datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/419e5178-ace5-40ec-91b0-5e230535109e/ENG-ORV3_18KW-PMC-Phase-2_235-01-09-28-25.pdf
+  - https://www.advancedenergy.com/getmedia/5dca9acc-ff4f-4f90-a928-1ced8e1fb23a/eng-50v_18kw_1ou_orv3_power_sh1663154852.pdf
+  - https://www.advancedenergy.com/getmedia/4f68cb28-0ea8-46f5-9f58-9037c8ba3899/eng-50v_3kw_open_rack_v3_psu-21663144142.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/1c1100c2-bb0d-4d19-8cd8-228e79c19d30/HPR-PMC.png
+  - Image: https://www.advancedenergy.com/getattachment/1c1100c2-bb0d-4d19-8cd8-228e79c19d30/HPR-PMC.png
+  - Image: https://www.advancedenergy.com/getattachment/3aa77377-8474-4fd0-ac9a-3241174c41e7/ca10f225e5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f71593d0-ccf3-4269-9304-f9e8eef07686/a63e597bfb.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedORv3 Shelf18 kW 48 V OCP ORv3 Power Shelf: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/ocp-compliant/orv3-shelf/
+  - Datasheet: https://www.advancedenergy.com/getmedia/5dca9acc-ff4f-4f90-a928-1ced8e1fb23a/eng-50v_18kw_1ou_orv3_power_sh1663154852.pdf
+  - FeaturedORv3 Power Supply Unit (PSU)3000 W OCP ORv3 Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/ocp-compliant/orv3-psu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f68cb28-0ea8-46f5-9f58-9037c8ba3899/eng-50v_3kw_open_rack_v3_psu-21663144142.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+  ↓
+ORv3 Power Shelf18kW at 50V and 9kW at 50V with N+N redundancyHouses 6 x 3000W power modules and removable shelf controllerAccepts Delta and Star 3 Phase AC input configurations
+  ↓
+FeaturedORv3 PMCOCP ORv3 Power Management Controller (PMC)

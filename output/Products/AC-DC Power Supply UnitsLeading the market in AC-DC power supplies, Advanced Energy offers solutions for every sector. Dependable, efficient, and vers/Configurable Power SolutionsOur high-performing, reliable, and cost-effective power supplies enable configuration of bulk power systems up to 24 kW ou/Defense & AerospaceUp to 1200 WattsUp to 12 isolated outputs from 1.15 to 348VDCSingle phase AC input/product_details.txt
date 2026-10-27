@@ -1,0 +1,76 @@
+==============================================================================
+PRODUCT DETAILS: Defense & AerospaceUp to 1200 WattsUp to 12 isolated outputs from 1.15 to 348VDCSingle phase AC input
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Defense & AerospaceUp to 1200 WattsUp to 12 isolated outputs from 1.15 to 348VDCSingle phase AC input
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/mil-standard/
+
+Complete Product Description:
+Configurable Products for Defense & Aerospace
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2022-04-20.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2022-04-20.pdf
+  - Excelsys PowerMods: https://www.advancedenergy.com/getmedia/2e40bb4b-64ce-4ad4-8505-253ef7905abd/ENG-Excelsys-PowerMods-07-24-2025.pdf
+  - XF Data Sheet: https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2026-04-10.pdf
+  - AC/DC Modular Designer Manual: https://www.advancedenergy.com/getmedia/a5dccd3a-6ffa-48f2-83fb-2ba06d14a8e6/en-lv-modular-designers-manual.pdf
+  - Designing for a Ruggedized Environment Application Note: https://www.advancedenergy.com/getmedia/2d62f88f-81f3-4db5-a7e8-5313d808b2ce/en-lv-designing-for-a-ruggedized-environment-application-note.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2022-04-20.pdf
+  - https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2022-04-20.pdf
+  - https://www.advancedenergy.com/getmedia/2e40bb4b-64ce-4ad4-8505-253ef7905abd/ENG-Excelsys-PowerMods-07-24-2025.pdf
+  - https://www.advancedenergy.com/getmedia/65c93767-0d10-4e23-a01f-862f109709d1/ENG-LV-XF-235-05-2026-04-10.pdf
+  - https://www.advancedenergy.com/getmedia/a5dccd3a-6ffa-48f2-83fb-2ba06d14a8e6/en-lv-modular-designers-manual.pdf
+  - https://www.advancedenergy.com/getmedia/2d62f88f-81f3-4db5-a7e8-5313d808b2ce/en-lv-designing-for-a-ruggedized-environment-application-note.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/03368aa4-9bca-4951-860b-bc1279796924/xf-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4c055c58-f0f1-480b-b0e4-6116c50acfc5/xf-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7ce4eedf-a98b-4454-a3e6-e49b17cf26ba/ultimod-4-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/5d85205d-9e21-4323-9ff4-3e38cf8a4b67/DSC_0129.JPG
+  - Image: https://www.advancedenergy.com/getattachment/1cddcd68-9ed7-4be5-b9c9-39d340ea0895/xf-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+Defense & AerospaceUp to 1200 WattsUp to 12 isolated outputs from 1.15 to 348VDCSingle phase AC input

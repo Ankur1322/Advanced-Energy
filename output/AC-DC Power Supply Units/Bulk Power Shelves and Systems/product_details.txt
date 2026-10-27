@@ -1,0 +1,51 @@
+==============================================================================
+PRODUCT DETAILS: Bulk Power Shelves and Systems
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Bulk Power Shelves and Systems
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/
+
+Complete Product Description:
+AE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/e30b080c-2742-4cd3-9154-c88f769c6427/LCM-4-kW-Systems-Cabinet-1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/baf74536-83db-4856-8a5d-fa468229a4bc/FCM30K-SHF2-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/4d70c3e8-448c-4a73-a396-afcc83780f1a/LCM1200-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/258f1559-0c49-444f-8faf-fe99019d56c6/bulk-power-systems.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+Bulk Power Shelves and Systems

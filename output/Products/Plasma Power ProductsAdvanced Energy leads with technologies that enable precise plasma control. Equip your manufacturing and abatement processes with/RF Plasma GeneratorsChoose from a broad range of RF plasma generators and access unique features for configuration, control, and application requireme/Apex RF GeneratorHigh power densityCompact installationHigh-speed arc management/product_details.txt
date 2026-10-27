@@ -1,0 +1,99 @@
+==============================================================================
+PRODUCT DETAILS: Apex RF GeneratorHigh power densityCompact installationHigh-speed arc management
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: RF Plasma GeneratorsChoose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/
+Category Description: Choose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Apex RF GeneratorHigh power densityCompact installationHigh-speed arc management
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/apex/
+
+Complete Product Description:
+The versatile Apex® family of RF generators and power-delivery systems showcases a compact, modular design suitable for chamber mounting.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c9639aa2-c10b-45a2-9a38-947b88f17083/en-ppg-apex-data-sheet.pdf
+  - Apex RF Data Sheet View Resource: https://www.advancedenergy.com/getmedia/c9639aa2-c10b-45a2-9a38-947b88f17083/en-ppg-apex-data-sheet.pdf
+  - RF Calibration Solutions View Resource: https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - Apex and Paramount RF Generator Comparison View Resource: https://www.advancedenergy.com/getmedia/d28e2131-3b12-4064-8b91-bd17df202513/en-srv-apex-paramount-application-note.pdf
+  - PowerInsight by Advanced Energy: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - RF Calibration Solutions: https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - Apex RF Data Sheet: https://www.advancedenergy.com/getmedia/c9639aa2-c10b-45a2-9a38-947b88f17083/en-ppg-apex-data-sheet.pdf
+  - Apex and Paramount RF Generator Comparison: https://www.advancedenergy.com/getmedia/d28e2131-3b12-4064-8b91-bd17df202513/en-srv-apex-paramount-application-note.pdf
+  - Forward and Reflected Power: What Does It Mean?: https://www.advancedenergy.com/getmedia/71d96329-38ea-4689-8da9-e060f49ba7b8/en-rf-forwardreflectedpower-white-paper.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c9639aa2-c10b-45a2-9a38-947b88f17083/en-ppg-apex-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c9639aa2-c10b-45a2-9a38-947b88f17083/en-ppg-apex-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/d28e2131-3b12-4064-8b91-bd17df202513/en-srv-apex-paramount-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/c9639aa2-c10b-45a2-9a38-947b88f17083/en-ppg-apex-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d28e2131-3b12-4064-8b91-bd17df202513/en-srv-apex-paramount-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/71d96329-38ea-4689-8da9-e060f49ba7b8/en-rf-forwardreflectedpower-white-paper.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/392ecaeb-09af-4466-b783-fa1e6ba6805a/apex-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c268c0ec-6b20-475a-830f-1fb236b4da23/apex-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fc2ceb36-fab8-43fd-8d6e-7159c54b324b/apex-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/14340c3f-2e0d-477d-9166-5bae5d1e6633/apex-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b575357f-015a-477e-8877-d02ec2c1cf45/apex-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/392ecaeb-09af-4466-b783-fa1e6ba6805a/apex-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c268c0ec-6b20-475a-830f-1fb236b4da23/apex-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fc2ceb36-fab8-43fd-8d6e-7159c54b324b/apex-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/14340c3f-2e0d-477d-9166-5bae5d1e6633/apex-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b575357f-015a-477e-8877-d02ec2c1cf45/apex-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/392ecaeb-09af-4466-b783-fa1e6ba6805a/apex-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c268c0ec-6b20-475a-830f-1fb236b4da23/apex-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fc2ceb36-fab8-43fd-8d6e-7159c54b324b/apex-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/14340c3f-2e0d-477d-9166-5bae5d1e6633/apex-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b575357f-015a-477e-8877-d02ec2c1cf45/apex-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/application-note.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+RF Plasma GeneratorsChoose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+  ↓
+Apex RF GeneratorHigh power densityCompact installationHigh-speed arc management

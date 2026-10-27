@@ -1,0 +1,116 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedIntelligent Transfer SwitchUp To 24000 W
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: Configurable Product AccessoriesPowerPro MODBUS to CANBus/PMBusPowerPro MODBUS RTU to MODBUS TCP Ethernet AdapterIntelligent Transfer Switch
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/configurable-product-accessories/
+Category Description: Add CANBUS and PMBUS capabilities to Artesyn branded NeoPower and Evergreen products
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedIntelligent Transfer SwitchUp To 24000 W
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/configurable-product-accessories/intelligent-transfer-switch/
+
+Complete Product Description:
+Advanced Energy's Intelligent Transfer Switch (iTS™) is designed for any application needing power switched to different loads during a 24 hour period (i.e. Horticulture, Burn-in, Test and Measurement, etc.).
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/fe817c51-17ab-4246-a3c0-7548c8d65b9c/eng-its-235-01_11_24_1606202688.pdf
+  - Intelligent Transfer Switch (iTS) Datasheet: https://www.advancedenergy.com/getmedia/fe817c51-17ab-4246-a3c0-7548c8d65b9c/eng-its-235-01_11_24_1606202688.pdf
+  - Intelligent Transfer Switch (iTS) Technical Reference Note: https://www.advancedenergy.com/getmedia/208a4ef0-036a-4953-87a3-a6792515ea42/ac-dc_its_release_1_0_2022-041650776568_techref.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/fe817c51-17ab-4246-a3c0-7548c8d65b9c/eng-its-235-01_11_24_1606202688.pdf
+  - https://www.advancedenergy.com/getmedia/fe817c51-17ab-4246-a3c0-7548c8d65b9c/eng-its-235-01_11_24_1606202688.pdf
+  - https://www.advancedenergy.com/getmedia/208a4ef0-036a-4953-87a3-a6792515ea42/ac-dc_its_release_1_0_2022-041650776568_techref.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/e5046656-de5a-4df5-aa77-ac9a321f7f79/2c78053e5f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5cd3706e-3278-4b1a-aa2d-1c651eaaae41/1b5cc0945a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4b16e49e-3cae-4a65-a3e1-42366adf48ec/676f0f13b5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f9fabc7e-802b-452e-afe4-e34dc8310e0c/9ab227e7f0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4fd03bf5-e6c3-4eab-995d-85e51ce4d07d/9b5c092c74.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f274337-2480-4c1b-bcb5-d58840dbe704/be5c1a9b06.jpg
+  - Image: https://www.advancedenergy.com/getattachment/556b0fff-62de-4613-a680-a113f14ce746/d639374b1a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e5046656-de5a-4df5-aa77-ac9a321f7f79/2c78053e5f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5cd3706e-3278-4b1a-aa2d-1c651eaaae41/1b5cc0945a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4b16e49e-3cae-4a65-a3e1-42366adf48ec/676f0f13b5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f9fabc7e-802b-452e-afe4-e34dc8310e0c/9ab227e7f0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4fd03bf5-e6c3-4eab-995d-85e51ce4d07d/9b5c092c74.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f274337-2480-4c1b-bcb5-d58840dbe704/be5c1a9b06.jpg
+  - Image: https://www.advancedenergy.com/getattachment/556b0fff-62de-4613-a680-a113f14ce746/d639374b1a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e5046656-de5a-4df5-aa77-ac9a321f7f79/2c78053e5f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5cd3706e-3278-4b1a-aa2d-1c651eaaae41/1b5cc0945a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4b16e49e-3cae-4a65-a3e1-42366adf48ec/676f0f13b5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f9fabc7e-802b-452e-afe4-e34dc8310e0c/9ab227e7f0.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4fd03bf5-e6c3-4eab-995d-85e51ce4d07d/9b5c092c74.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f274337-2480-4c1b-bcb5-d58840dbe704/be5c1a9b06.jpg
+  - Image: https://www.advancedenergy.com/getattachment/556b0fff-62de-4613-a680-a113f14ce746/d639374b1a.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/1262f61b-9149-4514-9aaf-1aacdca74415/iHP12-15-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/a8c0d591-7600-4c71-ac52-35f73203af74/iHP24-30-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/db3a6b71-27ca-41f3-98c5-3ddd308789c9/iHP24S-30S-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/5866427e-9f2a-44a3-b870-dbce7f41d7b1/6fe559910e.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturediHP12/15 Air Cooled12 to15 kW Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp12-15/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - FeaturediHP24/30 Air Cooled24k to 30k W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp24-30/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - FeaturediHP24S/30S Air Cooled24k to 30k W Configurable, Short AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/ihp24-30s/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0dc938c5-1b6a-4ea3-8fad-8c5f9c274470/ENG-IHP-235-01-12-16-24.pdf
+  - FeaturedLCM4000HV Series4000 W Bulk Front End Power Module: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm4000hv/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+Configurable Product AccessoriesPowerPro MODBUS to CANBus/PMBusPowerPro MODBUS RTU to MODBUS TCP Ethernet AdapterIntelligent Transfer Switch
+  ↓
+FeaturedIntelligent Transfer SwitchUp To 24000 W

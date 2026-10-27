@@ -1,0 +1,117 @@
+==============================================================================
+PRODUCT DETAILS: NewSLB350 Series350 W Single Output Industrial Grade PSU
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/
+Category Description: Advanced Energy power supplies in the 251 to 500 W range are used in a wide array of applications. They offer more power for demanding applications, including surgical equipment, instrumentation, life science applications, and industrial equipment.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: NewSLB350 Series350 W Single Output Industrial Grade PSU
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/slb350-series/
+
+Complete Product Description:
+SLB350 series is a compact 350 W AC‑DC PSU with Class B EMI, 12–56 V outputs, airflow cooling, and robust protection for industrial and medical applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/a2634c56-2460-439f-b9e5-c7d1c24af78f/ENG-SLB350-10-15-2025.pdf
+  - SLB350 Datasheet SLB350 AC-DC power supplies are available with a nominal main output of 12 V, 24 V, 48 V or 56 V View Resource: https://www.advancedenergy.com/getmedia/a2634c56-2460-439f-b9e5-c7d1c24af78f/ENG-SLB350-11-21-2025.pdf
+  - SLB350 Solves Thermal Instability in Building Control Systems SLB350 open-frame power supply solves overheating and shutting down issue for operating conditions. Read how SLB350 improved system reliability resolve customer's shutdown issues. View Resource: https://www.advancedenergy.com/getmedia/1190b126-01b9-4d13-b35f-97a8bf54abe7/ENG-SLB350-Solves-Thermal-Instability-Case-Study-295-01.pdf
+  - SLB350 Datasheet: https://www.advancedenergy.com/getmedia/a2634c56-2460-439f-b9e5-c7d1c24af78f/ENG-SLB350-11-21-2025.pdf
+  - SLB350 Solves Thermal Instability in Building Control Systems: https://www.advancedenergy.com/getmedia/1190b126-01b9-4d13-b35f-97a8bf54abe7/ENG-SLB350-Solves-Thermal-Instability-Case-Study-295-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/fd0c530f-58db-4741-b67f-93e2de821293/ENG-LGU350-11-21-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/a2634c56-2460-439f-b9e5-c7d1c24af78f/ENG-SLB350-10-15-2025.pdf
+  - https://www.advancedenergy.com/getmedia/a2634c56-2460-439f-b9e5-c7d1c24af78f/ENG-SLB350-11-21-2025.pdf
+  - https://www.advancedenergy.com/getmedia/1190b126-01b9-4d13-b35f-97a8bf54abe7/ENG-SLB350-Solves-Thermal-Instability-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/a2634c56-2460-439f-b9e5-c7d1c24af78f/ENG-SLB350-11-21-2025.pdf
+  - https://www.advancedenergy.com/getmedia/1190b126-01b9-4d13-b35f-97a8bf54abe7/ENG-SLB350-Solves-Thermal-Instability-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - https://www.advancedenergy.com/getmedia/fd0c530f-58db-4741-b67f-93e2de821293/ENG-LGU350-11-21-23.pdf
+  - https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/f9ba2d90-b97e-4f7c-92f0-08f626881ab3/SLB350-V1-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/b56a7e9f-13db-4f45-bccf-3a65e8cf138d/SLB350-V2-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/4cdab1f6-f193-491a-becd-ba66f23e96ff/SLB350-V3-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/a0571b57-0c71-4929-9c8b-02787f120807/SLB350-V4-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/93541b63-3d8f-40fd-96ec-8fe5636b3eb1/SLB350-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/f9ba2d90-b97e-4f7c-92f0-08f626881ab3/SLB350-V1-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/b56a7e9f-13db-4f45-bccf-3a65e8cf138d/SLB350-V2-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/4cdab1f6-f193-491a-becd-ba66f23e96ff/SLB350-V3-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/a0571b57-0c71-4929-9c8b-02787f120807/SLB350-V4-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/93541b63-3d8f-40fd-96ec-8fe5636b3eb1/SLB350-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/f9ba2d90-b97e-4f7c-92f0-08f626881ab3/SLB350-V1-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/b56a7e9f-13db-4f45-bccf-3a65e8cf138d/SLB350-V2-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/4cdab1f6-f193-491a-becd-ba66f23e96ff/SLB350-V3-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/a0571b57-0c71-4929-9c8b-02787f120807/SLB350-V4-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/93541b63-3d8f-40fd-96ec-8fe5636b3eb1/SLB350-V5.png
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - SLB350 Series - 350 W Single Output Industrial Power Supply: https://i.ytimg.com/vi/2XPvo4cWnRY/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18dd2125-795f-4e6c-a16d-2fffbd14ab19/SLB300-Main.png
+  - Image: https://www.advancedenergy.com/getattachment/05451f0d-487e-4215-b711-234747f8121a/LGU350-A.png
+  - Image: https://www.advancedenergy.com/getattachment/7f625eba-4d37-4807-9ff2-e4f6f8ad0618/NGB250-img-1633990271.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f9ba2d90-b97e-4f7c-92f0-08f626881ab3/SLB350-V1-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/18dd2125-795f-4e6c-a16d-2fffbd14ab19/SLB300-Main.png
+  - Image: https://www.advancedenergy.com/getattachment/7f625eba-4d37-4807-9ff2-e4f6f8ad0618/NGB250-img-1633990271.jpg
+  - Image: https://www.advancedenergy.com/getattachment/de30fc64-bce6-4106-b9ce-d433da7f9f98/NGB425-img-1585955932.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9fe71a84-0326-4c49-b154-f88be8f4ca08/CINT1275.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/92e13d7d-f9fd-484c-a473-fbbc8818c9c5/3D-Printing-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/92e13d7d-f9fd-484c-a473-fbbc8818c9c5/3D-Printing-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedSLB300 Series300 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/slb300-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - FeaturedLGU350 Series350 W Single Output LED Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/lgu350-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/fd0c530f-58db-4741-b67f-93e2de821293/ENG-LGU350-11-21-23.pdf
+  - FeaturedNGB250 Series250 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/ngb250-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - Entertainment Lighting and AV ControlsInnovative lighting and precise control systems enhance performance atmosphere in motion picture, stage, and studio settings.: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - Explore Entertainment Lighting and AV Controls: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - 3D PrintingExplore Advanced Energy's cutting-edge power and temperature measurement solutions designed for 3D printer manufacturers to boost precision and efficiency: https://www.advancedenergy.com/en-us/applications/industrial/printing/3d-printing/
+  - Explore 3D Printing: https://www.advancedenergy.com/en-us/applications/industrial/printing/3d-printing/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+  ↓
+NewSLB350 Series350 W Single Output Industrial Grade PSU

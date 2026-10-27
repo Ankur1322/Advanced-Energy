@@ -1,0 +1,50 @@
+==============================================================================
+PRODUCT DETAILS: AC Ratio Transformers
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Sense and Measurement
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/ac-ratio-transformers/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: AC Ratio Transformers
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/ac-ratio-transformers/
+
+Complete Product Description:
+AC ratio transformers are essential components in electrical systems, ensuring accurate voltage and current levels.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c155d5f7-b7e4-4f97-b3db-e8d1003f4c74/DT72B-Decade-Ratio-Transformer-zoom.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9d8d2a07-0941-4d16-9ead-a61120af9cd0/ST-200A-Precision-Fixed-Ratio-Voltage-Transformer-zoom.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5b6b73f3-752d-4874-8db9-e9b9e52391ec/TEG_1372A.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and Measurement
+  ↓
+AC Ratio Transformers

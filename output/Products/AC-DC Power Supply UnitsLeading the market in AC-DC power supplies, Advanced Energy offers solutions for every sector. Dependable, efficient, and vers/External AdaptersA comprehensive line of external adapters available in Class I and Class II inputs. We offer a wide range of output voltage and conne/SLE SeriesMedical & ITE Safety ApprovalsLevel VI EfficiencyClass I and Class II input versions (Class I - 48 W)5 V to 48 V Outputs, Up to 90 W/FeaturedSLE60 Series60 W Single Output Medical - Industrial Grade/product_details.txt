@@ -1,0 +1,135 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedSLE60 Series60 W Single Output Medical / Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: SLE SeriesMedical & ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions (Class I > 48 W)5 V to 48 V Outputs, Up to 90 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/
+Category Description: The SLE series is part of Advanced Energy's Lean Line with 9 external power supply families ranging from 6 to 90 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedSLE60 Series60 W Single Output Medical / Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle60/
+
+Complete Product Description:
+Advanced Energy's SL Power SLE60PD series AC-DC power adapters feature both medical and ITE safety approvals.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/cea15db2-200d-49c0-a944-27bbf2cf6a70/ENG-SLE60-235-01%2010.21.23.pdf
+  - Transforming Patient Care: Unleashing the Potential of SLE60 Series USB-PD Adapters View Resource: https://www.advancedenergy.com/getmedia/112ea87d-3892-48bd-9282-46d762e4be3c/ENG-Medically-rated-USB-PD-Adpaters-Case-Study-295-01.pdf
+  - SLE60 Datasheet: https://www.advancedenergy.com/getmedia/cea15db2-200d-49c0-a944-27bbf2cf6a70/ENG-SLE60-235-01-12-25-24.pdf
+  - SLE60SPD REACH Certificate: https://www.advancedenergy.com/getmedia/60d2aecb-562a-411f-9194-5d17b06d95cf/SL%20Power%20REACH%20219%20SLE60SPD%20Series.pdf
+  - SLE60SPD RoHS Statement: https://www.advancedenergy.com/getmedia/d204d0de-ceb1-4701-938b-cdbc0e5faafe/RoHS%20statement%20SL%20Power%20SLE60SPD%20Series.pdf
+  - SLE60SPD CB Certificate 60601-1: https://www.advancedenergy.com/getmedia/5ba3ac80-a7a9-4af0-af00-fb56b0093505/SLE60SPD_CB_CERTIFICATE_60601.pdf
+  - SLE60SPD CB Certificate 62368: https://www.advancedenergy.com/getmedia/db5355d6-017a-46ed-8b15-482dbbb311bb/SLE60SPD_CB_CERTIFICATE_62368.pdf
+  - SLE60SPD CE EU Declaration: https://www.advancedenergy.com/getmedia/63e1d906-4a83-4771-a223-a6846714df61/CE%20SLE60SPD%202022-01-21.pdf
+  - SLE60SPD UKCA Declaration: https://www.advancedenergy.com/getmedia/03db7072-3079-4b18-bec1-aaec09734a90/UKCA%20SLE60SPD%202022-01-21.pdf
+  - SLE65 CB Certificate 60601: https://www.advancedenergy.com/getmedia/a91a6626-3191-454b-a62b-8a5deb37331d/SLE65_CB_CERTIFICATE_60601.pdf
+  - Transforming Patient Care: Unleashing the Potential of SLE60 Series USB-PD Adapters: https://www.advancedenergy.com/getmedia/112ea87d-3892-48bd-9282-46d762e4be3c/ENG-Medically-rated-USB-PD-Adpaters-Case-Study-295-01.pdf
+  - SLE60 Value Proposition: https://www.advancedenergy.com/getmedia/c0a1dd44-f559-4567-8eed-004d41bdd27f/SLE60_Application_Note.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/690b915d-508e-4389-a758-42b6474df4c8/ME60-01%2011.25.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5970b07-66c4-407c-9422-d364c2d96b97/ENG-SLE65-235-01%2012.09.22.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/cea15db2-200d-49c0-a944-27bbf2cf6a70/ENG-SLE60-235-01%2010.21.23.pdf
+  - https://www.advancedenergy.com/getmedia/112ea87d-3892-48bd-9282-46d762e4be3c/ENG-Medically-rated-USB-PD-Adpaters-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/cea15db2-200d-49c0-a944-27bbf2cf6a70/ENG-SLE60-235-01-12-25-24.pdf
+  - https://www.advancedenergy.com/getmedia/60d2aecb-562a-411f-9194-5d17b06d95cf/SL%20Power%20REACH%20219%20SLE60SPD%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/d204d0de-ceb1-4701-938b-cdbc0e5faafe/RoHS%20statement%20SL%20Power%20SLE60SPD%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/5ba3ac80-a7a9-4af0-af00-fb56b0093505/SLE60SPD_CB_CERTIFICATE_60601.pdf
+  - https://www.advancedenergy.com/getmedia/db5355d6-017a-46ed-8b15-482dbbb311bb/SLE60SPD_CB_CERTIFICATE_62368.pdf
+  - https://www.advancedenergy.com/getmedia/63e1d906-4a83-4771-a223-a6846714df61/CE%20SLE60SPD%202022-01-21.pdf
+  - https://www.advancedenergy.com/getmedia/03db7072-3079-4b18-bec1-aaec09734a90/UKCA%20SLE60SPD%202022-01-21.pdf
+  - https://www.advancedenergy.com/getmedia/a91a6626-3191-454b-a62b-8a5deb37331d/SLE65_CB_CERTIFICATE_60601.pdf
+  - https://www.advancedenergy.com/getmedia/112ea87d-3892-48bd-9282-46d762e4be3c/ENG-Medically-rated-USB-PD-Adpaters-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/c0a1dd44-f559-4567-8eed-004d41bdd27f/SLE60_Application_Note.pdf
+  - https://www.advancedenergy.com/getmedia/690b915d-508e-4389-a758-42b6474df4c8/ME60-01%2011.25.22.pdf
+  - https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+  - https://www.advancedenergy.com/getmedia/c5970b07-66c4-407c-9422-d364c2d96b97/ENG-SLE65-235-01%2012.09.22.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/a057a4be-b9d4-4066-8684-cf1605676b40/SLE60SPD96N01-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/874a77f8-7be9-4a9f-b349-58861154aab4/SLE60SPD96N01-P1.png
+  - Image: https://www.advancedenergy.com/getattachment/330e91db-83ec-4753-a466-98a19143d7e7/SLE60SPD96N01-P3.png
+  - Image: https://www.advancedenergy.com/getattachment/869bdb35-b519-48d5-9390-14b40c47b658/SLE60SPD96N01-P4.png
+  - Image: https://www.advancedenergy.com/getattachment/a057a4be-b9d4-4066-8684-cf1605676b40/SLE60SPD96N01-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/874a77f8-7be9-4a9f-b349-58861154aab4/SLE60SPD96N01-P1.png
+  - Image: https://www.advancedenergy.com/getattachment/330e91db-83ec-4753-a466-98a19143d7e7/SLE60SPD96N01-P3.png
+  - Image: https://www.advancedenergy.com/getattachment/869bdb35-b519-48d5-9390-14b40c47b658/SLE60SPD96N01-P4.png
+  - Image: https://www.advancedenergy.com/getattachment/a057a4be-b9d4-4066-8684-cf1605676b40/SLE60SPD96N01-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/874a77f8-7be9-4a9f-b349-58861154aab4/SLE60SPD96N01-P1.png
+  - Image: https://www.advancedenergy.com/getattachment/330e91db-83ec-4753-a466-98a19143d7e7/SLE60SPD96N01-P3.png
+  - Image: https://www.advancedenergy.com/getattachment/869bdb35-b519-48d5-9390-14b40c47b658/SLE60SPD96N01-P4.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/a4fec7a2-c6c9-4caf-af07-7a68df34996b/KT1001-img-1618327050.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/getattachment/027d67ce-24f7-4580-9092-57aaea12aca7/ME60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dee8010b-801b-45bb-a1dc-9f055c8768a8/TE60.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8e5bd332-387f-4ed2-bdd8-8a293a7af732/SLE65-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a057a4be-b9d4-4066-8684-cf1605676b40/SLE60SPD96N01-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/945a2ca4-4431-4be3-a078-2df8bc44a2a5/SLE33SPD00B01-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/8e5bd332-387f-4ed2-bdd8-8a293a7af732/SLE65-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7d1e8f51-979e-42f9-9070-70ef64b0fdbf/SLE48-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedME60 Series60 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/690b915d-508e-4389-a758-42b6474df4c8/ME60-01%2011.25.22.pdf
+  - FeaturedTE60 Series60 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te60-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7e39f663-7840-42b8-8f47-8bb7ceb1df91/TE60-01%2011.07.22.pdf
+  - FeaturedSLE65 Series65 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle65/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5970b07-66c4-407c-9422-d364c2d96b97/ENG-SLE65-235-01%2012.09.22.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+SLE SeriesMedical & ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions (Class I > 48 W)5 V to 48 V Outputs, Up to 90 W
+  ↓
+FeaturedSLE60 Series60 W Single Output Medical / Industrial Grade

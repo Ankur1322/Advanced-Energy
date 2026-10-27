@@ -1,0 +1,179 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLCM300 Series310 to 350 W Front-End AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+[Level 3] Category Name: LCM Enclosed Power Supplies89 to 93% typical full-load efficiency9.6 to 57.6 V output, up to 96.0 V for LCM3000Optional 5 V @ 2 A standby, standard on LCM3000LCM4000HV provides 150 to 300 v at 4000W for LED lighting
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLCM300 Series310 to 350 W Front-End AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm300/
+
+Complete Product Description:
+The LCM300 series of enclosed front-end AC-DC power supplies comprises five single output models, providing standard voltages of 12 V, 15 V, 23 V, 36 V or 48 V, plus a 5 V standby output.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/630dfa20-95a5-4b43-95e8-378d09a15495/lcm300_ds_1489521149.pdf
+  - Horticultural Lighting Brochure_Chinese Version Catalog: https://www.advancedenergy.com/getmedia/adcfdb56-e711-41ea-a024-1d13cced90b7/horticulture_lighting_brochure1497936883.pdf
+  - Horticultural Lighting Brochure_English Version Catalog: https://www.advancedenergy.com/getmedia/003c8611-0b96-42d9-a147-44e6fa0d17b0/ENG-OT-Horticultural-Lighting-265-03.pdf
+  - Horticultural Lighting Brochure_Japanese Version Catalog: https://www.advancedenergy.com/getmedia/fbb00f13-5b03-4eac-9c86-83398d23e966/horticulture_lighting_brochure1497937020.pdf
+  - LCM Series Brochure (French) Catalog: https://www.advancedenergy.com/getmedia/3803f5ec-aad0-4519-9bf8-7a3c7d501be2/lcm-brochure-2017-fr_lr_1515514354_346.pdf
+  - LCM Series Brochure (German) Catalog: https://www.advancedenergy.com/getmedia/f1e59dbf-f10a-4970-b42b-675d5962d601/lcm-brochure-2017-ge_lr_1515514356_878.pdf
+  - LCM Series Brochure_Chinese Version Catalog: https://www.advancedenergy.com/getmedia/aaefc49d-d60b-44a4-a938-e3dc17b804b0/lcm_brochure_c_150901_1441096586.pdf
+  - LCM Series Brochure_English Catalog: https://www.advancedenergy.com/getmedia/b9856534-f89f-4cdc-8b10-b6e2ff13fc5a/lcm_brochure_englishweb_1438214781.pdf
+  - LCM Series Brochure_Japanese Version Catalog: https://www.advancedenergy.com/getmedia/77198fb6-a999-40d9-ae04-d5a95990621d/lcm_brochure_j_150829_1441096652.pdf
+  - LCM Series Brochure_Korean Version Catalog: https://www.advancedenergy.com/getmedia/80aa90ba-fcfc-48d4-9629-120527bbce0d/f2014674_-_lcm_brochure_kr_ve1491946133.pdf
+  - LCM300 Data Sheet: https://www.advancedenergy.com/getmedia/630dfa20-95a5-4b43-95e8-378d09a15495/ENG-LCM300-235-02-11-06-24.pdf
+  - LCM300 Data Sheet_Chinese Version Datasheet: https://www.advancedenergy.com/getmedia/d89c21f5-6a2c-493a-b63f-89fb51b65808/zho-lcm300-235-01_5_07_1620373952.pdf
+  - LCM300 Data Sheet_Korea Version Datasheet: https://www.advancedenergy.com/getmedia/f79e0b2a-9253-47a0-b25f-55ac41a04883/f2014747_-_lcm300_kr_version_01491946263.pdf
+  - LCM300L-T RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/60fefe21-07eb-46d9-a85c-3962af0bcc00/rohs2_coc_lcm300l-t_lcm300l-t-1394798777_rohs_.pdf
+  - LCM300Q-T RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/9a5ebf1c-d13d-48eb-94a0-54fc21aee5a7/rohs2_coc_lcm300q-t_032513_1394798866_rohs_.pdf
+  - LCM300Q-T-4 RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/76439939-ef42-4814-8c41-88b3c519978d/rohs2_coc_lcm300q-t-4_062816_1467862984_rohs_.pdf
+  - LCM300U-T RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/6ac7b2e6-3e1f-4746-b879-73bf6f76e777/rohs2_coc_lcm300u-t_040816_1467863023_rohs_.pdf
+  - LCM300U-T-4 RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/13bb0659-03a8-4b1f-af36-6cd36281a23f/rohs2_coc_lcm300u-t-4_040816_1467863244_rohs_.pdf
+  - LCM300 BIS Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/0cec56ab-a765-4a66-a13f-6db98ff84520/lcm300q_bis_1611567543_cert.pdf
+  - LCM300 CB Certificate (ITE): https://www.advancedenergy.com/getmedia/82f3ad7b-f932-40e8-8c46-568d080bee18/lcm300_series_ite_cb_cert_1413213228_cert.pdf
+  - LCM300 CB Certificate (Med) Safety Certificate: https://www.advancedenergy.com/getmedia/8f91dc75-4c49-415b-9172-2d247b8d8971/lcm300_series_sg-md-00554_1464593406_cert.pdf
+  - LCM300 CCC Approval Cavite: https://www.advancedenergy.com/getmedia/7c7677fb-c89f-4bbb-8b5b-45ef3e003543/2013010907615591.pdf
+  - LCM300 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/45d980bd-bd9c-4b22-947c-ccf4155d9661/lcm300l_ce_1413210580_cert.pdf
+  - LCM300 IEC 62368 CB Test Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/008e4d7f-5791-4de1-86fc-b1aa90183007/cb_cert_dk-70362-ul_1534296947_cert.pdf
+  - LCM300 TUV Certificate (62368-1) Safety Certificate: https://www.advancedenergy.com/getmedia/a58c2863-656f-4fa2-9faa-21cd7331d977/lcm300_series_tuv_cert_en_6231534297054_cert.pdf
+  - LCM300 UKCA Safety Certificate: https://www.advancedenergy.com/getmedia/aec93c9b-ce6b-429a-999c-a691fa940b0f/2861_rev_1_ukca_1638973250_cert.pdf
+  - LCM300 UL Certificate (62368-1) Safety Certificate: https://www.advancedenergy.com/getmedia/5f482155-ec6d-485f-a973-493cf1af0eaa/lcm300_series_ul_cert_62368-1_1534296525_cert.pdf
+  - LCM300 UL Certificate (ITE): https://www.advancedenergy.com/getmedia/d611a483-4583-41e0-9c50-9e25770be888/lcm300_series_ul_60950-1_1413210168_cert.pdf
+  - LCM300 UL Certificate (MED) ver 3.0: https://www.advancedenergy.com/getmedia/d1830154-43a6-436f-b0d3-8838ef69666a/lcm300_series_es_60601-1_3_0_1464420900_cert.pdf
+  - LCM300 UL Certificate (MED) ver 3.1: https://www.advancedenergy.com/getmedia/c39ac0e0-7a64-4f30-8205-17110a8c6bbe/lcm300_series_ul_es60601-1_1413210114_cert.pdf
+  - LCM300 UL Test Report and Procedure Safety Certificate: https://www.advancedenergy.com/getmedia/ce08b0a9-89e3-4335-a664-076d61540b39/lcm300_ul_60950-1_ul_62368-1_1615187768_cert.pdf
+  - LCM300 Technical Reference Note: https://www.advancedenergy.com/getmedia/ae554162-a283-418a-8074-71163a897299/TRN-AC-DC-LCM300-Series-Released-3-4-(2025-03-15).pdf
+  - Power Solutions for Next-Generation Mass Spectrometry Equipment: https://www.advancedenergy.com/getmedia/b0945c8e-1b8a-4de6-9e46-a0a4aa001904/ENG-Mass-Spectrometry-Equipment-295-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/523c3a48-079d-400a-8a66-c51cc14c314b/lcm600_ds_1487345909.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/84114faf-ca3d-43dd-a7ba-48e8a52f19c1/lcm1500_ds_1482168138.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/630dfa20-95a5-4b43-95e8-378d09a15495/lcm300_ds_1489521149.pdf
+  - https://www.advancedenergy.com/getmedia/adcfdb56-e711-41ea-a024-1d13cced90b7/horticulture_lighting_brochure1497936883.pdf
+  - https://www.advancedenergy.com/getmedia/003c8611-0b96-42d9-a147-44e6fa0d17b0/ENG-OT-Horticultural-Lighting-265-03.pdf
+  - https://www.advancedenergy.com/getmedia/fbb00f13-5b03-4eac-9c86-83398d23e966/horticulture_lighting_brochure1497937020.pdf
+  - https://www.advancedenergy.com/getmedia/3803f5ec-aad0-4519-9bf8-7a3c7d501be2/lcm-brochure-2017-fr_lr_1515514354_346.pdf
+  - https://www.advancedenergy.com/getmedia/f1e59dbf-f10a-4970-b42b-675d5962d601/lcm-brochure-2017-ge_lr_1515514356_878.pdf
+  - https://www.advancedenergy.com/getmedia/aaefc49d-d60b-44a4-a938-e3dc17b804b0/lcm_brochure_c_150901_1441096586.pdf
+  - https://www.advancedenergy.com/getmedia/b9856534-f89f-4cdc-8b10-b6e2ff13fc5a/lcm_brochure_englishweb_1438214781.pdf
+  - https://www.advancedenergy.com/getmedia/77198fb6-a999-40d9-ae04-d5a95990621d/lcm_brochure_j_150829_1441096652.pdf
+  - https://www.advancedenergy.com/getmedia/80aa90ba-fcfc-48d4-9629-120527bbce0d/f2014674_-_lcm_brochure_kr_ve1491946133.pdf
+  - https://www.advancedenergy.com/getmedia/630dfa20-95a5-4b43-95e8-378d09a15495/ENG-LCM300-235-02-11-06-24.pdf
+  - https://www.advancedenergy.com/getmedia/d89c21f5-6a2c-493a-b63f-89fb51b65808/zho-lcm300-235-01_5_07_1620373952.pdf
+  - https://www.advancedenergy.com/getmedia/f79e0b2a-9253-47a0-b25f-55ac41a04883/f2014747_-_lcm300_kr_version_01491946263.pdf
+  - https://www.advancedenergy.com/getmedia/60fefe21-07eb-46d9-a85c-3962af0bcc00/rohs2_coc_lcm300l-t_lcm300l-t-1394798777_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/9a5ebf1c-d13d-48eb-94a0-54fc21aee5a7/rohs2_coc_lcm300q-t_032513_1394798866_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/76439939-ef42-4814-8c41-88b3c519978d/rohs2_coc_lcm300q-t-4_062816_1467862984_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/6ac7b2e6-3e1f-4746-b879-73bf6f76e777/rohs2_coc_lcm300u-t_040816_1467863023_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/13bb0659-03a8-4b1f-af36-6cd36281a23f/rohs2_coc_lcm300u-t-4_040816_1467863244_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/0cec56ab-a765-4a66-a13f-6db98ff84520/lcm300q_bis_1611567543_cert.pdf
+  - https://www.advancedenergy.com/getmedia/82f3ad7b-f932-40e8-8c46-568d080bee18/lcm300_series_ite_cb_cert_1413213228_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8f91dc75-4c49-415b-9172-2d247b8d8971/lcm300_series_sg-md-00554_1464593406_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7c7677fb-c89f-4bbb-8b5b-45ef3e003543/2013010907615591.pdf
+  - https://www.advancedenergy.com/getmedia/45d980bd-bd9c-4b22-947c-ccf4155d9661/lcm300l_ce_1413210580_cert.pdf
+  - https://www.advancedenergy.com/getmedia/008e4d7f-5791-4de1-86fc-b1aa90183007/cb_cert_dk-70362-ul_1534296947_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a58c2863-656f-4fa2-9faa-21cd7331d977/lcm300_series_tuv_cert_en_6231534297054_cert.pdf
+  - https://www.advancedenergy.com/getmedia/aec93c9b-ce6b-429a-999c-a691fa940b0f/2861_rev_1_ukca_1638973250_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5f482155-ec6d-485f-a973-493cf1af0eaa/lcm300_series_ul_cert_62368-1_1534296525_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d611a483-4583-41e0-9c50-9e25770be888/lcm300_series_ul_60950-1_1413210168_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d1830154-43a6-436f-b0d3-8838ef69666a/lcm300_series_es_60601-1_3_0_1464420900_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c39ac0e0-7a64-4f30-8205-17110a8c6bbe/lcm300_series_ul_es60601-1_1413210114_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ce08b0a9-89e3-4335-a664-076d61540b39/lcm300_ul_60950-1_ul_62368-1_1615187768_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ae554162-a283-418a-8074-71163a897299/TRN-AC-DC-LCM300-Series-Released-3-4-(2025-03-15).pdf
+  - https://www.advancedenergy.com/getmedia/b0945c8e-1b8a-4de6-9e46-a0a4aa001904/ENG-Mass-Spectrometry-Equipment-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/523c3a48-079d-400a-8a66-c51cc14c314b/lcm600_ds_1487345909.pdf
+  - https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - https://www.advancedenergy.com/getmedia/84114faf-ca3d-43dd-a7ba-48e8a52f19c1/lcm1500_ds_1482168138.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c1778c23-fd89-42bd-a320-7cd638963c2d/8d5c8fb901.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4b0028b9-a732-4dc1-b2e1-703c4ecea58d/06e8e8a897.jpg
+  - Image: https://www.advancedenergy.com/getattachment/09fcbf2d-3776-41db-ad85-621273ca3baa/1409008196-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31417597-51e5-4ed3-9c75-a8b5ccbec527/86d058c58a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e2e221e8-61a7-4830-91e4-ea9918e486b3/9d2f2181a4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/61166e13-e2f7-409d-93a3-0d2fbfc5148c/a96b7cbcc9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c62a763d-2684-444a-844a-e40144263c88/acef178332.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d69fe9d-cc1a-46be-b612-4cfe5b01787c/bc9d286268.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1778c23-fd89-42bd-a320-7cd638963c2d/8d5c8fb901.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4b0028b9-a732-4dc1-b2e1-703c4ecea58d/06e8e8a897.jpg
+  - Image: https://www.advancedenergy.com/getattachment/09fcbf2d-3776-41db-ad85-621273ca3baa/1409008196-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31417597-51e5-4ed3-9c75-a8b5ccbec527/86d058c58a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e2e221e8-61a7-4830-91e4-ea9918e486b3/9d2f2181a4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/61166e13-e2f7-409d-93a3-0d2fbfc5148c/a96b7cbcc9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c62a763d-2684-444a-844a-e40144263c88/acef178332.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d69fe9d-cc1a-46be-b612-4cfe5b01787c/bc9d286268.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1778c23-fd89-42bd-a320-7cd638963c2d/8d5c8fb901.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4b0028b9-a732-4dc1-b2e1-703c4ecea58d/06e8e8a897.jpg
+  - Image: https://www.advancedenergy.com/getattachment/09fcbf2d-3776-41db-ad85-621273ca3baa/1409008196-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/31417597-51e5-4ed3-9c75-a8b5ccbec527/86d058c58a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e2e221e8-61a7-4830-91e4-ea9918e486b3/9d2f2181a4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/61166e13-e2f7-409d-93a3-0d2fbfc5148c/a96b7cbcc9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c62a763d-2684-444a-844a-e40144263c88/acef178332.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d69fe9d-cc1a-46be-b612-4cfe5b01787c/bc9d286268.jpg
+  - Image: https://www.advancedenergy.com/getattachment/361a097b-20f9-4dee-9d79-b601f930855a/a68ee17f64.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d440c91-d12a-4a43-ae44-32d67a9ac539/00f3e32db8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bfdabae0-f5c7-4518-9d8a-c2beb8753525/fc57425354.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1778c23-fd89-42bd-a320-7cd638963c2d/8d5c8fb901.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d440c91-d12a-4a43-ae44-32d67a9ac539/00f3e32db8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bfdabae0-f5c7-4518-9d8a-c2beb8753525/fc57425354.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f3a779ab-ab88-4782-b24d-5a9d058cd3a8/5f05bb0fde.jpg
+  - Image: https://www.advancedenergy.com/getattachment/361a097b-20f9-4dee-9d79-b601f930855a/a68ee17f64.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c65a07c0-4b7e-49be-a40e-fcb23fde0d77/MRI-3-2023.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c65a07c0-4b7e-49be-a40e-fcb23fde0d77/MRI-3-2023.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d90acb58-0dbc-40a7-ab04-550540207bfc/PET-Scanner-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d90acb58-0dbc-40a7-ab04-550540207bfc/PET-Scanner-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLCM600 Series600 W Front-End AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm600/
+  - Datasheet: https://www.advancedenergy.com/getmedia/523c3a48-079d-400a-8a66-c51cc14c314b/lcm600_ds_1487345909.pdf
+  - FeaturedLCM1000 Series1000 W AC-DC Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm1000/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - NewLCM1500 Series1500 W Bulk Front-End: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm1500/
+  - Datasheet: https://www.advancedenergy.com/getmedia/84114faf-ca3d-43dd-a7ba-48e8a52f19c1/lcm1500_ds_1482168138.pdf
+  - MRIAdvanced Energy is a trusted provider of power supply solutions for medical imaging MRI equipment, which utilizes magnetic fields and radio waves to produce detailed 3D images of the body's anatomy and physiological processes.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/mri/
+  - Explore MRI: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/mri/
+  - PET / SPECTPositron Emission Tomography (PET) scanners use radioactive tracers to generate three-dimensional images of the body's metabolic activity, requiring precise and consistent power delivery for accurate and reliable imaging.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/pet/
+  - Explore PET: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/pet/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+LCM Enclosed Power Supplies89 to 93% typical full-load efficiency9.6 to 57.6 V output, up to 96.0 V for LCM3000Optional 5 V @ 2 A standby, standard on LCM3000LCM4000HV provides 150 to 300 v at 4000W for LED lighting
+  ↓
+FeaturedLCM300 Series310 to 350 W Front-End AC-DC Power Supplies

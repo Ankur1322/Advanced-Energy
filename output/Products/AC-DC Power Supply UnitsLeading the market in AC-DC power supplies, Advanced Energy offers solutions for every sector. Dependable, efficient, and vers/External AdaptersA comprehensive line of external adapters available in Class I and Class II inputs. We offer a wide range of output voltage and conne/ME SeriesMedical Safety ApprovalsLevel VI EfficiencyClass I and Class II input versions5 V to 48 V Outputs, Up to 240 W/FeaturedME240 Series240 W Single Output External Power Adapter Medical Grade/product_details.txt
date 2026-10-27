@@ -1,0 +1,108 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedME240 Series240 W Single Output External Power Adapter Medical Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: ME SeriesMedical Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/
+Category Description: The ME series is part of Advanced Energy's SL Power medical external power supplies and offers 8 products under this family ranging from 10 W to 240 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedME240 Series240 W Single Output External Power Adapter Medical Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me240-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power ME240 series of desktop AC-DC external power adapter comprises four output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/dfbda5bd-4cf2-4a77-81dd-ec987a1a7e0c/ME240-01%2012.29.22.pdf
+  - ME240 Datasheet: https://www.advancedenergy.com/getmedia/dfbda5bd-4cf2-4a77-81dd-ec987a1a7e0c/ENG-ME240-01-01-16-26.pdf
+  - ME240 Medical Demko Certificate Ed 3.1: https://www.advancedenergy.com/getmedia/4833cc78-871e-4886-a9d0-05bbeeb853a8/ME240%20Med%20Demko%20Cert%20Ed%203.1.pdf
+  - ME240 REACH Statement: https://www.advancedenergy.com/getmedia/6a85fa7d-b9a2-483c-866f-5e138141b8e6/ME240_REACH.pdf
+  - ME240 RoHS Certificate: https://www.advancedenergy.com/getmedia/c247fe45-bb4e-4b1f-ba4a-2cddbe752d39/ME240_RoHS.pdf
+  - ME240 Medical CB Certificate Class I Ed 3.1: https://www.advancedenergy.com/getmedia/2f4f561c-cc9e-410f-989e-9fdc55c36b88/ME240%20MED%20CB%20Cert%20Class%20I%20Ed%203.1.pdf
+  - ME240 Medical CB Certificate Class II Ed 3.1: https://www.advancedenergy.com/getmedia/47247c4b-407e-45e5-91c8-fd9f11c70df9/ME240%20MED%20CB%20Cert%20Class%20II%20Ed%203.1.pdf
+  - ME240 Medical UL Certificate Ed 3.1 Amendment 1: https://www.advancedenergy.com/getmedia/3118963b-89a1-4b75-9529-9d28a6150b00/ME240%20MED%20UL%20Cert%20Ed%203.1%20Amendment%201.pdf
+  - ME240 Value Proposition: https://www.advancedenergy.com/getmedia/1991e058-600c-49fd-a4dc-b2ca0572b04d/ME240-CMPRSD.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c3515c18-c4cc-4785-ab76-2d19f82506e9/TE240-Datasheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/dfbda5bd-4cf2-4a77-81dd-ec987a1a7e0c/ME240-01%2012.29.22.pdf
+  - https://www.advancedenergy.com/getmedia/dfbda5bd-4cf2-4a77-81dd-ec987a1a7e0c/ENG-ME240-01-01-16-26.pdf
+  - https://www.advancedenergy.com/getmedia/4833cc78-871e-4886-a9d0-05bbeeb853a8/ME240%20Med%20Demko%20Cert%20Ed%203.1.pdf
+  - https://www.advancedenergy.com/getmedia/6a85fa7d-b9a2-483c-866f-5e138141b8e6/ME240_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/c247fe45-bb4e-4b1f-ba4a-2cddbe752d39/ME240_RoHS.pdf
+  - https://www.advancedenergy.com/getmedia/2f4f561c-cc9e-410f-989e-9fdc55c36b88/ME240%20MED%20CB%20Cert%20Class%20I%20Ed%203.1.pdf
+  - https://www.advancedenergy.com/getmedia/47247c4b-407e-45e5-91c8-fd9f11c70df9/ME240%20MED%20CB%20Cert%20Class%20II%20Ed%203.1.pdf
+  - https://www.advancedenergy.com/getmedia/3118963b-89a1-4b75-9529-9d28a6150b00/ME240%20MED%20UL%20Cert%20Ed%203.1%20Amendment%201.pdf
+  - https://www.advancedenergy.com/getmedia/1991e058-600c-49fd-a4dc-b2ca0572b04d/ME240-CMPRSD.pdf
+  - https://www.advancedenergy.com/getmedia/c3515c18-c4cc-4785-ab76-2d19f82506e9/TE240-Datasheet.pdf
+  - https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/39ad2cee-1c73-4920-b221-bd2de415f671/ME240.jpg
+  - Image: https://www.advancedenergy.com/getattachment/39ad2cee-1c73-4920-b221-bd2de415f671/ME240.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5eefccb0-ce52-4079-a67b-1c4d4411beb5/TE240.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8770aaef-1db6-4d5b-9812-da4af76ee818/ME150-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/68024c77-d78e-416d-a602-bde2aa7547e3/GE150-img-1601070209.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedTE240 Series240 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te240-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c3515c18-c4cc-4785-ab76-2d19f82506e9/TE240-Datasheet.pdf
+  - FeaturedME150 Series150 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - FeaturedGE150 Series150 W Single Output External Medical & ITE Power Adapter: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/ge150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - DialysisAdvanced Energy’s reliable and efficient power solutions for Patient Monitoring Dialysis equipment are designed to meet the specific power requirements of dialysis machines, which require precise and consistent power delivery for accurate monitoring of patient vital signs.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+  - Explore Dialysis: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+ME SeriesMedical Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+  ↓
+FeaturedME240 Series240 W Single Output External Power Adapter Medical Grade

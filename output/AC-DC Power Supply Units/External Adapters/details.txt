@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: External Adapters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: External Adapters
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+
+Complete Product Description:
+A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/92720b5c-d028-4d8e-8995-553d8b489af5/GE65-img-1695279552-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/dd893710-20dd-4b74-8ac4-d93770eba788/ME40.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7cc5ac46-b315-4186-a9f4-ba446b2b62c4/SLEV3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a57a2100-5666-4b4c-8031-28ce129a68b7/TE20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ec5a09d-ac3a-45e5-8f67-2d19bff943e3/MENB1020.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+External Adapters

@@ -1,0 +1,132 @@
+==============================================================================
+PRODUCT DETAILS: Thyro-PX Modular SolutionSelect and integrate individual SCR system components for high-current water-cooled applications.Build and easily install a custom solution for a range of AC and DC applications.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+[Level 2] Category Name: Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Thyro-PX Modular SolutionSelect and integrate individual SCR system components for high-current water-cooled applications.Build and easily install a custom solution for a range of AC and DC applications.
+Product URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/thyro-px-modular-solution/
+
+Complete Product Description:
+Customizable modular SCR power controllers with digital thyristor control, water‑cooled stacks, and flexible configurations for high‑current AC-DC applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/1ee179d9-cf3e-41ad-9b11-31d5de184406/ENG-Thyro-PX-Controller-03112025.pdf
+  - Thyro-PX Anybus EtherCAT Guide (390 KB): https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - Thyro-PX Anybus EtherCAT Operating Manual (390 KB): https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - Thyro-PX Anybus Ethernet/IP Operating Manual (302 KB): https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - Thyro-PX Anybus Modbus TCP Operating Manual (468 KB): https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - Thyro-PX Anybus Profibus (565 KB): https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - Thryo-PX Anybus Profinet Operating Manual (408 KB): https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - Thyro-Touch Data Sheet (443 KB): https://www.advancedenergy.com/getmedia/dae68926-ad6b-4345-aa80-960dbfc1f8b8/en-scr-thyro-touch-data-sheet.pdf
+  - Thyro-PX Software and Touch Display User Guide (2 MB): https://www.advancedenergy.com/getmedia/75378b5d-1883-4893-bdc3-814fdd400e8d/thyro-px-software-and-touch-display-user-guide.pdf
+  - Thyro PX Modular Solution Datasheet Learn more about customizing a high-current SCR system. Download the datasheet for AE's Thyro-PX Modular Solution. View Resource: https://www.advancedenergy.com/getmedia/1ee179d9-cf3e-41ad-9b11-31d5de184406/ENG-Thyro-PX-Controller-03112025.pdf
+  - Thyro PX Modular Solution Datasheet: https://www.advancedenergy.com/getmedia/1ee179d9-cf3e-41ad-9b11-31d5de184406/ENG-Thyro-PX-Controller-03112025.pdf
+  - Thyro Water Cooled Stack User Guide: https://www.advancedenergy.com/getmedia/76c716fe-a1cc-46aa-a1dc-4f5aca464205/en-scr-thyro-water_cooled_stack_1.pdf
+  - Thyro-PX Electrical-Optical-Electrical Interface Boards User Guide: https://www.advancedenergy.com/getmedia/a265f2bc-585e-4a94-9a8e-8414c6e8484a/en-scr-thyro-interface-FiOp_El_to-Op_Op_to_El_1.pdf
+  - Thyro-PX Leistungssteller Benutzerhandbuch: https://www.advancedenergy.com/getmedia/c2d7cc2b-f40d-4fe1-b8dd-dec033e90f00/57010148-G0F.pdf
+  - Thyro-PX Operating Manual: https://www.advancedenergy.com/getmedia/504ae24d-abd0-4ac1-9a9d-aa5186a73a04/EN_Thyro-PX_Manual_57010148-00JB.pdf
+  - Electrification in Glass Manufacturing with Thyro-PX SCR Power Controller: https://www.advancedenergy.com/getmedia/aa2706a6-6f03-4c48-b0e9-4f294de383b9/ENG-Glass-Manufacturing-with-SCR-295-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/1ee179d9-cf3e-41ad-9b11-31d5de184406/ENG-Thyro-PX-Controller-03112025.pdf
+  - https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - https://www.advancedenergy.com/getmedia/dae68926-ad6b-4345-aa80-960dbfc1f8b8/en-scr-thyro-touch-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/75378b5d-1883-4893-bdc3-814fdd400e8d/thyro-px-software-and-touch-display-user-guide.pdf
+  - https://www.advancedenergy.com/getmedia/1ee179d9-cf3e-41ad-9b11-31d5de184406/ENG-Thyro-PX-Controller-03112025.pdf
+  - https://www.advancedenergy.com/getmedia/1ee179d9-cf3e-41ad-9b11-31d5de184406/ENG-Thyro-PX-Controller-03112025.pdf
+  - https://www.advancedenergy.com/getmedia/76c716fe-a1cc-46aa-a1dc-4f5aca464205/en-scr-thyro-water_cooled_stack_1.pdf
+  - https://www.advancedenergy.com/getmedia/a265f2bc-585e-4a94-9a8e-8414c6e8484a/en-scr-thyro-interface-FiOp_El_to-Op_Op_to_El_1.pdf
+  - https://www.advancedenergy.com/getmedia/c2d7cc2b-f40d-4fe1-b8dd-dec033e90f00/57010148-G0F.pdf
+  - https://www.advancedenergy.com/getmedia/504ae24d-abd0-4ac1-9a9d-aa5186a73a04/EN_Thyro-PX_Manual_57010148-00JB.pdf
+  - https://www.advancedenergy.com/getmedia/aa2706a6-6f03-4c48-b0e9-4f294de383b9/ENG-Glass-Manufacturing-with-SCR-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c57dce20-c415-4188-a1b4-d707c4559153/55370000A_SG-(V6).png
+  - Image: https://www.advancedenergy.com/getattachment/6f0181ed-0c36-4760-b3b1-ba283022cc8c/Thyro_scheme-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98984394-e83f-42de-99d8-87aba5682f4f/55370130A-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/3a9521d6-b830-4e27-8d95-b468bae8ef0f/55370131A-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/8a83c851-a8bc-4714-b79c-2d9e66cbc039/55370132A-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/849c69a1-b8c3-4f26-a721-4675e83c1d69/IMG_0569_Transducer.png
+  - Image: https://www.advancedenergy.com/getattachment/c57dce20-c415-4188-a1b4-d707c4559153/55370000A_SG-(V6).png
+  - Image: https://www.advancedenergy.com/getattachment/6f0181ed-0c36-4760-b3b1-ba283022cc8c/Thyro_scheme-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98984394-e83f-42de-99d8-87aba5682f4f/55370130A-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/3a9521d6-b830-4e27-8d95-b468bae8ef0f/55370131A-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/8a83c851-a8bc-4714-b79c-2d9e66cbc039/55370132A-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/849c69a1-b8c3-4f26-a721-4675e83c1d69/IMG_0569_Transducer.png
+  - Image: https://www.advancedenergy.com/getattachment/c57dce20-c415-4188-a1b4-d707c4559153/55370000A_SG-(V6).png
+  - Image: https://www.advancedenergy.com/getattachment/6f0181ed-0c36-4760-b3b1-ba283022cc8c/Thyro_scheme-3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98984394-e83f-42de-99d8-87aba5682f4f/55370130A-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/3a9521d6-b830-4e27-8d95-b468bae8ef0f/55370131A-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/8a83c851-a8bc-4714-b79c-2d9e66cbc039/55370132A-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/849c69a1-b8c3-4f26-a721-4675e83c1d69/IMG_0569_Transducer.png
+  - Thyro-PX-Components-(1034-x-256-px).png: https://www.advancedenergy.com/getattachment/f675a952-327d-4935-9696-eeb99a47569e/Thyro-PX-Components-(1034-x-256-px)-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/f677fc5a-a0ca-489b-82b0-d3b00ede00dc/Thyro_scheme-3-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/ffc869bc-c300-4e8f-a07a-a6abd2085cbb/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9803e0bb-7432-4c54-a349-c84b814bed11/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7aa03da6-425d-44e7-b686-e46edb583a2e/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98465f7b-0554-4251-ae2f-2bef71e6fa10/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f1a03a29-9d05-4299-8b79-e3a9ab615ff1/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/716a1c4a-608f-45fa-b2c7-43168bb540ee/software_12.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5204838d-f0ea-4d49-ac55-7b5ecce2c08d/Thyro_Touch_Display.png
+  - Image: https://www.advancedenergy.com/getattachment/a2094b12-e241-4eea-8ddf-674979594421/2000000405_frame_SEK_2023-04-21.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0936fcc6-283b-4c25-aa2b-603223cbe3a0/Hydrogen-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0936fcc6-283b-4c25-aa2b-603223cbe3a0/Hydrogen-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Steel & MetalsAdvanced Energy's Steel & Metal solutions provide cutting-edge technology, ease-of-use, and dependability through our non-contact temperature sensors and power controllers.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Explore Steel & Metals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - HydrogenGreen hydrogen is produced by electrolyzing pure water, a process that splits water into oxygen and hydrogen. For the hydrogen to be genuinely “green” and contribute to achieving net-zero emissions, it's essential to use renewable energy for the entire process.: https://www.advancedenergy.com/en-us/applications/industrial/energy/hydrogen/
+  - Explore Hydrogen: https://www.advancedenergy.com/en-us/applications/industrial/energy/hydrogen/
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+  ↓
+Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+  ↓
+Thyro-PX Modular SolutionSelect and integrate individual SCR system components for high-current water-cooled applications.Build and easily install a custom solution for a range of AC and DC applications.

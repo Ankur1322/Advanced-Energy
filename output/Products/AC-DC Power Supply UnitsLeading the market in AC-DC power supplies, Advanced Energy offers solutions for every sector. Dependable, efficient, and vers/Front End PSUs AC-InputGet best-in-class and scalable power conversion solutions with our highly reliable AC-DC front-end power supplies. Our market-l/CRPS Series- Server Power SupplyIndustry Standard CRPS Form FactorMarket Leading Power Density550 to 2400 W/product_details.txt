@@ -1,0 +1,270 @@
+==============================================================================
+PRODUCT DETAILS: CRPS Series: Server Power SupplyIndustry Standard CRPS Form FactorMarket Leading Power Density550 to 2400 W
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+Category Description: Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: CRPS Series: Server Power SupplyIndustry Standard CRPS Form FactorMarket Leading Power Density550 to 2400 W
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/crps-series/
+
+Complete Product Description:
+Our CRPS Series offers market-leading power density in a compact design for server farms & networks, ensuring reliability, reduced downtime, & easy integration.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - CRPS Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/7ebc75c8-91ea-49e0-9ede-7b6029bf535f/crps_brochure_sc_1551452237.pdf
+  - CRPS Brochure - English Version: https://www.advancedenergy.com/getmedia/0175c847-11aa-4033-80b2-612353cd34ff/crps_brochure_1551452162.pdf
+  - CSU1300AP Datasheet: https://www.advancedenergy.com/getmedia/c6652570-b04a-46ba-91fa-f7dcfe180324/ENG-CSU1300AP-235-01-9-19.pdf
+  - CSU1600AT Datasheet: https://www.advancedenergy.com/getmedia/61466319-9b88-484e-aea5-803b951d864d/ENG-CSU1600AT-SERIES-09-05-24.pdf
+  - CSU1800-2400W Datasheet: https://www.advancedenergy.com/getmedia/a3b190bc-89f2-4f5f-a0f2-b54fca15efac/ENG-CSU-SERIES-235-01-06-03-25.pdf
+  - CSU1800AT Datasheet: https://www.advancedenergy.com/getmedia/efa8e001-c60d-4000-8d57-38068723bb53/ENG-CSU1800AT-SERIES-09-05-24.pdf
+  - CSU2000AT Datasheet: https://www.advancedenergy.com/getmedia/f3469150-8f3c-4d5b-bca2-89eb0b6b707d/ENG-CSU2000AT-SERIES-09-05-24.pdf
+  - CSU2400AT Datasheet: https://www.advancedenergy.com/getmedia/7274d4b1-e053-4aa7-b1d5-1fcb0780b3cc/ENG-CSU2400AT-3-SERIES-03-18-24.pdf
+  - CSU3200ET-3 Datasheet: https://www.advancedenergy.com/getmedia/2654a05f-c506-436f-a3de-30cb96107647/ENG-CSU3200ET-3-SERIES-235-01-4-22-25.pdf
+  - CSU550AP Series Datasheet: https://www.advancedenergy.com/getmedia/820cfa94-62b0-40dd-a2b8-c157fef36e1d/csu550ap-ds_1467307457.pdf
+  - CSU800AP Datasheet: https://www.advancedenergy.com/getmedia/a3b59e87-3984-4239-bdd9-03acb8099fff/ENG-CSU800AP-600-235-01-08-01-25.pdf
+  - CSU800AP-3 REACH Declaration: https://www.advancedenergy.com/getmedia/cc3566c4-fd71-4367-a372-1b69703ce399/csu800ap-3_reach_coc_1510072757_REACH.pdf
+  - CSU550AP ROHS DofC: https://www.advancedenergy.com/getmedia/9005f9dc-b7ac-41eb-bd56-6f5af808b917/rohs_csu550ap-3_1481214690_rohs_.pdf
+  - CSU800AP-3 ROHS Declaration: https://www.advancedenergy.com/getmedia/62d672da-b9ee-45ca-897f-180a2910fa0a/csu800ap-3_rohs2_coc_1510072704_rohs_.pdf
+  - CSU1300AP-3 BSMI Certificate: https://www.advancedenergy.com/getmedia/e73dd119-4b30-420d-b5dc-485f70b80c44/CSU1300AP-3_BSMI_24JAN22.pdf
+  - CSU1300AP-3 CB Certificate: https://www.advancedenergy.com/getmedia/9f3656df-c9e2-4ebf-b474-718de342ba47/CSU1300AP-3_TUV-CB_23DEC21.pdf
+  - CSU1300AP-3 CCC ZS: https://www.advancedenergy.com/getmedia/d5d4f66f-728b-40e4-8ca3-f275ffabc824/CSU1300AP-3_CCC-ZS_27MAY24.pdf
+  - CSU1300AP-3 CE DoC: https://www.advancedenergy.com/getmedia/2206e81a-0300-446c-9d26-fc04db417d71/CSU1300AP-3_CE_27OCT21.pdf
+  - CSU1300AP-3 EAC Certificate: https://www.advancedenergy.com/getmedia/e06e0812-9245-49f4-abf4-4120eab97ce2/CSU1300AP-3_EAC-DoC_16NOV21.pdf
+  - CSU1300AP-3 KC (EMC): https://www.advancedenergy.com/getmedia/0b88f9b0-9a2f-4ff4-a6a7-59c43999771e/CSU1300AP-3_KCC_25OCT19.pdf
+  - CSU1300AP-3 KC (Safety): https://www.advancedenergy.com/getmedia/deda536d-0115-430a-bae4-47b5663a935c/CSU1300AP-3_KTL_06JAN22.pdf
+  - CSU1300AP-3 TUV Certificate: https://www.advancedenergy.com/getmedia/565b5498-da78-4967-9e8e-1046b81d9a95/CSU1300AP-3_TUV_22DEC21.pdf
+  - CSU1300AP-3 UKCA: https://www.advancedenergy.com/getmedia/b9423890-c5cb-4a49-825d-c3980afdb8a4/CSU1300AP-3_UKCA_15MAR21.pdf
+  - CSU1300AP-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/04dc4977-2f9f-4d00-b368-de61189b0f5a/CSU1300AP-3_UL-CoC_06JAN22.pdf
+  - CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3 CB Certificate: https://www.advancedenergy.com/getmedia/8e3bd18d-2fac-4991-8d1a-4c43cf81b7cb/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_UL-CB_240625.pdf
+  - CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3 CE DoC: https://www.advancedenergy.com/getmedia/7f0170ec-2a4a-476d-b630-87d31042c6b8/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_CE_230719.pdf
+  - CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3 CQC ZS: https://www.advancedenergy.com/getmedia/de006a50-2ad5-469e-93b2-84422b34c2f3/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_CQC-ZS_230818.pdf
+  - CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3 EAC Certificate: https://www.advancedenergy.com/getmedia/176fcd4e-a5be-4863-929f-18792f2beb26/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_EAC_241003.pdf
+  - CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3 KC (EMC): https://www.advancedenergy.com/getmedia/bf4a3b5e-f590-4e86-8d84-af12256f30de/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_KCC_230822.pdf
+  - CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3 UKCA: https://www.advancedenergy.com/getmedia/aa6661a3-9770-43c7-bc1a-6454c29e2004/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_UKCA_230719.pdf
+  - CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/ae06d6b1-c283-466b-bf8a-13f8c5340fb4/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_UL-CoC_231208.pdf
+  - CSU1800 CSU2000 CSU2400 IEC 62368 CB Test Certificate: https://www.advancedenergy.com/getmedia/3648a140-7b0f-439a-9358-eb874e6d3355/E132002-A6187-CB-1_UL-CB-(DK-140349-UL)_27APR23.pdf
+  - CSU1800AP-3 EAC Certificate: https://www.advancedenergy.com/getmedia/2e8f01ae-46a8-4278-a1cb-8e1f81553036/CSU1800AP-3_EAC-DoC_7MAR23.pdf
+  - CSU1800AP-3 KC (EMC): https://www.advancedenergy.com/getmedia/395aaf72-eafb-4ff5-ab15-e7b5206fe899/CSU1800AP-3_KCC_02JAN20.pdf
+  - CSU1800AP-3 KC (Safety): https://www.advancedenergy.com/getmedia/d922b999-bbce-46bb-973a-7ad9e7c69741/CSU1800AP-3_KTL_18SEP23.pdf
+  - CSU1800AP-3-1XX, CSU2000AP-3-1XX BIS Certificate: https://www.advancedenergy.com/getmedia/ca8d2cf2-e084-423e-9f71-e88733248fb9/CSU1800AP-3-1XX,-CSU2000AP-3-1XX_BIS-R-41053511_33188_200113.pdf
+  - CSU1800AP-3, CSU2000AP-3-1XX BIS Certificate: https://www.advancedenergy.com/getmedia/ab8eef47-78be-4807-95e6-20ac65a759c9/CSU1800AP-3,-CSU2000AP-3-1XX_BIS-R-41053511_26873_190718.pdf
+  - CSU1800AP-3, CSU2000AP-3-1XX, -2XX, CSU2400AP-3 CQC ZS: https://www.advancedenergy.com/getmedia/c1a239aa-3e81-40cd-81c8-bb7bfb5a79cd/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_CQC_ZS_07AUG23.pdf
+  - CSU1800AP-3, CSU2000AP-3-1XX, -2XX, CSU2400AP-3 DEMKO Certificate: https://www.advancedenergy.com/getmedia/6344cc8c-e7f0-4f20-82c0-fc4ea825d8b1/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_DEMKO_2MAY23.pdf
+  - CSU1800AP-3, CSU2000AP-3-1XX, -2XX, CSU2400AP-3 UKCA: https://www.advancedenergy.com/getmedia/2cae031c-f9d6-465c-b4a0-1ca8b0ac14e4/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_UKCA_230322.pdf
+  - CSU1800AP-3, CSU2000AP-3-1XX, -2XX, CSU2400AP-3, -3A, -3B UL/CSA Certificate: https://www.advancedenergy.com/getmedia/3a1c7077-b6f1-4bf5-998d-ac6fa6942f08/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3,-3A,-3B_UL-COC_4MAY23.pdf
+  - CSU1800AP-3, CSU2000AP-3, CSU2400AP-3 BSMI Certificate: https://www.advancedenergy.com/getmedia/580d5e58-6c69-4679-89c0-83cdba0af587/CSU1800AP-3,-CSU200AP-3,-CSU2400AP-3_BSMI_3MAY22.pdf
+  - CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3 CE DoC: https://www.advancedenergy.com/getmedia/f36fb416-f32e-459c-aa04-50c22086c548/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_CE_230322.pdf
+  - CSU2000AP-3 EAC Certificate: https://www.advancedenergy.com/getmedia/aa659462-d6c7-4626-b42e-487736dedec8/CSU2000AP-3_EAC-DoC_240719.pdf
+  - CSU2000AP-3-1XX KC (EMC): https://www.advancedenergy.com/getmedia/78b6be98-3db2-468a-b4d2-f3beb9f06bee/CSU2000AP-3-1XX_KCC_02JAN20.pdf
+  - CSU2000AP-3-1XX KC (Safety): https://www.advancedenergy.com/getmedia/cc12ced7-2af5-4599-ab0f-53f315d3963f/CSU2000AP-3-1XX_KTL_18SEP23.pdf
+  - CSU2000AP-3-2XX KC (EMC): https://www.advancedenergy.com/getmedia/59ed622e-6691-4bc3-ae35-8f6adb3ca13e/CSU2000AP-3-2XX_KCC_03JAN20.pdf
+  - CSU2000AP-3-2XX KC (Safety): https://www.advancedenergy.com/getmedia/7a4c3127-c8ad-453e-a1df-9f48c81a1914/CSU2000AP-3-2XX_KTL_18SEP23.pdf
+  - CSU2000AP-3-2XX, CSU2400AP-3 BIS Certificate: https://www.advancedenergy.com/getmedia/4a2cc9a2-a008-4e79-85c4-f088ae314f06/CSU2000AP-3-2XX,-CSU2400AP-3_BIS-R-41053511_28808_190808.pdf
+  - CSU2000AP-3-2XX, CSU2400AP-3-1XX BIS Certificate: https://www.advancedenergy.com/getmedia/5490acf6-37a3-4879-a170-2fdea30c42eb/CSU2000AP-3-2XX,-CSU2400AP-3-1XX_BIS-R-41053511_33189_200115.pdf
+  - CSU2400AP-3 BSMI Certificate: https://www.advancedenergy.com/getmedia/a80c19f7-d3ae-47aa-9ce5-31dce1cf1331/CSU2400AP-3_BSMI_3NOV22.pdf
+  - CSU2400AP-3 EAC Certificate: https://www.advancedenergy.com/getmedia/e7ea1430-5526-47b9-82e2-0b3a3dbee97e/CSU2400AP-3_EAC-DoC_6MAR23.pdf
+  - CSU2400AP-3 KC (Safety): https://www.advancedenergy.com/getmedia/f8d840ec-00b0-41f8-b245-83da61156127/CSU2400AP-3_KTL_18SEP23.pdf
+  - CSU3200ET-3 BIS Certificate: https://www.advancedenergy.com/getmedia/f1bbbd81-87b2-4dca-bade-49ccda34e167/CSU3200ET-3_BIS-R-41053511-70425_230727.pdf
+  - CSU3200ET-3 BSMI Certificate: https://www.advancedenergy.com/getmedia/59840a4c-52b8-4541-b478-e9ecc6e7ac2b/CSU3200ET-3_BSMI_8JUN23.pdf
+  - CSU3200ET-3 CB Certificate: https://www.advancedenergy.com/getmedia/0f986302-6a0b-4ee7-9126-5782aa3d2a53/CSU3200ET-3_UL-CB_240227.pdf
+  - CSU3200ET-3 CE DoC: https://www.advancedenergy.com/getmedia/105e91b1-5ca9-4284-9bce-01d1c25b7361/CSU3200ET-3_CE_230614.pdf
+  - CSU3200ET-3 CQC ZS: https://www.advancedenergy.com/getmedia/4673593b-dc60-4421-acc6-655441f6cd7b/CSU3200ET-3_CQC-ZS_25JUN23.pdf
+  - CSU3200ET-3 DEMKO Certificate: https://www.advancedenergy.com/getmedia/11312446-68ba-4219-be55-a6592437f7d3/CSU3200ET-3_DEMKO_240227.pdf
+  - CSU3200ET-3 EAC Certificate: https://www.advancedenergy.com/getmedia/a3ceb13d-f77d-42a0-b165-a1dce111e1eb/CSU3200ET-3_EAC-DoC_16MAY23.pdf
+  - CSU3200ET-3 KC (EMC): https://www.advancedenergy.com/getmedia/8595a96d-5605-4bf4-94ed-c04a33a9c50e/CSU3200ET-3_KCC_15JUN23.pdf
+  - CSU3200ET-3 KC (Safety): https://www.advancedenergy.com/getmedia/2f96ef6f-43ff-4065-af34-55abb6e0051d/CSU3200ET-3_KTL__240320.pdf
+  - CSU3200ET-3 UKCA: https://www.advancedenergy.com/getmedia/3dde19cd-4284-4c2e-aa03-01340f4f33ac/CSU3200ET-3_UKCA_230614.pdf
+  - CSU3200ET-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/6353dbf5-dbbe-477b-a8f7-b9c2e11e0725/CSU3200ET-3_UL-COC_17DEC22.pdf
+  - CSU550AP BSMI Certificate: https://www.advancedenergy.com/getmedia/f6783613-c3e7-411f-abde-764ef7ebe88d/CSU550AP-3_483_CI331061604416_220406.pdf
+  - CSU550AP CB Certificate: https://www.advancedenergy.com/getmedia/d3279002-5150-4987-8fce-d33fa9101c21/CSU550AP-3-XXX-_CB-CERT(DK-117712-UL)_26AUG21.pdf
+  - CSU550AP TUV Certificate: https://www.advancedenergy.com/getmedia/32fd7b15-6975-474b-9930-0f52d104d87e/CSU550AP-3_1636_B-013890-3231-Rev-02_241030.pdf
+  - CSU550AP-3 CCC ZS: https://www.advancedenergy.com/getmedia/2db7d4d0-3ac1-4b21-85a0-e74654cb3f79/CSU550AP-3,-CSU550AP-3A_CCC-ZS_27MAY24.pdf
+  - CSU550AP-3 CE DoC: https://www.advancedenergy.com/getmedia/f8c6392e-ae2b-4d4c-aa96-55b60badb758/CSU550AP-3,-CSU550AP-3A_CE_27OCT21.pdf
+  - CSU550AP-3 KC (EMC): https://www.advancedenergy.com/getmedia/8438421f-e047-4ec2-aaa7-97b037c6543a/CSU550AP-3_KCC_10DEC19.pdf
+  - CSU550AP-3 KC (Safety): https://www.advancedenergy.com/getmedia/e968a519-0310-42a2-a0fb-3c83961daa5c/CSU550AP-3_KTL_12DEC19.pdf
+  - CSU550AP-3 UKCA: https://www.advancedenergy.com/getmedia/40aaa425-8646-44bd-806d-e35f9a8b5bd7/CSU550AP-3,-CSU550AP-3A_UKCA_16MAR21.pdf
+  - CSU550AP-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/34599597-576b-45a4-8764-c01b15b3a1c6/CSU550AP-3_UL_COC_24AUG20.pdf
+  - CSU800AP BSMI Certificate: https://www.advancedenergy.com/getmedia/9857b8a9-f04b-43cf-aa71-2ff94c9b8e2a/CSU800AP-3-series_BSMI-cert(CI332061604752-00)_16JAN23.pdf
+  - CSU800AP CB Test Certificate: https://www.advancedenergy.com/getmedia/2a0f7399-02dd-495f-8069-d5d4f3432535/CSU800AP-3,-CSU800AP310_TUV-CB_14FEB23.pdf
+  - CSU800AP CCC Certificate: https://www.advancedenergy.com/getmedia/27c4c1fb-364c-40c1-933b-71b6e415e07f/CSU800AP-3A-CSU800AP-X-XXX,-CSU800AP3100_-CCC-Cert_28MAY24_ZS.pdf
+  - CSU800AP KC EMC Certificate: https://www.advancedenergy.com/getmedia/3d75a0f0-0f4d-4190-b8e0-671f29c96252/CSU800AP-3-XXX_KC-KCC(EMC-Cert-19-074547-01-)_10DEC19.pdf
+  - CSU800AP KC Safety Certificate: https://www.advancedenergy.com/getmedia/eaec63d5-6384-4e51-96ce-3c3dff01a077/CSU800AP-3-XXX_KC-KTL(ZU10133-19009-)_12DEC19.pdf
+  - CSU800AP TUV Certificate: https://www.advancedenergy.com/getmedia/79d2ec7e-7312-4c14-bcbc-0ad5a177d192/CSU800AP-X-XXX-,CSU800AP3100-_2121_B-013890-3158-Rev-03_240902.pdf
+  - CSU800AP-3 CE DoC: https://www.advancedenergy.com/getmedia/5e920d4d-3f70-46cc-890a-86ea464e1897/CSU800AP-X,-CSU800AP-3A,-RG-PA800I-F_CE_27OCT21.pdf
+  - CSU800AP-3 UKCA: https://www.advancedenergy.com/getmedia/5668b12d-cd5d-4bfd-9445-0e0be1360b4c/CSU800AP-X,-CSU800AP-3A,-RG-PA800I-F_UKCA_210316.pdf
+  - CSU800AP-3 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/6c5e12e6-d8d0-466c-b37e-cbaf430c6e7e/CSU800AP-X,-CSU800AP-3A_UL-CoC_05SEP20.pdf
+  - CSU1300AP-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/21c9abcc-acea-435e-afc9-9473269a7a01/CSU1300AP-3-SIM.pdf
+  - CSU1800AP-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/69973fd4-9fe6-44c6-a7fb-264e3afb312d/CSU1800AP-3-SIM.pdf
+  - CSU2000AP-3-1XX Safety Instruction Manual: https://www.advancedenergy.com/getmedia/c5e47ef1-7394-4b6c-9b24-6571c33da54b/CSU2000AP-3-1XX-SIM.pdf
+  - CSU2000AP-3-2XX Safety Instruction Manual: https://www.advancedenergy.com/getmedia/d730aabf-4034-4492-a8d1-453d2f99f6f5/CSU2000AP-3-2XX-SIM.pdf
+  - CSU2400AP-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/a06099cf-bd16-46b1-9791-8c716c24b7fe/CSU2400AP-3-SIM.pdf
+  - CSU2400AT-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/8b8d8802-e829-4235-ab07-f762b089b005/CSU2400AT-3-SIM.pdf
+  - CSU3200ET-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/bb80c906-2bba-47d7-8165-4a61c925d311/CSU3200ET-3-SIM.pdf
+  - CSU550AP-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/dad7faa4-706d-41ce-9977-24773c1b54f7/CSU550AP-3,-CSU550AP-3A,-RG-PA550I-F-SIM.pdf
+  - CSU800AP-3 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/90fb15d6-bf77-4e3e-9d31-3f43c4bc23b7/CSU800AP-SIM.pdf
+  - Artesyn CSU3200ET Series: https://www.advancedenergy.com/getmedia/7bd273e6-c19a-4d2f-9e8e-0b313fbd6295/TRN-AC-DC-CSU3200ET-3-100-Release-1-0(042824).pdf
+  - CSU1300AP Technical Reference Note: https://www.advancedenergy.com/getmedia/76d7880f-d93b-489d-aab7-e81d4fb9e10b/TRN-AC-DC-CSU1300AP-3-Release-1-8-(2025-09-19).pdf
+  - CSU1600AT TRN: https://www.advancedenergy.com/getmedia/df02f0bf-d6eb-43f7-9dfe-965f09bb66a1/TRN-AC-DC-CSU1600AT-Series-Release-1-0-(011025).pdf
+  - CSU1800AP Series Technical Reference: https://www.advancedenergy.com/getmedia/2d4cbfaf-5d1e-43db-b988-0a09d4f9442d/TRN-AC-DC-CSU1800AP-3-Release-2-5-(2024-03-21).pdf
+  - CSU1800AT TRN: https://www.advancedenergy.com/getmedia/ac6a8a0e-62ba-4e85-bf25-0645c594385a/TRN-AC-DC-CSU1800AT-Series-Release-1-1-(120824).pdf
+  - CSU2000AP Technical Reference Note: https://www.advancedenergy.com/getmedia/eb3a06fb-db0b-4ace-9427-66f005000faa/TRN-AC-DC-CSU2000AP-3-Release-2-3-(052926).pdf
+  - CSU2000AT TRN: https://www.advancedenergy.com/getmedia/be5c9a36-ccc2-4f62-882a-4a57a4ed69e1/TRN-AC-DC-CSU2000AP-3-Release-2-3-(052926).pdf
+  - CSU2400AP Series Technical Reference: https://www.advancedenergy.com/getmedia/d328a34a-89c9-4ded-9362-a4162a3c5436/TRN-AC-DC-CSU2400AP-3-Release-2-7-(2024-03-21).pdf
+  - CSU550AP Technical Reference Notes: https://www.advancedenergy.com/getmedia/443de2d1-9a5b-4731-a66d-5695d00a9c80/TRN-AC-DC-CSU550AP-Release-2-5-(042426).pdf
+  - CSU800AP 80plus Certificate: https://www.advancedenergy.com/getmedia/476d208e-2fcf-44d8-bfe6-d4d28ea6297a/artesyn_embedded_technologies_1492804349_techref.pdf
+  - CSU800AP Series Technical Reference Note: https://www.advancedenergy.com/getmedia/93ccbdb1-8eb1-4363-a6bd-24aebf506113/TRN-AC-DC-CSU800AP-3-600-Release-1-5-(2025-05-15).pdf
+  - Product Change Notification_CSU1800AP, CSU2000AP, CSU2400AP: https://www.advancedenergy.com/getmedia/f5dd0879-387a-42d8-b25c-9243cf9b19a0/product_change_notice_csu1800a1605112870_techref.pdf
+  - TRN CSU2400AT-3: https://www.advancedenergy.com/getmedia/3119421e-bdb4-46b9-941f-c6fab1393e23/TRN-AC-DC-CSU2400AT-3-100-Release-1-9-(010526).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/7ebc75c8-91ea-49e0-9ede-7b6029bf535f/crps_brochure_sc_1551452237.pdf
+  - https://www.advancedenergy.com/getmedia/0175c847-11aa-4033-80b2-612353cd34ff/crps_brochure_1551452162.pdf
+  - https://www.advancedenergy.com/getmedia/c6652570-b04a-46ba-91fa-f7dcfe180324/ENG-CSU1300AP-235-01-9-19.pdf
+  - https://www.advancedenergy.com/getmedia/61466319-9b88-484e-aea5-803b951d864d/ENG-CSU1600AT-SERIES-09-05-24.pdf
+  - https://www.advancedenergy.com/getmedia/a3b190bc-89f2-4f5f-a0f2-b54fca15efac/ENG-CSU-SERIES-235-01-06-03-25.pdf
+  - https://www.advancedenergy.com/getmedia/efa8e001-c60d-4000-8d57-38068723bb53/ENG-CSU1800AT-SERIES-09-05-24.pdf
+  - https://www.advancedenergy.com/getmedia/f3469150-8f3c-4d5b-bca2-89eb0b6b707d/ENG-CSU2000AT-SERIES-09-05-24.pdf
+  - https://www.advancedenergy.com/getmedia/7274d4b1-e053-4aa7-b1d5-1fcb0780b3cc/ENG-CSU2400AT-3-SERIES-03-18-24.pdf
+  - https://www.advancedenergy.com/getmedia/2654a05f-c506-436f-a3de-30cb96107647/ENG-CSU3200ET-3-SERIES-235-01-4-22-25.pdf
+  - https://www.advancedenergy.com/getmedia/820cfa94-62b0-40dd-a2b8-c157fef36e1d/csu550ap-ds_1467307457.pdf
+  - https://www.advancedenergy.com/getmedia/a3b59e87-3984-4239-bdd9-03acb8099fff/ENG-CSU800AP-600-235-01-08-01-25.pdf
+  - https://www.advancedenergy.com/getmedia/cc3566c4-fd71-4367-a372-1b69703ce399/csu800ap-3_reach_coc_1510072757_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/9005f9dc-b7ac-41eb-bd56-6f5af808b917/rohs_csu550ap-3_1481214690_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/62d672da-b9ee-45ca-897f-180a2910fa0a/csu800ap-3_rohs2_coc_1510072704_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e73dd119-4b30-420d-b5dc-485f70b80c44/CSU1300AP-3_BSMI_24JAN22.pdf
+  - https://www.advancedenergy.com/getmedia/9f3656df-c9e2-4ebf-b474-718de342ba47/CSU1300AP-3_TUV-CB_23DEC21.pdf
+  - https://www.advancedenergy.com/getmedia/d5d4f66f-728b-40e4-8ca3-f275ffabc824/CSU1300AP-3_CCC-ZS_27MAY24.pdf
+  - https://www.advancedenergy.com/getmedia/2206e81a-0300-446c-9d26-fc04db417d71/CSU1300AP-3_CE_27OCT21.pdf
+  - https://www.advancedenergy.com/getmedia/e06e0812-9245-49f4-abf4-4120eab97ce2/CSU1300AP-3_EAC-DoC_16NOV21.pdf
+  - https://www.advancedenergy.com/getmedia/0b88f9b0-9a2f-4ff4-a6a7-59c43999771e/CSU1300AP-3_KCC_25OCT19.pdf
+  - https://www.advancedenergy.com/getmedia/deda536d-0115-430a-bae4-47b5663a935c/CSU1300AP-3_KTL_06JAN22.pdf
+  - https://www.advancedenergy.com/getmedia/565b5498-da78-4967-9e8e-1046b81d9a95/CSU1300AP-3_TUV_22DEC21.pdf
+  - https://www.advancedenergy.com/getmedia/b9423890-c5cb-4a49-825d-c3980afdb8a4/CSU1300AP-3_UKCA_15MAR21.pdf
+  - https://www.advancedenergy.com/getmedia/04dc4977-2f9f-4d00-b368-de61189b0f5a/CSU1300AP-3_UL-CoC_06JAN22.pdf
+  - https://www.advancedenergy.com/getmedia/8e3bd18d-2fac-4991-8d1a-4c43cf81b7cb/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_UL-CB_240625.pdf
+  - https://www.advancedenergy.com/getmedia/7f0170ec-2a4a-476d-b630-87d31042c6b8/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_CE_230719.pdf
+  - https://www.advancedenergy.com/getmedia/de006a50-2ad5-469e-93b2-84422b34c2f3/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_CQC-ZS_230818.pdf
+  - https://www.advancedenergy.com/getmedia/176fcd4e-a5be-4863-929f-18792f2beb26/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_EAC_241003.pdf
+  - https://www.advancedenergy.com/getmedia/bf4a3b5e-f590-4e86-8d84-af12256f30de/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_KCC_230822.pdf
+  - https://www.advancedenergy.com/getmedia/aa6661a3-9770-43c7-bc1a-6454c29e2004/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_UKCA_230719.pdf
+  - https://www.advancedenergy.com/getmedia/ae06d6b1-c283-466b-bf8a-13f8c5340fb4/CSU1600AT-3,-CSU1800AT-3,-CSU2000AT-3,-CSU2400AT-3_UL-CoC_231208.pdf
+  - https://www.advancedenergy.com/getmedia/3648a140-7b0f-439a-9358-eb874e6d3355/E132002-A6187-CB-1_UL-CB-(DK-140349-UL)_27APR23.pdf
+  - https://www.advancedenergy.com/getmedia/2e8f01ae-46a8-4278-a1cb-8e1f81553036/CSU1800AP-3_EAC-DoC_7MAR23.pdf
+  - https://www.advancedenergy.com/getmedia/395aaf72-eafb-4ff5-ab15-e7b5206fe899/CSU1800AP-3_KCC_02JAN20.pdf
+  - https://www.advancedenergy.com/getmedia/d922b999-bbce-46bb-973a-7ad9e7c69741/CSU1800AP-3_KTL_18SEP23.pdf
+  - https://www.advancedenergy.com/getmedia/ca8d2cf2-e084-423e-9f71-e88733248fb9/CSU1800AP-3-1XX,-CSU2000AP-3-1XX_BIS-R-41053511_33188_200113.pdf
+  - https://www.advancedenergy.com/getmedia/ab8eef47-78be-4807-95e6-20ac65a759c9/CSU1800AP-3,-CSU2000AP-3-1XX_BIS-R-41053511_26873_190718.pdf
+  - https://www.advancedenergy.com/getmedia/c1a239aa-3e81-40cd-81c8-bb7bfb5a79cd/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_CQC_ZS_07AUG23.pdf
+  - https://www.advancedenergy.com/getmedia/6344cc8c-e7f0-4f20-82c0-fc4ea825d8b1/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_DEMKO_2MAY23.pdf
+  - https://www.advancedenergy.com/getmedia/2cae031c-f9d6-465c-b4a0-1ca8b0ac14e4/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_UKCA_230322.pdf
+  - https://www.advancedenergy.com/getmedia/3a1c7077-b6f1-4bf5-998d-ac6fa6942f08/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3,-3A,-3B_UL-COC_4MAY23.pdf
+  - https://www.advancedenergy.com/getmedia/580d5e58-6c69-4679-89c0-83cdba0af587/CSU1800AP-3,-CSU200AP-3,-CSU2400AP-3_BSMI_3MAY22.pdf
+  - https://www.advancedenergy.com/getmedia/f36fb416-f32e-459c-aa04-50c22086c548/CSU1800AP-3,-CSU2000AP-3-1XX,-2XX,-CSU2400AP-3_CE_230322.pdf
+  - https://www.advancedenergy.com/getmedia/aa659462-d6c7-4626-b42e-487736dedec8/CSU2000AP-3_EAC-DoC_240719.pdf
+  - https://www.advancedenergy.com/getmedia/78b6be98-3db2-468a-b4d2-f3beb9f06bee/CSU2000AP-3-1XX_KCC_02JAN20.pdf
+  - https://www.advancedenergy.com/getmedia/cc12ced7-2af5-4599-ab0f-53f315d3963f/CSU2000AP-3-1XX_KTL_18SEP23.pdf
+  - https://www.advancedenergy.com/getmedia/59ed622e-6691-4bc3-ae35-8f6adb3ca13e/CSU2000AP-3-2XX_KCC_03JAN20.pdf
+  - https://www.advancedenergy.com/getmedia/7a4c3127-c8ad-453e-a1df-9f48c81a1914/CSU2000AP-3-2XX_KTL_18SEP23.pdf
+  - https://www.advancedenergy.com/getmedia/4a2cc9a2-a008-4e79-85c4-f088ae314f06/CSU2000AP-3-2XX,-CSU2400AP-3_BIS-R-41053511_28808_190808.pdf
+  - https://www.advancedenergy.com/getmedia/5490acf6-37a3-4879-a170-2fdea30c42eb/CSU2000AP-3-2XX,-CSU2400AP-3-1XX_BIS-R-41053511_33189_200115.pdf
+  - https://www.advancedenergy.com/getmedia/a80c19f7-d3ae-47aa-9ce5-31dce1cf1331/CSU2400AP-3_BSMI_3NOV22.pdf
+  - https://www.advancedenergy.com/getmedia/e7ea1430-5526-47b9-82e2-0b3a3dbee97e/CSU2400AP-3_EAC-DoC_6MAR23.pdf
+  - https://www.advancedenergy.com/getmedia/f8d840ec-00b0-41f8-b245-83da61156127/CSU2400AP-3_KTL_18SEP23.pdf
+  - https://www.advancedenergy.com/getmedia/f1bbbd81-87b2-4dca-bade-49ccda34e167/CSU3200ET-3_BIS-R-41053511-70425_230727.pdf
+  - https://www.advancedenergy.com/getmedia/59840a4c-52b8-4541-b478-e9ecc6e7ac2b/CSU3200ET-3_BSMI_8JUN23.pdf
+  - https://www.advancedenergy.com/getmedia/0f986302-6a0b-4ee7-9126-5782aa3d2a53/CSU3200ET-3_UL-CB_240227.pdf
+  - https://www.advancedenergy.com/getmedia/105e91b1-5ca9-4284-9bce-01d1c25b7361/CSU3200ET-3_CE_230614.pdf
+  - https://www.advancedenergy.com/getmedia/4673593b-dc60-4421-acc6-655441f6cd7b/CSU3200ET-3_CQC-ZS_25JUN23.pdf
+  - https://www.advancedenergy.com/getmedia/11312446-68ba-4219-be55-a6592437f7d3/CSU3200ET-3_DEMKO_240227.pdf
+  - https://www.advancedenergy.com/getmedia/a3ceb13d-f77d-42a0-b165-a1dce111e1eb/CSU3200ET-3_EAC-DoC_16MAY23.pdf
+  - https://www.advancedenergy.com/getmedia/8595a96d-5605-4bf4-94ed-c04a33a9c50e/CSU3200ET-3_KCC_15JUN23.pdf
+  - https://www.advancedenergy.com/getmedia/2f96ef6f-43ff-4065-af34-55abb6e0051d/CSU3200ET-3_KTL__240320.pdf
+  - https://www.advancedenergy.com/getmedia/3dde19cd-4284-4c2e-aa03-01340f4f33ac/CSU3200ET-3_UKCA_230614.pdf
+  - https://www.advancedenergy.com/getmedia/6353dbf5-dbbe-477b-a8f7-b9c2e11e0725/CSU3200ET-3_UL-COC_17DEC22.pdf
+  - https://www.advancedenergy.com/getmedia/f6783613-c3e7-411f-abde-764ef7ebe88d/CSU550AP-3_483_CI331061604416_220406.pdf
+  - https://www.advancedenergy.com/getmedia/d3279002-5150-4987-8fce-d33fa9101c21/CSU550AP-3-XXX-_CB-CERT(DK-117712-UL)_26AUG21.pdf
+  - https://www.advancedenergy.com/getmedia/32fd7b15-6975-474b-9930-0f52d104d87e/CSU550AP-3_1636_B-013890-3231-Rev-02_241030.pdf
+  - https://www.advancedenergy.com/getmedia/2db7d4d0-3ac1-4b21-85a0-e74654cb3f79/CSU550AP-3,-CSU550AP-3A_CCC-ZS_27MAY24.pdf
+  - https://www.advancedenergy.com/getmedia/f8c6392e-ae2b-4d4c-aa96-55b60badb758/CSU550AP-3,-CSU550AP-3A_CE_27OCT21.pdf
+  - https://www.advancedenergy.com/getmedia/8438421f-e047-4ec2-aaa7-97b037c6543a/CSU550AP-3_KCC_10DEC19.pdf
+  - https://www.advancedenergy.com/getmedia/e968a519-0310-42a2-a0fb-3c83961daa5c/CSU550AP-3_KTL_12DEC19.pdf
+  - https://www.advancedenergy.com/getmedia/40aaa425-8646-44bd-806d-e35f9a8b5bd7/CSU550AP-3,-CSU550AP-3A_UKCA_16MAR21.pdf
+  - https://www.advancedenergy.com/getmedia/34599597-576b-45a4-8764-c01b15b3a1c6/CSU550AP-3_UL_COC_24AUG20.pdf
+  - https://www.advancedenergy.com/getmedia/9857b8a9-f04b-43cf-aa71-2ff94c9b8e2a/CSU800AP-3-series_BSMI-cert(CI332061604752-00)_16JAN23.pdf
+  - https://www.advancedenergy.com/getmedia/2a0f7399-02dd-495f-8069-d5d4f3432535/CSU800AP-3,-CSU800AP310_TUV-CB_14FEB23.pdf
+  - https://www.advancedenergy.com/getmedia/27c4c1fb-364c-40c1-933b-71b6e415e07f/CSU800AP-3A-CSU800AP-X-XXX,-CSU800AP3100_-CCC-Cert_28MAY24_ZS.pdf
+  - https://www.advancedenergy.com/getmedia/3d75a0f0-0f4d-4190-b8e0-671f29c96252/CSU800AP-3-XXX_KC-KCC(EMC-Cert-19-074547-01-)_10DEC19.pdf
+  - https://www.advancedenergy.com/getmedia/eaec63d5-6384-4e51-96ce-3c3dff01a077/CSU800AP-3-XXX_KC-KTL(ZU10133-19009-)_12DEC19.pdf
+  - https://www.advancedenergy.com/getmedia/79d2ec7e-7312-4c14-bcbc-0ad5a177d192/CSU800AP-X-XXX-,CSU800AP3100-_2121_B-013890-3158-Rev-03_240902.pdf
+  - https://www.advancedenergy.com/getmedia/5e920d4d-3f70-46cc-890a-86ea464e1897/CSU800AP-X,-CSU800AP-3A,-RG-PA800I-F_CE_27OCT21.pdf
+  - https://www.advancedenergy.com/getmedia/5668b12d-cd5d-4bfd-9445-0e0be1360b4c/CSU800AP-X,-CSU800AP-3A,-RG-PA800I-F_UKCA_210316.pdf
+  - https://www.advancedenergy.com/getmedia/6c5e12e6-d8d0-466c-b37e-cbaf430c6e7e/CSU800AP-X,-CSU800AP-3A_UL-CoC_05SEP20.pdf
+  - https://www.advancedenergy.com/getmedia/21c9abcc-acea-435e-afc9-9473269a7a01/CSU1300AP-3-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/69973fd4-9fe6-44c6-a7fb-264e3afb312d/CSU1800AP-3-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/c5e47ef1-7394-4b6c-9b24-6571c33da54b/CSU2000AP-3-1XX-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/d730aabf-4034-4492-a8d1-453d2f99f6f5/CSU2000AP-3-2XX-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/a06099cf-bd16-46b1-9791-8c716c24b7fe/CSU2400AP-3-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/8b8d8802-e829-4235-ab07-f762b089b005/CSU2400AT-3-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/bb80c906-2bba-47d7-8165-4a61c925d311/CSU3200ET-3-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/dad7faa4-706d-41ce-9977-24773c1b54f7/CSU550AP-3,-CSU550AP-3A,-RG-PA550I-F-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/90fb15d6-bf77-4e3e-9d31-3f43c4bc23b7/CSU800AP-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/7bd273e6-c19a-4d2f-9e8e-0b313fbd6295/TRN-AC-DC-CSU3200ET-3-100-Release-1-0(042824).pdf
+  - https://www.advancedenergy.com/getmedia/76d7880f-d93b-489d-aab7-e81d4fb9e10b/TRN-AC-DC-CSU1300AP-3-Release-1-8-(2025-09-19).pdf
+  - https://www.advancedenergy.com/getmedia/df02f0bf-d6eb-43f7-9dfe-965f09bb66a1/TRN-AC-DC-CSU1600AT-Series-Release-1-0-(011025).pdf
+  - https://www.advancedenergy.com/getmedia/2d4cbfaf-5d1e-43db-b988-0a09d4f9442d/TRN-AC-DC-CSU1800AP-3-Release-2-5-(2024-03-21).pdf
+  - https://www.advancedenergy.com/getmedia/ac6a8a0e-62ba-4e85-bf25-0645c594385a/TRN-AC-DC-CSU1800AT-Series-Release-1-1-(120824).pdf
+  - https://www.advancedenergy.com/getmedia/eb3a06fb-db0b-4ace-9427-66f005000faa/TRN-AC-DC-CSU2000AP-3-Release-2-3-(052926).pdf
+  - https://www.advancedenergy.com/getmedia/be5c9a36-ccc2-4f62-882a-4a57a4ed69e1/TRN-AC-DC-CSU2000AP-3-Release-2-3-(052926).pdf
+  - https://www.advancedenergy.com/getmedia/d328a34a-89c9-4ded-9362-a4162a3c5436/TRN-AC-DC-CSU2400AP-3-Release-2-7-(2024-03-21).pdf
+  - https://www.advancedenergy.com/getmedia/443de2d1-9a5b-4731-a66d-5695d00a9c80/TRN-AC-DC-CSU550AP-Release-2-5-(042426).pdf
+  - https://www.advancedenergy.com/getmedia/476d208e-2fcf-44d8-bfe6-d4d28ea6297a/artesyn_embedded_technologies_1492804349_techref.pdf
+  - https://www.advancedenergy.com/getmedia/93ccbdb1-8eb1-4363-a6bd-24aebf506113/TRN-AC-DC-CSU800AP-3-600-Release-1-5-(2025-05-15).pdf
+  - https://www.advancedenergy.com/getmedia/f5dd0879-387a-42d8-b25c-9243cf9b19a0/product_change_notice_csu1800a1605112870_techref.pdf
+  - https://www.advancedenergy.com/getmedia/3119421e-bdb4-46b9-941f-c6fab1393e23/TRN-AC-DC-CSU2400AT-3-100-Release-1-9-(010526).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/caf1e055-490e-46ac-a9d2-fc6a7fbb361d/CRPS.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+  ↓
+CRPS Series: Server Power SupplyIndustry Standard CRPS Form FactorMarket Leading Power Density550 to 2400 W

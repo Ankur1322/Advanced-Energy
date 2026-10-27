@@ -1,0 +1,67 @@
+==============================================================================
+PRODUCT DETAILS: 400 WHigh-performance power deliveryHigh-speed and high-voltage capabilitiesAdvanced design and superior performance
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage AmplifiersAdvanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/
+Category Description: Advanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+
+[Level 2] Category Name: Systems Greater than 5 kVAdvanced Energy is the source for a variety of high-performance amplifiers for various applications requiring voltages greater than 5 kV, and up to 50 kV.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-greater-than-5-kv/
+Category Description: Increase voltage with our high voltage amplifiers. Our high-performance amplifiers requiring voltages greater than 5 kV, and up to 50 kV
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: 400 WHigh-performance power deliveryHigh-speed and high-voltage capabilitiesAdvanced design and superior performance
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-greater-than-5-kv/400w/
+
+Complete Product Description:
+Advanced Energy delivers many high-performance, high voltage products with a 400 W output.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Trek 10/40A-HS Data Sheet: https://www.advancedenergy.com/getmedia/8da1b5db-9a63-480a-8171-e8d501d6f312/en-hv-amplifier-trek-10-40ahs-data-sheet.pdf
+  - Trek 20/20C-HS Data Sheet: https://www.advancedenergy.com/getmedia/ceec0228-b20a-469a-bc85-4f08116a62e9/ENG-HV-Amplifier-Trek-20-20C-HS-235-01-06-27-25.pdf
+  - Amplifier Selection Calculator | Step-By-Step Procedure: https://www.advancedenergy.com/getmedia/edf34b8d-964e-4bd8-9445-5efb5898cb44/AN-Driving-Capacitive-Loads-with-Trek-Amplifiers-(103123).pdf
+  - Choosing the Correct Capacitive Load: https://www.advancedenergy.com/getmedia/16ca34b7-be4c-4d41-9900-2f316bc8650e/en-hv-amplifier-choosing-amplifier.pdf
+  - Trek Product Catalog Explore our Trek selections of power supply designed to meet you every needs. View Resource: https://www.advancedenergy.com/getmedia/7af25ca1-d538-4e90-8158-26ca4231e27c/ENG-Trek-Product-Catalog-08-28-2025.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/8da1b5db-9a63-480a-8171-e8d501d6f312/en-hv-amplifier-trek-10-40ahs-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/ceec0228-b20a-469a-bc85-4f08116a62e9/ENG-HV-Amplifier-Trek-20-20C-HS-235-01-06-27-25.pdf
+  - https://www.advancedenergy.com/getmedia/edf34b8d-964e-4bd8-9445-5efb5898cb44/AN-Driving-Capacitive-Loads-with-Trek-Amplifiers-(103123).pdf
+  - https://www.advancedenergy.com/getmedia/16ca34b7-be4c-4d41-9900-2f316bc8650e/en-hv-amplifier-choosing-amplifier.pdf
+  - https://www.advancedenergy.com/getmedia/7af25ca1-d538-4e90-8158-26ca4231e27c/ENG-Trek-Product-Catalog-08-28-2025.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/2255c97a-2427-4902-b909-be5bdfd55010/400W-20-20c-hs2_web.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/pdf.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage AmplifiersAdvanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+  ↓
+Systems Greater than 5 kVAdvanced Energy is the source for a variety of high-performance amplifiers for various applications requiring voltages greater than 5 kV, and up to 50 kV.
+  ↓
+400 WHigh-performance power deliveryHigh-speed and high-voltage capabilitiesAdvanced design and superior performance

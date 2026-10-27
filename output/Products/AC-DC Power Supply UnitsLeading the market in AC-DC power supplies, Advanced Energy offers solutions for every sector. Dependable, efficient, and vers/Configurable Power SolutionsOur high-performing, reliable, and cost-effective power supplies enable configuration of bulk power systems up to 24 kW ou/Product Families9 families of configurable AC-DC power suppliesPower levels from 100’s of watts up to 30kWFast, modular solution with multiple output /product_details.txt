@@ -1,0 +1,94 @@
+==============================================================================
+PRODUCT DETAILS: Product Families9 families of configurable AC-DC power suppliesPower levels from 100’s of watts up to 30kWFast, modular solution with multiple output voltages
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Product Families9 families of configurable AC-DC power suppliesPower levels from 100’s of watts up to 30kWFast, modular solution with multiple output voltages
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/product-families/
+
+Complete Product Description:
+Advanced Energy's CoolX modular product family offers a versatile series of configurable AC-DC solutions, ranging from 600 W to 3000 W. This family encompasses both natural convection cooled and variable speed fan cooled systems. Capable of delivering up to 24 outputs with both series and parallel options, these units offer PMBus Comms and Control along with Analog Control for enhanced versatility. Further features include a 24 W (5 or 12V) Bias/Aux supply, low leakage, and 4 KV surge protection. With a high-altitude rating of up to 5000 meters, these robust solutions are designed to perform under a wide range of environmental conditions.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/fa31830c-84ee-4095-8242-f4b4841d14bc/coolx1000-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/53e8ea19-ae8a-4a2e-848c-ab530c51a745/iHP-24KW-left-duo_1000.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6a9ac175-6fda-4973-8c3c-4d4f0ac00d06/iMP.png
+  - Image: https://www.advancedenergy.com/getattachment/4e25b097-bb53-4899-812f-7518c8923fa0/iVs.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0ccddeda-256d-45e1-8cbd-47f19e3afda1/NP08W1A_ang2_300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d83ab51c-fb0a-4986-8424-6d1a9d7c07fb/ultimod-4-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aa4f820a-28f1-4a8e-8bbb-e6f2a814f58a/uMP-Gen2_HR.png
+  - Image: https://www.advancedenergy.com/getattachment/9ac0b966-b86d-4b9c-a4b9-e3a23c05c762/xf-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dbd5139f-8ead-4a35-a949-a4887236709b/xgen-4-slot-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dc87b8c4-3d7a-443a-986a-413c1e9a5086/CoolX1000_lid_-FR_W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a022bc5e-f034-463d-a3bc-128a11cbe24e/COOLX600-A2-TP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fb441422-d0d9-4416-a33d-2c3db1b99310/COOLX1800-FR-WS.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5a341441-eb2e-416e-8507-d36c9fc96a5b/cx3000_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/02d7f91a-6ab3-480a-84c3-93b9cfa3bed0/iHP-liquid-cooled.png
+  - Image: https://www.advancedenergy.com/getattachment/0a20ca36-3c9f-4c97-8227-518e58193890/iHP12-15-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7246ee43-c760-4fc6-8f11-0399bb851da1/iHP24-30-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/65d4b34c-3eb4-469c-8bec-30734d0dda23/iHP24S-30S.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bedaf8af-35ec-4eb7-808c-0369c78304bb/iMP1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/4b97c778-1e41-4637-be36-071e19859e4d/iMP4-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7549eaeb-ea2e-41ae-b3f4-576b27d2dc05/iMP8-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fc484ebe-405b-417c-9e8f-c4c646310649/iVS1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/83f73668-c2cc-47c6-aeeb-2d3802bc2b19/iVS3-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/bc649286-bd49-45df-909c-d56c69269cae/iVS6-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7bbe11b0-2928-4d28-9f8a-edbef29d642f/iVS8-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/bb4fea4c-f070-46ac-a135-6e48ecccde55/iVS8H-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b5377f98-03b1-4954-9e3b-b2c1a6ee1adc/NeoPower-4.png
+  - Image: https://www.advancedenergy.com/getattachment/6fc1d8a6-bb05-4387-b516-e205e88ad316/neopower_left.png
+  - Image: https://www.advancedenergy.com/getattachment/16377c04-d10f-4625-8e4f-3178764052cd/ultimod-4-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3442492-96b3-48ba-aaf0-d9b77475978a/ultimod-6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6f2afe37-626e-4615-a1df-6ef0616544e2/uMP04-9-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/5a3712cb-5780-4160-be54-045ea4fc7238/uMP04-9-(1)-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/04f44337-3633-4dd9-9f7c-9ba4cccda446/uMP10-16-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/04f44337-3633-4dd9-9f7c-9ba4cccda446/uMP10-16-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/b621df76-4de8-4e87-a5e2-f5946e19b8ac/XF-A2-WS.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ec86f6d1-e8e4-47a0-ad1c-c375e7a0f9dc/XF-A3-TP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a1f2a2c1-ba25-4bca-8596-c7ed7ff912b9/XF-FR-WS.jpg
+  - Image: https://www.advancedenergy.com/getattachment/880f3495-d7ff-4790-87f2-7c28559d53fc/XF-SL-TP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/68b4ca0e-0341-4169-8e85-269c8f4a8cd6/ultimod-4-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/3c5fdb4e-cfae-42ca-9c02-ec2f487431d7/ultimod-6.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+Product Families9 families of configurable AC-DC power suppliesPower levels from 100’s of watts up to 30kWFast, modular solution with multiple output voltages

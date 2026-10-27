@@ -1,0 +1,92 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedRTD Temperature ProbesRTD Sensor Temperature Probes
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Temperature ProbesExtensive line of temperature sensing probes, with many options for sensor type, handle, tip style and length, and moreCustom probe options also available
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-probes/
+Category Description: AE TEGAM offers a wide selection of thermocouple, RTD, and Thermistor temperature probes, with many probe tips styles and lengths.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedRTD Temperature ProbesRTD Sensor Temperature Probes
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-probes/rtd-temperature-probes/
+
+Complete Product Description:
+Our RTD temperature probes are designed to measure air temperatures in air streams, incubators, etc. The exposed sensing element in this RTD probe is protected by a perforated stainless steel tip.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a576080f-03f3-444f-8d02-b8e2e6cfc1ad/868-909-01Rev-BA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a576080f-03f3-444f-8d02-b8e2e6cfc1ad/868-909-01Rev-BA.pdf
+  - TEGAM Thermometry Brochure: https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - Probe Selection Guide: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/632990df-368c-44ea-a0a5-152fa4e34e9a/865-866-909-01_RevBA.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/a576080f-03f3-444f-8d02-b8e2e6cfc1ad/868-909-01Rev-BA.pdf
+  - https://www.advancedenergy.com/getmedia/a576080f-03f3-444f-8d02-b8e2e6cfc1ad/868-909-01Rev-BA.pdf
+  - https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/632990df-368c-44ea-a0a5-152fa4e34e9a/865-866-909-01_RevBA.pdf
+
+Images:
+  - RTD probes from TEGAM for temperature measurement.: https://www.advancedenergy.com/getattachment/50b1e7b3-68ab-46c0-811c-34f3d8ea1467/Air-Gas-Probe.jpg
+  - TA4: https://www.advancedenergy.com/getattachment/350ba75b-6280-4e9c-a607-ef5b4559e12c/TA4.jpg
+  - RTD probes from TEGAM for temperature measurement.: https://www.advancedenergy.com/getattachment/50b1e7b3-68ab-46c0-811c-34f3d8ea1467/Air-Gas-Probe.jpg
+  - TA4: https://www.advancedenergy.com/getattachment/350ba75b-6280-4e9c-a607-ef5b4559e12c/TA4.jpg
+  - RTD probes from TEGAM for temperature measurement.: https://www.advancedenergy.com/getattachment/50b1e7b3-68ab-46c0-811c-34f3d8ea1467/Air-Gas-Probe.jpg
+  - TA4: https://www.advancedenergy.com/getattachment/350ba75b-6280-4e9c-a607-ef5b4559e12c/TA4.jpg
+  - °F Platinum RTD Thermometers designed and manufactured by TEGAM.: https://www.advancedenergy.com/getattachment/e323e284-509a-4e51-852a-442834e9c7f7/868-Platinum-RTD-Thermometer-zoom.jpg
+  - °C Digital Platinum RTD Thermometers are designed and manufactured by TEGAM.: https://www.advancedenergy.com/getattachment/3cad3619-5549-4f59-b781-16f297f92660/869-Platinum-RTD-Thermometer-zoom.jpg
+  - °F Thermistor Thermometers are designed and engineered by TEGAM for multiple temp monitoring needs.: https://www.advancedenergy.com/getattachment/4f15b3e2-3d14-485d-92b9-e320878405bb/865-Thermistor-Thermometer-zoom-495x300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedDigital ThermometersSuperior Accuracy and 2000-hour battery life: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/digital-thermometers/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - FeaturedThermistor Thermometers-70 °F to 300 °F: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/rtd-thermistor-thermometers/thermistor-thermometers/
+  - Datasheet: https://www.advancedenergy.com/getmedia/632990df-368c-44ea-a0a5-152fa4e34e9a/865-866-909-01_RevBA.pdf
+  - Food SafetyOur digital temperature instruments are utilized directly on production lines for immediate verification and are essential in calibrating crucial process control equipment, addressing the pervasive issue of foodborne illnesses, and contributing to a safer, healthier food supply chain.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - Explore Food Safety: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Temperature ProbesExtensive line of temperature sensing probes, with many options for sensor type, handle, tip style and length, and moreCustom probe options also available
+  ↓
+FeaturedRTD Temperature ProbesRTD Sensor Temperature Probes

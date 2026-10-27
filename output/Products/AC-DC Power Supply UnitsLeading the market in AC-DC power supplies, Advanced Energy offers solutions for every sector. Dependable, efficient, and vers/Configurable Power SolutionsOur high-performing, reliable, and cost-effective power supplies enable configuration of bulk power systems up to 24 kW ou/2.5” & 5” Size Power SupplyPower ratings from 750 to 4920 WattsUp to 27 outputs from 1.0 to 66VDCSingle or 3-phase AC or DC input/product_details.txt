@@ -1,0 +1,257 @@
+==============================================================================
+PRODUCT DETAILS: 2.5” & 5” Size Power SupplyPower ratings from 750 to 4920 WattsUp to 27 outputs from 1.0 to 66VDCSingle or 3-phase AC or DC input
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: 2.5” & 5” Size Power SupplyPower ratings from 750 to 4920 WattsUp to 27 outputs from 1.0 to 66VDCSingle or 3-phase AC or DC input
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/2-5”-5”-size/
+
+Complete Product Description:
+Configurable Products for 2.5” & 5” Applications
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - RS-485 MODBUS Cable: https://www.advancedenergy.com/getmedia/803c3e8f-1c86-407f-860c-4b1f70abbd6e/ENG-Artesyn-RS485-MODBUS-Programming-Cable-06-26-24.pdf
+  - iMP Series Data Sheet: https://www.advancedenergy.com/getmedia/038b5b83-7d8d-4541-8862-8124088cf08d/ENG-IMP-235-01-04-12-24.pdf
+  - iVS Series Data Sheet: https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - NeoPower Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-06-23-26-without-R.pdf
+  - 73-180-9030I (iVS1-3Q0-3W0-00-A) RoHS2 CoC: https://www.advancedenergy.com/getmedia/88858c56-fc0d-45ac-a383-cfc095eee928/rohs2_coc_73-180-9030i_ivs1-31467868378_rohs_.pdf
+  - 73-180-9181I(iVS1-3Q0-2Q0-3W0-00-A) RoHS2 CoC: https://www.advancedenergy.com/getmedia/c84d55a0-a02b-4458-9780-f8f5c7eb30ea/rohs2_coc_73-180-9181iivs1-3q1467868423_rohs_.pdf
+  - 73-190-7054I (iVS3-5U3-5U3-3Q2-1F2-1L2-1L2-0B-A-754) RoHS2 CoC: https://www.advancedenergy.com/getmedia/f97bc7aa-5113-4786-abba-faf5563a5573/rohs2_coc_73-190-7054i_ivs3-51467868327_rohs_.pdf
+  - 73-540-0001i RoHS2 CoC: https://www.advancedenergy.com/getmedia/482eac33-8d66-4360-86de-730f7667da1d/rohs2_coc_73-540-0001i_090312_1415098431_rohs_.pdf
+  - 73-540-6080I RoHS2 CoC: https://www.advancedenergy.com/getmedia/f6bc15f3-89ac-462d-a8e0-93a468a503e5/rohs2_coc_73-540-6080i_102512_1415098690_rohs_.pdf
+  - 73-540-6096I RoHS2 CoC: https://www.advancedenergy.com/getmedia/a5157790-2d10-4faa-ab63-3b6216da098c/rohs2_coc_73-540-6096i_imp4-11415099275_rohs_.pdf
+  - 73-540-7078I (iMP4-3W3-1W3-1Q0-30-B-778) RoHS2 CoC: https://www.advancedenergy.com/getmedia/e66c930d-bd33-4937-b86a-beba7bca6dd9/rohs2_coc_73-540-7078i_imp4-31467867055_rohs_.pdf
+  - 73-540-7078I (iMP4-3W3-1W3-1Q0-30-B-778) RoHS2 CoC: https://www.advancedenergy.com/getmedia/cb82beb7-0684-4091-ad65-58738619b5b8/rohs2_coc_73-540-7078i_imp4-31467867863_rohs_.pdf
+  - 73-580-0001I RoHS2 CoC: https://www.advancedenergy.com/getmedia/f11a9535-05b6-4855-b8c1-eb02a16766d0/rohs2_coc_73-580-0001i_052212_1414590018_rohs_.pdf
+  - 73-580-5097I (IMP8-3L0-1D0-1E0-1Z0-03-B-597) RoHS2 CoC: https://www.advancedenergy.com/getmedia/6c06d436-ce8c-4d03-95e3-dbcc13e2b19c/rohs2_coc_73-580-5097i_imp8-31467867955_rohs_.pdf
+  - 73-690-0001I RoHS2 CoC: https://www.advancedenergy.com/getmedia/c8579d76-7526-42ee-8c14-6cbabbc20a09/rohs2_coc_73-690-0001i_090312_1414590351_rohs_.pdf
+  - 73-690-5094I RoHS2 CoC: https://www.advancedenergy.com/getmedia/a1d3b306-f1ff-4c2f-8ba2-a2943bb6cc11/rohs2_coc_73-690-5094i_revc_031414590848_rohs_.pdf
+  - 73-690-6063I (IMP1-5L0-1N0-4ED0-07-B-663) RoHS2 CoC: https://www.advancedenergy.com/getmedia/b74b657b-6f9d-406f-9d48-790e5d881523/rohs2_coc_73-690-6063i_imp1-51467867556_rohs_.pdf
+  - 73-690-9077I RoHS2 CoC: https://www.advancedenergy.com/getmedia/72dc6a39-01ae-43fa-bcf1-fe9bedfa74a4/rohs2_coc_73-690-9077i_imp1-31415101707_rohs_.pdf
+  - 73-690-9272I (iMP1-5Y2-00-A) RoHS2 CoC: https://www.advancedenergy.com/getmedia/a5bba84b-b0f0-48b0-a403-cd77eac0a957/rohs2_coc_73-690-9272i_imp1-51467867597_rohs_.pdf
+  - 73-690-9282I (iMP1-3R0-1L0-1L0-4ED0-4ZZ0-01-B) RoHS2 CoC: https://www.advancedenergy.com/getmedia/666559ea-b385-4464-8152-3208fa333903/rohs2_coc_73-690-9282i_imp1-31467867196_rohs_.pdf
+  - 73-690-9286I RoHS2 CoC: https://www.advancedenergy.com/getmedia/40162422-04f9-4794-940e-90491db0cb15/rohs2_coc_73-690-9286i_imp1-51415098897_rohs_.pdf
+  - 73-904-0072IH (IVS8H-5Q0-5Q0-3X3-HUP-40-B) RoHS2 CoC: https://www.advancedenergy.com/getmedia/a1c35869-ccf3-4455-af08-2b671960d131/rohs2_coc_73-904-0072ih_ivs8h1467868469_rohs_.pdf
+  - iVS8 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/f304fc44-2178-4ce4-84e7-252b12126075/2538_rev_1_ce_ivs8_1676967136_rohs_.pdf
+  - iMP1_CB Certificate (ITE): https://www.advancedenergy.com/getmedia/64565784-b532-4d34-a66f-41eac10e3db8/dk-107406-ul_imp_1676942967_cert.pdf
+  - iMP1_CCC Certificate (Cavite): https://www.advancedenergy.com/getmedia/20424ca3-4507-4fe4-9070-f2aef0010b42/imp1_ccc_cv_1676943416_cert.pdf
+  - iMP1_CCC Certificate (Laguna): https://www.advancedenergy.com/getmedia/5e219915-1db0-4b97-ad10-14599d1ed987/imp1_ccc_lg_1676943447_cert.pdf
+  - iMP1_CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/b751aa95-3295-4438-875b-7d636c3a1d9b/2853_rev_1_ce_imp_1676942839_cert.pdf
+  - iMP1_TUV CB Certificate (MED): https://www.advancedenergy.com/getmedia/19e9aaed-76b6-401a-9265-0ddea0e02491/73-690-0001i_imp1_sg_psb-md-001620727394_cert.pdf
+  - iMP1_UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/4c2a5135-880d-4921-88cb-d69e7cc99044/2855_rev_1_ukca_imp_1676943073_cert.pdf
+  - iMP1_UL (Medical) Certificate ver 3.1: https://www.advancedenergy.com/getmedia/18e51347-2a18-4ca3-96b6-85963f77d79a/73-690-0001i_imp1_es_60601-1_31471697700_033.pdf
+  - iMP1_UL/CSA ITE Certificate: https://www.advancedenergy.com/getmedia/8354fa7e-fdcd-415b-b90d-dbf7fd02b8cc/imp1_ul_ite_certificate_1676943291_cert.pdf
+  - iMP1_UV Certificate (ITE & MED): https://www.advancedenergy.com/getmedia/43373a6e-8627-4e9d-829c-4343513fe78b/z2_013890_3286_rev_00_imp_1676942886_cert.pdf
+  - iMP4_CB Certificate (MED): https://www.advancedenergy.com/getmedia/b39d15ac-09a4-4a64-849a-9208ee44d04d/imp4_mp4_mp6_z2_013890_3329_re1620626299_cert.pdf
+  - iMP4_CCC Certificate (Cavite): https://www.advancedenergy.com/getmedia/7e592b4d-5496-4561-aae4-56e3f94fba53/imp4_cvt_1676946460_cert.pdf
+  - iMP4_CCC Certificate (Laguna): https://www.advancedenergy.com/getmedia/0c568764-4ae9-47f4-aed5-5e00f25bae8d/imp4_lag_1676946312_cert.pdf
+  - iMP4_CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/915858d7-7a86-4153-bdc3-9a6b67cd2ecc/3066_rev_1_ce_imp4_1676944824_cert.pdf
+  - iMP4_TUV Certificate (ITE & MED): https://www.advancedenergy.com/getmedia/a26c8841-5892-41b1-a49c-c366a2e8a70f/z2_013890_3329_rev_00_imp4_it1676944952_cert.pdf
+  - iMP4_UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/b91a58a5-80ca-4809-9041-5a4125be4631/2857_rev_1_ukca_imp4_1676944862_cert.pdf
+  - iMP4_UL ITE Certificate: https://www.advancedenergy.com/getmedia/69510ff2-9a0e-4ce7-8c0b-440621e2eb94/73-540-0001i_imp4_ul_60950-1_1471684990_532.pdf
+  - iMP4_UL Medical Certificate (ver 3.1): https://www.advancedenergy.com/getmedia/29c8cc73-06ee-40fe-b90a-eb14e414013e/73-540-0001i_imp4_es_60601-1_31471684986_824.pdf
+  - iMP8 CCC Certificate (Cavite): https://www.advancedenergy.com/getmedia/f3fa4943-f072-4785-b706-ae8712be39a8/imp8_ccc_cv_1676945509_cert.pdf
+  - iMP8 CCC Certificate (Laguna): https://www.advancedenergy.com/getmedia/2269d0d2-b37a-4817-88c7-2a1880ea54ee/imp8_ccc_lg_1676945568_cert.pdf
+  - iMP8_CB Certificate (ITE): https://www.advancedenergy.com/getmedia/e638873d-db67-4e4e-a716-80ef3faf9ebe/73-580-0001i_imp8_sg_psb-of-041676949679_cert.pdf
+  - iMP8_CB Certificate (MED): https://www.advancedenergy.com/getmedia/b59dca99-e90b-48f4-92cc-b7140d607ffd/73-580-0001i_imp8_sg_psb-md-001676949726_cert.pdf
+  - iMP8_CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/c79534d7-e977-4939-82de-03a516cc225c/imp8_ce_1676945905_cert.pdf
+  - iMP8_TUV Certificate: https://www.advancedenergy.com/getmedia/2026dfbe-dcb7-45a1-b3f5-20bc67a93119/z2_013890_3309_rev_00_1676946920_cert.pdf
+  - iMP8_UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/56f0496c-1517-40f9-a962-ea2bf2ab0721/2858_rev_1_ukca_imp8_1676949593_cert.pdf
+  - iMP8_UL ITE Certificate: https://www.advancedenergy.com/getmedia/f4a67ccf-da14-41cb-a335-31e6488e32a7/73-580-0001i_imp8_ul_60950-1_1471693394_052.pdf
+  - iMP8_UL Medical Certificate: https://www.advancedenergy.com/getmedia/61fa9ef7-161e-4880-b14b-8872a913ffc6/73-580-0001i_imp8_es_60601-1_31471693387_286.pdf
+  - iVS1 CB (ITE) Certificate: https://www.advancedenergy.com/getmedia/d3ba4029-1417-4976-a196-008db78071ce/73-180-0001i_ivs1_sg_psb-of-041592791126_cert.pdf
+  - iVS1 CB (Medical) Certificate: https://www.advancedenergy.com/getmedia/263a3094-cad8-4605-9a88-17ffbb806566/73-180-0001i_ivs1_sg_psb-md-001592791066_cert.pdf
+  - iVS1 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/9d720183-a3f6-403f-9f22-e5e83753fa16/ivs1_ce_1592796463_cert.pdf
+  - iVS1 TUV Certificate (ITE+Med): https://www.advancedenergy.com/getmedia/5283e47c-85df-4308-829c-3758e93cb654/73-180-0001i_ivs1_tuv_1592791287_cert.pdf
+  - iVS1 UL/CSA Certificate (60601 ver 3.1): https://www.advancedenergy.com/getmedia/d66e8d4e-b21a-4fb2-98a4-38ed5c4f61c5/73-180-0001i_ivs1_es_60601-1_31592796356_cert.pdf
+  - iVS1 UL/CSA Certificate (ITE): https://www.advancedenergy.com/getmedia/074db970-2b6d-433d-9f3a-f62bda23c625/73-180-0001i_ivs1_ul_60950-1_1592823079_cert.pdf
+  - iVS3 CB (ITE) Certificate: https://www.advancedenergy.com/getmedia/14827d9b-ebb3-4f0e-a28c-388229cb60bb/73-190-0001i_ivs3_sg_psb-of-041592791993_cert.pdf
+  - iVS3 CB (Medical) Certificate: https://www.advancedenergy.com/getmedia/203d31c5-f849-433a-bf57-54e05622184b/73-190-0001i_ivs3_sg_psb-md-001592791712_cert.pdf
+  - iVS3 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/ab04d7a2-2b0f-4d64-afc7-606cde866887/2536_rev_2_ce_ivs3_1676965928_cert.pdf
+  - iVS3 TUV Certificate (ITE+Med): https://www.advancedenergy.com/getmedia/aa376afc-4a0d-48ad-89bb-8c8c88c8dae4/73-190-0001i_ivs3_tuv_1592794335_cert.pdf
+  - iVS3 UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/1e4cbb52-c2bb-40e9-beb6-198ddf0875ed/2838_rev_1_ukca_ivs3_1676965964_cert.pdf
+  - iVS3 UL/CSA Certificate of Conformity (ITE): https://www.advancedenergy.com/getmedia/d7b721f8-0e69-4c4b-81c7-2d6e70d91356/ivs3_ul_coc_ite_1676966059_cert.pdf
+  - iVS3 UL/CSA Certificate of Conformity (MED): https://www.advancedenergy.com/getmedia/78eb6533-8925-4454-aed8-3f62bc999a05/ivs3_ul_coc_med_1676966117_cert.pdf
+  - iVS6 CB (ITE) Certificate: https://www.advancedenergy.com/getmedia/74da246f-320b-412f-8944-e50acd25b32a/dk-47540-ul_ivs6_cb_ite_1676970313_cert.pdf
+  - iVS6 CB (Medical) Certificate: https://www.advancedenergy.com/getmedia/07dafeb3-b1c5-439a-bef5-cf0371171adc/ivs6_sg_psb-md-00281_1676970370_cert.pdf
+  - iVS6 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/79dceac3-c6cd-48ab-8ac3-14c95abf2a92/2537_rev_2_ce_ivs6_1676969991_cert.pdf
+  - iVS6 TUV Certificate (ITE+Med): https://www.advancedenergy.com/getmedia/8db04109-6a32-426e-9892-d2444b77deca/ivs6_tuv_1592815085_cert.pdf
+  - iVS6 UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/7dc3daae-a9f0-4ecb-b234-ad33ba023407/2839_rev_1_ukca_ivs6_1676970123_cert.pdf
+  - iVS6 UL/CSA Certificate of Conformity (ITE): https://www.advancedenergy.com/getmedia/41e8e96e-10ce-4e05-b5ea-55fc7b274097/ivs6_s3h3_ul_coc_ite_1676970436_cert.pdf
+  - iVS6 UL/CSA Certificate of Conformity (MED): https://www.advancedenergy.com/getmedia/947f061a-a31b-4f9d-8d63-1efa33512b60/ivs6_ul_coc_med_1676970483_cert.pdf
+  - iVS8 CB (ITE) Certificate: https://www.advancedenergy.com/getmedia/0ca4690f-519c-41d8-a70b-e9d23e3d1caf/dk-48402-ul_cb_ite_1676967265_cert.pdf
+  - iVS8 CB (Medical) Certificate: https://www.advancedenergy.com/getmedia/913fee1b-f5d1-40c4-bdaa-c1fa6c182b12/ivs8_sg_psb-md-00280_cb_med_1676967686_cert.pdf
+  - iVS8 CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/c57088f3-dc04-47e0-8716-44bc595dc68d/ivs8_ce_1593394045_cert.pdf
+  - iVS8 TUV Certificate (ITE+Med): https://www.advancedenergy.com/getmedia/9823008f-623b-4a94-9e63-18ef2529955f/ivs8_tuv_1592797486_cert.pdf
+  - iVS8 UKCA Declaration of Conformity: https://www.advancedenergy.com/getmedia/1e0c47f5-4148-4794-88d3-4d345d75e69f/3067_rev_1_ukca_ivs8_1676967188_cert.pdf
+  - iVS8 UL/CSA Certificate of Conformity (ITE): https://www.advancedenergy.com/getmedia/eb011096-f67c-4823-9c27-35b459c02f82/ivs8_ul_coc_ite_1676967405_cert.pdf
+  - iVS8 UL/CSA Certificate of Conformity (MED): https://www.advancedenergy.com/getmedia/3a057a81-04c5-4529-821b-59021657d928/ivs8_ul_coc_med_1676967436_cert.pdf
+  - iVS8H CB (ITE) Certificate: https://www.advancedenergy.com/getmedia/24488ca7-778e-4c96-aff0-1af8f39070aa/sg_psb-iv-02713_cb_ite_1676968768_cert.pdf
+  - iVS8H CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/c0058d85-90a2-4823-9e7c-0850005dad12/2539_rev_2_ce_ivs8h_1676968675_cert.pdf
+  - iVS8H TUV Certificate (ITE): https://www.advancedenergy.com/getmedia/f1056362-8fce-48aa-b968-2c21661b8d78/73-670-0001ih_ivs8h_tuv_1592789276_cert.pdf
+  - iVS8H UL/CSA Certificate of Conformity (ITE): https://www.advancedenergy.com/getmedia/6f36249a-13a4-4255-a1af-b1a1d11756cf/73-670-0001ih_ivs8h_ul_coc_ite1676968285_cert.pdf
+  - iMP GUI Software Technical Reference Note: https://www.advancedenergy.com/getmedia/dcf51a6d-8b3a-4cae-aca8-955e8420c6c7/trn_ac-dc_imp_gui_software_rel1521680668_techref.pdf
+  - iMP Series I2C Protocol: https://www.advancedenergy.com/getmedia/ca789d5d-d1f7-4dac-bd6d-10f2a4e45fc6/trn_imp_i2c_protocol_2015-10-1445587660_techref.pdf
+  - iMP Series Technical Reference Note: https://www.advancedenergy.com/getmedia/37dd2a98-57ac-4ee7-8f26-2658dafb7d5e/TRN-AC-DC-iMP-Release-1-9-(2024-04-02).pdf
+  - iVS Electrical Interface Technical Reference Note: https://www.advancedenergy.com/getmedia/9331fbe8-17eb-4ab4-a794-c2ca8625049d/trn_ivs_electirical_interface_1549016853_techref.pdf
+  - iVS I2C Protocol Technical Reference Note: https://www.advancedenergy.com/getmedia/a9bc73e8-3850-4028-bae5-09cbfb3ad2ab/trn_ivs_i2c_protocol_2019-02-1549017121_techref.pdf
+  - iVS Series Technical Reference Note: https://www.advancedenergy.com/getmedia/40c269a0-4496-409b-abaf-95f4b87515a9/trn_ac-dc_ivs_release_1_0_2011558451230_techref.pdf
+  - Marketing Bulletin_MP Series: https://www.advancedenergy.com/getmedia/7a358c44-c14b-454c-852c-110134d2f5e9/marketing_bulletin_mp_200624_1592980813_techref.pdf
+  - Marketing Bulletin_MP Series End of Life: https://www.advancedenergy.com/getmedia/27b89bc7-e9f0-48b6-9076-29d7e2f6f7bc/marketing_bulletin_mp_1615559842_techref.pdf
+  - High Voltage Power Supply Enables Flow Cytometry in COVID-19 Research: https://www.advancedenergy.com/getmedia/b6128b54-8e2b-4065-afcc-15666de3efc9/ENG-Flow-Cytometry-Case-Study-295-01.pdf
+  - iVS8H AC-DC Power Supplies: Flexibility and Scalability for Land-Based Radar Systems: https://www.advancedenergy.com/getmedia/8949b390-839b-4446-ae56-5ff6ba401b65/ENG-Land-based-Radar-System-Case-Study-295-01-(1).pdf
+  - Power Solutions for Next-Generation Mass Spectrometry Equipment: https://www.advancedenergy.com/getmedia/b0945c8e-1b8a-4de6-9e46-a0a4aa001904/ENG-Mass-Spectrometry-Equipment-295-01.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - Chinese Version: https://www.advancedenergy.com/getmedia/89cb2261-7607-44bd-8df8-ab812ef74036/configurable_white_paper_c_1501438273851_WP.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - English Version: https://www.advancedenergy.com/getmedia/66ce3112-8233-48d3-80a3-c7a2f38a73d7/configurable_white_paper_r3_1_1367959072_WP.pdf
+  - Understanding the real benefits of flexibility and configurability in power systems design - Korean Version: https://www.advancedenergy.com/getmedia/d432d6d2-22bb-47ce-b41b-71c7e756f7bf/configurable_white_paper_j_1501438273908_WP.pdf
+  - NP08 Series TRN: https://www.advancedenergy.com/getmedia/beff5293-f7e7-4a86-b0ed-65ef2cbaecc4/TRN-AC-DC-NP08-Series-Release-1-1-(120225).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/803c3e8f-1c86-407f-860c-4b1f70abbd6e/ENG-Artesyn-RS485-MODBUS-Programming-Cable-06-26-24.pdf
+  - https://www.advancedenergy.com/getmedia/038b5b83-7d8d-4541-8862-8124088cf08d/ENG-IMP-235-01-04-12-24.pdf
+  - https://www.advancedenergy.com/getmedia/c5f6799e-447d-4b27-b6be-e0ecc0e51e95/ENG-IVS-235-01-04-14-24.pdf
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-06-23-26-without-R.pdf
+  - https://www.advancedenergy.com/getmedia/88858c56-fc0d-45ac-a383-cfc095eee928/rohs2_coc_73-180-9030i_ivs1-31467868378_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/c84d55a0-a02b-4458-9780-f8f5c7eb30ea/rohs2_coc_73-180-9181iivs1-3q1467868423_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f97bc7aa-5113-4786-abba-faf5563a5573/rohs2_coc_73-190-7054i_ivs3-51467868327_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/482eac33-8d66-4360-86de-730f7667da1d/rohs2_coc_73-540-0001i_090312_1415098431_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f6bc15f3-89ac-462d-a8e0-93a468a503e5/rohs2_coc_73-540-6080i_102512_1415098690_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a5157790-2d10-4faa-ab63-3b6216da098c/rohs2_coc_73-540-6096i_imp4-11415099275_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e66c930d-bd33-4937-b86a-beba7bca6dd9/rohs2_coc_73-540-7078i_imp4-31467867055_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/cb82beb7-0684-4091-ad65-58738619b5b8/rohs2_coc_73-540-7078i_imp4-31467867863_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f11a9535-05b6-4855-b8c1-eb02a16766d0/rohs2_coc_73-580-0001i_052212_1414590018_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/6c06d436-ce8c-4d03-95e3-dbcc13e2b19c/rohs2_coc_73-580-5097i_imp8-31467867955_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/c8579d76-7526-42ee-8c14-6cbabbc20a09/rohs2_coc_73-690-0001i_090312_1414590351_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a1d3b306-f1ff-4c2f-8ba2-a2943bb6cc11/rohs2_coc_73-690-5094i_revc_031414590848_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/b74b657b-6f9d-406f-9d48-790e5d881523/rohs2_coc_73-690-6063i_imp1-51467867556_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/72dc6a39-01ae-43fa-bcf1-fe9bedfa74a4/rohs2_coc_73-690-9077i_imp1-31415101707_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a5bba84b-b0f0-48b0-a403-cd77eac0a957/rohs2_coc_73-690-9272i_imp1-51467867597_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/666559ea-b385-4464-8152-3208fa333903/rohs2_coc_73-690-9282i_imp1-31467867196_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/40162422-04f9-4794-940e-90491db0cb15/rohs2_coc_73-690-9286i_imp1-51415098897_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a1c35869-ccf3-4455-af08-2b671960d131/rohs2_coc_73-904-0072ih_ivs8h1467868469_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f304fc44-2178-4ce4-84e7-252b12126075/2538_rev_1_ce_ivs8_1676967136_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/64565784-b532-4d34-a66f-41eac10e3db8/dk-107406-ul_imp_1676942967_cert.pdf
+  - https://www.advancedenergy.com/getmedia/20424ca3-4507-4fe4-9070-f2aef0010b42/imp1_ccc_cv_1676943416_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5e219915-1db0-4b97-ad10-14599d1ed987/imp1_ccc_lg_1676943447_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b751aa95-3295-4438-875b-7d636c3a1d9b/2853_rev_1_ce_imp_1676942839_cert.pdf
+  - https://www.advancedenergy.com/getmedia/19e9aaed-76b6-401a-9265-0ddea0e02491/73-690-0001i_imp1_sg_psb-md-001620727394_cert.pdf
+  - https://www.advancedenergy.com/getmedia/4c2a5135-880d-4921-88cb-d69e7cc99044/2855_rev_1_ukca_imp_1676943073_cert.pdf
+  - https://www.advancedenergy.com/getmedia/18e51347-2a18-4ca3-96b6-85963f77d79a/73-690-0001i_imp1_es_60601-1_31471697700_033.pdf
+  - https://www.advancedenergy.com/getmedia/8354fa7e-fdcd-415b-b90d-dbf7fd02b8cc/imp1_ul_ite_certificate_1676943291_cert.pdf
+  - https://www.advancedenergy.com/getmedia/43373a6e-8627-4e9d-829c-4343513fe78b/z2_013890_3286_rev_00_imp_1676942886_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b39d15ac-09a4-4a64-849a-9208ee44d04d/imp4_mp4_mp6_z2_013890_3329_re1620626299_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7e592b4d-5496-4561-aae4-56e3f94fba53/imp4_cvt_1676946460_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0c568764-4ae9-47f4-aed5-5e00f25bae8d/imp4_lag_1676946312_cert.pdf
+  - https://www.advancedenergy.com/getmedia/915858d7-7a86-4153-bdc3-9a6b67cd2ecc/3066_rev_1_ce_imp4_1676944824_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a26c8841-5892-41b1-a49c-c366a2e8a70f/z2_013890_3329_rev_00_imp4_it1676944952_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b91a58a5-80ca-4809-9041-5a4125be4631/2857_rev_1_ukca_imp4_1676944862_cert.pdf
+  - https://www.advancedenergy.com/getmedia/69510ff2-9a0e-4ce7-8c0b-440621e2eb94/73-540-0001i_imp4_ul_60950-1_1471684990_532.pdf
+  - https://www.advancedenergy.com/getmedia/29c8cc73-06ee-40fe-b90a-eb14e414013e/73-540-0001i_imp4_es_60601-1_31471684986_824.pdf
+  - https://www.advancedenergy.com/getmedia/f3fa4943-f072-4785-b706-ae8712be39a8/imp8_ccc_cv_1676945509_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2269d0d2-b37a-4817-88c7-2a1880ea54ee/imp8_ccc_lg_1676945568_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e638873d-db67-4e4e-a716-80ef3faf9ebe/73-580-0001i_imp8_sg_psb-of-041676949679_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b59dca99-e90b-48f4-92cc-b7140d607ffd/73-580-0001i_imp8_sg_psb-md-001676949726_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c79534d7-e977-4939-82de-03a516cc225c/imp8_ce_1676945905_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2026dfbe-dcb7-45a1-b3f5-20bc67a93119/z2_013890_3309_rev_00_1676946920_cert.pdf
+  - https://www.advancedenergy.com/getmedia/56f0496c-1517-40f9-a962-ea2bf2ab0721/2858_rev_1_ukca_imp8_1676949593_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f4a67ccf-da14-41cb-a335-31e6488e32a7/73-580-0001i_imp8_ul_60950-1_1471693394_052.pdf
+  - https://www.advancedenergy.com/getmedia/61fa9ef7-161e-4880-b14b-8872a913ffc6/73-580-0001i_imp8_es_60601-1_31471693387_286.pdf
+  - https://www.advancedenergy.com/getmedia/d3ba4029-1417-4976-a196-008db78071ce/73-180-0001i_ivs1_sg_psb-of-041592791126_cert.pdf
+  - https://www.advancedenergy.com/getmedia/263a3094-cad8-4605-9a88-17ffbb806566/73-180-0001i_ivs1_sg_psb-md-001592791066_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9d720183-a3f6-403f-9f22-e5e83753fa16/ivs1_ce_1592796463_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5283e47c-85df-4308-829c-3758e93cb654/73-180-0001i_ivs1_tuv_1592791287_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d66e8d4e-b21a-4fb2-98a4-38ed5c4f61c5/73-180-0001i_ivs1_es_60601-1_31592796356_cert.pdf
+  - https://www.advancedenergy.com/getmedia/074db970-2b6d-433d-9f3a-f62bda23c625/73-180-0001i_ivs1_ul_60950-1_1592823079_cert.pdf
+  - https://www.advancedenergy.com/getmedia/14827d9b-ebb3-4f0e-a28c-388229cb60bb/73-190-0001i_ivs3_sg_psb-of-041592791993_cert.pdf
+  - https://www.advancedenergy.com/getmedia/203d31c5-f849-433a-bf57-54e05622184b/73-190-0001i_ivs3_sg_psb-md-001592791712_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ab04d7a2-2b0f-4d64-afc7-606cde866887/2536_rev_2_ce_ivs3_1676965928_cert.pdf
+  - https://www.advancedenergy.com/getmedia/aa376afc-4a0d-48ad-89bb-8c8c88c8dae4/73-190-0001i_ivs3_tuv_1592794335_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1e4cbb52-c2bb-40e9-beb6-198ddf0875ed/2838_rev_1_ukca_ivs3_1676965964_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d7b721f8-0e69-4c4b-81c7-2d6e70d91356/ivs3_ul_coc_ite_1676966059_cert.pdf
+  - https://www.advancedenergy.com/getmedia/78eb6533-8925-4454-aed8-3f62bc999a05/ivs3_ul_coc_med_1676966117_cert.pdf
+  - https://www.advancedenergy.com/getmedia/74da246f-320b-412f-8944-e50acd25b32a/dk-47540-ul_ivs6_cb_ite_1676970313_cert.pdf
+  - https://www.advancedenergy.com/getmedia/07dafeb3-b1c5-439a-bef5-cf0371171adc/ivs6_sg_psb-md-00281_1676970370_cert.pdf
+  - https://www.advancedenergy.com/getmedia/79dceac3-c6cd-48ab-8ac3-14c95abf2a92/2537_rev_2_ce_ivs6_1676969991_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8db04109-6a32-426e-9892-d2444b77deca/ivs6_tuv_1592815085_cert.pdf
+  - https://www.advancedenergy.com/getmedia/7dc3daae-a9f0-4ecb-b234-ad33ba023407/2839_rev_1_ukca_ivs6_1676970123_cert.pdf
+  - https://www.advancedenergy.com/getmedia/41e8e96e-10ce-4e05-b5ea-55fc7b274097/ivs6_s3h3_ul_coc_ite_1676970436_cert.pdf
+  - https://www.advancedenergy.com/getmedia/947f061a-a31b-4f9d-8d63-1efa33512b60/ivs6_ul_coc_med_1676970483_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0ca4690f-519c-41d8-a70b-e9d23e3d1caf/dk-48402-ul_cb_ite_1676967265_cert.pdf
+  - https://www.advancedenergy.com/getmedia/913fee1b-f5d1-40c4-bdaa-c1fa6c182b12/ivs8_sg_psb-md-00280_cb_med_1676967686_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c57088f3-dc04-47e0-8716-44bc595dc68d/ivs8_ce_1593394045_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9823008f-623b-4a94-9e63-18ef2529955f/ivs8_tuv_1592797486_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1e0c47f5-4148-4794-88d3-4d345d75e69f/3067_rev_1_ukca_ivs8_1676967188_cert.pdf
+  - https://www.advancedenergy.com/getmedia/eb011096-f67c-4823-9c27-35b459c02f82/ivs8_ul_coc_ite_1676967405_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3a057a81-04c5-4529-821b-59021657d928/ivs8_ul_coc_med_1676967436_cert.pdf
+  - https://www.advancedenergy.com/getmedia/24488ca7-778e-4c96-aff0-1af8f39070aa/sg_psb-iv-02713_cb_ite_1676968768_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c0058d85-90a2-4823-9e7c-0850005dad12/2539_rev_2_ce_ivs8h_1676968675_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f1056362-8fce-48aa-b968-2c21661b8d78/73-670-0001ih_ivs8h_tuv_1592789276_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6f36249a-13a4-4255-a1af-b1a1d11756cf/73-670-0001ih_ivs8h_ul_coc_ite1676968285_cert.pdf
+  - https://www.advancedenergy.com/getmedia/dcf51a6d-8b3a-4cae-aca8-955e8420c6c7/trn_ac-dc_imp_gui_software_rel1521680668_techref.pdf
+  - https://www.advancedenergy.com/getmedia/ca789d5d-d1f7-4dac-bd6d-10f2a4e45fc6/trn_imp_i2c_protocol_2015-10-1445587660_techref.pdf
+  - https://www.advancedenergy.com/getmedia/37dd2a98-57ac-4ee7-8f26-2658dafb7d5e/TRN-AC-DC-iMP-Release-1-9-(2024-04-02).pdf
+  - https://www.advancedenergy.com/getmedia/9331fbe8-17eb-4ab4-a794-c2ca8625049d/trn_ivs_electirical_interface_1549016853_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a9bc73e8-3850-4028-bae5-09cbfb3ad2ab/trn_ivs_i2c_protocol_2019-02-1549017121_techref.pdf
+  - https://www.advancedenergy.com/getmedia/40c269a0-4496-409b-abaf-95f4b87515a9/trn_ac-dc_ivs_release_1_0_2011558451230_techref.pdf
+  - https://www.advancedenergy.com/getmedia/7a358c44-c14b-454c-852c-110134d2f5e9/marketing_bulletin_mp_200624_1592980813_techref.pdf
+  - https://www.advancedenergy.com/getmedia/27b89bc7-e9f0-48b6-9076-29d7e2f6f7bc/marketing_bulletin_mp_1615559842_techref.pdf
+  - https://www.advancedenergy.com/getmedia/b6128b54-8e2b-4065-afcc-15666de3efc9/ENG-Flow-Cytometry-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/8949b390-839b-4446-ae56-5ff6ba401b65/ENG-Land-based-Radar-System-Case-Study-295-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/b0945c8e-1b8a-4de6-9e46-a0a4aa001904/ENG-Mass-Spectrometry-Equipment-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/89cb2261-7607-44bd-8df8-ab812ef74036/configurable_white_paper_c_1501438273851_WP.pdf
+  - https://www.advancedenergy.com/getmedia/66ce3112-8233-48d3-80a3-c7a2f38a73d7/configurable_white_paper_r3_1_1367959072_WP.pdf
+  - https://www.advancedenergy.com/getmedia/d432d6d2-22bb-47ce-b41b-71c7e756f7bf/configurable_white_paper_j_1501438273908_WP.pdf
+  - https://www.advancedenergy.com/getmedia/beff5293-f7e7-4a86-b0ed-65ef2cbaecc4/TRN-AC-DC-NP08-Series-Release-1-1-(120225).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/9e38656f-b753-4231-bb8d-c61120f9f0e1/iVS1-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/4227de99-1166-47a6-8277-7c207df54d89/NP05-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/2d4bad8c-dc16-46cb-96a6-e79f8eb8491c/iVS8-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/f62d8e9d-4586-4ee7-be2d-cee527d1e768/NP08-(1).png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+2.5” & 5” Size Power SupplyPower ratings from 750 to 4920 WattsUp to 27 outputs from 1.0 to 66VDCSingle or 3-phase AC or DC input

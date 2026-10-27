@@ -1,0 +1,112 @@
+==============================================================================
+PRODUCT DETAILS: Xsolo SeriesGreater than 92% ultra-high efficiencyFan-cooled 1000 WBF rated (XB1000)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Xsolo SeriesGreater than 92% ultra-high efficiencyFan-cooled 1000 WBF rated (XB1000)
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/xsolo/
+
+Complete Product Description:
+The efficient and reliable Excelsys Xsolo single-output power supplies provide up to 1008 W in a compact 1U package.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/96824af5-9e19-4c05-9170-d7c057f152da/en-lv-xsolo-data-sheet.pdf
+  - Embedded Power Brochure: https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - Medical Power Supplies Brochure: https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - Rapid Modification & Value-Added Engineering Solutions: https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - DIN-Rail Bracket: https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - Xsolo Data Sheet: https://www.advancedenergy.com/getmedia/96824af5-9e19-4c05-9170-d7c057f152da/ENG-LV-XSOLO-235-08-02-16-24.pdf
+  - Xsolo Designers Manual: https://www.advancedenergy.com/getmedia/1d4f9b5b-fec8-48cf-9d91-fd5c28d5faf8/AC-DC-Xsolo-Designer-Manual-Draft-1-2-(071824).pdf
+  - Xsolo Instruction Manual: https://www.advancedenergy.com/getmedia/d66b9dfb-6683-4c4f-a082-4c0a813c3adb/en-lv-xsolo-instruction-manual.pdf
+  - Xsolo PMBus Manual: https://www.advancedenergy.com/getmedia/f52107ad-5437-4bd0-8294-1402f69c9d57/en-lv-xsolo-pmbus-manual.pdf
+  - Redundant Power Supplies in Mission-Critical Applications White Paper: https://www.advancedenergy.com/getmedia/5c455fef-73ef-47f9-b65f-634a5bd6bdae/en-lv-redundant-power-supplies-white-paper.pdf
+  - Testing Power Supplies for Medical Electronics Applications White Paper: https://www.advancedenergy.com/getmedia/273f0b3d-4494-4728-abae-9a40aa7d36a0/en-lv-testing-power-supplies-for-medical-applications-white-paper.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/96824af5-9e19-4c05-9170-d7c057f152da/en-lv-xsolo-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/c191cb9a-6f89-4c5d-8ad6-9d03cab9a398/ENG-LV_ULTIMOD-235-08-05-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/96824af5-9e19-4c05-9170-d7c057f152da/ENG-LV-XSOLO-235-08-02-16-24.pdf
+  - https://www.advancedenergy.com/getmedia/1d4f9b5b-fec8-48cf-9d91-fd5c28d5faf8/AC-DC-Xsolo-Designer-Manual-Draft-1-2-(071824).pdf
+  - https://www.advancedenergy.com/getmedia/d66b9dfb-6683-4c4f-a082-4c0a813c3adb/en-lv-xsolo-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/f52107ad-5437-4bd0-8294-1402f69c9d57/en-lv-xsolo-pmbus-manual.pdf
+  - https://www.advancedenergy.com/getmedia/5c455fef-73ef-47f9-b65f-634a5bd6bdae/en-lv-redundant-power-supplies-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/273f0b3d-4494-4728-abae-9a40aa7d36a0/en-lv-testing-power-supplies-for-medical-applications-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/be5acc7a-9e97-4d24-8e03-ee334304d136/xsolo-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e7005842-d1c6-4156-99fa-6dac077cafc1/xsolo-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2e9a6a6c-6537-4b96-b3ed-8711e1d3bf03/xsolo-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/39835c5d-9041-4d2a-abce-776a9e0fd253/xsolo-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cb55610f-653c-4cc7-b440-fc8c8755e6ab/xsolo-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be5acc7a-9e97-4d24-8e03-ee334304d136/xsolo-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e7005842-d1c6-4156-99fa-6dac077cafc1/xsolo-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2e9a6a6c-6537-4b96-b3ed-8711e1d3bf03/xsolo-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/39835c5d-9041-4d2a-abce-776a9e0fd253/xsolo-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cb55610f-653c-4cc7-b440-fc8c8755e6ab/xsolo-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be5acc7a-9e97-4d24-8e03-ee334304d136/xsolo-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e7005842-d1c6-4156-99fa-6dac077cafc1/xsolo-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2e9a6a6c-6537-4b96-b3ed-8711e1d3bf03/xsolo-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/39835c5d-9041-4d2a-abce-776a9e0fd253/xsolo-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cb55610f-653c-4cc7-b440-fc8c8755e6ab/xsolo-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3f7e371-7183-4fc2-91b9-c67ddb41c504/0b0eafdd07.png
+  - Image: https://www.advancedenergy.com/getattachment/8ed922ad-a0ae-4af2-bada-d0be3b3d9847/LCC-family.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be5acc7a-9e97-4d24-8e03-ee334304d136/xsolo-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb96a06f-64a9-4dd0-8ccc-302dc5627c70/cs1000-24_lid_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d28e9049-5f51-4952-8bb6-5914b4edebe1/NGB1200-img-1692817136.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d440c91-d12a-4a43-ae44-32d67a9ac539/00f3e32db8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55886147-1bb9-45c6-a3b4-3c28eb4eb461/SLB1000-V1A.png
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedCNS650-MU Series650 W Open Frame AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/cns650-mu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+  - FeaturedLCC SeriesAdvanced Energy's Embedded Power offers the LCC series of fanless, fully-enclosed AC-DC power supplies.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/lcc-family/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+Xsolo SeriesGreater than 92% ultra-high efficiencyFan-cooled 1000 WBF rated (XB1000)

@@ -1,0 +1,77 @@
+==============================================================================
+PRODUCT DETAILS: AC Ratio Decade TransformersResolution 0.1 ppmTerminal linearity 0.9 ppmBandwidth 50 Hz to 20 kHz
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: AC Ratio TransformersAC ratio transformers are essential components in electrical systems, ensuring accurate voltage and current levels.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/ac-ratio-transformers/
+Category Description: AC ratio transformers are essential components in electrical systems, ensuring accurate voltage and current levels.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AC Ratio Decade TransformersResolution 0.1 ppmTerminal linearity 0.9 ppmBandwidth 50 Hz to 20 kHz
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/ac-ratio-transformers/ac-ratio-decade-transformers/
+
+Complete Product Description:
+AC ratio decade transformers are critical tools for precise calibration and testing of electrical equipment.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/a0ae3133-2821-4714-8733-df2321131adb/DT72B-909-RevAA_1.pdf
+  - DT72B Datasheet: https://www.advancedenergy.com/getmedia/a0ae3133-2821-4714-8733-df2321131adb/DT72B-909-RevAA_1.pdf
+  - Ratio Transformer Selection Guide: https://www.advancedenergy.com/getmedia/a8fad831-f28c-44dd-9f9b-afbfe37cb74f/Ratio-Transformer-Selection-Guide.pdf
+  - DT72B Manual-Rev B: https://www.advancedenergy.com/getmedia/3cf72e21-698c-44a2-afd6-6452c79d0dae/DT72B-901-01-Manual-Rev-B.pdf
+  - AN104: TEGAM Ratio Transformer Helps Predict Earthquakes: https://www.advancedenergy.com/getmedia/193d484e-876b-45b3-b949-a5a57d672ce6/AN1042.pdf
+  - AN501: Testing Resolvers Using a Precision Ratio Transformer: https://www.advancedenergy.com/getmedia/9be6cb24-7991-4053-bacf-01a50d2e7f55/AN501.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/a0ae3133-2821-4714-8733-df2321131adb/DT72B-909-RevAA_1.pdf
+  - https://www.advancedenergy.com/getmedia/a0ae3133-2821-4714-8733-df2321131adb/DT72B-909-RevAA_1.pdf
+  - https://www.advancedenergy.com/getmedia/a8fad831-f28c-44dd-9f9b-afbfe37cb74f/Ratio-Transformer-Selection-Guide.pdf
+  - https://www.advancedenergy.com/getmedia/3cf72e21-698c-44a2-afd6-6452c79d0dae/DT72B-901-01-Manual-Rev-B.pdf
+  - https://www.advancedenergy.com/getmedia/193d484e-876b-45b3-b949-a5a57d672ce6/AN1042.pdf
+  - https://www.advancedenergy.com/getmedia/9be6cb24-7991-4053-bacf-01a50d2e7f55/AN501.pdf
+
+Images:
+  - Decade Ratio Transformer traceable to National Institute of Standards and Technology: https://www.advancedenergy.com/getattachment/c155d5f7-b7e4-4f97-b3db-e8d1003f4c74/DT72B-Decade-Ratio-Transformer-zoom.jpg
+  - Decade Ratio Transformer traceable to National Institute of Standards and Technology: https://www.advancedenergy.com/getattachment/c155d5f7-b7e4-4f97-b3db-e8d1003f4c74/DT72B-Decade-Ratio-Transformer-zoom.jpg
+  - Precision Fixed AC Ratio Standard, 1:1 Ratio, Binding Post Termination, Center-Tapped Secondary: https://www.advancedenergy.com/getattachment/9d8d2a07-0941-4d16-9ead-a61120af9cd0/ST-200A-Precision-Fixed-Ratio-Voltage-Transformer-zoom.jpg
+  - 1372A AC Ratio Transformer Calibrator: https://www.advancedenergy.com/getattachment/5b6b73f3-752d-4874-8db9-e9b9e52391ec/TEG_1372A.png
+  - Image: https://www.advancedenergy.com/getattachment/369645fa-d0ae-496a-8e06-44cf9d5f2bd1/Mil-Aero-and-Transport.png
+  - Image: https://www.advancedenergy.com/getattachment/369645fa-d0ae-496a-8e06-44cf9d5f2bd1/Mil-Aero-and-Transport.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedAC Ratio Isolation TransformersAC Ratio Standard, 1:1 Ratio, Binding Post Termination, Center-Tapped Secondary: https://www.advancedenergy.com/en-us/products/sense-and-measurement/ac-ratio-transformers/ac-ratio-isolation-transformers/
+  - FeaturedAC Ratio Transformer CalibratorsPrecisely calibrate AC ratio transformers: https://www.advancedenergy.com/en-us/products/sense-and-measurement/ac-ratio-transformers/ac-ratio-transformer-calibrators/
+  - Defense and AerospaceDefense and Aerospace applications demand reliable operation in harsh environments. Our AC-DC power supplies and DC-DC converters are critical components for powering sensitive electronics and ensuring safe and dependable operation in rugged conditions.: https://www.advancedenergy.com/en-us/applications/industrial/defense-and-aerospace/
+  - Explore Defense and Aerospace: https://www.advancedenergy.com/en-us/applications/industrial/defense-and-aerospace/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+AC Ratio TransformersAC ratio transformers are essential components in electrical systems, ensuring accurate voltage and current levels.
+  ↓
+AC Ratio Decade TransformersResolution 0.1 ppmTerminal linearity 0.9 ppmBandwidth 50 Hz to 20 kHz

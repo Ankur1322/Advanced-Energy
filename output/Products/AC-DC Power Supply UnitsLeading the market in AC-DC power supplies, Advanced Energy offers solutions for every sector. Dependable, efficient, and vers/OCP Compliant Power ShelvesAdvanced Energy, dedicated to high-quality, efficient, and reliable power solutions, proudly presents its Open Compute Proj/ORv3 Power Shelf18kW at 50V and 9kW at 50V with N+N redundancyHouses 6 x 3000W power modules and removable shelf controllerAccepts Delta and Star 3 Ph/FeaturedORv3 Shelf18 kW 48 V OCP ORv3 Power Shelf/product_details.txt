@@ -1,0 +1,88 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedORv3 Shelf18 kW 48 V OCP ORv3 Power Shelf
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/
+Category Description: Advanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+
+[Level 3] Category Name: ORv3 Power Shelf18kW at 50V and 9kW at 50V with N+N redundancyHouses 6 x 3000W power modules and removable shelf controllerAccepts Delta and Star 3 Phase AC input configurations
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/ocp-compliant/
+Category Description: 15 kW (N + 1) and 9 kW (N + N)
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedORv3 Shelf18 kW 48 V OCP ORv3 Power Shelf
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/ocp-compliant/orv3-shelf/
+
+Complete Product Description:
+Advanced Energy’s ORv3 1OU, OCP compliant shelf is available in either  single or dual AC input options. It converts incoming 3 phase AC supply voltage to 50 VDC with a total output power capability of 18 kW. It accommodates six 3 kW hot-swappable single phase PSU modules. The Power Shelf utilizes a universal 7 pin input connector(s) which can be configured as star, delta or single phase. It operates from common data center 3-phase voltages from 480/277 to 347/200 VAC, 50/60Hz.  An additional slot is  included for a hot-pluggable Power Management Controller for monitoring and control over Ethernet (DMTF Redfish® compatible) management networks. One or more power shelves are typically used in OCP 21 inch racks for compute and storage applications, including AI/ML applications which require reliable power and optional battery backup.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/5dca9acc-ff4f-4f90-a928-1ced8e1fb23a/eng-50v_18kw_1ou_orv3_power_sh1663154852.pdf
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - ORV3 Power Shelf Datasheet: https://www.advancedenergy.com/getmedia/5dca9acc-ff4f-4f90-a928-1ced8e1fb23a/ENG-50V-18kW-1OU-ORV3-Power-Shelves-235-01-11-13-24.pdf
+  - TRN AC-DC ORV3 Power System: https://www.advancedenergy.com/getmedia/bc56a0b4-4980-4107-97cf-62a6eb792f34/TRN-AC-DC-Open-Rack-V3-Power-System-Release-1-3-(02-09-2026%ef%bc%89.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/5dca9acc-ff4f-4f90-a928-1ced8e1fb23a/eng-50v_18kw_1ou_orv3_power_sh1663154852.pdf
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/5dca9acc-ff4f-4f90-a928-1ced8e1fb23a/ENG-50V-18kW-1OU-ORV3-Power-Shelves-235-01-11-13-24.pdf
+  - https://www.advancedenergy.com/getmedia/bc56a0b4-4980-4107-97cf-62a6eb792f34/TRN-AC-DC-Open-Rack-V3-Power-System-Release-1-3-(02-09-2026%ef%bc%89.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/3aa77377-8474-4fd0-ac9a-3241174c41e7/ca10f225e5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/19f83c8d-a631-4242-b6ec-cfef10621c4c/637228f23b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d049cf4c-69bc-47d1-9ff7-709dbfffa30c/c5e0d8f35f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3aa77377-8474-4fd0-ac9a-3241174c41e7/ca10f225e5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/19f83c8d-a631-4242-b6ec-cfef10621c4c/637228f23b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d049cf4c-69bc-47d1-9ff7-709dbfffa30c/c5e0d8f35f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3aa77377-8474-4fd0-ac9a-3241174c41e7/ca10f225e5.jpg
+  - Image: https://www.advancedenergy.com/getattachment/19f83c8d-a631-4242-b6ec-cfef10621c4c/637228f23b.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d049cf4c-69bc-47d1-9ff7-709dbfffa30c/c5e0d8f35f.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c66113c4-dbcd-4ab3-851d-953d5e11cc9b/AE-data-center-design-banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c66113c4-dbcd-4ab3-851d-953d5e11cc9b/AE-data-center-design-banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9957040b-1ab8-4633-8102-872a6cb3f402/Enterprise-Computing-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9957040b-1ab8-4633-8102-872a6cb3f402/Enterprise-Computing-banner.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Data CenterAdvanced Energy's power product portfolio offers a range of solutions designed to simplify the architecture of hyperscale data centers. Our AC-DC and DC-DC front-end power supplies and rack system solutions are optimized for efficiency and power density, reducing the total cost of ownership.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/hyperscale/datacenter/
+  - Explore Datacenter: https://www.advancedenergy.com/en-us/applications/datacenter-computing/hyperscale/datacenter/
+  - Enterprise ComputingAdvanced Energy leads the market with an impressive 97% efficiency in data storage drives, networking equipment, and rack and blade servers.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/
+  - Explore Enterprise Computing: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+  ↓
+ORv3 Power Shelf18kW at 50V and 9kW at 50V with N+N redundancyHouses 6 x 3000W power modules and removable shelf controllerAccepts Delta and Star 3 Phase AC input configurations
+  ↓
+FeaturedORv3 Shelf18 kW 48 V OCP ORv3 Power Shelf

@@ -1,0 +1,129 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLPS360-M Series200 to 360 W Medical AC-DC Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/
+Category Description: Advanced Energy power supplies in the 251 to 500 W range are used in a wide array of applications. They offer more power for demanding applications, including surgical equipment, instrumentation, life science applications, and industrial equipment.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLPS360-M Series200 to 360 W Medical AC-DC Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/lps360-m/
+
+Complete Product Description:
+The LPS360-M series of open-frame AC-DC power supplies comprises five single output models, offering voltages of 12 V, 15 V, 24 V, 36 V or 48 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/30e95ca6-6221-4993-8907-78461d17ba3f/lps360-m_ds_91afa7c5b9.pdf
+  - Universal PMBus GUI User's Manual (5 MB): https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - LPS360-M Series Data Sheet: https://www.advancedenergy.com/getmedia/30e95ca6-6221-4993-8907-78461d17ba3f/ENG-LPS360-M-235-01-10-20-25.pdf
+  - LPS36X-M Certificate of RoHS Compliance: https://www.advancedenergy.com/getmedia/748da170-8b0c-439d-8ecc-9f6a838de17d/rohs_lps363-m_lps364-m_lps365-1413507304_rohs_.pdf
+  - LPS36X IEC 62368 CB Test Certificate: https://www.advancedenergy.com/getmedia/92e8d65a-cd1c-4d4f-a6c8-3263fa37aaa0/lps36x-m-xxx_cb_cert_class_2_d1598869876_cert.pdf
+  - LPS36X Safety Certificate: https://www.advancedenergy.com/getmedia/0386c2ec-b2fc-4a0a-8e88-469c0caf96a0/lps36x-m-xxx_tuv_cert_en_62361598869941_cert.pdf
+  - LPS36X-M CB Certificate (ITE): https://www.advancedenergy.com/getmedia/02fc9cce-db17-43a1-9083-7ac320a5998e/dk-39280-a3-ul_1455574100_cert.pdf
+  - LPS36x-M CB Certificate (MED): https://www.advancedenergy.com/getmedia/1cd6cb4b-631a-49e2-b80e-010adf423fe5/lps36x-m-xxx_med_cb_cert_1456032606_cert.pdf
+  - LPS36X-M CB Certificate 62368-1 (Class I): https://www.advancedenergy.com/getmedia/bd653e7a-79ff-4a90-933d-119e62fda647/dk-70824-ul_1553588458_cert.pdf
+  - LPS36x-M CCC Certificate: https://www.advancedenergy.com/getmedia/a5314eda-7386-4e64-ba67-0f4616a398b8/lps36x-m-xxx_ccc_certificate_1456032450_cert.pdf
+  - LPS36X-M CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/dd7b2a0c-6add-439d-a6a7-34b0ea5032f5/lps36x-m-xxx_ce_1411376833_cert.pdf
+  - LPS36X-M TUV Certificate 62368-1: https://www.advancedenergy.com/getmedia/8dffd7c5-d559-45d4-9d84-4606721d3b59/lps36x-m-xxx_tuv_cert_en_62361553587970_cert.pdf
+  - LPS36X-M TUV ITE and Medical Cert: https://www.advancedenergy.com/getmedia/55f122b6-622f-462c-8adc-164cf10a4989/lps36x-m_tuv_certificate1_1456032283_cert.pdf
+  - LPS36x-M UL ITE Certificate: https://www.advancedenergy.com/getmedia/096cad98-a489-4171-a4a3-bd15556d8472/lps36x-m-xxx_ul_60950-12_cer1456031881_cert.pdf
+  - LPS36X-M UL/CSA Certificate 62368-1: https://www.advancedenergy.com/getmedia/659ea95b-abf9-4511-a65e-59ee7589312f/lps36x-m-xxx_ul_62368-1_1553588032_cert.pdf
+  - LPS36x-M UL/CSA Certificate ES60601-1 ver 3.0: https://www.advancedenergy.com/getmedia/f4ecf8dc-c410-40ce-8699-8a8cb475b104/lps36x-m-xxx_es_60601-1_3_1_ce1456032051_cert.pdf
+  - LPS36x-M UL/CSA Certificate ES60601-1 ver 3.1: https://www.advancedenergy.com/getmedia/b7109c2d-4fb0-406e-9a10-903f03f4f409/lps36x-m-xxx_es_60601-1_3_1_1467789224_cert.pdf
+  - LPS360-M Technical Reference Note: https://www.advancedenergy.com/getmedia/75bf6dc4-53bb-4996-bca2-379443ab5223/trn_ac-dc_lps360-m_release_1_51490971155_techref.pdf
+  - LPS36X-M CB Certificate 62368-1 (Class II): https://www.advancedenergy.com/getmedia/0156eec0-9dd8-4dc8-b43f-8709a64b67ba/dk-70848-ul_1553588512.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/30e95ca6-6221-4993-8907-78461d17ba3f/lps360-m_ds_91afa7c5b9.pdf
+  - https://www.advancedenergy.com/getmedia/bdb76371-3797-4b0b-ace0-d4cfe35d5bd0/universalpmbusgui_user_s_manua1534158210.pdf
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/30e95ca6-6221-4993-8907-78461d17ba3f/ENG-LPS360-M-235-01-10-20-25.pdf
+  - https://www.advancedenergy.com/getmedia/748da170-8b0c-439d-8ecc-9f6a838de17d/rohs_lps363-m_lps364-m_lps365-1413507304_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/92e8d65a-cd1c-4d4f-a6c8-3263fa37aaa0/lps36x-m-xxx_cb_cert_class_2_d1598869876_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0386c2ec-b2fc-4a0a-8e88-469c0caf96a0/lps36x-m-xxx_tuv_cert_en_62361598869941_cert.pdf
+  - https://www.advancedenergy.com/getmedia/02fc9cce-db17-43a1-9083-7ac320a5998e/dk-39280-a3-ul_1455574100_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1cd6cb4b-631a-49e2-b80e-010adf423fe5/lps36x-m-xxx_med_cb_cert_1456032606_cert.pdf
+  - https://www.advancedenergy.com/getmedia/bd653e7a-79ff-4a90-933d-119e62fda647/dk-70824-ul_1553588458_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a5314eda-7386-4e64-ba67-0f4616a398b8/lps36x-m-xxx_ccc_certificate_1456032450_cert.pdf
+  - https://www.advancedenergy.com/getmedia/dd7b2a0c-6add-439d-a6a7-34b0ea5032f5/lps36x-m-xxx_ce_1411376833_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8dffd7c5-d559-45d4-9d84-4606721d3b59/lps36x-m-xxx_tuv_cert_en_62361553587970_cert.pdf
+  - https://www.advancedenergy.com/getmedia/55f122b6-622f-462c-8adc-164cf10a4989/lps36x-m_tuv_certificate1_1456032283_cert.pdf
+  - https://www.advancedenergy.com/getmedia/096cad98-a489-4171-a4a3-bd15556d8472/lps36x-m-xxx_ul_60950-12_cer1456031881_cert.pdf
+  - https://www.advancedenergy.com/getmedia/659ea95b-abf9-4511-a65e-59ee7589312f/lps36x-m-xxx_ul_62368-1_1553588032_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f4ecf8dc-c410-40ce-8699-8a8cb475b104/lps36x-m-xxx_es_60601-1_3_1_ce1456032051_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b7109c2d-4fb0-406e-9a10-903f03f4f409/lps36x-m-xxx_es_60601-1_3_1_1467789224_cert.pdf
+  - https://www.advancedenergy.com/getmedia/75bf6dc4-53bb-4996-bca2-379443ab5223/trn_ac-dc_lps360-m_release_1_51490971155_techref.pdf
+  - https://www.advancedenergy.com/getmedia/0156eec0-9dd8-4dc8-b43f-8709a64b67ba/dk-70848-ul_1553588512.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/e04236ca-33a3-44c8-95e2-2e2ad788644b/b0aada9c44.jpg
+  - Image: https://www.advancedenergy.com/getattachment/73a22280-be72-4f4b-8721-e815b0da8096/3c96c3bb4c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ca28ffc0-cf9c-4f4f-9caa-ff7e3996f087/90e4b077e4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4fa77f60-33d3-4e6d-b1d6-589426fd05d8/c9ce4bb412.jpg
+  - Image: https://www.advancedenergy.com/getattachment/74665102-0e0d-4d2f-ac94-1fee276d67d6/eff6d924c9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e04236ca-33a3-44c8-95e2-2e2ad788644b/b0aada9c44.jpg
+  - Image: https://www.advancedenergy.com/getattachment/73a22280-be72-4f4b-8721-e815b0da8096/3c96c3bb4c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ca28ffc0-cf9c-4f4f-9caa-ff7e3996f087/90e4b077e4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4fa77f60-33d3-4e6d-b1d6-589426fd05d8/c9ce4bb412.jpg
+  - Image: https://www.advancedenergy.com/getattachment/74665102-0e0d-4d2f-ac94-1fee276d67d6/eff6d924c9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e04236ca-33a3-44c8-95e2-2e2ad788644b/b0aada9c44.jpg
+  - Image: https://www.advancedenergy.com/getattachment/73a22280-be72-4f4b-8721-e815b0da8096/3c96c3bb4c.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ca28ffc0-cf9c-4f4f-9caa-ff7e3996f087/90e4b077e4.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4fa77f60-33d3-4e6d-b1d6-589426fd05d8/c9ce4bb412.jpg
+  - Image: https://www.advancedenergy.com/getattachment/74665102-0e0d-4d2f-ac94-1fee276d67d6/eff6d924c9.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f878926d-371b-4af5-b266-4f30e527bb35/pmbusgui_large.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+251 - 500 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsBoard only and chassis mount constructionAdded features such as standby output, monitoring signals and PMBus
+  ↓
+FeaturedLPS360-M Series200 to 360 W Medical AC-DC Power Supplies

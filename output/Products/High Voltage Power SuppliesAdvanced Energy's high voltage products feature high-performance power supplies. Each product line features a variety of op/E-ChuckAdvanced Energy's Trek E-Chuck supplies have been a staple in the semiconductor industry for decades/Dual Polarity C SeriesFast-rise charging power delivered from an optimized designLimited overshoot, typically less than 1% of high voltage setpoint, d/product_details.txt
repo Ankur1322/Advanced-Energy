@@ -1,0 +1,118 @@
+==============================================================================
+PRODUCT DETAILS: Dual Polarity C SeriesFast-rise charging power delivered from an optimized designLimited overshoot, typically less than 1% of high voltage setpoint, depending on the applicationFully-integrated dual output package
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: E-ChuckAdvanced Energy's Trek E-Chuck supplies have been a staple in the semiconductor industry for decades.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/e-chuck/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Dual Polarity C SeriesFast-rise charging power delivered from an optimized designLimited overshoot, typically less than 1% of high voltage setpoint, depending on the applicationFully-integrated dual output package
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/e-chuck/dual-polarity-c-series/
+
+Complete Product Description:
+Advanced Energy’s UltraVolt Dual Polarity C series of regulated DC-DC power supplies is designed for high-voltage capacitor charging applications that demand fast charging rates and limited voltage overshoot, such as pulsed power, ultrasound, amplifiers, and pulse generators.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/91c2058d-184d-4bd8-b9b6-a301e9d32c61/en-hv-dual-polarity-c-series-data-sheet.pdf
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - UltraVolt Dual Polarity C Series Data Sheet: https://www.advancedenergy.com/getmedia/91c2058d-184d-4bd8-b9b6-a301e9d32c61/en-hv-dual-polarity-c-series-data-sheet.pdf
+  - Derating of Aluminum  Electrolytic Capacitors in High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - Electrical Termination  and Mounting Configurations of High Voltage Power Supplies Application Notes: https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - Modifiable and efficient power supplies for collaborative robots: https://www.advancedenergy.com/getmedia/81c0e39b-953c-4166-b1e1-7a00066dffdb/ENG-Cobot-AppNote-265-01.pdf
+  - Performing Isolation Tests on High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - Protection of High Voltage Power Supplies in Single and Multiple Applications Application Note: https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - Remote Control of High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/4237f6e6-116e-4721-bfe9-384dc3391053/en-hv-remote-control-high-voltage-power-supply-application-note.pdf
+  - UltraVolt HVPS Polarity Reversing Configurations Application Note: https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/91c2058d-184d-4bd8-b9b6-a301e9d32c61/en-hv-dual-polarity-c-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/91c2058d-184d-4bd8-b9b6-a301e9d32c61/en-hv-dual-polarity-c-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/81c0e39b-953c-4166-b1e1-7a00066dffdb/ENG-Cobot-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/4237f6e6-116e-4721-bfe9-384dc3391053/en-hv-remote-control-high-voltage-power-supply-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/5c3cd1a9-f20b-4de2-9a6d-892218f99da5/bi-polar-hp-c-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1b490dc7-0b06-4341-96cb-4c88dd891671/bi-polar-hp-c-series-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a0ba542d-85ca-4f70-8415-70af51cc733a/bi-polar-hp-c-series-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5ef1f4d7-8d8c-4bb3-8104-66b4af16325e/bi-polar-hp-c-series-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5b2f2409-c4b9-4ee6-b93d-92f0058e705f/bi-polar-hp-c-series-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5c3cd1a9-f20b-4de2-9a6d-892218f99da5/bi-polar-hp-c-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1b490dc7-0b06-4341-96cb-4c88dd891671/bi-polar-hp-c-series-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a0ba542d-85ca-4f70-8415-70af51cc733a/bi-polar-hp-c-series-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5ef1f4d7-8d8c-4bb3-8104-66b4af16325e/bi-polar-hp-c-series-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5b2f2409-c4b9-4ee6-b93d-92f0058e705f/bi-polar-hp-c-series-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5c3cd1a9-f20b-4de2-9a6d-892218f99da5/bi-polar-hp-c-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1b490dc7-0b06-4341-96cb-4c88dd891671/bi-polar-hp-c-series-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a0ba542d-85ca-4f70-8415-70af51cc733a/bi-polar-hp-c-series-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5ef1f4d7-8d8c-4bb3-8104-66b4af16325e/bi-polar-hp-c-series-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5b2f2409-c4b9-4ee6-b93d-92f0058e705f/bi-polar-hp-c-series-ft-wp.jpg
+  - AE High Voltage Module Overview: https://i.ytimg.com/vi/AYi4V1WaENY/hqdefault.jpg
+  - AE High Voltage Power Supply Solutions: https://i.ytimg.com/vi/689RpM4haWQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3f7e371-7183-4fc2-91b9-c67ddb41c504/0b0eafdd07.png
+  - Image: https://www.advancedenergy.com/getattachment/8ed922ad-a0ae-4af2-bada-d0be3b3d9847/LCC-family.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5c3cd1a9-f20b-4de2-9a6d-892218f99da5/bi-polar-hp-c-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c6e7a8fc-9428-4888-bcaf-6f2a9aa03ddd/c-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fd48706b-e5f5-4063-9426-f26cca4f0d19/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1706458-5ce5-4cf8-92fd-866bcca88287/scanning-electron-microscope_op_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1706458-5ce5-4cf8-92fd-866bcca88287/scanning-electron-microscope_op_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedCNS650-MU Series650 W Open Frame AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/cns650-mu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+  - FeaturedLCC SeriesAdvanced Energy's Embedded Power offers the LCC series of fanless, fully-enclosed AC-DC power supplies.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/lcc-family/
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Mass SpecAdvanced Energy's proven track record of delivering exceptional power solutions for life science analytical instruments ensures the highest level of performance and accuracy in mass spec applications.: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+  - Explore Mass Spectrometry: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+  - SEMOur power solutions are designed to meet the specific requirements of SEM systems, providing high power density, low noise, and high efficiency in a compact form factor.: https://www.advancedenergy.com/en-us/applications/medical/life-science/sem/
+  - Explore SEM: https://www.advancedenergy.com/en-us/applications/medical/life-science/sem/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+E-ChuckAdvanced Energy's Trek E-Chuck supplies have been a staple in the semiconductor industry for decades.
+  ↓
+Dual Polarity C SeriesFast-rise charging power delivered from an optimized designLimited overshoot, typically less than 1% of high voltage setpoint, depending on the applicationFully-integrated dual output package

@@ -1,0 +1,106 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedKT1027 Blade KitBlade Kit for ME/TE Product Families
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: ME SeriesMedical Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/
+Category Description: The ME series is part of Advanced Energy's SL Power medical external power supplies and offers 8 products under this family ranging from 10 W to 240 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedKT1027 Blade KitBlade Kit for ME/TE Product Families
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/kt1027/
+
+Complete Product Description:
+United Kingdom, European, and Australia blades kit for ME/TE product families: ME10, ME20, ME30, ME40.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/ebd7468e-88ea-4201-b508-8d3de365a725/ENG-ME10-01-02-20-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/96376440-079b-4e81-bd54-b709841a2d45/TE40-01%2011.9.22.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/ebd7468e-88ea-4201-b508-8d3de365a725/ENG-ME10-01-02-20-24.pdf
+  - https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - https://www.advancedenergy.com/getmedia/96376440-079b-4e81-bd54-b709841a2d45/TE40-01%2011.9.22.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/18e9fc99-4d34-47c1-b211-22676020a819/KT1027-img-1594925165.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18e9fc99-4d34-47c1-b211-22676020a819/KT1027-img-1594925165.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/21208712-6a13-416b-ab50-d4d3f7108745/ME10.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9ecc59e3-b34b-47b6-ad68-c44dac4cdb57/ME30.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3954ae45-c98b-4924-9618-249f21c19d92/TE20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d46f8496-ae53-4c5a-8a16-92a8a769c24a/TE40.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedME10 Series10 to 12 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me10-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/ebd7468e-88ea-4201-b508-8d3de365a725/ENG-ME10-01-02-20-24.pdf
+  - FeaturedME30 Series20 to 30 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me30-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/f0f33f58-f0cf-4fcc-b16d-c7088030fd61/ME30-01%2010.26.23.pdf
+  - FeaturedTE20 Series15 W to 20 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te20-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - FeaturedTE40 Series40 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te40-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/96376440-079b-4e81-bd54-b709841a2d45/TE40-01%2011.9.22.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+ME SeriesMedical Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+  ↓
+FeaturedKT1027 Blade KitBlade Kit for ME/TE Product Families

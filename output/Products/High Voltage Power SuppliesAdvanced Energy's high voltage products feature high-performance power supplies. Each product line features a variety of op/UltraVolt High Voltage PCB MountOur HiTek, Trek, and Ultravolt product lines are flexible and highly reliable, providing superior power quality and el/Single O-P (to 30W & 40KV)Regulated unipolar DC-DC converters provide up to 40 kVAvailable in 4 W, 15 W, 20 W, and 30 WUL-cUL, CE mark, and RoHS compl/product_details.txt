@@ -1,0 +1,168 @@
+==============================================================================
+PRODUCT DETAILS: Single O/P (to 30W & 40KV)Regulated unipolar DC-DC converters provide up to 40 kVAvailable in 4 W, 15 W, 20 W, and 30 WUL/cUL, CE mark, and RoHS compliant
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: UltraVolt High Voltage PCB MountOur HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-voltage-boost-(u-v)/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Single O/P (to 30W & 40KV)Regulated unipolar DC-DC converters provide up to 40 kVAvailable in 4 W, 15 W, 20 W, and 30 WUL/cUL, CE mark, and RoHS compliant
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-voltage-boost-(u-v)/single-o-p-(to-30w-40kv)/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Embedded Power Brochure: https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - Medical Power Supplies Brochure: https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - Rapid Modification & Value-Added Engineering Solutions: https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - The Ultravolt AA Series: https://www.advancedenergy.com/getmedia/5aba98ea-50b2-4beb-9792-1b419304dbe2/ENG-HV-AAseries-231-AA-11-01-25.pdf
+  - UltraVolt -F Option Ripple Stripper Accessory Data Sheet: https://www.advancedenergy.com/getmedia/129b989d-8c0a-4b3a-a082-a4d3eedd6f2d/ultravolt-f-option-ripple-stripper.pdf
+  - UltraVolt 10A Series Data Sheet: https://www.advancedenergy.com/getmedia/75710edf-4673-4dce-95b3-f6296648bad8/en-hv-ultravolt-10a-15a-data-sheet-7-17-24.pdf
+  - UltraVolt 15A Series Data Sheet: https://www.advancedenergy.com/getmedia/3f50a688-11a5-4917-83c7-3a75da31289c/en-hv-ultravolt-15a-data-sheet.pdf
+  - UltraVolt 1LE to 15LE Series Data Sheet: https://www.advancedenergy.com/getmedia/1c77eb55-7af1-408d-bb52-715163b9f29e/en-hv-1le-15le-series-data-sheet.pdf
+  - UltraVolt 20A and 25A Data Sheet: https://www.advancedenergy.com/getmedia/fc1bf3f2-e0b5-4a1d-a72f-60e3469d260b/en-hv-ultravolt-20a-25a-data-sheet-7-17-24.pdf
+  - UltraVolt 20LE to 30LE Series Data Sheet: https://www.advancedenergy.com/getmedia/6e9714d5-e95e-4934-8902-adadedfdf884/ENG-HV-20LE-30LE-235-01-03-21-24.pdf
+  - Ultravolt 30A - 40A Series Datasheet: https://www.advancedenergy.com/getmedia/1e8fafcd-70ab-4da0-ae45-164d5493989c/ENG-HV-30A-40A-series-231-01-11-13-24.pdf
+  - UltraVolt A Series Data Sheet: https://www.advancedenergy.com/getmedia/6d4b63b8-1eb1-4f80-af87-4b9a4395750b/ENG-HV-Aseries-231-7-17-24.pdf
+  - UltraVolt C Series Data Sheet: https://www.advancedenergy.com/getmedia/849a3f3e-816f-43cd-97f9-2798d29d75fa/en-hv-ultravolt-c-series-data-sheet.pdf
+  - UltraVolt E Series Data Sheet: https://www.advancedenergy.com/getmedia/4ff16fba-761d-4cd0-bbd9-38ebe5f5b210/ENG-HV-ESeries-235-01-07-22-24.pdf
+  - UltraVolt I5-I10 Options Accessory Data Sheet: https://www.advancedenergy.com/getmedia/e49d8a33-e58b-4927-ba44-33df37e2eeb2/ultravolt-i5-i10-options-accessory-data-sheet.pdf
+  - China ROHS 2 Disclosure UltraVolt A Series: https://www.advancedenergy.com/getmedia/ca941efb-d11e-4c84-beb0-cef81770e233/China-RoHS-2-Disclosure-UltraVolt-A-Series-Sept-22,-2022.pdf
+  - EU UK RoHS UltraVolt A Series: https://www.advancedenergy.com/getmedia/6a3ab9ed-9b25-4e69-b807-c6d439c98149/EU-UK-RoHS-DoC-UltraVolt-A-Series-October-9-2024.pdf
+  - REACH 247 Declaration UltraVolt A Series: https://www.advancedenergy.com/getmedia/97840604-d2a4-45c8-b471-070e4129a6a9/REACH-247-Declaration-%e2%80%93-UltraVolt-A-Series-%e2%80%93-May-8-2025.pdf
+  - Medical Power Supplies Selector Guide: https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - Advanced Control and Monitoring with UltraVolt -I5 and -I10 Control Interface Options Application Note: https://www.advancedenergy.com/getmedia/3a1d4303-9498-48ff-b463-660f402a1dfe/en-hv-advanced-control-and-monitoring-I5-and-I10-control-interface-options-application-note.pdf
+  - C Series Product Notes: https://www.advancedenergy.com/getmedia/c28d77f1-41c3-47db-b48d-29408dd805ba/en-hv-ap-10-c-series-product-notes-application-note.pdf
+  - Derating of Aluminum  Electrolytic Capacitors in High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - Electrical Termination  and Mounting Configurations of High Voltage Power Supplies Application Notes: https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - Electrosurgery Application Note: https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - High Voltage Output-Current Monitor Application Note: https://www.advancedenergy.com/getmedia/68c0d7b5-c3ee-48b6-9510-9d20576809c9/en-hv-high-voltage-power-supply-output-current-monitor-application-note.pdf
+  - Interfacing with High Voltage Power Supplies: A, AA, C, 10A-25A, 30A-40A, and F Series (TN-2): https://www.advancedenergy.com/getmedia/e37d7e43-ae43-47ab-9447-13106ce8c6ce/en-hv-interfacing-with-high-voltage-power-supplies-a-aa-c-10a-25a-30a-40a-f-series-application-note.pdf
+  - Interfacing with the High Voltage E Series Application Note: https://www.advancedenergy.com/getmedia/decbc2eb-2886-4621-b618-f91725588b10/en-hv-interfacing-with-high-voltage-e-series-application-note.pdf
+  - Life Science Application Note: https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - Medical Imaging Application Note: https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - Medical Lasers and Aesthetic Equipment Application Note: https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - Parallel Operation of UltraVolt HVPS Application Note: https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - Performing Isolation Tests on High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - Protection of High Voltage Power Supplies in Single and Multiple Applications Application Note: https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - Thermal Management of High Voltage Power Supplies: https://www.advancedenergy.com/getmedia/14429db3-f632-475d-b113-a48b4f3191f5/en-hv-thermal-management-high-voltage-power-supplies-application-note.pdf
+  - UltraVolt HVPS Polarity Reversing Configurations Application Note: https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - 1LE to 15LE Series Model Drawing: https://www.advancedenergy.com/getmedia/cd0d3e34-ffb7-4a4b-97a9-f38e87cce6c4/en-hv-1le-15le-series-drawing-v2-pdf.pdf
+  - 20LE to 30LE Series Model Drawing: https://www.advancedenergy.com/getmedia/186cb14d-4bf8-4019-9626-bde67699e44a/en-hv-20-30le-series-drawing-v2-pdf.pdf
+  - AA Series I5/I10 Drawing: https://www.advancedenergy.com/getmedia/2296d05d-d039-4d6a-a5bb-dab36ef8b305/en-hv-aa-series-i5-i10-drawing-v2-pdf.pdf
+  - E Series Power Supply Drawing: https://www.advancedenergy.com/getmedia/35ef5a4c-3eec-4038-9137-b18050597edd/en-hv-e-series-ol55-drawing-v2-pdf.pdf
+  - Advanced medical power supplies for pulsed field ablation system: https://www.advancedenergy.com/getmedia/ccc65385-dde0-43af-9969-deb043f47d86/en-hv-power-supply-for-novel-pulsed-field-ablation-system-case-study.pdf
+  - Electroporation Instrumentation Power Supply Case Study: https://www.advancedenergy.com/getmedia/f579b3c8-d2f7-4c09-bddb-977a0f84dfae/en-ot-medical-electroporation-case-study.pdf
+  - High Voltage Power Supply Enables Flow Cytometry in COVID-19 Research: https://www.advancedenergy.com/getmedia/b6128b54-8e2b-4065-afcc-15666de3efc9/ENG-Flow-Cytometry-Case-Study-295-01.pdf
+  - High Voltage Power Supply Required for Einzel Lens in Mass Spec TOF System: https://www.advancedenergy.com/getmedia/5ab7c6cc-d57a-4633-9b4c-ea5ab1a651be/ENG-Einzel-Lens-in-Mass-Spec-Case-Study-295-01.pdf
+  - High Voltage Power Supply Required for Mass Spec TOF System: https://www.advancedenergy.com/getmedia/bc111d8a-c3d8-4203-9796-828bf8710e4e/ENG-Mass-Spec-TOF-System-Case-Study-295-01.pdf
+  - HV Power Supply MRI Machines Case Study: https://www.advancedenergy.com/getmedia/475e7f72-2455-4a2c-893a-11e445d2146b/en-hv-mri-machines-ultravolt-c-series-case-study.pdf
+  - Transforming Arterial Care with Advanced Energy’s Lithotripsy Power Solutions: https://www.advancedenergy.com/getmedia/554f327e-710f-4682-b2d3-9a4462013b90/ENG-Lithotripsy-Power-Solutions-Case-Study-295-01.pdf
+  - Medical Equipment Power Supplies Checklist: https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/5aba98ea-50b2-4beb-9792-1b419304dbe2/ENG-HV-AAseries-231-AA-11-01-25.pdf
+  - https://www.advancedenergy.com/getmedia/129b989d-8c0a-4b3a-a082-a4d3eedd6f2d/ultravolt-f-option-ripple-stripper.pdf
+  - https://www.advancedenergy.com/getmedia/75710edf-4673-4dce-95b3-f6296648bad8/en-hv-ultravolt-10a-15a-data-sheet-7-17-24.pdf
+  - https://www.advancedenergy.com/getmedia/3f50a688-11a5-4917-83c7-3a75da31289c/en-hv-ultravolt-15a-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1c77eb55-7af1-408d-bb52-715163b9f29e/en-hv-1le-15le-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/fc1bf3f2-e0b5-4a1d-a72f-60e3469d260b/en-hv-ultravolt-20a-25a-data-sheet-7-17-24.pdf
+  - https://www.advancedenergy.com/getmedia/6e9714d5-e95e-4934-8902-adadedfdf884/ENG-HV-20LE-30LE-235-01-03-21-24.pdf
+  - https://www.advancedenergy.com/getmedia/1e8fafcd-70ab-4da0-ae45-164d5493989c/ENG-HV-30A-40A-series-231-01-11-13-24.pdf
+  - https://www.advancedenergy.com/getmedia/6d4b63b8-1eb1-4f80-af87-4b9a4395750b/ENG-HV-Aseries-231-7-17-24.pdf
+  - https://www.advancedenergy.com/getmedia/849a3f3e-816f-43cd-97f9-2798d29d75fa/en-hv-ultravolt-c-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/4ff16fba-761d-4cd0-bbd9-38ebe5f5b210/ENG-HV-ESeries-235-01-07-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/e49d8a33-e58b-4927-ba44-33df37e2eeb2/ultravolt-i5-i10-options-accessory-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/ca941efb-d11e-4c84-beb0-cef81770e233/China-RoHS-2-Disclosure-UltraVolt-A-Series-Sept-22,-2022.pdf
+  - https://www.advancedenergy.com/getmedia/6a3ab9ed-9b25-4e69-b807-c6d439c98149/EU-UK-RoHS-DoC-UltraVolt-A-Series-October-9-2024.pdf
+  - https://www.advancedenergy.com/getmedia/97840604-d2a4-45c8-b471-070e4129a6a9/REACH-247-Declaration-%e2%80%93-UltraVolt-A-Series-%e2%80%93-May-8-2025.pdf
+  - https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - https://www.advancedenergy.com/getmedia/3a1d4303-9498-48ff-b463-660f402a1dfe/en-hv-advanced-control-and-monitoring-I5-and-I10-control-interface-options-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c28d77f1-41c3-47db-b48d-29408dd805ba/en-hv-ap-10-c-series-product-notes-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d2b3d9c3-34cf-4d46-92a8-483a5caa7b7f/en-ot-electrosurgery-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/68c0d7b5-c3ee-48b6-9510-9d20576809c9/en-hv-high-voltage-power-supply-output-current-monitor-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/e37d7e43-ae43-47ab-9447-13106ce8c6ce/en-hv-interfacing-with-high-voltage-power-supplies-a-aa-c-10a-25a-30a-40a-f-series-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/decbc2eb-2886-4621-b618-f91725588b10/en-hv-interfacing-with-high-voltage-e-series-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/33ecdfaa-6168-441b-b8e0-5d1ad86eb41a/en-ot-life-science-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3b2bbfc8-ec0f-48dc-b8a9-7bb769bc231a/en-ot-medical-imaging-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c733e762-f316-4b4c-8418-cd9591505b48/ENG-Medical-Lasers-and-Aesthetic-Equipment-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/14429db3-f632-475d-b113-a48b4f3191f5/en-hv-thermal-management-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/cd0d3e34-ffb7-4a4b-97a9-f38e87cce6c4/en-hv-1le-15le-series-drawing-v2-pdf.pdf
+  - https://www.advancedenergy.com/getmedia/186cb14d-4bf8-4019-9626-bde67699e44a/en-hv-20-30le-series-drawing-v2-pdf.pdf
+  - https://www.advancedenergy.com/getmedia/2296d05d-d039-4d6a-a5bb-dab36ef8b305/en-hv-aa-series-i5-i10-drawing-v2-pdf.pdf
+  - https://www.advancedenergy.com/getmedia/35ef5a4c-3eec-4038-9137-b18050597edd/en-hv-e-series-ol55-drawing-v2-pdf.pdf
+  - https://www.advancedenergy.com/getmedia/ccc65385-dde0-43af-9969-deb043f47d86/en-hv-power-supply-for-novel-pulsed-field-ablation-system-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/f579b3c8-d2f7-4c09-bddb-977a0f84dfae/en-ot-medical-electroporation-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/b6128b54-8e2b-4065-afcc-15666de3efc9/ENG-Flow-Cytometry-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/5ab7c6cc-d57a-4633-9b4c-ea5ab1a651be/ENG-Einzel-Lens-in-Mass-Spec-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/bc111d8a-c3d8-4203-9796-828bf8710e4e/ENG-Mass-Spec-TOF-System-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/475e7f72-2455-4a2c-893a-11e445d2146b/en-hv-mri-machines-ultravolt-c-series-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/554f327e-710f-4682-b2d3-9a4462013b90/ENG-Lithotripsy-Power-Solutions-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/acb16cb3-85d6-42f0-929e-851c16cbc66c/aa-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1706458-5ce5-4cf8-92fd-866bcca88287/scanning-electron-microscope_op_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1706458-5ce5-4cf8-92fd-866bcca88287/scanning-electron-microscope_op_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - SEMOur power solutions are designed to meet the specific requirements of SEM systems, providing high power density, low noise, and high efficiency in a compact form factor.: https://www.advancedenergy.com/en-us/applications/medical/life-science/sem/
+  - Explore SEM: https://www.advancedenergy.com/en-us/applications/medical/life-science/sem/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Mass SpecAdvanced Energy's proven track record of delivering exceptional power solutions for life science analytical instruments ensures the highest level of performance and accuracy in mass spec applications.: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+  - Explore Mass Spectrometry: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+UltraVolt High Voltage PCB MountOur HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+  ↓
+Single O/P (to 30W & 40KV)Regulated unipolar DC-DC converters provide up to 40 kVAvailable in 4 W, 15 W, 20 W, and 30 WUL/cUL, CE mark, and RoHS compliant

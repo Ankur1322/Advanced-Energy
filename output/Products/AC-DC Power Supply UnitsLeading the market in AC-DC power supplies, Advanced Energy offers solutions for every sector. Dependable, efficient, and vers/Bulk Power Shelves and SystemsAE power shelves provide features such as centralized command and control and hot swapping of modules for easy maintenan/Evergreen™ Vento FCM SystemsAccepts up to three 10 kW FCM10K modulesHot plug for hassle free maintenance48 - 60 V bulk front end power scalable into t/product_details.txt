@@ -1,0 +1,68 @@
+==============================================================================
+PRODUCT DETAILS: Evergreen™ Vento FCM SystemsAccepts up to three 10 kW FCM10K modulesHot plug for hassle free maintenance48 - 60 V bulk front end power scalable into the Megawatt range
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/
+Category Description: AE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Evergreen™ Vento FCM SystemsAccepts up to three 10 kW FCM10K modulesHot plug for hassle free maintenance48 - 60 V bulk front end power scalable into the Megawatt range
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/evergreen-vento-fcm-shelf-productfamily/
+
+Complete Product Description:
+Evergreen high power systems combine instant customization, quick power scaling, intelligent communication and control, and high efficiency, power density and power factor.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - FCM 10k Data Sheet: https://www.advancedenergy.com/getmedia/ffe5d3ee-3ba7-4947-9bdb-5783081f54dd/ENG-FCM10KW-N-235-01-11-26-25.pdf
+  - FCM 30K Data Sheet: https://www.advancedenergy.com/getmedia/59505362-531b-4db9-9289-747bc90aa7d8/ENG-FCM30K-235-01-01-28-26.pdf
+  - FCM10K TRN: https://www.advancedenergy.com/getmedia/618d3024-3694-4abc-86d6-72ec6dd9454e/TRN-FCM10KW-N-Release-1-0-(2025-10-22).pdf
+  - High-Density, High-Efficiency, Scalable Power for Advanced Burn-In Systems: https://www.advancedenergy.com/getmedia/4fca6393-3554-4759-8ac8-866d78be3e29/ENG-Scalable-Power-for-Burn-In-Systems-Case-Study-295-01.pdf
+  - Evergreen FCM 33 kW Datasheet: https://www.advancedenergy.com/getmedia/720126a3-65d4-4302-8bb5-6a2f3f3dc224/ENG-FCM33K-1OU-Power-Shelves-235-01-09-24-25.pdf
+  - FCM30K TRN: https://www.advancedenergy.com/getmedia/394ce245-b577-4a99-9a64-de0bcbb5b842/TRN-FCM30K-Release-1-0-(2026-02-12).pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/ffe5d3ee-3ba7-4947-9bdb-5783081f54dd/ENG-FCM10KW-N-235-01-11-26-25.pdf
+  - https://www.advancedenergy.com/getmedia/59505362-531b-4db9-9289-747bc90aa7d8/ENG-FCM30K-235-01-01-28-26.pdf
+  - https://www.advancedenergy.com/getmedia/618d3024-3694-4abc-86d6-72ec6dd9454e/TRN-FCM10KW-N-Release-1-0-(2025-10-22).pdf
+  - https://www.advancedenergy.com/getmedia/4fca6393-3554-4759-8ac8-866d78be3e29/ENG-Scalable-Power-for-Burn-In-Systems-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/720126a3-65d4-4302-8bb5-6a2f3f3dc224/ENG-FCM33K-1OU-Power-Shelves-235-01-09-24-25.pdf
+  - https://www.advancedenergy.com/getmedia/394ce245-b577-4a99-9a64-de0bcbb5b842/TRN-FCM30K-Release-1-0-(2026-02-12).pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/baf74536-83db-4856-8a5d-fa468229a4bc/FCM30K-SHF2-(1).png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Bulk Power Shelves and SystemsAE power shelves provide features such as  centralized command and control and hot swapping of modules for easy maintenance. Our pre-wired systems provide the power you need without the hassle of on-site wiring.
+  ↓
+Evergreen™ Vento FCM SystemsAccepts up to three 10 kW FCM10K modulesHot plug for hassle free maintenance48 - 60 V bulk front end power scalable into the Megawatt range

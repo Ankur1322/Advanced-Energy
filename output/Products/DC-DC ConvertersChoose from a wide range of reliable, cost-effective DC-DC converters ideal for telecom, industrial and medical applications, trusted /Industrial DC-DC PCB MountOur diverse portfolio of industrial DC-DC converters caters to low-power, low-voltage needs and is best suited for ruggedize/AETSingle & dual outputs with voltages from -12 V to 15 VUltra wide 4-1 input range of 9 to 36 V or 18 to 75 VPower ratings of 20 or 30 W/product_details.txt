@@ -1,0 +1,76 @@
+==============================================================================
+PRODUCT DETAILS: AETSingle & dual outputs with voltages from -12 V to 15 VUltra wide 4:1 input range of 9 to 36 V or 18 to 75 VPower ratings of 20 or 30 W
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+Category Description: Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AETSingle & dual outputs with voltages from -12 V to 15 VUltra wide 4:1 input range of 9 to 36 V or 18 to 75 VPower ratings of 20 or 30 W
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/aet/
+
+Complete Product Description:
+The AET 30 W series of isolated DC-DC converters offers ultra-wide 9 to 36 VDC and 18 to 75 VDC input options as well as 5, 12, 15 VDC single-output and ±12 and ±15 VDC dual-output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - AET 20W Series Data Sheet: https://www.advancedenergy.com/getmedia/4a9d979d-a4d3-4d55-966f-39bd7b4bfad8/aet_20w_series_ds_08068cf6f3.pdf
+  - AET 25-30 W Series Data Sheet: https://www.advancedenergy.com/getmedia/e9ac7cd8-30bb-488d-bc13-1311e8721c72/aet_series_25-30w_ds_1585233937.pdf
+  - EC Declaration of Conformity: https://www.advancedenergy.com/getmedia/6de56d89-60a0-450e-a6af-a4fb2107a794/reach_coc_211_asa_aee_aet_ser1617796675_REACH.pdf
+  - CoC: https://www.advancedenergy.com/getmedia/51027fc4-2a34-41a6-90bd-288c5a73b073/ce_certificate_aet_series_20111321931852_cert.pdf
+  - Declaration of Conformity: https://www.advancedenergy.com/getmedia/f49c3f52-cb4f-442b-9892-61e0ee16d8ac/rohs2_coc_aet_series_011312_1331094898_cert.pdf
+  - EC Declaration of Conformity: https://www.advancedenergy.com/getmedia/c148268f-3e4a-442e-bbdb-235214ee2455/rohs2_coc_aet_series_011312_1326927835_cert.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - Technical reference note: https://www.advancedenergy.com/getmedia/131e0038-c5a9-4614-a17e-8882849e9534/trn_aet_20w_20150109_1421803510_techref.pdf
+  - Technical Reference Note: https://www.advancedenergy.com/getmedia/9d41ed98-93fd-42e3-9843-eb1c160a34ef/trn_aet_30w_20150109_1421803628_techref.pdf
+  - Technical Reference Note: https://www.advancedenergy.com/getmedia/d6d3070c-13cd-40c7-a527-2dd1793c496f/trn_aet_30w_110715_1319151733_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/4a9d979d-a4d3-4d55-966f-39bd7b4bfad8/aet_20w_series_ds_08068cf6f3.pdf
+  - https://www.advancedenergy.com/getmedia/e9ac7cd8-30bb-488d-bc13-1311e8721c72/aet_series_25-30w_ds_1585233937.pdf
+  - https://www.advancedenergy.com/getmedia/6de56d89-60a0-450e-a6af-a4fb2107a794/reach_coc_211_asa_aee_aet_ser1617796675_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/51027fc4-2a34-41a6-90bd-288c5a73b073/ce_certificate_aet_series_20111321931852_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f49c3f52-cb4f-442b-9892-61e0ee16d8ac/rohs2_coc_aet_series_011312_1331094898_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c148268f-3e4a-442e-bbdb-235214ee2455/rohs2_coc_aet_series_011312_1326927835_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - https://www.advancedenergy.com/getmedia/131e0038-c5a9-4614-a17e-8882849e9534/trn_aet_20w_20150109_1421803510_techref.pdf
+  - https://www.advancedenergy.com/getmedia/9d41ed98-93fd-42e3-9843-eb1c160a34ef/trn_aet_30w_20150109_1421803628_techref.pdf
+  - https://www.advancedenergy.com/getmedia/d6d3070c-13cd-40c7-a527-2dd1793c496f/trn_aet_30w_110715_1319151733_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0e55cfb2-c4a9-4a7a-87fd-db28475b7615/AET-30W.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+  ↓
+AETSingle & dual outputs with voltages from -12 V to 15 VUltra wide 4:1 input range of 9 to 36 V or 18 to 75 VPower ratings of 20 or 30 W

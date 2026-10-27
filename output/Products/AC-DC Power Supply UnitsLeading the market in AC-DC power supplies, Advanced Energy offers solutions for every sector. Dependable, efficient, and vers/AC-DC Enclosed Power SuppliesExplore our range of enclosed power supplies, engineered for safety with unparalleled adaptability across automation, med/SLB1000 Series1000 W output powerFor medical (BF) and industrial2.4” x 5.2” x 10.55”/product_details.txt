@@ -1,0 +1,128 @@
+==============================================================================
+PRODUCT DETAILS: SLB1000 Series1000 W output powerFor medical (BF) and industrial2.4” x 5.2” x 10.55”
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: SLB1000 Series1000 W output powerFor medical (BF) and industrial2.4” x 5.2” x 10.55”
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/slb1000-series/
+
+Complete Product Description:
+SLB1000 AC‑DC enclosed power supply unit with output options of 12 V, 24 V, and 48 V, certified to IEC standards for industrial and medical applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/0793d883-f160-4322-a09e-91424a821a7f/ENG-SLB1000-10-17-2025a.pdf
+  - SLB1000 Datasheet SLB1000 provides a low cost solution to industrial and medical single output high power requirements. View Resource: https://www.advancedenergy.com/getmedia/0793d883-f160-4322-a09e-91424a821a7f/ENG-SLB1000-02-19-2026.pdf
+  - Providing Innovation with SLB1000 for System Upgrades Case Study For the life sciences sector, finding a right‑sized, value‑engineered power supply that delivers consistent performance for both legacy and new production, as well as field services, is critical. The SLB1000 series provides the ideal solution to this challenge. View Resource: https://www.advancedenergy.com/getmedia/e4b7e5bd-4e63-40be-903a-aac34e129790/ENG-SLB1000-for-System-Upgrades-Case-Study-295-01.pdf
+  - SLB1000 Datasheet: https://www.advancedenergy.com/getmedia/0793d883-f160-4322-a09e-91424a821a7f/ENG-SLB1000-02-19-2026.pdf
+  - SLB1000 CB Test Certification: https://www.advancedenergy.com/getmedia/62173ec3-31b4-4e47-8129-43b262957a1c/SLB1000_60601_CB-Cert_US-46013-UL.pdf
+  - SLB1000 CB Test Certification: https://www.advancedenergy.com/getmedia/ddbe0cbc-3807-4503-be93-97b2b0eba516/SLB1000_62368_CB-Cert_US-45969-UL.pdf
+  - Providing Innovation with SLB1000 for System Upgrades Case Study: https://www.advancedenergy.com/getmedia/e4b7e5bd-4e63-40be-903a-aac34e129790/ENG-SLB1000-for-System-Upgrades-Case-Study-295-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e7ac55ef-f34e-4c4e-b608-5b92190a22bf/en-lv-cs1000-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/96824af5-9e19-4c05-9170-d7c057f152da/en-lv-xsolo-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0793d883-f160-4322-a09e-91424a821a7f/ENG-SLB1000-10-17-2025a.pdf
+  - https://www.advancedenergy.com/getmedia/0793d883-f160-4322-a09e-91424a821a7f/ENG-SLB1000-02-19-2026.pdf
+  - https://www.advancedenergy.com/getmedia/e4b7e5bd-4e63-40be-903a-aac34e129790/ENG-SLB1000-for-System-Upgrades-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/0793d883-f160-4322-a09e-91424a821a7f/ENG-SLB1000-02-19-2026.pdf
+  - https://www.advancedenergy.com/getmedia/62173ec3-31b4-4e47-8129-43b262957a1c/SLB1000_60601_CB-Cert_US-46013-UL.pdf
+  - https://www.advancedenergy.com/getmedia/ddbe0cbc-3807-4503-be93-97b2b0eba516/SLB1000_62368_CB-Cert_US-45969-UL.pdf
+  - https://www.advancedenergy.com/getmedia/e4b7e5bd-4e63-40be-903a-aac34e129790/ENG-SLB1000-for-System-Upgrades-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - https://www.advancedenergy.com/getmedia/e7ac55ef-f34e-4c4e-b608-5b92190a22bf/en-lv-cs1000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/96824af5-9e19-4c05-9170-d7c057f152da/en-lv-xsolo-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/55886147-1bb9-45c6-a3b4-3c28eb4eb461/SLB1000-V1A.png
+  - Image: https://www.advancedenergy.com/getattachment/6e294877-4d7e-47fc-ab38-cee11092766c/SLB1000-V2A.png
+  - Image: https://www.advancedenergy.com/getattachment/ef662a05-9af3-4a39-ba3d-2f579dbcf461/SLB1000-V3A.png
+  - Image: https://www.advancedenergy.com/getattachment/7e71b357-0f21-49cb-889d-a49d5461a218/SLB1000-V4A.png
+  - Image: https://www.advancedenergy.com/getattachment/5f6fd7a3-e220-44c3-b4aa-b6ff1d5be87d/SLB1000-V5A.png
+  - Image: https://www.advancedenergy.com/getattachment/55886147-1bb9-45c6-a3b4-3c28eb4eb461/SLB1000-V1A.png
+  - Image: https://www.advancedenergy.com/getattachment/6e294877-4d7e-47fc-ab38-cee11092766c/SLB1000-V2A.png
+  - Image: https://www.advancedenergy.com/getattachment/ef662a05-9af3-4a39-ba3d-2f579dbcf461/SLB1000-V3A.png
+  - Image: https://www.advancedenergy.com/getattachment/7e71b357-0f21-49cb-889d-a49d5461a218/SLB1000-V4A.png
+  - Image: https://www.advancedenergy.com/getattachment/5f6fd7a3-e220-44c3-b4aa-b6ff1d5be87d/SLB1000-V5A.png
+  - Image: https://www.advancedenergy.com/getattachment/55886147-1bb9-45c6-a3b4-3c28eb4eb461/SLB1000-V1A.png
+  - Image: https://www.advancedenergy.com/getattachment/6e294877-4d7e-47fc-ab38-cee11092766c/SLB1000-V2A.png
+  - Image: https://www.advancedenergy.com/getattachment/ef662a05-9af3-4a39-ba3d-2f579dbcf461/SLB1000-V3A.png
+  - Image: https://www.advancedenergy.com/getattachment/7e71b357-0f21-49cb-889d-a49d5461a218/SLB1000-V4A.png
+  - Image: https://www.advancedenergy.com/getattachment/5f6fd7a3-e220-44c3-b4aa-b6ff1d5be87d/SLB1000-V5A.png
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - SLB1000 - 1000 W Enclosed Power Supply for Industrial and Medical Applications: https://i.ytimg.com/vi/uzzJlCnDRqM/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d440c91-d12a-4a43-ae44-32d67a9ac539/00f3e32db8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb96a06f-64a9-4dd0-8ccc-302dc5627c70/cs1000-24_lid_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be5acc7a-9e97-4d24-8e03-ee334304d136/xsolo-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d28e9049-5f51-4952-8bb6-5914b4edebe1/NGB1200-img-1692817136.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55886147-1bb9-45c6-a3b4-3c28eb4eb461/SLB1000-V1A.png
+  - Image: https://www.advancedenergy.com/getattachment/d28e9049-5f51-4952-8bb6-5914b4edebe1/NGB1200-img-1692817136.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb96a06f-64a9-4dd0-8ccc-302dc5627c70/cs1000-24_lid_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be5acc7a-9e97-4d24-8e03-ee334304d136/xsolo-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d440c91-d12a-4a43-ae44-32d67a9ac539/00f3e32db8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4537fe32-d5ea-4d92-8330-5c01a57a728b/Life-Science-banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4537fe32-d5ea-4d92-8330-5c01a57a728b/Life-Science-banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7544aafd-0e24-4b37-a5a0-406619b986c6/Patient-Monitoring-banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7544aafd-0e24-4b37-a5a0-406619b986c6/Patient-Monitoring-banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb8bfc99-44fc-4408-bc62-b9c954032789/Analytical-Test-and-Measurement-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/16c66807-7744-43f7-86ec-e6069ba578c0/Transportation-Robotics-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/16c66807-7744-43f7-86ec-e6069ba578c0/Transportation-Robotics-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLCM1000 Series1000 W AC-DC Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm1000/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - FeaturedCS1000 SeriesInnovative, Fanless, 1U, High Efficiency, 1000 W, Single Output Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/cs1000/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e7ac55ef-f34e-4c4e-b608-5b92190a22bf/en-lv-cs1000-data-sheet.pdf
+  - FeaturedXsolo Series1000 W Ultra Compact, High-Reliability Single Output Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/xsolo/
+  - Datasheet: https://www.advancedenergy.com/getmedia/96824af5-9e19-4c05-9170-d7c057f152da/en-lv-xsolo-data-sheet.pdf
+  - FeaturedNGB1200 Series1200 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/ngb1200-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - Life ScienceAdvanced Energy's power supplies offer a reliable, accurate, ultra-low ripple high voltage power delivery that elevates the performance of life science instruments.: https://www.advancedenergy.com/en-us/applications/medical/life-science/
+  - Explore Life Science: https://www.advancedenergy.com/en-us/applications/medical/life-science/
+  - Patient CareOur standard and modified power supplies meet the electrical specifications, ruggedness, and reliability necessary for patient care applications.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/
+  - Test & Measurement Power SuppliesLeading supplier of power conversion in the global semiconductor, ATE, and test & measurement markets for use in a wide variety of equipment including oscilloscopes, spectrum analyzers, signal generators, logic analyzers, arbitrary waveform generators, multimeters, and network analyzers. Discover our solutions.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Explore Analytical Test and Measurement: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/
+  - Robotics & Transport Power SuppliesWe lead the way in power solutions for your robotics applications with our dedicated PSUs. Perfect for automated manufacturing, packaging, & transport systems.: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/
+  - Explore Transport & Robotics: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+SLB1000 Series1000 W output powerFor medical (BF) and industrial2.4” x 5.2” x 10.55”

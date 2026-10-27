@@ -1,0 +1,183 @@
+==============================================================================
+PRODUCT DETAILS: AVQ/ADQ 1/4 BricksStandard 2.3 x 1.45 (58 x 37 mm) inch footprintWide range of single & dual output voltages from 1.2 to 12 VDCThrough-hole or surface-mount termination & open-frame or baseplate
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AVQ/ADQ 1/4 BricksStandard 2.3 x 1.45 (58 x 37 mm) inch footprintWide range of single & dual output voltages from 1.2 to 12 VDCThrough-hole or surface-mount termination & open-frame or baseplate
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avq-adq-1-4-bricks/
+
+Complete Product Description:
+Advanced Energy’s family of quarter-brick isolated DC-DC converters for telecommunications applications covers power ratings from 72 to 400 W and includes models that are capable of delivering up to 100 A output current.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - Digital DC-DC Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - Digital DC-DC Brochure_English: https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - Digital DC-DC Brochure_Japanese Version: https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - ADQ500 Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/11e6ebcb-450c-45b5-912e-0ba49206206c/adq500_ds_1483629866.pdf
+  - ADQ600 10V Series Datasheet: https://www.advancedenergy.com/getmedia/90e811b5-8294-456c-85dd-9e3b620683f1/adq600_10v_1477377129.pdf
+  - ADQ600 Series Data Sheet: https://www.advancedenergy.com/getmedia/7066ccdc-2b4a-4871-90ac-9c9b806ee913/adq600_623b567281.pdf
+  - ADQ600B Datasheet: https://www.advancedenergy.com/getmedia/5b1c89b3-2deb-4a74-9afc-fed619fbf182/eng-adq600b-235-01_2_19_1620718055.pdf
+  - ADQ700 Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/c3f06af6-fd17-4056-ac78-d8dff2b34928/ENG-ADQ700-235-01-08-12-24.pdf
+  - ADQ800 Datasheet: https://www.advancedenergy.com/getmedia/803fb10c-75da-450f-9186-00c99085b4b8/adq800_12v_ds_1580885794.pdf
+  - AGQ200 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/dd291ebd-0a8e-4ae3-b0d9-a5d450eb285a/agq200_ds_06-27-14_6d7e5a3534.pdf
+  - AVQ100 Wide Input Datasheet: https://www.advancedenergy.com/getmedia/46ef5106-6242-4809-a999-1a3685420c40/avq100_wide_input_ds-1443441308.pdf
+  - AVQ100-24 Series Datasheet: https://www.advancedenergy.com/getmedia/bffce82f-2626-4116-96e4-38f9108670c1/ENG-AVQ100-24-235-01-03-28-24.pdf
+  - AVQ200 Wide Input Datasheet: https://www.advancedenergy.com/getmedia/e5221809-e481-431e-b911-38d67442e48c/avq200_wide_input_1443441256.pdf
+  - AVQ300 Series Data Sheet: https://www.advancedenergy.com/getmedia/e97295fd-a291-44f8-b286-67ebb69d13c2/avq300_ds_316fe631a3.pdf
+  - AVQ400 Series Data Sheet: https://www.advancedenergy.com/getmedia/f23959bf-faaa-4566-b5fa-61008241613b/avq400_ds_d019a4dd9b.pdf
+  - ADQ600B CoC: https://www.advancedenergy.com/getmedia/c2565e3b-b111-4a8d-afd4-9a0053c991fb/rohs_coc_adq600b-48s12b-6lk_1620721811_rohs_.pdf
+  - ADQ800-48S12B-4L COC: https://www.advancedenergy.com/getmedia/4ac69096-00d4-43ee-b34d-1de4d6a0a7ab/rohs2_coc_1503028425_rohs_.pdf
+  - AVQ200-36S12B-6L RoHS2 CoC: https://www.advancedenergy.com/getmedia/7d08ab2e-1360-4280-b492-922220f164ce/rohs2_coc_avq200-36s12b-6l_0711467869573_rohs_.pdf
+  - AVQ400-48S12-6L RoHS2 CoC: https://www.advancedenergy.com/getmedia/10f1473d-040d-463f-a9f0-30aebb239c77/rohs2_coc_avq400-48s12-6l_02121467856005_rohs_.pdf
+  - AVQ400-48S12B-6L RoHS2 CoC: https://www.advancedenergy.com/getmedia/d681b8f0-c4e7-4e5e-b024-2bd800295230/rohs2_coc_avq400-48s12b-6l_0211467856048_rohs_.pdf
+  - ADQ500 CE Cert: https://www.advancedenergy.com/getmedia/1d824963-4d91-4b9c-afc7-ad5ecab5f506/adq500-48s12_series_ce_rev00_1443606781_cert.pdf
+  - ADQ500 TUV cert: https://www.advancedenergy.com/getmedia/18e6264f-cdc5-44b1-abdc-685f23201e6f/682301505401_dc-dc_converter_a1443606859_cert.pdf
+  - ADQ500 UL NofA: https://www.advancedenergy.com/getmedia/ccb50b6b-0ccf-4894-80d8-da419b63aae0/nofa-4786930431_1443606822_cert.pdf
+  - ADQ600 CE Safety Certificate: https://www.advancedenergy.com/getmedia/cace9434-2c1e-4105-9941-6a7af7022dba/ce_adq600_1429032927_cert.pdf
+  - ADQ600 TUV Safety certificate: https://www.advancedenergy.com/getmedia/dabd8099-21d1-4610-9f4a-b72c315200c8/tuv_adq600-48s12xxxxxxxxx_b_1429032085_cert.pdf
+  - ADQ600 UL safety certificate: https://www.advancedenergy.com/getmedia/d35ef69b-b452-455e-99ac-59fa319d3d91/ul_nofa-4786494946-1429033002_cert.pdf
+  - ADQ600-48S10 CB Certification: https://www.advancedenergy.com/getmedia/febf3a80-e3ee-4bfb-8035-ced5acd9a322/dk-50144-ul_1477377338_cert.pdf
+  - ADQ600-48S10 CB test report: https://www.advancedenergy.com/getmedia/5ffbe7d3-8d56-40cd-976b-9a5f784560a7/e132002-a405-cb-1-original_1477377380_cert.pdf
+  - ADQ600-48S10 CE: https://www.advancedenergy.com/getmedia/ae3f503a-af48-4394-9ac9-961c5d16db8b/adq600-48s10_ce_1477377285_cert.pdf
+  - ADQ600-48S10 UL: https://www.advancedenergy.com/getmedia/0ec11549-f064-4c43-8d72-59ccae7ebcf6/nofa-4787115166_1477377226_cert.pdf
+  - ADQ600B CE: https://www.advancedenergy.com/getmedia/3ba26f05-2fb4-47db-9b17-9278c755fde9/adq600b-48s12xxxxxxxxx_ce_rev01620722611_cert.pdf
+  - ADQ600B TUV: https://www.advancedenergy.com/getmedia/3a83bb57-a509-40cc-aba1-ecd73380022e/adq600b-48s12xxxxxxxxx_tuv_su1620722563_cert.pdf
+  - ADQ600B UL: https://www.advancedenergy.com/getmedia/e925949d-4c2b-4045-8a5c-5b566a4ea898/e132002-20200923-certificateof1620722670_cert.pdf
+  - ADQ700 CE: https://www.advancedenergy.com/getmedia/6565fb29-5dd1-4fac-83fc-d97b8dc53910/adq700-48s12_series_ce_rev00_1477282601_cert.pdf
+  - ADQ700 TUV: https://www.advancedenergy.com/getmedia/09412828-0f78-450c-bc83-2c5b52d058ac/682304601301_dc-dc_converter_a1477282533_cert.pdf
+  - ADQ700 UL: https://www.advancedenergy.com/getmedia/4fe7f6b8-c28c-4c9f-a743-3edc747caedd/nofa-4787352454_1477282489_cert.pdf
+  - ADQ800-48S12B-4L CE: https://www.advancedenergy.com/getmedia/1ca8606e-f8d7-4789-8b97-be51720d2e5b/adq800-48s12b-4l_ce_rev00_1503028541_cert.pdf
+  - ADQ800-48S12B-4L TUV: https://www.advancedenergy.com/getmedia/56c36c97-a29f-407d-9ed0-277540a5cbb8/tuv_1503028501_cert.pdf
+  - ADQ800-48S12B-4L UL: https://www.advancedenergy.com/getmedia/9b7fca17-2a7e-480e-8648-d01bf4caa52b/ul_1503028463_cert.pdf
+  - AVQ400 CB certificate: https://www.advancedenergy.com/getmedia/d025317a-decd-4b83-b48a-d78956995465/avq400_cb_certificate_1491231163_cert.pdf
+  - TUV Certificate for AVQ300 and AVQ400: https://www.advancedenergy.com/getmedia/b97db56f-d1de-4da4-b57a-b8867226d890/avq400-48s12_tuv_cert_1460730950_cert.pdf
+  - UL Certificate AVQ300 and AVQ400: https://www.advancedenergy.com/getmedia/f9b81518-a246-41e1-accb-5923eecd2c60/avq400-48s12_ul_1460730054_cert.pdf
+  - ADQ500 Tech Ref Note: https://www.advancedenergy.com/getmedia/559337dc-e408-4a2e-a65f-4ff13ba8c6d6/TRN-DC-DC-ADQ500-48S12-Relaese2-1(2023-11-23).pdf
+  - ADQ600 Technical reference note: https://www.advancedenergy.com/getmedia/b3dd24c7-ee7c-49c4-8001-286737c0fc11/trn_dc_dc_adq600-48s12_release1449941998_techref.pdf
+  - ADQ600-48S10 TRN: https://www.advancedenergy.com/getmedia/2527f145-c422-48f6-a42b-8bd3ac15b5b2/trn_dc_dc_adq600-48s10-4l_rele1575605865_techref.pdf
+  - ADQ600B Techical Ref Note: https://www.advancedenergy.com/getmedia/b26a8814-767f-407b-9b98-e35770abc481/TRN-DC-DC-ADQ600B-48S12B-1-2-Release-(083023).pdf
+  - ADQ700 TRN: https://www.advancedenergy.com/getmedia/6b158ddb-a0c6-48e4-a36a-94c8b908fc64/TRN-DC-DC-ADQ700-48S12-4L-Release-1-8-(081224).pdf
+  - ADQ800-48S12B-4L Technical Reference Note: https://www.advancedenergy.com/getmedia/3f59da39-fed4-4698-af52-869543d60123/trn_dc_dc_adq800-48s12b_releas1575605629_techref.pdf
+  - AGQ200-48S1V2 Technical Reference Notes: https://www.advancedenergy.com/getmedia/9c884fe7-d6b9-4474-a47d-dad8207c4865/trn_dc-dc_agq200-48s1v2_relaes1414731629.pdf
+  - AGQ200-48S1V5 Technical Reference Notes: https://www.advancedenergy.com/getmedia/3f51fbe1-5218-4cf1-a06a-f3ee0aa26a9e/trn_dc-dc_agq200-48s1v5_relaes1414731621.pdf
+  - AGQ200-48S1V8 Technical Reference Notes: https://www.advancedenergy.com/getmedia/0efb94dc-7c32-45e5-bacc-c48baa91c576/trn_dc-dc_agq200-48s1v8_relaes1414731626.pdf
+  - AGQ200-48S3V3 Technical Reference Notes: https://www.advancedenergy.com/getmedia/48ed38c4-651c-4d94-8f7f-fa29f7a613de/trn_dc-dc_agq200-48s3v3_relaes1414731614.pdf
+  - AVQ100-24S05 Technical Reference Notes: https://www.advancedenergy.com/getmedia/35ae5bc5-1a1f-47c6-a884-aa3091082313/trn_dc-dc_avq100-24s05_relaese1414731308.pdf
+  - AVQ100-36S3V3 Technical Reference Notes: https://www.advancedenergy.com/getmedia/74f6e646-f73b-4820-ae2b-941b1bee095a/trn_dc-dc_avq100-36s3v3_relaes1414731310.pdf
+  - AVQ200 TRN: https://www.advancedenergy.com/getmedia/bfd4360b-bafa-4f52-a279-d46b1d51ceaf/trn_dc-dc_avq200-36s12_relaese1443107708_techref.pdf
+  - AVQ300-48S12 Technical Reference Notes: https://www.advancedenergy.com/getmedia/0be4f0ec-1993-4846-871f-ce94e777b5f0/trn_dc-dc_avq300-48s12_release1537415798_techref.pdf
+  - AVQ400 TRN: https://www.advancedenergy.com/getmedia/8221b579-2c40-4de6-b063-faabf6e25fbd/trn_dc-dc_avq400-48s12_rela1505273105_techref.pdf
+  - AVQ400-48S12PB-6LS Technical Reference Note: https://www.advancedenergy.com/getmedia/d231eb91-947a-4c42-9fef-b3e2733a0fcf/trn_dc-dc_avq400-48s12pb-6ls_r1471921096_techref.pdf
+  - EMI Management for Board-Mounted Power Modules White Paper: https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+  - EMI Management for Board-Mounted Power Modules White Paper A look at EMI sources in BMP modules and practical methods to reduce noise and achieve regulatory compliance. View Resource: https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - https://www.advancedenergy.com/getmedia/11e6ebcb-450c-45b5-912e-0ba49206206c/adq500_ds_1483629866.pdf
+  - https://www.advancedenergy.com/getmedia/90e811b5-8294-456c-85dd-9e3b620683f1/adq600_10v_1477377129.pdf
+  - https://www.advancedenergy.com/getmedia/7066ccdc-2b4a-4871-90ac-9c9b806ee913/adq600_623b567281.pdf
+  - https://www.advancedenergy.com/getmedia/5b1c89b3-2deb-4a74-9afc-fed619fbf182/eng-adq600b-235-01_2_19_1620718055.pdf
+  - https://www.advancedenergy.com/getmedia/c3f06af6-fd17-4056-ac78-d8dff2b34928/ENG-ADQ700-235-01-08-12-24.pdf
+  - https://www.advancedenergy.com/getmedia/803fb10c-75da-450f-9186-00c99085b4b8/adq800_12v_ds_1580885794.pdf
+  - https://www.advancedenergy.com/getmedia/dd291ebd-0a8e-4ae3-b0d9-a5d450eb285a/agq200_ds_06-27-14_6d7e5a3534.pdf
+  - https://www.advancedenergy.com/getmedia/46ef5106-6242-4809-a999-1a3685420c40/avq100_wide_input_ds-1443441308.pdf
+  - https://www.advancedenergy.com/getmedia/bffce82f-2626-4116-96e4-38f9108670c1/ENG-AVQ100-24-235-01-03-28-24.pdf
+  - https://www.advancedenergy.com/getmedia/e5221809-e481-431e-b911-38d67442e48c/avq200_wide_input_1443441256.pdf
+  - https://www.advancedenergy.com/getmedia/e97295fd-a291-44f8-b286-67ebb69d13c2/avq300_ds_316fe631a3.pdf
+  - https://www.advancedenergy.com/getmedia/f23959bf-faaa-4566-b5fa-61008241613b/avq400_ds_d019a4dd9b.pdf
+  - https://www.advancedenergy.com/getmedia/c2565e3b-b111-4a8d-afd4-9a0053c991fb/rohs_coc_adq600b-48s12b-6lk_1620721811_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/4ac69096-00d4-43ee-b34d-1de4d6a0a7ab/rohs2_coc_1503028425_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/7d08ab2e-1360-4280-b492-922220f164ce/rohs2_coc_avq200-36s12b-6l_0711467869573_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/10f1473d-040d-463f-a9f0-30aebb239c77/rohs2_coc_avq400-48s12-6l_02121467856005_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d681b8f0-c4e7-4e5e-b024-2bd800295230/rohs2_coc_avq400-48s12b-6l_0211467856048_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/1d824963-4d91-4b9c-afc7-ad5ecab5f506/adq500-48s12_series_ce_rev00_1443606781_cert.pdf
+  - https://www.advancedenergy.com/getmedia/18e6264f-cdc5-44b1-abdc-685f23201e6f/682301505401_dc-dc_converter_a1443606859_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ccb50b6b-0ccf-4894-80d8-da419b63aae0/nofa-4786930431_1443606822_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cace9434-2c1e-4105-9941-6a7af7022dba/ce_adq600_1429032927_cert.pdf
+  - https://www.advancedenergy.com/getmedia/dabd8099-21d1-4610-9f4a-b72c315200c8/tuv_adq600-48s12xxxxxxxxx_b_1429032085_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d35ef69b-b452-455e-99ac-59fa319d3d91/ul_nofa-4786494946-1429033002_cert.pdf
+  - https://www.advancedenergy.com/getmedia/febf3a80-e3ee-4bfb-8035-ced5acd9a322/dk-50144-ul_1477377338_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5ffbe7d3-8d56-40cd-976b-9a5f784560a7/e132002-a405-cb-1-original_1477377380_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ae3f503a-af48-4394-9ac9-961c5d16db8b/adq600-48s10_ce_1477377285_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0ec11549-f064-4c43-8d72-59ccae7ebcf6/nofa-4787115166_1477377226_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3ba26f05-2fb4-47db-9b17-9278c755fde9/adq600b-48s12xxxxxxxxx_ce_rev01620722611_cert.pdf
+  - https://www.advancedenergy.com/getmedia/3a83bb57-a509-40cc-aba1-ecd73380022e/adq600b-48s12xxxxxxxxx_tuv_su1620722563_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e925949d-4c2b-4045-8a5c-5b566a4ea898/e132002-20200923-certificateof1620722670_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6565fb29-5dd1-4fac-83fc-d97b8dc53910/adq700-48s12_series_ce_rev00_1477282601_cert.pdf
+  - https://www.advancedenergy.com/getmedia/09412828-0f78-450c-bc83-2c5b52d058ac/682304601301_dc-dc_converter_a1477282533_cert.pdf
+  - https://www.advancedenergy.com/getmedia/4fe7f6b8-c28c-4c9f-a743-3edc747caedd/nofa-4787352454_1477282489_cert.pdf
+  - https://www.advancedenergy.com/getmedia/1ca8606e-f8d7-4789-8b97-be51720d2e5b/adq800-48s12b-4l_ce_rev00_1503028541_cert.pdf
+  - https://www.advancedenergy.com/getmedia/56c36c97-a29f-407d-9ed0-277540a5cbb8/tuv_1503028501_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9b7fca17-2a7e-480e-8648-d01bf4caa52b/ul_1503028463_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d025317a-decd-4b83-b48a-d78956995465/avq400_cb_certificate_1491231163_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b97db56f-d1de-4da4-b57a-b8867226d890/avq400-48s12_tuv_cert_1460730950_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f9b81518-a246-41e1-accb-5923eecd2c60/avq400-48s12_ul_1460730054_cert.pdf
+  - https://www.advancedenergy.com/getmedia/559337dc-e408-4a2e-a65f-4ff13ba8c6d6/TRN-DC-DC-ADQ500-48S12-Relaese2-1(2023-11-23).pdf
+  - https://www.advancedenergy.com/getmedia/b3dd24c7-ee7c-49c4-8001-286737c0fc11/trn_dc_dc_adq600-48s12_release1449941998_techref.pdf
+  - https://www.advancedenergy.com/getmedia/2527f145-c422-48f6-a42b-8bd3ac15b5b2/trn_dc_dc_adq600-48s10-4l_rele1575605865_techref.pdf
+  - https://www.advancedenergy.com/getmedia/b26a8814-767f-407b-9b98-e35770abc481/TRN-DC-DC-ADQ600B-48S12B-1-2-Release-(083023).pdf
+  - https://www.advancedenergy.com/getmedia/6b158ddb-a0c6-48e4-a36a-94c8b908fc64/TRN-DC-DC-ADQ700-48S12-4L-Release-1-8-(081224).pdf
+  - https://www.advancedenergy.com/getmedia/3f59da39-fed4-4698-af52-869543d60123/trn_dc_dc_adq800-48s12b_releas1575605629_techref.pdf
+  - https://www.advancedenergy.com/getmedia/9c884fe7-d6b9-4474-a47d-dad8207c4865/trn_dc-dc_agq200-48s1v2_relaes1414731629.pdf
+  - https://www.advancedenergy.com/getmedia/3f51fbe1-5218-4cf1-a06a-f3ee0aa26a9e/trn_dc-dc_agq200-48s1v5_relaes1414731621.pdf
+  - https://www.advancedenergy.com/getmedia/0efb94dc-7c32-45e5-bacc-c48baa91c576/trn_dc-dc_agq200-48s1v8_relaes1414731626.pdf
+  - https://www.advancedenergy.com/getmedia/48ed38c4-651c-4d94-8f7f-fa29f7a613de/trn_dc-dc_agq200-48s3v3_relaes1414731614.pdf
+  - https://www.advancedenergy.com/getmedia/35ae5bc5-1a1f-47c6-a884-aa3091082313/trn_dc-dc_avq100-24s05_relaese1414731308.pdf
+  - https://www.advancedenergy.com/getmedia/74f6e646-f73b-4820-ae2b-941b1bee095a/trn_dc-dc_avq100-36s3v3_relaes1414731310.pdf
+  - https://www.advancedenergy.com/getmedia/bfd4360b-bafa-4f52-a279-d46b1d51ceaf/trn_dc-dc_avq200-36s12_relaese1443107708_techref.pdf
+  - https://www.advancedenergy.com/getmedia/0be4f0ec-1993-4846-871f-ce94e777b5f0/trn_dc-dc_avq300-48s12_release1537415798_techref.pdf
+  - https://www.advancedenergy.com/getmedia/8221b579-2c40-4de6-b063-faabf6e25fbd/trn_dc-dc_avq400-48s12_rela1505273105_techref.pdf
+  - https://www.advancedenergy.com/getmedia/d231eb91-947a-4c42-9fef-b3e2733a0fcf/trn_dc-dc_avq400-48s12pb-6ls_r1471921096_techref.pdf
+  - https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+  - https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/f108f328-64a8-489e-a2a4-96660b59610c/AVQ-ADQ-1-4TH-Bricks.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+AVQ/ADQ 1/4 BricksStandard 2.3 x 1.45 (58 x 37 mm) inch footprintWide range of single & dual output voltages from 1.2 to 12 VDCThrough-hole or surface-mount termination & open-frame or baseplate

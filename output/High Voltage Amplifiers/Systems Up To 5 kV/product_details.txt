@@ -1,0 +1,50 @@
+==============================================================================
+PRODUCT DETAILS: Systems Up To 5 kV
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Amplifiers
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-up-to-5-kv/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Systems Up To 5 kV
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-up-to-5-kv/
+
+Complete Product Description:
+Get precise & stable output power with our high-voltage, Trek amplifiers up to 5 kV. Our amplifiers ensure uninterrupted performance.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/1efaab5e-16fd-4535-bc12-b86360d05f3d/up-to-50-W-1-kV-thumbnail-ol600w-1u-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cc810d66-ccfd-44fb-9093-69cc35a6871c/Greater-than-50-W-pzd700a_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/328420d6-232a-4493-a49b-542fcffb01a1/Greater-than-50-W-pzd700a_web.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Amplifiers
+  ↓
+Systems Up To 5 kV

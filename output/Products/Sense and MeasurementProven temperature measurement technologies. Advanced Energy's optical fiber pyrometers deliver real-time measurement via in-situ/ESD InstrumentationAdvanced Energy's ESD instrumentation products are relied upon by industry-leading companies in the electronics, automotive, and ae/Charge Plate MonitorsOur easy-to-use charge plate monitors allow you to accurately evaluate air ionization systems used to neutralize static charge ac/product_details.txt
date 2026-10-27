@@ -1,0 +1,74 @@
+==============================================================================
+PRODUCT DETAILS: Charge Plate MonitorsOur easy-to-use charge plate monitors allow you to accurately evaluate air ionization systems used to neutralize static charge accumulation.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: ESD InstrumentationAdvanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/esd-instrumentation/
+Category Description: Advanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Charge Plate MonitorsOur easy-to-use charge plate monitors allow you to accurately evaluate air ionization systems used to neutralize static charge accumulation.
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/esd-instrumentation/charge-plate-monitors/
+
+Complete Product Description:
+Our easy-to-use charge plate monitors allow you to accurately evaluate air ionization systems used to neutralize static charge accumulation.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Monroe 288C Data Sheet: https://www.advancedenergy.com/getmedia/f5f8e42f-927d-42f1-b558-f0f366ef541d/en-esd-monroe-288c-data-sheet.pdf
+  - Trek 156A Data Sheet: https://www.advancedenergy.com/getmedia/e6fb8752-4239-4291-b322-53e263d40943/en-esd-trek-156a-data-sheet.pdf
+  - Trek 157 Data Sheet: https://www.advancedenergy.com/getmedia/5c2d87b4-4a10-49c0-8217-e47b08cc8649/en-esd-trek-157-data-sheet.pdf
+  - Trek 158A Data Sheet: https://www.advancedenergy.com/getmedia/0c755e26-bc18-4375-b944-f26655b9f5dd/en-esd-trek-158a-data-sheet.pdf
+  - Monroe 288C Graphing Software Operating Guide: https://www.advancedenergy.com/getmedia/60258a2f-37aa-4ec5-a96c-2c81fba8d7e6/en-esd-monroe-288b-software-manual.pdf
+  - Balancing of Pulsed DC Air Ionizers Made Quick and Easy Application Note: https://www.advancedenergy.com/getmedia/f2efb190-80e0-4ab3-9c0f-56598f9aa81a/en-esd-balancing-pulsed-ionizers-application-note.pdf
+  - Monroe 288C Graphing Software Overview: https://www.advancedenergy.com/getmedia/49600146-38da-4223-bfa7-901c50668533/en-esd-charged-plate-graphing-software-288b-data-sheet.pdf
+  - Plate Self Decay of Charged Plate Monitors Application Note: https://www.advancedenergy.com/getmedia/d8fcbf4f-4ed3-429c-8de1-ca9a87827bd4/en-esd-plate-self-decay-application-note.pdf
+  - Trek 156A/1 Serial Commands: https://www.advancedenergy.com/getmedia/c58c6f9e-6bd5-4db0-b05d-3992fed890c3/en-esd-cpm-trek-156a1_serial-software-note.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/f5f8e42f-927d-42f1-b558-f0f366ef541d/en-esd-monroe-288c-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e6fb8752-4239-4291-b322-53e263d40943/en-esd-trek-156a-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/5c2d87b4-4a10-49c0-8217-e47b08cc8649/en-esd-trek-157-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0c755e26-bc18-4375-b944-f26655b9f5dd/en-esd-trek-158a-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/60258a2f-37aa-4ec5-a96c-2c81fba8d7e6/en-esd-monroe-288b-software-manual.pdf
+  - https://www.advancedenergy.com/getmedia/f2efb190-80e0-4ab3-9c0f-56598f9aa81a/en-esd-balancing-pulsed-ionizers-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/49600146-38da-4223-bfa7-901c50668533/en-esd-charged-plate-graphing-software-288b-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d8fcbf4f-4ed3-429c-8de1-ca9a87827bd4/en-esd-plate-self-decay-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c58c6f9e-6bd5-4db0-b05d-3992fed890c3/en-esd-cpm-trek-156a1_serial-software-note.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/64235f45-38df-4896-aa12-9f167b42c37d/288c_01_web.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+ESD InstrumentationAdvanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+  ↓
+Charge Plate MonitorsOur easy-to-use charge plate monitors allow you to accurately evaluate air ionization systems used to neutralize static charge accumulation.

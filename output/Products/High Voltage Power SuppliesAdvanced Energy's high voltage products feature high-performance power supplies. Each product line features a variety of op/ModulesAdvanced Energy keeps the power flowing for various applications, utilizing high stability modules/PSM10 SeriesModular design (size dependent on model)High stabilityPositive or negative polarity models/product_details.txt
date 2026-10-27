@@ -1,0 +1,89 @@
+==============================================================================
+PRODUCT DETAILS: PSM10 SeriesModular design (size dependent on model)High stabilityPositive or negative polarity models
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: ModulesAdvanced Energy keeps the power flowing for various applications, utilizing high stability modules.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: PSM10 SeriesModular design (size dependent on model)High stabilityPositive or negative polarity models
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/psm10-series/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/68f7eb04-2ae9-42f3-b678-a333c6b43a34/en-hv-psm10-series-data-sheet.pdf
+  - HVPS Overview Brochure: https://www.advancedenergy.com/getmedia/cef7cc3d-cc0e-4d32-b88b-f177dc4117aa/en-high-voltage-power-supplies.pdf
+  - PSM10 Series Data Sheet: https://www.advancedenergy.com/getmedia/68f7eb04-2ae9-42f3-b678-a333c6b43a34/ENG-HV-PSM10-235-02-121724.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/68f7eb04-2ae9-42f3-b678-a333c6b43a34/en-hv-psm10-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/cef7cc3d-cc0e-4d32-b88b-f177dc4117aa/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/68f7eb04-2ae9-42f3-b678-a333c6b43a34/ENG-HV-PSM10-235-02-121724.pdf
+  - https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d527a8d7-2a16-4787-8b94-b6b2ac9e3594/psm10-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2541521-c83c-4c24-a083-c973e1ebd095/psm10-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f76fa0f-e9cd-499f-94ec-75fa4694fbeb/psm10-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cd84672d-38c3-47ef-988d-28e08a60e91d/psm10-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/22f9ce07-97c6-457d-bb08-07ef095e2a40/psm10-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d527a8d7-2a16-4787-8b94-b6b2ac9e3594/psm10-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2541521-c83c-4c24-a083-c973e1ebd095/psm10-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f76fa0f-e9cd-499f-94ec-75fa4694fbeb/psm10-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cd84672d-38c3-47ef-988d-28e08a60e91d/psm10-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/22f9ce07-97c6-457d-bb08-07ef095e2a40/psm10-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d527a8d7-2a16-4787-8b94-b6b2ac9e3594/psm10-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2541521-c83c-4c24-a083-c973e1ebd095/psm10-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5f76fa0f-e9cd-499f-94ec-75fa4694fbeb/psm10-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/cd84672d-38c3-47ef-988d-28e08a60e91d/psm10-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/22f9ce07-97c6-457d-bb08-07ef095e2a40/psm10-ft-wp.jpg
+  - AE High Voltage Power Supply Solutions: https://i.ytimg.com/vi/689RpM4haWQ/hqdefault.jpg
+  - AE Webinar - High Voltage Standard Product Power Supply Advantages: https://i.ytimg.com/vi/NQ25IG_fF7s/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3f7e371-7183-4fc2-91b9-c67ddb41c504/0b0eafdd07.png
+  - Image: https://www.advancedenergy.com/getattachment/8ed922ad-a0ae-4af2-bada-d0be3b3d9847/LCC-family.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d527a8d7-2a16-4787-8b94-b6b2ac9e3594/psm10-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/91c6f3aa-ff83-4feb-b582-d68fc7f3bfce/d-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f28e0046-5a65-48a6-94fa-75a4b11ce192/m-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5fc0ce09-9b63-453b-817e-0d302428908f/v-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedCNS650-MU Series650 W Open Frame AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/cns650-mu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+  - FeaturedLCC SeriesAdvanced Energy's Embedded Power offers the LCC series of fanless, fully-enclosed AC-DC power supplies.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/lcc-family/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+ModulesAdvanced Energy keeps the power flowing for various applications, utilizing high stability modules.
+  ↓
+PSM10 SeriesModular design (size dependent on model)High stabilityPositive or negative polarity models

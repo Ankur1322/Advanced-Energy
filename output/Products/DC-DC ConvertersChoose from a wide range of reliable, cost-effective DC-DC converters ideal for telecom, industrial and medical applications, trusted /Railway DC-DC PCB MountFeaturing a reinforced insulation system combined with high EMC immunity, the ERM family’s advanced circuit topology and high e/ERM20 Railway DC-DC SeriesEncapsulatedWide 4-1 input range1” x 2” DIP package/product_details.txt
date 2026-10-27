@@ -1,0 +1,111 @@
+==============================================================================
+PRODUCT DETAILS: ERM20 Railway DC-DC SeriesEncapsulatedWide 4:1 input range1” x 2” DIP package
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Railway DC-DC PCB MountFeaturing a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/
+Category Description: Featuring a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: ERM20 Railway DC-DC SeriesEncapsulatedWide 4:1 input range1” x 2” DIP package
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/erm20-railway-dc-dc/
+
+Complete Product Description:
+The 20 W ERM20 series of isolated DC-DC converter modules for railway and transport applications offers three input versions: 9 to 36, 18 to 75, and 40 to 160 VDC.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/63e844f7-72a2-40ab-8779-22bcee724bf8/erm20_ds_review_1491322745.pdf
+  - ERM 20W Data Sheet: https://www.advancedenergy.com/getmedia/63e844f7-72a2-40ab-8779-22bcee724bf8/erm20_ds_review_1491322745.pdf
+  - ERM 20W UL cert: https://www.advancedenergy.com/getmedia/07679c67-b2c0-4415-9f82-30301ea0335f/atl_rqr_285447003_1491322858_cert.pdf
+  - ERM 20W EMI test report: https://www.advancedenergy.com/getmedia/b02d84ac-5edc-4227-90bb-6b2bbbc4f47d/erm_01_04_00_02_series_final_r1491322932_techref.pdf
+  - ERM 20W Technical Reference Note: https://www.advancedenergy.com/getmedia/6b294af2-724f-4664-bbee-373ac329f878/trn_dc-dc_erm_20w_series_relea1494586872_techref.pdf
+  - ERM 20W Technical Reference Note: https://www.advancedenergy.com/getmedia/0fa2b0e3-d569-45ba-a00f-4c24d1e6c23e/trn_dc-dc_erm_20w_series_relea1629283354_techref.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/63e844f7-72a2-40ab-8779-22bcee724bf8/erm20_ds_review_1491322745.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/1470a45e-0aea-470b-adf8-d294ade5195b/erm50_ds_e760ddd0df.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/1d2336be-1aa8-43ac-a645-a4e86df816aa/erm75_ds_71408c4ac8.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/d1851356-74df-41d0-aba7-c16a5ef515cb/eng-erm100-235-01_11_02_22_1667385805.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/63e844f7-72a2-40ab-8779-22bcee724bf8/erm20_ds_review_1491322745.pdf
+  - https://www.advancedenergy.com/getmedia/63e844f7-72a2-40ab-8779-22bcee724bf8/erm20_ds_review_1491322745.pdf
+  - https://www.advancedenergy.com/getmedia/07679c67-b2c0-4415-9f82-30301ea0335f/atl_rqr_285447003_1491322858_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b02d84ac-5edc-4227-90bb-6b2bbbc4f47d/erm_01_04_00_02_series_final_r1491322932_techref.pdf
+  - https://www.advancedenergy.com/getmedia/6b294af2-724f-4664-bbee-373ac329f878/trn_dc-dc_erm_20w_series_relea1494586872_techref.pdf
+  - https://www.advancedenergy.com/getmedia/0fa2b0e3-d569-45ba-a00f-4c24d1e6c23e/trn_dc-dc_erm_20w_series_relea1629283354_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+  - https://www.advancedenergy.com/getmedia/63e844f7-72a2-40ab-8779-22bcee724bf8/erm20_ds_review_1491322745.pdf
+  - https://www.advancedenergy.com/getmedia/1470a45e-0aea-470b-adf8-d294ade5195b/erm50_ds_e760ddd0df.pdf
+  - https://www.advancedenergy.com/getmedia/1d2336be-1aa8-43ac-a645-a4e86df816aa/erm75_ds_71408c4ac8.pdf
+  - https://www.advancedenergy.com/getmedia/d1851356-74df-41d0-aba7-c16a5ef515cb/eng-erm100-235-01_11_02_22_1667385805.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d6242978-ab24-4139-b1fd-216d493c7338/3e89b68161.png
+  - Image: https://www.advancedenergy.com/getattachment/2a52b82a-8822-438a-9924-316189ed53dd/21a66bc41b.png
+  - Image: https://www.advancedenergy.com/getattachment/a5e991a9-9ada-41b4-bd1a-b543cae61d23/2d0d09fc32.png
+  - Image: https://www.advancedenergy.com/getattachment/a0cfa06d-6678-4c7c-ad39-127bbcdc378b/c08f5d2991.png
+  - Image: https://www.advancedenergy.com/getattachment/f96e5262-021c-470b-9eec-825f03bcf39d/d8272d04c9.png
+  - Image: https://www.advancedenergy.com/getattachment/ca9500e5-45c1-48ee-aa6a-587776a39de8/db29499090.png
+  - Image: https://www.advancedenergy.com/getattachment/d6242978-ab24-4139-b1fd-216d493c7338/3e89b68161.png
+  - Image: https://www.advancedenergy.com/getattachment/2a52b82a-8822-438a-9924-316189ed53dd/21a66bc41b.png
+  - Image: https://www.advancedenergy.com/getattachment/a5e991a9-9ada-41b4-bd1a-b543cae61d23/2d0d09fc32.png
+  - Image: https://www.advancedenergy.com/getattachment/a0cfa06d-6678-4c7c-ad39-127bbcdc378b/c08f5d2991.png
+  - Image: https://www.advancedenergy.com/getattachment/f96e5262-021c-470b-9eec-825f03bcf39d/d8272d04c9.png
+  - Image: https://www.advancedenergy.com/getattachment/ca9500e5-45c1-48ee-aa6a-587776a39de8/db29499090.png
+  - Image: https://www.advancedenergy.com/getattachment/d6242978-ab24-4139-b1fd-216d493c7338/3e89b68161.png
+  - Image: https://www.advancedenergy.com/getattachment/2a52b82a-8822-438a-9924-316189ed53dd/21a66bc41b.png
+  - Image: https://www.advancedenergy.com/getattachment/a5e991a9-9ada-41b4-bd1a-b543cae61d23/2d0d09fc32.png
+  - Image: https://www.advancedenergy.com/getattachment/a0cfa06d-6678-4c7c-ad39-127bbcdc378b/c08f5d2991.png
+  - Image: https://www.advancedenergy.com/getattachment/f96e5262-021c-470b-9eec-825f03bcf39d/d8272d04c9.png
+  - Image: https://www.advancedenergy.com/getattachment/ca9500e5-45c1-48ee-aa6a-587776a39de8/db29499090.png
+  - Image: https://www.advancedenergy.com/getattachment/d6242978-ab24-4139-b1fd-216d493c7338/3e89b68161.png
+  - Image: https://www.advancedenergy.com/getattachment/11889999-6510-4f05-b2a7-4b2648ec7044/e99561530e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f4c3769a-50dc-4811-b8e8-3347a3edb1d0/8311f58193.jpg
+  - Image: https://www.advancedenergy.com/getattachment/17f826a6-5853-4816-97c1-7af33f98dac0/d72e187649.png
+  - Image: https://www.advancedenergy.com/getattachment/be1815d1-bbc9-4fa2-b2c5-dec237e97ec4/Train-Banner-Image-1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be1815d1-bbc9-4fa2-b2c5-dec237e97ec4/Train-Banner-Image-1.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedERM20 Railway DC-DC Series20 W 2BY1 DC-DC Converter: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/erm20-railway-dc-dc/
+  - Datasheet: https://www.advancedenergy.com/getmedia/63e844f7-72a2-40ab-8779-22bcee724bf8/erm20_ds_review_1491322745.pdf
+  - FeaturedERM50 High Input Range Series50 W DC-DC Converters (High Input Models): https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/erm50-high-input-range/
+  - Datasheet: https://www.advancedenergy.com/getmedia/1470a45e-0aea-470b-adf8-d294ade5195b/erm50_ds_e760ddd0df.pdf
+  - FeaturedERM75 High Input Range Series75 W DC-DC Converters (High Input Models): https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/erm75-high-input-range/
+  - Datasheet: https://www.advancedenergy.com/getmedia/1d2336be-1aa8-43ac-a645-a4e86df816aa/erm75_ds_71408c4ac8.pdf
+  - FeaturedERM100 Railway DC-DC Series100 W Quarter Brick: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/erm100-railway-dc-dc/
+  - Datasheet: https://www.advancedenergy.com/getmedia/d1851356-74df-41d0-aba7-c16a5ef515cb/eng-erm100-235-01_11_02_22_1667385805.pdf
+  - RailwayAdvanced Energy’s power conversion solutions for Railway are designed and manufactured for the harsh environments in which infrastructure, control and rolling stock must operate. The electrical performance is compliant with EN50155 specifications and other global standards.: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/train/
+  - Explore Railway: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/train/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Railway DC-DC PCB MountFeaturing a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.
+  ↓
+ERM20 Railway DC-DC SeriesEncapsulatedWide 4:1 input range1” x 2” DIP package

@@ -1,0 +1,114 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedTE20 Series15 W to 20 W Single Output External Power
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: TE SeriesITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/
+Category Description: The TE series is part of Advanced Energy's medical external power supplies and offers nine products under this family ranging from 10 W to 240 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedTE20 Series15 W to 20 W Single Output External Power
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te20-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power TE20 series of desktop and wall-plug AC-DC external power adapter comprises nine output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - TE20 Series Datasheet: https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - IEC62368-1 Demko Certificate: https://www.advancedenergy.com/getmedia/15bd4566-0c69-4830-82b6-0252ef60a81c/BX010(020)%20&%20XE10(20)_DEMKO%20Certificate_IEC62368-1(_20300813).pdf
+  - TE20 Series Demko Certificate: https://www.advancedenergy.com/getmedia/23e86325-76e7-43ac-95bd-bda934916042/TE20_Demko_Cert.pdf
+  - TE20 RoHS Certificate: https://www.advancedenergy.com/getmedia/19d6a11a-9698-4300-bcac-bb6a1b365f22/TE20_RoHS_Cert.pdf
+  - EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/e234d511-3e2d-4381-826d-407bb7336d4f/CE-TExx-and-MExx-Series-2020-EU-Rep-R2.pdf
+  - TE10/TE20 Class I CB Certificate: https://www.advancedenergy.com/getmedia/b197fc82-0fd1-41d2-8037-e6fd62b24027/DK-100754-UL.pdf
+  - TE10/TE20 Class II CB Certificate: https://www.advancedenergy.com/getmedia/8cd7962d-1366-471c-9c19-e0c3dc9827d2/DK-100756-UL.pdf
+  - TE20 Series CB Certificate: https://www.advancedenergy.com/getmedia/09b3b829-9026-45ad-b27e-e8eda6a47906/TE20_CB_Cert.pdf
+  - TE20 Series UL Certificate: https://www.advancedenergy.com/getmedia/56e06a0c-0824-4cae-a2cf-9bf5fe192d7e/TE20_UL_Cert.pdf
+  - Connector Options: https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/51202f7f-9efd-4adf-a0cd-173f0059b718/TE30-01%2011.9.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/831f6c9a-d300-4e82-aa2d-fe21439b8550/ME20-01%2011.22.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ef9ae472-da8f-482d-adb5-64d741900c01/ENG-SLE18-235-01%2010.24.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/fdfdaa72-b746-4112-aada-383d8a8f6164/ENG-MENB1010-01%2004.28.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - https://www.advancedenergy.com/getmedia/15bd4566-0c69-4830-82b6-0252ef60a81c/BX010(020)%20&%20XE10(20)_DEMKO%20Certificate_IEC62368-1(_20300813).pdf
+  - https://www.advancedenergy.com/getmedia/23e86325-76e7-43ac-95bd-bda934916042/TE20_Demko_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/19d6a11a-9698-4300-bcac-bb6a1b365f22/TE20_RoHS_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/e234d511-3e2d-4381-826d-407bb7336d4f/CE-TExx-and-MExx-Series-2020-EU-Rep-R2.pdf
+  - https://www.advancedenergy.com/getmedia/b197fc82-0fd1-41d2-8037-e6fd62b24027/DK-100754-UL.pdf
+  - https://www.advancedenergy.com/getmedia/8cd7962d-1366-471c-9c19-e0c3dc9827d2/DK-100756-UL.pdf
+  - https://www.advancedenergy.com/getmedia/09b3b829-9026-45ad-b27e-e8eda6a47906/TE20_CB_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/56e06a0c-0824-4cae-a2cf-9bf5fe192d7e/TE20_UL_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - https://www.advancedenergy.com/getmedia/51202f7f-9efd-4adf-a0cd-173f0059b718/TE30-01%2011.9.22.pdf
+  - https://www.advancedenergy.com/getmedia/831f6c9a-d300-4e82-aa2d-fe21439b8550/ME20-01%2011.22.22.pdf
+  - https://www.advancedenergy.com/getmedia/ef9ae472-da8f-482d-adb5-64d741900c01/ENG-SLE18-235-01%2010.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/fdfdaa72-b746-4112-aada-383d8a8f6164/ENG-MENB1010-01%2004.28.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/3954ae45-c98b-4924-9618-249f21c19d92/TE20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3954ae45-c98b-4924-9618-249f21c19d92/TE20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fac343b4-4ab9-4a69-b811-f6dd6f268b15/KT1027-img-1594925165.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b8c12936-6dfc-4bfb-b685-f9627837075f/TE30.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be2bfb30-3d11-46e1-8a53-5baa4abf9dc5/ME20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dd6515de-bd34-4c43-9b2b-a12061c97b9f/SLE18-img-1569644821.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aef514f3-f237-4dcd-82d5-bbdac1dd15c3/MENB1010.png
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8a254cd6-c584-405f-806b-9137561e52d1/RoutingSwitching-display-banner.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedTE30 Series20 W to 30 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te30-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/51202f7f-9efd-4adf-a0cd-173f0059b718/TE30-01%2011.9.22.pdf
+  - FeaturedME20 Series20 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me20-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/831f6c9a-d300-4e82-aa2d-fe21439b8550/ME20-01%2011.22.22.pdf
+  - FeaturedSLE18 Series18 W Single Output Medical/Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle18/
+  - Datasheet: https://www.advancedenergy.com/getmedia/ef9ae472-da8f-482d-adb5-64d741900c01/ENG-SLE18-235-01%2010.24.23.pdf
+  - FeaturedMENB1010 Series10 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/menb/menb1010-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/fdfdaa72-b746-4112-aada-383d8a8f6164/ENG-MENB1010-01%2004.28.23.pdf
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Routing / SwitchingNetwork routing and switching are essential to any network infrastructure, and Advanced Energy's power supply solutions are designed to meet these demanding needs.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/routing-switching/
+  - Explore Routing/Switching: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/routing-switching/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+TE SeriesITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+  ↓
+FeaturedTE20 Series15 W to 20 W Single Output External Power

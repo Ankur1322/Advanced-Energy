@@ -1,0 +1,108 @@
+==============================================================================
+PRODUCT DETAILS: Pinnacle III DC Power SupplyProduce the best films possible with accurate, repeatable power and leading, low-delivered ARC energy
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/
+Category Description: Extend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Pinnacle III DC Power SupplyProduce the best films possible with accurate, repeatable power and leading, low-delivered ARC energy
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/pulsed-and-dc-power-systems/pinnacle-iii/
+
+Complete Product Description:
+The field-proven Pinnacle® DC generators deliver remarkable process consistency and control for significantly reduced variation and higher yields. This compact, versatile package offers outstanding arc management with low stored energy, fast arc response, and wide, full-power operational impedance range.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+  - Pinnacle Series Data Sheet Download Pinnacle Series Brochure for details regarding product specifications, electrical specifications, mechanical specifications and ordering information. Discover how Pinnacle's superior efficiency, and high power factor meet your needs. View Resource: https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+  - PowerInsight by Advanced Energy PowerInsight acts as a flight recorder, capturing AE power delivery system performance data. Download PowerInsight brochure to see how AE's IoT solutions meet your needs. View Resource: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - Optimizing Static Deposition Processes White Paper View Resource: https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - PowerInsight by Advanced Energy: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - Pinnacle Series Data Sheet: https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+  - Pinnacle Series Datasheet: https://www.advancedenergy.com/getmedia/fe77ea11-d07d-42d0-82ae-cfc9a08900e0/zho-ppg-pinnacle-series-data-sheet.pdf
+  - Optimizing Static Deposition Processes White Paper: https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/1a552a54-6bda-492f-9092-444974e6a964/en-ppg-pinnacle-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/fe77ea11-d07d-42d0-82ae-cfc9a08900e0/zho-ppg-pinnacle-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/7f5a18e7-a76f-4ee9-97cf-4cb8609f1cd1/optimizing-static-deposition-processes-white-paper.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b22f125a-e2a4-4ea7-b737-09a97d504c6e/PINNACLE-FR-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/910474cc-d21d-4d8a-95e9-5add99e48268/PINNACLE-BB-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/37dbb3a9-f14b-4f7d-b901-708bdccadfb5/PINNACLE-FL-TP.png
+  - Image: https://www.advancedenergy.com/getattachment/e8898f7d-7234-4195-9424-916dba11553c/PINNACLE-FS-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c0117c1b-827b-432a-8588-cc92d1e4d98d/PINNACLE-FT-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b22f125a-e2a4-4ea7-b737-09a97d504c6e/PINNACLE-FR-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/910474cc-d21d-4d8a-95e9-5add99e48268/PINNACLE-BB-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/37dbb3a9-f14b-4f7d-b901-708bdccadfb5/PINNACLE-FL-TP.png
+  - Image: https://www.advancedenergy.com/getattachment/e8898f7d-7234-4195-9424-916dba11553c/PINNACLE-FS-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c0117c1b-827b-432a-8588-cc92d1e4d98d/PINNACLE-FT-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b22f125a-e2a4-4ea7-b737-09a97d504c6e/PINNACLE-FR-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/910474cc-d21d-4d8a-95e9-5add99e48268/PINNACLE-BB-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/37dbb3a9-f14b-4f7d-b901-708bdccadfb5/PINNACLE-FL-TP.png
+  - Image: https://www.advancedenergy.com/getattachment/e8898f7d-7234-4195-9424-916dba11553c/PINNACLE-FS-WP.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c0117c1b-827b-432a-8588-cc92d1e4d98d/PINNACLE-FT-WP.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Pulsed and DC Power SystemsExtend process innovation with Advanced Energy’s comprehensive DC and pulsed-DC suite.
+  ↓
+Pinnacle III DC Power SupplyProduce the best films possible with accurate, repeatable power and leading, low-delivered ARC energy

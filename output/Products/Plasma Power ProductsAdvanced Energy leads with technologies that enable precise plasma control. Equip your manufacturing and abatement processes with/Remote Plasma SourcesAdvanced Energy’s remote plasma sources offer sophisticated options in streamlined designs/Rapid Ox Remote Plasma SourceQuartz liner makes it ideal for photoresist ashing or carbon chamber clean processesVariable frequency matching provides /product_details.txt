@@ -1,0 +1,100 @@
+==============================================================================
+PRODUCT DETAILS: Rapid Ox Remote Plasma SourceQuartz liner makes it ideal for photoresist ashing or carbon chamber clean processesVariable frequency matching provides a range of plasma impedance operation, controlled by varying gas chemistry, pressure, and power set pointImproved thermal management helps ensure long chamber lifetime
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Remote Plasma SourcesAdvanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/
+Category Description: Advanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Rapid Ox Remote Plasma SourceQuartz liner makes it ideal for photoresist ashing or carbon chamber clean processesVariable frequency matching provides a range of plasma impedance operation, controlled by varying gas chemistry, pressure, and power set pointImproved thermal management helps ensure long chamber lifetime
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/remote-plasma-sources/rapid-ox/
+
+Complete Product Description:
+Reduce recombination effects and extend the lifetime of oxygen radicals thanks to Rapid OX's removable quartz liner.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/75f43399-edc7-413a-9038-4e7cd2492459/rapid-ox-rps-data-sheet.pdf
+  - Rapid OX RPS Data Sheet View Resource: https://www.advancedenergy.com/getmedia/75f43399-edc7-413a-9038-4e7cd2492459/rapid-ox-rps-data-sheet.pdf
+  - 3 Tips for Sourcing Chamber Cleaning RPS Systems View Resource: https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+  - RAPID OX: https://www.advancedenergy.com/getmedia/f33f2dfd-440c-46c6-a0bb-e602396bcb3f/ch-rps-rapid-ox-brochure.pdf
+  - Rapid OX RPS Data Sheet: https://www.advancedenergy.com/getmedia/75f43399-edc7-413a-9038-4e7cd2492459/rapid-ox-rps-data-sheet.pdf
+  - 3 Tips for Sourcing Chamber Cleaning RPS Systems: https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/75f43399-edc7-413a-9038-4e7cd2492459/rapid-ox-rps-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/75f43399-edc7-413a-9038-4e7cd2492459/rapid-ox-rps-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+  - https://www.advancedenergy.com/getmedia/f33f2dfd-440c-46c6-a0bb-e602396bcb3f/ch-rps-rapid-ox-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/75f43399-edc7-413a-9038-4e7cd2492459/rapid-ox-rps-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/bdde5a17-c247-44ce-a456-21b03046bd55/3-tips-sourcing-chamber-cleaning-rps-systems.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b01ec99c-a753-4453-9ec6-5fc6130f1328/rapid-ox-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3239e84c-da15-4fc9-82b9-8033b74798bf/rapid-ox-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aef4c908-b5b2-4191-bcf9-a5c92b37c890/rapid-ox-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/564d82d4-4129-4ef4-bf4a-66ec34b28ecd/rapid-ox-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb89c34f-e4fb-4a32-a408-c0b316021471/rapid-ox-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b01ec99c-a753-4453-9ec6-5fc6130f1328/rapid-ox-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3239e84c-da15-4fc9-82b9-8033b74798bf/rapid-ox-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aef4c908-b5b2-4191-bcf9-a5c92b37c890/rapid-ox-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/564d82d4-4129-4ef4-bf4a-66ec34b28ecd/rapid-ox-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb89c34f-e4fb-4a32-a408-c0b316021471/rapid-ox-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b01ec99c-a753-4453-9ec6-5fc6130f1328/rapid-ox-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3239e84c-da15-4fc9-82b9-8033b74798bf/rapid-ox-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aef4c908-b5b2-4191-bcf9-a5c92b37c890/rapid-ox-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/564d82d4-4129-4ef4-bf4a-66ec34b28ecd/rapid-ox-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb89c34f-e4fb-4a32-a408-c0b316021471/rapid-ox-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/infographic.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - ImplantOur products are engineered with a focus on optimizing efficiency and power density to ensure precise control of ion energy.: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+  - Explore Implant: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Remote Plasma SourcesAdvanced Energy’s remote plasma sources offer sophisticated options in streamlined designs.
+  ↓
+Rapid Ox Remote Plasma SourceQuartz liner makes it ideal for photoresist ashing or carbon chamber clean processesVariable frequency matching provides a range of plasma impedance operation, controlled by varying gas chemistry, pressure, and power set pointImproved thermal management helps ensure long chamber lifetime

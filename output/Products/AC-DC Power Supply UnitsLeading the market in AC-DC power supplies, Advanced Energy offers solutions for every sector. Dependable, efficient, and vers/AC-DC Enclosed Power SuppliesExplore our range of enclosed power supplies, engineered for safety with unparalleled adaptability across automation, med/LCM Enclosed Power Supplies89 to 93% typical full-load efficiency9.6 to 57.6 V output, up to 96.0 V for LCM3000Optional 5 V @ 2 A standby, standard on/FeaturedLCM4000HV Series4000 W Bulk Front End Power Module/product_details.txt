@@ -1,0 +1,116 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLCM4000HV Series4000 W Bulk Front End Power Module
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+[Level 3] Category Name: LCM Enclosed Power Supplies89 to 93% typical full-load efficiency9.6 to 57.6 V output, up to 96.0 V for LCM3000Optional 5 V @ 2 A standby, standard on LCM3000LCM4000HV provides 150 to 300 v at 4000W for LED lighting
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLCM4000HV Series4000 W Bulk Front End Power Module
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm4000hv/
+
+Complete Product Description:
+Advanced Energy’s LCM4000HV series has been designed specifically to provide a voltage or current source for high voltage DC output applications (100-300VDC).
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - Horticultural Lighting Brochure: https://www.advancedenergy.com/getmedia/c32feeaf-13d9-4a95-b1b8-4f76d5a933e2/ENG-Horticultual-Lighting-225-02.pdf
+  - RS-485 MODBUS Cable: https://www.advancedenergy.com/getmedia/803c3e8f-1c86-407f-860c-4b1f70abbd6e/ENG-Artesyn-RS485-MODBUS-Programming-Cable-06-26-24.pdf
+  - LCM12K TRN: https://www.advancedenergy.com/getmedia/89db50c6-5a17-4754-b85f-602d4bbf8646/TRN-AC-DC-LCM12K-Release-1-4-(2023-06-03).pdf
+  - LCM4000HV Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - CB Test Certificate: https://www.advancedenergy.com/getmedia/19a61a04-28b9-4692-a404-3be99f742a1b/DK-122451-M2-UL.pdf
+  - Notice of Authorization: https://www.advancedenergy.com/getmedia/d0209e1e-b4a9-4375-8fba-ae01b299b28b/Notice-of-Authorization-4791218716-2024-03-25-4791218716.pdf
+  - LCM4000HV Series TRN: https://www.advancedenergy.com/getmedia/e0405d51-6a7a-4ee0-8e2d-c6fd064667c0/TRN-AC-DC-LCM4000HV-Series-Release-1-3-(2024-06-03).pdf
+  - Download: https://www.advancedenergy.com/getmedia/f3198262-4844-470a-8d73-a2c7e8f5225e/AE-LCM4000-V01-01-00-Installer.zip
+  - Datasheet: https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - https://www.advancedenergy.com/getmedia/c32feeaf-13d9-4a95-b1b8-4f76d5a933e2/ENG-Horticultual-Lighting-225-02.pdf
+  - https://www.advancedenergy.com/getmedia/803c3e8f-1c86-407f-860c-4b1f70abbd6e/ENG-Artesyn-RS485-MODBUS-Programming-Cable-06-26-24.pdf
+  - https://www.advancedenergy.com/getmedia/89db50c6-5a17-4754-b85f-602d4bbf8646/TRN-AC-DC-LCM12K-Release-1-4-(2023-06-03).pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+  - https://www.advancedenergy.com/getmedia/19a61a04-28b9-4692-a404-3be99f742a1b/DK-122451-M2-UL.pdf
+  - https://www.advancedenergy.com/getmedia/d0209e1e-b4a9-4375-8fba-ae01b299b28b/Notice-of-Authorization-4791218716-2024-03-25-4791218716.pdf
+  - https://www.advancedenergy.com/getmedia/e0405d51-6a7a-4ee0-8e2d-c6fd064667c0/TRN-AC-DC-LCM4000HV-Series-Release-1-3-(2024-06-03).pdf
+  - https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/5866427e-9f2a-44a3-b870-dbce7f41d7b1/6fe559910e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2ceb201-8201-45c4-ac4b-467e5f7836f7/23f0ce88ba.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aef646d2-9980-4ef6-871a-da26d67b03c3/81665248f6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e8e8de9-6c9a-4553-8d80-8f2ee8b27f54/d1299c2ec8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/71ec7fc6-987e-4150-84da-f475ef815891/e147863688.jpg
+  - Image: https://www.advancedenergy.com/getattachment/625da8ae-f773-4c51-be02-e13129e82c44/e330599e5e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5866427e-9f2a-44a3-b870-dbce7f41d7b1/6fe559910e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2ceb201-8201-45c4-ac4b-467e5f7836f7/23f0ce88ba.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aef646d2-9980-4ef6-871a-da26d67b03c3/81665248f6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e8e8de9-6c9a-4553-8d80-8f2ee8b27f54/d1299c2ec8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/71ec7fc6-987e-4150-84da-f475ef815891/e147863688.jpg
+  - Image: https://www.advancedenergy.com/getattachment/625da8ae-f773-4c51-be02-e13129e82c44/e330599e5e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5866427e-9f2a-44a3-b870-dbce7f41d7b1/6fe559910e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2ceb201-8201-45c4-ac4b-467e5f7836f7/23f0ce88ba.jpg
+  - Image: https://www.advancedenergy.com/getattachment/aef646d2-9980-4ef6-871a-da26d67b03c3/81665248f6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e8e8de9-6c9a-4553-8d80-8f2ee8b27f54/d1299c2ec8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/71ec7fc6-987e-4150-84da-f475ef815891/e147863688.jpg
+  - Image: https://www.advancedenergy.com/getattachment/625da8ae-f773-4c51-be02-e13129e82c44/e330599e5e.jpg
+  - Image: https://www.advancedenergy.com/getattachment/287f45fd-2995-4a72-b652-942bb23f4b4b/LCM4000HV-GUI.PNG
+  - Image: https://www.advancedenergy.com/getattachment/a10c93ae-d536-4542-a466-40f79aa33cec/LumaDrive-PDP.png
+  - Image: https://www.advancedenergy.com/getattachment/76eb9f81-ca5b-483c-801b-37c411b97cfc/PDU-Front-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/24f416c4-d1d9-415a-bec9-d4a8cf83fce4/LCM12K_ang4_300-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/a0d142f5-ba8f-4267-8bb9-759e27757afd/Horticulture.png
+  - Image: https://www.advancedenergy.com/getattachment/a0d142f5-ba8f-4267-8bb9-759e27757afd/Horticulture.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLumaDrive™ SystemsEnergy efficient and cost effective, our pre-wired systems includes 24, 36, 72, and 144 kW models for horticulture applications such as greenhouse and indoor growing, as well as industrial applications such as parking garages and warehouse environments. Their pre-wired designs provide the power you need without the hassles of on-site wiring. As part of an entire LED lighting system, this series eases setup, reduces fixture weight, simplifies maintenance with ground-level power and dimming controls, and enhances energy efficiency through native 3-phase power compatibility.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/lumadrive-systems/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2b742e84-211f-4bef-9c6e-fca0c2372c3a/ENG-LumaDrive-19-inch-Rack-08-13-24.pdf
+  - FeaturedLMD-PDU (Power Distribution Unit) for LumaDriveRack‑mount LMD‑PDU delivers centralized, efficient power distribution for up to three LCM12K shelves, enabling custom LumaDrive cabinet designs with reduced energy loss, improved system performance, and reliable safety features.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/lmd-systems/fc-pdu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7ae592b8-a2a0-4afe-bc67-1809f76af05a/en-data-sheet-LMD-PDU-04-25.pdf
+  - FeaturedLCM 12 kW ShelvesLCM12K single output parallel redundant shelf: a centralized current source for medium- to large-scale LED lighting and horticulture: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/system-shelves/lcm-12k-shelf-7aae2be030b289adb84b108e175042b9/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-10-07-25.pdf
+  - Horticulture LightingOur remote drivers power next-generation horticulture lighting system in grow rooms by reducing energy and installation costs.: https://www.advancedenergy.com/en-us/applications/industrial/horticulture/
+  - Explore Horticulture: https://www.advancedenergy.com/en-us/applications/industrial/horticulture/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+LCM Enclosed Power Supplies89 to 93% typical full-load efficiency9.6 to 57.6 V output, up to 96.0 V for LCM3000Optional 5 V @ 2 A standby, standard on LCM3000LCM4000HV provides 150 to 300 v at 4000W for LED lighting
+  ↓
+FeaturedLCM4000HV Series4000 W Bulk Front End Power Module

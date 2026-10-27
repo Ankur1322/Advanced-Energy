@@ -1,0 +1,106 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNGB800 Series800 W Single Output Medical & Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 501 - 999 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsChassis mount constructionPeak power capabilities
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/
+Category Description: Advanced Energy power supplies within the 500 to 1000 W range provide even more power for energy-hungry applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNGB800 Series800 W Single Output Medical & Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb800-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power NGB800 series of open-frame AT A GLANCE AC-DC power supplies features ITE and medical safety approvals.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - NGB800 Datasheet: https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - NGB800 Technical Reference Note: https://www.advancedenergy.com/getmedia/dee3b238-ddd8-4341-adf9-1ae6128afd52/TRN%20AC-DC%20NGB800%20Release1.1%20(09.11.2023).pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8ab778fa-da21-4e9f-931a-2d9d02590f2b/ENG-LU500-03.24.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - https://www.advancedenergy.com/getmedia/3206d487-3adf-48e6-972f-607945e215eb/ENG-NGB800-235-01%2009.11.23.pdf
+  - https://www.advancedenergy.com/getmedia/dee3b238-ddd8-4341-adf9-1ae6128afd52/TRN%20AC-DC%20NGB800%20Release1.1%20(09.11.2023).pdf
+  - https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - https://www.advancedenergy.com/getmedia/8ab778fa-da21-4e9f-931a-2d9d02590f2b/ENG-LU500-03.24.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0b6df03e-6227-4152-97d3-b7ae8befb70a/NGB800-img-1663798077.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0b6df03e-6227-4152-97d3-b7ae8befb70a/NGB800-img-1663798077.jpg
+  - AE's SL Power NGB Series: https://i.ytimg.com/vi/1yASKbnvDnQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/11e9b794-6af9-42a1-ae90-44d5f3b75a0e/NGB660-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7b135346-397a-440a-83f8-b6c12ba381d8/MINT1500.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d28e9049-5f51-4952-8bb6-5914b4edebe1/NGB1200-img-1692817136.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ceb6f44f-04f2-4971-895e-f2850c18249c/LU500-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d2db61af-f434-4f7e-a8da-6ccc4e705471/Ultrasound-Device.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d405fa6d-488b-4743-ad1c-79ce29f0722d/industrial_robots-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNGB660 Series660 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/ngb660-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/2e522d9d-b59a-4eb9-a117-eb5b9148d583/ENG-NGB660%20-10.23.23.pdf
+  - FeaturedMINT1500 Series500 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/mint1500-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6d46d5a1-1413-4c50-adf6-cfb211a5cc29/ENG-MINT1500-03.25.23.pdf
+  - FeaturedNGB1200 Series1200 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/ngb1200-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/97caeaf0-9bb8-4daf-ae9c-cc084df870d3/ENG-NGB1200-09.11.23.pdf
+  - FeaturedLU500 Series500 W Single Output LED Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/lu500-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/8ab778fa-da21-4e9f-931a-2d9d02590f2b/ENG-LU500-03.24.23.pdf
+  - UltrasoundAdvanced Energy provides power supply solutions for medical imaging ultrasound equipment, providing reliable and efficient power to these essential medical devices.: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - Explore Ultrasound: https://www.advancedenergy.com/en-us/applications/medical/medical-imaging/ultrasound/
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Industrial and Collaborative RobotsModifiable AC-DC and DC-DC solutions for industrial and collaborative robots. Efficient, reliable power supplies support high-volume production and cut costs: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - Explore Industrial and Collaborative Robots: https://www.advancedenergy.com/en-us/applications/industrial/transport-robotics/industrial-and-collaborative-robots/
+  - PEF / PFAOur precision power control solutions are designed to empower medical equipment designers to deliver advanced ablation systems that enable more precise targeting of tumors, improve the efficacy of treatments, and ultimately deliver better outcomes for patients and doctors.: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - Explore PEF: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+501 - 999 Watt RangeMedical (BF ratings) & ITE Safety ApprovalsAirflow and convection power ratingsChassis mount constructionPeak power capabilities
+  ↓
+FeaturedNGB800 Series800 W Single Output Medical & Industrial Grade

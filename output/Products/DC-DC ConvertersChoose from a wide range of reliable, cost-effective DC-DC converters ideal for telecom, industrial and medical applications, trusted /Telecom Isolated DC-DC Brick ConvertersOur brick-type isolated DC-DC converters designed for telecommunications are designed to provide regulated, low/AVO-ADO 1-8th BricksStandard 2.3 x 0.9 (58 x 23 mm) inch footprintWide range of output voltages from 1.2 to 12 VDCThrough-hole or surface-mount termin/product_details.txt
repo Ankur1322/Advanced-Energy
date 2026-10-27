@@ -1,0 +1,187 @@
+==============================================================================
+PRODUCT DETAILS: AVO/ADO 1/8th BricksStandard 2.3 x 0.9 (58 x 23 mm) inch footprintWide range of output voltages from 1.2 to 12 VDCThrough-hole or surface-mount termination & open-frame or baseplate
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AVO/ADO 1/8th BricksStandard 2.3 x 0.9 (58 x 23 mm) inch footprintWide range of output voltages from 1.2 to 12 VDCThrough-hole or surface-mount termination & open-frame or baseplate
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avo-ado-1-8th-bricks/
+
+Complete Product Description:
+Advanced Energy’s family of eighth-brick isolated DC-DC converters for telecommunications applications covers power ratings from 50 to 250 W and includes models that are capable of delivering up to 50 A output current.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - Digital DC-DC Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - Digital DC-DC Brochure_English: https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - Digital DC-DC Brochure_Japanese Version: https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - ADO300 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/d65c20a0-906d-4f16-a956-b493e62deee0/eng-ado300_series-235-01_03_191617004728.pdf
+  - ADO500-Series-DS Datasheet: https://www.advancedenergy.com/getmedia/b6e75b69-2354-4990-b3f5-b10fee15c6eb/ado500-series-ds-_1538191473.pdf
+  - ADO500/ADO550 Datasheet: https://www.advancedenergy.com/getmedia/ed26f815-ae49-453a-bc35-2a05bdd5eaf8/ado500-series-ds-_1538192991.pdf
+  - AVO100 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/1bb070b0-3d3c-4440-8373-100c9a2b35d7/avo100_ds_1607bea683.pdf
+  - AVO120 Series Data sheet: https://www.advancedenergy.com/getmedia/b7fadf28-d844-4555-9e50-aa7b8060140f/av0120_ds_eb4f92ac88.pdf
+  - AVO200 Datasheet: https://www.advancedenergy.com/getmedia/616555d4-7f94-4336-83b3-f63b9085d849/av0200_ds_01-22-15_a9d4f1d782.pdf
+  - AVO240 Series Data Sheet: https://www.advancedenergy.com/getmedia/148df32c-a94c-4eb2-ad87-3680e33d98a6/avo240_ds_fa570e3c9b.pdf
+  - AVO250-48S28 Datasheet: https://www.advancedenergy.com/getmedia/681ed83f-1792-4908-9b2e-95e0f7888576/avo250-48s28b-6l_ds_09-16-14_09d4540a63.pdf
+  - AVO50 Series Datasheet: https://www.advancedenergy.com/getmedia/8c5df8ea-c45e-4737-ae8d-31c92f080d82/av050_ds_05-19-14_00f109fd12.pdf
+  - AVO75 Series Datasheet: https://www.advancedenergy.com/getmedia/04f26dba-7a0f-45ed-99f5-6a50d7758a92/avo75_ds_06-30-14_635589b4f1.pdf
+  - ADO300-48S05-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/6a3ea8fb-cb6f-473a-931e-d616fae96744/rohs2_coc_ado300-48s05-6l_09211513150234_rohs_.pdf
+  - ADO300-48S05-6LI COC RoHS Certificate: https://www.advancedenergy.com/getmedia/be294e43-c438-449e-afbd-2c81f0dc0ae8/rohs2_coc_ado300-48s05-6li_0921513150284_rohs_.pdf
+  - ADO300-48S05B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/4f2a9865-d19b-45c5-9472-6b6b57b1baff/rohs2_coc_ado300-48s05b-6l_0921513150364_rohs_.pdf
+  - ADO300-48S05B-6LI COC RoHS Certificate: https://www.advancedenergy.com/getmedia/f8570943-6b43-4178-bcdb-427e1e62387d/rohs2_coc_ado300-48s05b-6li_091513150405_rohs_.pdf
+  - ADO300-48S05PB-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/79536fcb-ca78-401e-8c49-3cd5666fc1c7/rohs2_coc_ado300-48s05pb-6l_091513150454_rohs_.pdf
+  - ADO300-48S12 RoHS RoHS Certificate: https://www.advancedenergy.com/getmedia/82f8b676-4016-46ea-8406-653b48aa7116/ado300-48s12-6l_-6li_b-6l_b-6l1477293336_rohs_.pdf
+  - ADO300-48S3V3-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/0d3aad1b-1369-4076-b928-5c9b348b29e7/ado300-48s3v3-6l_coc_1513150034_rohs_.pdf
+  - ADO300-48S3V3-6LI COC RoHS Certificate: https://www.advancedenergy.com/getmedia/0a088fdb-5aa3-4f80-a0b2-968efddd8a65/ado300-48s3v3-6li_coc_1513150104_rohs_.pdf
+  - ADO300-48S3V3B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/43b239bf-e15b-4cd1-b16e-8cc5592771fb/ado300-48s3v3b-6l_coc_1513150147_rohs_.pdf
+  - ADO300-48S3V3B-6LI COC RoHS Certificate: https://www.advancedenergy.com/getmedia/239cb974-c8e1-4974-bf9b-8b1a6867f31b/ado300-48s3v3b-6li_coc_1513150185_rohs_.pdf
+  - ADO500-48S10-4L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/3c519813-d023-4bec-be2b-a223b31e4198/ado500-48s10-4l_coc_1538193162_rohs_.pdf
+  - ADO550-48S10B-4L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/310a8373-8d7d-48b7-89bc-af32bbdcf511/ado550-48s10b-4l_coc_1538193245_rohs_.pdf
+  - AVO120-48S12-6L RoHS2 CoC: https://www.advancedenergy.com/getmedia/d78e1486-b8b9-435d-af63-80710395d911/rohs2_coc_avo120-48s12-6l_02121467855919_rohs_.pdf
+  - AVO200-48S12B-6L RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/83d4c8c6-9523-4ae3-b3f3-153448fca998/rohs2_coc_avo200-48s12b-6l_0511467855961_rohs_.pdf
+  - AVO75-48S05-4 RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/d81ce13c-c2d9-4e3d-aae7-6c25d27f448d/rohs2_coc_avo75-48s05-4_0412161467855769_rohs_.pdf
+  - AVO75-48S05-6 RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/1dc53020-b05f-400c-8349-34718d21999d/rohs2_coc_avo75-48s05-6_0310161467855823_rohs_.pdf
+  - RoHS2 CoC AVO100B-48S3V3-6L RoHS Certificate: https://www.advancedenergy.com/getmedia/df2cbe6f-6c70-4133-9cdb-a42d8664c8da/rohs2_coc_avo100b-48s3v3-6l_031467869461_rohs_.pdf
+  - ADO300-48s05 CE Safety Certificate: https://www.advancedenergy.com/getmedia/033d1efe-22b9-4005-b76c-5e403a0f6359/ado300-48s05xxxxxxxxx_ce_rev001513149874_cert.pdf
+  - ADO300-48s12 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/444b6fa8-8533-4d3e-aebd-bbfa0d93bf95/682301606801_dc-dc_converter_a1477293287_cert.pdf
+  - ADO300-48S12 UL Safety Certificate: https://www.advancedenergy.com/getmedia/e9a58d76-551c-4583-9f24-afdbeaa72e12/nofa-4787510113_1477293229_cert.pdf
+  - ADO300-48S3V3 ADO300-48S05 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/e374b137-4729-4c94-bd31-5f29701919a8/682101732501_dc-dc_converter_a1513149644_cert.pdf
+  - ADO300-48S3V3 ADO300-48S05 UL Safety Certificate: https://www.advancedenergy.com/getmedia/2dcea0c0-62da-4c94-9988-75c2ee2a1cdb/e132002-20170907-description_11561549476_cert.pdf
+  - ADO300-48s3v3 CE Safety Certificate: https://www.advancedenergy.com/getmedia/5b7a32bc-6ed6-4f5a-b2a2-1fbcc3385ca4/ado300-48s3v3xxxxxxxxx_ce_rev01513149830_cert.pdf
+  - ADO500/ADO550 CB Safety Certificate: https://www.advancedenergy.com/getmedia/b012dba7-62c0-4761-bbbe-9edea1818f89/211-2315062-000_dc-dc_converte1538193570_cert.pdf
+  - ADO500/ADO550 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/032fb3f3-a7e6-48fd-b957-13c139c197c8/682301506201_dc-dc_converter_a1538193643_cert.pdf
+  - AVO200-48S05 UL cert Safety Certificate: https://www.advancedenergy.com/getmedia/46526c70-f27f-4555-bbc1-e4c81e422a8b/e132002-20140108-certificateof1533800212_cert.pdf
+  - TUV cert of AVO100 and AVO120: https://www.advancedenergy.com/getmedia/9e5ecc0e-689e-4199-833b-6003bffd82d2/avo120-48s12_tuv_cert_1460690847_cert.pdf
+  - UL cert of AVO100 and AVO120: https://www.advancedenergy.com/getmedia/bf19cd61-06aa-481e-8180-f5815d7db5ec/avo120-48s12_ul_1460690667_cert.pdf
+  - RF Power Amplifier Application Solution Brief: https://www.advancedenergy.com/getmedia/eef418fc-0b69-44f5-bb27-9cb54c994fa9/28v_ldmos_application_solution1490028979_ASB.pdf
+  - ADO300-48S05 TRN Technical Reference: https://www.advancedenergy.com/getmedia/250f1354-675f-49ac-8f0f-d931a5f45a3d/TRN-DC-DC-ADO300-48S05-6L-Release-1-9-(02-10-2026).pdf
+  - ADO300-48S12 TRN Technical Reference: https://www.advancedenergy.com/getmedia/2b99a132-beca-469c-9e48-db2ed2a98592/TRN-DC-DC-ADO300-48S12-Release-2-4-(010524).pdf
+  - ADO300-48S3V3 TRN Technical Reference: https://www.advancedenergy.com/getmedia/4eb796b6-8ab3-4f89-be86-a703b8147d15/trn_dc-dc_ado300-48s3v3-6l_rel1585201360_techref.pdf
+  - ADO500-48S10-4L TRN Technical Reference: https://www.advancedenergy.com/getmedia/9b49cdba-ec9a-4be2-aba3-9f1dbc38d546/trn_dc-dc_ado500-48s10-4l_rele1538193051_techref.pdf
+  - ADO550-48S10B-4L TRN Technical Reference: https://www.advancedenergy.com/getmedia/bcbf34b2-c928-426b-a716-2260ed74543e/trn_dc-dc_ado550-48s10b-4l_rel1538193089_techref.pdf
+  - AVO100-36S3V3-6L Technical Reference Notes: https://www.advancedenergy.com/getmedia/c93e3fc2-7804-4957-9fef-1c2219219c3e/trn_dc-dc_avo100-36s3v3-6l_rel1414731390.pdf
+  - AVO100-48S05 Technical Reference Notes: https://www.advancedenergy.com/getmedia/26fcbce8-2c84-4f0a-bc16-f40dbffca05f/trn_dc-dc_avo100-48s05_release1577160246_techref.pdf
+  - AVO100-48S28 Technical Reference Notes: https://www.advancedenergy.com/getmedia/c9070410-e434-442c-be71-9f0dab47cc65/trn_dc-dc_avo100-48s28_release1577160344_techref.pdf
+  - AVO100B-48S3V3 Technical Reference Notes: https://www.advancedenergy.com/getmedia/fd32ac6b-94ee-443a-998e-40d7641dd4bf/trn_dc-dc_avo100b-48s3v3_relea1414731344.pdf
+  - AVO120-48S12 Technical Reference Notes: https://www.advancedenergy.com/getmedia/3162e280-b6fa-44c1-996f-dc91ba1bb009/trn_dc-dc_avo120-48s12_release1577160470_techref.pdf
+  - AVO200-48S05 Technical Reference Note: https://www.advancedenergy.com/getmedia/88561c26-9b1b-48fb-99f3-de096834921b/trn_dc-dc_avo200-48s05_relaes1416845460_techref.pdf
+  - AVO200-48S12 Technical Reference Note: https://www.advancedenergy.com/getmedia/e01e5e65-c437-48e0-8436-1ab02e871db4/TRN-DC-DC-AVO200-48S12-Relaese-1-6-(061425).pdf
+  - AVO240-48S12 Technical Reference Notes: https://www.advancedenergy.com/getmedia/084b2127-85b7-4f31-8f21-74a651813d61/trn_dc-dc_avo240-48s12_release1577160542_techref.pdf
+  - AVO250 Technical Reference Note: https://www.advancedenergy.com/getmedia/ef067f7d-ae1a-4672-a1ca-e197b0c75fb3/trn_dc-dc_avo250-48s28b_releas1577160589_techref.pdf
+  - AVO50 Technical Reference Notes: https://www.advancedenergy.com/getmedia/17c9f2a8-b5cf-4d46-98f3-1d6233e1a9f7/trn_dc-dc_avo50_release1_12011521096400_techref.pdf
+  - AVO75 Series Technical Reference Notes: https://www.advancedenergy.com/getmedia/f6c06c2a-5d3a-443a-b25d-424d4fc4c250/trn_dc-dc_avo75_series_-_relea1414731442.pdf
+  - High-efficiency DC-DC PSU required for battery powered mobile X-ray unit: https://www.advancedenergy.com/getmedia/dd087c1f-fa05-41b4-83dc-d6d2b78cb432/ENG-Mobile-X-ray-unit.pdf
+  - EMI Management for Board-Mounted Power Modules White Paper: https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+  - EMI Management for Board-Mounted Power Modules White Paper A look at EMI sources in BMP modules and practical methods to reduce noise and achieve regulatory compliance. View Resource: https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/b4d740b1-188c-43aa-8388-c0d5eb6aaaa7/f2014875_-_dc-dc_brochure_sc_01493172054.pdf
+  - https://www.advancedenergy.com/getmedia/f227d01e-874f-4207-b1ca-8458375da4df/digital-dcdc-brochure-a4_1490202948.pdf
+  - https://www.advancedenergy.com/getmedia/2aae5ecd-0d76-455c-a1a1-e9792ed436e9/f2014875_-_dc-dc_brochure_jp_01494489677.pdf
+  - https://www.advancedenergy.com/getmedia/d65c20a0-906d-4f16-a956-b493e62deee0/eng-ado300_series-235-01_03_191617004728.pdf
+  - https://www.advancedenergy.com/getmedia/b6e75b69-2354-4990-b3f5-b10fee15c6eb/ado500-series-ds-_1538191473.pdf
+  - https://www.advancedenergy.com/getmedia/ed26f815-ae49-453a-bc35-2a05bdd5eaf8/ado500-series-ds-_1538192991.pdf
+  - https://www.advancedenergy.com/getmedia/1bb070b0-3d3c-4440-8373-100c9a2b35d7/avo100_ds_1607bea683.pdf
+  - https://www.advancedenergy.com/getmedia/b7fadf28-d844-4555-9e50-aa7b8060140f/av0120_ds_eb4f92ac88.pdf
+  - https://www.advancedenergy.com/getmedia/616555d4-7f94-4336-83b3-f63b9085d849/av0200_ds_01-22-15_a9d4f1d782.pdf
+  - https://www.advancedenergy.com/getmedia/148df32c-a94c-4eb2-ad87-3680e33d98a6/avo240_ds_fa570e3c9b.pdf
+  - https://www.advancedenergy.com/getmedia/681ed83f-1792-4908-9b2e-95e0f7888576/avo250-48s28b-6l_ds_09-16-14_09d4540a63.pdf
+  - https://www.advancedenergy.com/getmedia/8c5df8ea-c45e-4737-ae8d-31c92f080d82/av050_ds_05-19-14_00f109fd12.pdf
+  - https://www.advancedenergy.com/getmedia/04f26dba-7a0f-45ed-99f5-6a50d7758a92/avo75_ds_06-30-14_635589b4f1.pdf
+  - https://www.advancedenergy.com/getmedia/6a3ea8fb-cb6f-473a-931e-d616fae96744/rohs2_coc_ado300-48s05-6l_09211513150234_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/be294e43-c438-449e-afbd-2c81f0dc0ae8/rohs2_coc_ado300-48s05-6li_0921513150284_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/4f2a9865-d19b-45c5-9472-6b6b57b1baff/rohs2_coc_ado300-48s05b-6l_0921513150364_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f8570943-6b43-4178-bcdb-427e1e62387d/rohs2_coc_ado300-48s05b-6li_091513150405_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/79536fcb-ca78-401e-8c49-3cd5666fc1c7/rohs2_coc_ado300-48s05pb-6l_091513150454_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/82f8b676-4016-46ea-8406-653b48aa7116/ado300-48s12-6l_-6li_b-6l_b-6l1477293336_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/0d3aad1b-1369-4076-b928-5c9b348b29e7/ado300-48s3v3-6l_coc_1513150034_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/0a088fdb-5aa3-4f80-a0b2-968efddd8a65/ado300-48s3v3-6li_coc_1513150104_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/43b239bf-e15b-4cd1-b16e-8cc5592771fb/ado300-48s3v3b-6l_coc_1513150147_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/239cb974-c8e1-4974-bf9b-8b1a6867f31b/ado300-48s3v3b-6li_coc_1513150185_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/3c519813-d023-4bec-be2b-a223b31e4198/ado500-48s10-4l_coc_1538193162_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/310a8373-8d7d-48b7-89bc-af32bbdcf511/ado550-48s10b-4l_coc_1538193245_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d78e1486-b8b9-435d-af63-80710395d911/rohs2_coc_avo120-48s12-6l_02121467855919_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/83d4c8c6-9523-4ae3-b3f3-153448fca998/rohs2_coc_avo200-48s12b-6l_0511467855961_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d81ce13c-c2d9-4e3d-aae7-6c25d27f448d/rohs2_coc_avo75-48s05-4_0412161467855769_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/1dc53020-b05f-400c-8349-34718d21999d/rohs2_coc_avo75-48s05-6_0310161467855823_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/df2cbe6f-6c70-4133-9cdb-a42d8664c8da/rohs2_coc_avo100b-48s3v3-6l_031467869461_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/033d1efe-22b9-4005-b76c-5e403a0f6359/ado300-48s05xxxxxxxxx_ce_rev001513149874_cert.pdf
+  - https://www.advancedenergy.com/getmedia/444b6fa8-8533-4d3e-aebd-bbfa0d93bf95/682301606801_dc-dc_converter_a1477293287_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e9a58d76-551c-4583-9f24-afdbeaa72e12/nofa-4787510113_1477293229_cert.pdf
+  - https://www.advancedenergy.com/getmedia/e374b137-4729-4c94-bd31-5f29701919a8/682101732501_dc-dc_converter_a1513149644_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2dcea0c0-62da-4c94-9988-75c2ee2a1cdb/e132002-20170907-description_11561549476_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5b7a32bc-6ed6-4f5a-b2a2-1fbcc3385ca4/ado300-48s3v3xxxxxxxxx_ce_rev01513149830_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b012dba7-62c0-4761-bbbe-9edea1818f89/211-2315062-000_dc-dc_converte1538193570_cert.pdf
+  - https://www.advancedenergy.com/getmedia/032fb3f3-a7e6-48fd-b957-13c139c197c8/682301506201_dc-dc_converter_a1538193643_cert.pdf
+  - https://www.advancedenergy.com/getmedia/46526c70-f27f-4555-bbc1-e4c81e422a8b/e132002-20140108-certificateof1533800212_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9e5ecc0e-689e-4199-833b-6003bffd82d2/avo120-48s12_tuv_cert_1460690847_cert.pdf
+  - https://www.advancedenergy.com/getmedia/bf19cd61-06aa-481e-8180-f5815d7db5ec/avo120-48s12_ul_1460690667_cert.pdf
+  - https://www.advancedenergy.com/getmedia/eef418fc-0b69-44f5-bb27-9cb54c994fa9/28v_ldmos_application_solution1490028979_ASB.pdf
+  - https://www.advancedenergy.com/getmedia/250f1354-675f-49ac-8f0f-d931a5f45a3d/TRN-DC-DC-ADO300-48S05-6L-Release-1-9-(02-10-2026).pdf
+  - https://www.advancedenergy.com/getmedia/2b99a132-beca-469c-9e48-db2ed2a98592/TRN-DC-DC-ADO300-48S12-Release-2-4-(010524).pdf
+  - https://www.advancedenergy.com/getmedia/4eb796b6-8ab3-4f89-be86-a703b8147d15/trn_dc-dc_ado300-48s3v3-6l_rel1585201360_techref.pdf
+  - https://www.advancedenergy.com/getmedia/9b49cdba-ec9a-4be2-aba3-9f1dbc38d546/trn_dc-dc_ado500-48s10-4l_rele1538193051_techref.pdf
+  - https://www.advancedenergy.com/getmedia/bcbf34b2-c928-426b-a716-2260ed74543e/trn_dc-dc_ado550-48s10b-4l_rel1538193089_techref.pdf
+  - https://www.advancedenergy.com/getmedia/c93e3fc2-7804-4957-9fef-1c2219219c3e/trn_dc-dc_avo100-36s3v3-6l_rel1414731390.pdf
+  - https://www.advancedenergy.com/getmedia/26fcbce8-2c84-4f0a-bc16-f40dbffca05f/trn_dc-dc_avo100-48s05_release1577160246_techref.pdf
+  - https://www.advancedenergy.com/getmedia/c9070410-e434-442c-be71-9f0dab47cc65/trn_dc-dc_avo100-48s28_release1577160344_techref.pdf
+  - https://www.advancedenergy.com/getmedia/fd32ac6b-94ee-443a-998e-40d7641dd4bf/trn_dc-dc_avo100b-48s3v3_relea1414731344.pdf
+  - https://www.advancedenergy.com/getmedia/3162e280-b6fa-44c1-996f-dc91ba1bb009/trn_dc-dc_avo120-48s12_release1577160470_techref.pdf
+  - https://www.advancedenergy.com/getmedia/88561c26-9b1b-48fb-99f3-de096834921b/trn_dc-dc_avo200-48s05_relaes1416845460_techref.pdf
+  - https://www.advancedenergy.com/getmedia/e01e5e65-c437-48e0-8436-1ab02e871db4/TRN-DC-DC-AVO200-48S12-Relaese-1-6-(061425).pdf
+  - https://www.advancedenergy.com/getmedia/084b2127-85b7-4f31-8f21-74a651813d61/trn_dc-dc_avo240-48s12_release1577160542_techref.pdf
+  - https://www.advancedenergy.com/getmedia/ef067f7d-ae1a-4672-a1ca-e197b0c75fb3/trn_dc-dc_avo250-48s28b_releas1577160589_techref.pdf
+  - https://www.advancedenergy.com/getmedia/17c9f2a8-b5cf-4d46-98f3-1d6233e1a9f7/trn_dc-dc_avo50_release1_12011521096400_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f6c06c2a-5d3a-443a-b25d-424d4fc4c250/trn_dc-dc_avo75_series_-_relea1414731442.pdf
+  - https://www.advancedenergy.com/getmedia/dd087c1f-fa05-41b4-83dc-d6d2b78cb432/ENG-Mobile-X-ray-unit.pdf
+  - https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+  - https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/001e8e91-61a5-4592-a2b9-b657cadd6a19/AVO-ADO-1-8th-bricks.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - EMI Management in DC-DC BMP Modules: https://i.ytimg.com/vi/6SsQWcmt-fA/hqdefault.jpg
+  - Why EMI Matters in BMP Modules: https://i.ytimg.com/vi/PfbBPRSEBS8/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+AVO/ADO 1/8th BricksStandard 2.3 x 0.9 (58 x 23 mm) inch footprintWide range of output voltages from 1.2 to 12 VDCThrough-hole or surface-mount termination & open-frame or baseplate

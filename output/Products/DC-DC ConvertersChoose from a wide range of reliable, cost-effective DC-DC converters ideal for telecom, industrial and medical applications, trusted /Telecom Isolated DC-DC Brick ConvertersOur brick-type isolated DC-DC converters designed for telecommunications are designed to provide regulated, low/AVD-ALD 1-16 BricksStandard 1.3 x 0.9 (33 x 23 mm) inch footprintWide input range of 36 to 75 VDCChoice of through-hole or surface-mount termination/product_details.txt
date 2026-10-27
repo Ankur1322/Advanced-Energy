@@ -1,0 +1,237 @@
+==============================================================================
+PRODUCT DETAILS: AVD/ALD 1/16 BricksStandard 1.3 x 0.9 (33 x 23 mm) inch footprintWide input range of 36 to 75 VDCChoice of through-hole or surface-mount termination
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/
+Category Description: Our brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: AVD/ALD 1/16 BricksStandard 1.3 x 0.9 (33 x 23 mm) inch footprintWide input range of 36 to 75 VDCChoice of through-hole or surface-mount termination
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/telecom-48v-input-pcb-mount-bricks/avd-ald-1-16-bricks/
+
+Complete Product Description:
+Advanced Energy’s family of sixteenth-brick isolated DC-DC converters for telecommunications applications covers power ratings from 35 to 85 W and includes models that are capable of delivering up to 25 A output current.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - 5G Brochure - English Version: https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - 5G Brochure - Chinese Version: https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - 5G Brochure - Japanese Version: https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - ALD15 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/a2a782f4-0b01-41b9-89dc-54e66fa393f9/ald15_series_cc7adb0173.pdf
+  - AVD100 Series Data Sheet: https://www.advancedenergy.com/getmedia/e2a03148-4416-48f2-884d-f27a87e50628/avd100_series_ds_1485536604.pdf
+  - AVD200-48S12 Data sheet: https://www.advancedenergy.com/getmedia/b8f2f815-22f2-4063-8f16-6b69a44cbdac/eng-avd200-48s12-235-01_3_10_1616401545.pdf
+  - AVD50 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/6a090380-5792-4b5e-a479-1715015c3d67/avd50_ds_1504019201.pdf
+  - AVD50B Datasheet: https://www.advancedenergy.com/getmedia/2eace03a-8e77-4e8a-aefa-bdb4b10a0204/avd50b_ds_1511245952.pdf
+  - AVD75 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/e1ac2674-9f71-469c-9be0-a4e637764beb/avd75-48s1v2_ds_v1_ab_edit_1_81b581a41f.pdf
+  - AVD75B Datasheet: https://www.advancedenergy.com/getmedia/237679cc-5a76-45c8-bf82-147012b79e74/avd75b_ds_1511246007.pdf
+  - AVD85 Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/688f40b7-c5e2-4f8f-99a6-5d971e731416/avd85_ds_f74d9742b5.pdf
+  - AVD85B Datasheet: https://www.advancedenergy.com/getmedia/87245efc-cc1e-4af7-9810-2ac8b639b845/avd85b_ds_1511246070.pdf
+  - AVD200-48S12 Rohs: https://www.advancedenergy.com/getmedia/dcf337c2-d5ad-4510-bd28-785002b76863/avd200-48s12-6l_1616402183_rohs_.pdf
+  - AVD200-48S12B-7TL Rohs: https://www.advancedenergy.com/getmedia/8aad57f0-476d-4cb0-b375-dd74583b0692/rohs3_coc_avd200-48s12pb-7tl_1616402281_rohs_.pdf
+  - AVD200-48S12TL Rohs: https://www.advancedenergy.com/getmedia/62c49e3e-f522-4e68-92b8-664df3130374/avd200-48s12tl_1616402236_rohs_.pdf
+  - AVD50B-48S05-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/8fd50676-ebb4-45ce-8fb4-82479a754aae/avd50b-48s05-6l_coc_1502855821_rohs_.pdf
+  - AVD50B-48S05B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/a063cf10-a469-47bb-9900-9b8ce1337749/avd50b-48s05b-6l_coc_1502856026_rohs_.pdf
+  - AVD50B-48S05TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/00c2f402-82bf-45e5-8654-17b22c67aed2/avd50b-48s05tl_coc_1502855905_rohs_.pdf
+  - AVD50B-48S12-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/e7767acd-75a6-43da-865c-24925a43f8c5/avd50b-48s12-6l_coc_1502855965_rohs_.pdf
+  - AVD50B-48S12B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/4aa4c1a8-0dec-4b71-b4b5-abd92b1344d3/avd50b-48s12b-6l_coc_1502856118_rohs_.pdf
+  - AVD50B-48S12TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/eee70726-d0e7-4279-bfeb-fad1f2a77283/avd50b-48s12tl_coc_1502856160_rohs_.pdf
+  - AVD50B-48S3V3-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/424ff533-cdc4-4bdc-a6e5-9370b5a648b1/avd50b-48s3v3-6l_coc_1502855675_rohs_.pdf
+  - AVD50B-48S3V3B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/cc1aa885-f6a8-494d-8778-9ff3c6c95f23/avd50b-48s3v3b-6l_coc_1502855721_rohs_.pdf
+  - AVD50B-48S3V3TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/9c13fcdc-65a6-409b-97f9-e0f3353e7f62/avd50b-48s3v3tl_coc_1502855761_rohs_.pdf
+  - AVD75B-48S05-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/9e09ee3c-4a39-4fb2-8856-6f837f7a5445/avd75b-48s05-6l_coc_1502868595_rohs_.pdf
+  - AVD75B-48S05B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/4ad6bcc4-c018-4ed7-b512-fd1e3e3c6227/avd75b-48s05b-6l_coc_1502868648_rohs_.pdf
+  - AVD75B-48S05TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/06a62aef-8b45-4c62-9318-9b9a6cc1f20f/avd75b-48s05tl_coc_1502868688_rohs_.pdf
+  - AVD75B-48S12-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/17a1fbba-c3e3-469c-a3a3-783f242b55ef/avd75b-48s12-6l_coc_1502868738_rohs_.pdf
+  - AVD75B-48S12B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/03ec9d51-204a-43f9-b479-c54b20070b89/avd75b-48s12b-6l_coc_1502868790_rohs_.pdf
+  - AVD75B-48S12TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/a567728b-653d-4b7b-8639-44b87cbb50a1/avd75b-48s12tl_coc_1502868843_rohs_.pdf
+  - AVD75B-48S3V3-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/4d8cd857-1268-43d6-9a8e-8cb9d757b561/avd75b-48s3v3-6l_coc_1502868454_rohs_.pdf
+  - AVD75B-48S3V3B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/7be5f0b0-0c5f-406e-ac20-c1b77de99a93/avd75b-48s3v3b-6l_coc_1502868502_rohs_.pdf
+  - AVD75B-48S3V3TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/c01b8637-dcaa-4079-aa2b-ffcc3115070b/avd75b-48s3v3tl_coc_1502868544_rohs_.pdf
+  - AVD85-48S3V3-6L RoHS2 CoC RoHS Certificate: https://www.advancedenergy.com/getmedia/89f44d3c-9922-4b1d-aa71-31aabb8d4ffa/rohs2_coc_avd85-48s3v3-6l_06101467855559_rohs_.pdf
+  - AVD85B-48S05-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/d9b8ec9a-26e6-44ea-8a67-8c99572aacd6/avd85b-48s05-6l_coc_1502937888_rohs_.pdf
+  - AVD85B-48S05B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/0fd62006-3b52-40a5-819d-bb01cd83103a/avd85b-48s05b-6l_coc_1502937963_rohs_.pdf
+  - AVD85B-48S05TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/f5285137-2c42-4b7a-8c49-d49304624a14/avd85b-48s05tl_coc_1502938021_rohs_.pdf
+  - AVD85B-48S12-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/018ade1a-d99f-4243-a3c6-eead7c912063/avd85b-48s12-6l_coc_1502938121_rohs_.pdf
+  - AVD85B-48S12B-6L COC RoHS Certificate: https://www.advancedenergy.com/getmedia/75a3a142-134b-4d96-bd9c-ad28bf536713/avd85b-48s12b-6l_coc_1502938157_rohs_.pdf
+  - AVD85B-48S12TL COC RoHS Certificate: https://www.advancedenergy.com/getmedia/c85933cd-19b4-4219-8e63-96fedd84bec2/avd85b-48s12tl_coc_1502938191_rohs_.pdf
+  - ALD15 Series TUV Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/e7e25fdd-558f-4c35-959a-b7ab991f3c8b/ald-series_tuv_cert_aan09533_1263585801_cert.pdf
+  - ALD15 Series UL Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/0b04e494-3022-4ae2-a4c5-6d2e197ab448/ald-series_ul_report_aan095441263586002_cert.pdf
+  - AVD200-48S12 CE: https://www.advancedenergy.com/getmedia/2b9fce71-4161-4cb8-b16f-9540a2c12844/avd200-48s12xxxxxxxxx_ce_rev001616402488_cert.pdf
+  - AVD200-48S12 TUV: https://www.advancedenergy.com/getmedia/24bdb68f-43d3-4907-808c-dbadc102624e/avd200-48s12xxxxxxxxx_tuv_cert1616402450_cert.pdf
+  - AVD200-48S12 UL: https://www.advancedenergy.com/getmedia/dffaf824-d1dc-4797-a569-1d3d99d47735/AVD200-48S12_UL-CoC.pdf
+  - AVD50B-48S05 CE Safety Certificate: https://www.advancedenergy.com/getmedia/fec88f09-c8d0-423c-beb6-07156c4696ac/avd50b-48s05xxxx_ce_rev00_1502855130_cert.pdf
+  - AVD50B-48S05 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/487b9ba5-3b35-4749-8294-5f5f471a598a/682301612601_dc-dc_converter_a1502855541_cert.pdf
+  - AVD50B-48S12 CE Safety Certificate: https://www.advancedenergy.com/getmedia/8bb22e19-0cd8-4211-a176-6495050f16f7/avd50b-48s12xxxx_ce_rev00_1502855172_cert.pdf
+  - AVD50B-48S12 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/bca17e0c-8ecd-43fe-a122-901a19ff2137/682301708801_dc-dc_converter_a1502855583_cert.pdf
+  - AVD50B-48S3V3 CE Safety Certificate: https://www.advancedenergy.com/getmedia/f0982887-b2bd-4be8-a7fc-5ad35ba9370f/avd50b-48s3v3xxxxxxxxx_ce_rev01502855081_cert.pdf
+  - AVD50B-48S3V3 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/613d108b-2b7e-49dd-af23-4f2e1e62b87b/682301219302_dc-dc_converter_a1502855499_cert.pdf
+  - AVD75B-48S05 CE Safety Certificate: https://www.advancedenergy.com/getmedia/eb8dc8f4-752f-42e8-8f61-5059c27f2e6b/avd75b-48s05xxxx_ce_rev00_1502866403_cert.pdf
+  - AVD75B-48S05 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/a05d0b96-ca6e-4150-a496-00d15fa0223e/682301612601_dc-dc_converter_a1502866617_cert.pdf
+  - AVD75B-48S12 CE Safety Certificate: https://www.advancedenergy.com/getmedia/46a1c5f1-6155-4138-955e-2ce4f11c4cc6/avd75b-48s12xxxx_ce_rev00_1502866456_cert.pdf
+  - AVD75B-48S12 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/697bdb9d-5f0b-462e-b168-52a46f892f8e/682301708801_dc-dc_converter_a1502866669_cert.pdf
+  - AVD75B-48S3V3 CE Safety Certificate: https://www.advancedenergy.com/getmedia/cfa9b78e-819f-4628-8df0-35d093eb51f2/avd75b-48s3v3_series_ce_rev00_1502866351_cert.pdf
+  - AVD75B-48S3V3 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/b7b0a958-c171-4f40-962e-e6ee63d77333/682301608401_dc-dc_converter_a1502866555_cert.pdf
+  - AVD85-48S12 EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/b50c9774-8b4e-47f9-9528-f9f93ef3f7b1/AVD85-48S12XXXXXXXX_CE_rev04.pdf
+  - AVD85-48S12 TUV Certificate: https://www.advancedenergy.com/getmedia/27c25275-acf7-4d3e-87fd-f066899c1474/AVD85-48S12XXXXXXXXX-_TUV-CERT_B(6821020015201)_18MAR20.pdf
+  - AVD85-48S12 UK Declaration of Conformity: https://www.advancedenergy.com/getmedia/d9844e08-7205-4466-887a-dbb05ff339fb/AVD85-48S12XXXXXXXXX_UK-DoC_rev00.pdf
+  - AVD85B-48S05 CE Safety Certificate: https://www.advancedenergy.com/getmedia/bab68c3c-66ea-4098-bb37-c747a38ace8d/avd85b-48s05xxxx_ce_rev00_1502937543_cert.pdf
+  - AVD85B-48S05 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/d4fce386-6860-40f6-8282-731ac9a8e1e7/682301612601_dc-dc_converter_a1502937634_cert.pdf
+  - AVD85B-48S12 CE Safety Certificate: https://www.advancedenergy.com/getmedia/ed9125ef-524c-4bfb-8a02-3754d60254d0/avd85b-48s12xxxx_ce_rev00_1502937583_cert.pdf
+  - AVD85B-48S12 TUV Safety Certificate: https://www.advancedenergy.com/getmedia/8e74fce1-5ac3-4d90-ba89-bc3f8b5d052e/682301708801_dc-dc_converter_a1502937676_cert.pdf
+  - CE AVD100-48S05 safety cert: https://www.advancedenergy.com/getmedia/bf7308d1-6a31-4167-aa6f-5a549eb27a92/avd100-48s05-6l_-48s05b-6l_-481429044930_cert.pdf
+  - TUV AVD100-48S05 Safety Cert: https://www.advancedenergy.com/getmedia/de6cdbca-48bf-4d3f-83e7-03217d6eb67c/tuv_avd100-48s05_avd85-48s05_1429044974_cert.pdf
+  - TUV AVD120-48S12 safety cert: https://www.advancedenergy.com/getmedia/99378473-07db-4963-bb87-7050db6bf767/tuv_avd100-48s05_avd85-48s05_1429045171_cert.pdf
+  - UL AVD100-48S05 safety cert: https://www.advancedenergy.com/getmedia/9e44d6d5-ba12-4894-8e37-40f5e5d6e206/ul_avd100_nofa-4786779926-1429045046_cert.pdf
+  - UL AVD120-48S12 Safety cert: https://www.advancedenergy.com/getmedia/4a91492c-3d76-4bec-a146-d6235574f15e/ul_avd100_nofa-4786779926-1429045127_cert.pdf
+  - ALD15 Series Technical Reference Note: https://www.advancedenergy.com/getmedia/afb99f63-c941-436b-9eef-4083bbbdc486/ald15_trn_1313022016_techref.pdf
+  - AVD100 Technical Reference Note: https://www.advancedenergy.com/getmedia/cee410e0-4ff9-45e6-9f9d-3d5eac8298a6/trn_dc_dc_avd100-48s05_release1449942688_techref.pdf
+  - AVD100-48S05 Technical Reference Note: https://www.advancedenergy.com/getmedia/04d6cb84-5fab-4b7e-a65e-043e44eb5f08/trn_dc_dc_avd100-48s05_release1472721778_techref.pdf
+  - AVD120 Technical Reference Note: https://www.advancedenergy.com/getmedia/745de238-df81-461e-9b37-7133c19e6e2d/trn_dc-dc_avd120-48s12_release1577159484_techref.pdf
+  - AVD200-48S12 TRN: https://www.advancedenergy.com/getmedia/dc394a94-65b9-4214-84c8-c98b6cf00922/trn_dc-dc_avd200-48s12_1_2_01616401495_techref.pdf
+  - AVD50-48S05 Technical Reference Notes: https://www.advancedenergy.com/getmedia/6bc3b7a9-da7f-4f08-bd83-1333cdca4eaa/trn_dc-dc_avd50-48s05_release_1577158511_techref.pdf
+  - AVD50B-48S05 TRN Technical Reference: https://www.advancedenergy.com/getmedia/ca064223-fbf2-4ac1-b1b6-b6aec92a0e71/trn_dc-dc_avd50b-48s05_release1597827946_techref.pdf
+  - AVD50B-48S12 Technical Reference Notes: https://www.advancedenergy.com/getmedia/e3e15d6f-b66f-4096-b167-593054471515/trn_dc-dc_avd50b-48s12_release1577158712_techref.pdf
+  - AVD50B-48S3V3 Technical Reference Note: https://www.advancedenergy.com/getmedia/8350ae64-8c36-46bc-90ae-6f6cbeccbe0a/trn_dc-dc_avd50b-48s3v3_releas1577158587_techref.pdf
+  - AVD75-48S1V2 Technical Reference Notes: https://www.advancedenergy.com/getmedia/9e6d5275-6535-407f-a8b2-7c5cbd1e1ba4/trn_dc-dc_avd75-48s1v2_release1577158798_techref.pdf
+  - AVD75-48S3V3 Technical Reference Note: https://www.advancedenergy.com/getmedia/a48aa56f-1a60-4b8c-8459-b0e44658867f/trn_dc-dc_avd75-48s3v3_release1577158849_techref.pdf
+  - AVD75B-48S05 Technical Reference Notes: https://www.advancedenergy.com/getmedia/4ecb1c2a-db64-43c4-b3ab-438ccb2d8344/TRN-DC-DC-AVD75B-48S05-Release-1-5-(08-18-2022).pdf
+  - AVD75B-48S12 Technical Reference Notes: https://www.advancedenergy.com/getmedia/0c3800df-96c5-46a6-9b35-151d947e2e93/TRN-DC-DC-AVD75B-48S12-Release-2-1-(082923).pdf
+  - AVD75B-48S3V3 Technical Reference Notes: https://www.advancedenergy.com/getmedia/04014df7-918b-4032-9c9a-c620970fcb50/trn_dc-dc_avd75b-48s3v3_releas1577158918_techref.pdf
+  - AVD85-48S05 - Technical reference note: https://www.advancedenergy.com/getmedia/a6ad5391-dfe5-4b9f-a472-5c315c2a1c54/trn_dc-dc_avd85-48s05_release_1577159186_techref.pdf
+  - AVD85-48S12 Technical Reference Notes: https://www.advancedenergy.com/getmedia/86b7f157-2041-4630-b6e5-7de9a806a19c/trn_dc-dc_avd85-48s12_release_1585201632_techref.pdf
+  - AVD85-48S3V3 Technical Reference Note: https://www.advancedenergy.com/getmedia/8727dc22-171a-4735-9952-d5a2c7945dd3/trn_dc-dc_avd85-48s3v3_releas1577159130_techref.pdf
+  - AVD85B-48S05 Technical Reference Notes: https://www.advancedenergy.com/getmedia/f66a485a-55b3-4550-8996-a43deab969e0/trn_dc-dc_avd85b-48s05_relaese1577159319_techref.pdf
+  - AVD85B-48S12 Technical Reference Note: https://www.advancedenergy.com/getmedia/5ee5f23c-4bfd-4c83-97e3-9624cb6cd670/trn_dc-dc_avd85b-48s12_release1585201715_techref.pdf
+  - EMI Management for Board-Mounted Power Modules White Paper: https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+  - EMI Management for Board-Mounted Power Modules White Paper A look at EMI sources in BMP modules and practical methods to reduce noise and achieve regulatory compliance. View Resource: https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/40bb2a9b-96ee-436c-92c2-397cfa90529a/aei3003_eng-ot-5g-265-01_final1624364924_325.pdf
+  - https://www.advancedenergy.com/getmedia/a8ce0136-f453-4b5b-8562-f67ad219a6b8/zho-ot-5g-265-01_6_24_1624614775.pdf
+  - https://www.advancedenergy.com/getmedia/1de16256-2416-470c-a3f8-66de67d2a58d/jpn-ot-5g-265-01_6_18_1624615044.pdf
+  - https://www.advancedenergy.com/getmedia/a2a782f4-0b01-41b9-89dc-54e66fa393f9/ald15_series_cc7adb0173.pdf
+  - https://www.advancedenergy.com/getmedia/e2a03148-4416-48f2-884d-f27a87e50628/avd100_series_ds_1485536604.pdf
+  - https://www.advancedenergy.com/getmedia/b8f2f815-22f2-4063-8f16-6b69a44cbdac/eng-avd200-48s12-235-01_3_10_1616401545.pdf
+  - https://www.advancedenergy.com/getmedia/6a090380-5792-4b5e-a479-1715015c3d67/avd50_ds_1504019201.pdf
+  - https://www.advancedenergy.com/getmedia/2eace03a-8e77-4e8a-aefa-bdb4b10a0204/avd50b_ds_1511245952.pdf
+  - https://www.advancedenergy.com/getmedia/e1ac2674-9f71-469c-9be0-a4e637764beb/avd75-48s1v2_ds_v1_ab_edit_1_81b581a41f.pdf
+  - https://www.advancedenergy.com/getmedia/237679cc-5a76-45c8-bf82-147012b79e74/avd75b_ds_1511246007.pdf
+  - https://www.advancedenergy.com/getmedia/688f40b7-c5e2-4f8f-99a6-5d971e731416/avd85_ds_f74d9742b5.pdf
+  - https://www.advancedenergy.com/getmedia/87245efc-cc1e-4af7-9810-2ac8b639b845/avd85b_ds_1511246070.pdf
+  - https://www.advancedenergy.com/getmedia/dcf337c2-d5ad-4510-bd28-785002b76863/avd200-48s12-6l_1616402183_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/8aad57f0-476d-4cb0-b375-dd74583b0692/rohs3_coc_avd200-48s12pb-7tl_1616402281_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/62c49e3e-f522-4e68-92b8-664df3130374/avd200-48s12tl_1616402236_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/8fd50676-ebb4-45ce-8fb4-82479a754aae/avd50b-48s05-6l_coc_1502855821_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a063cf10-a469-47bb-9900-9b8ce1337749/avd50b-48s05b-6l_coc_1502856026_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/00c2f402-82bf-45e5-8654-17b22c67aed2/avd50b-48s05tl_coc_1502855905_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e7767acd-75a6-43da-865c-24925a43f8c5/avd50b-48s12-6l_coc_1502855965_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/4aa4c1a8-0dec-4b71-b4b5-abd92b1344d3/avd50b-48s12b-6l_coc_1502856118_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/eee70726-d0e7-4279-bfeb-fad1f2a77283/avd50b-48s12tl_coc_1502856160_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/424ff533-cdc4-4bdc-a6e5-9370b5a648b1/avd50b-48s3v3-6l_coc_1502855675_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/cc1aa885-f6a8-494d-8778-9ff3c6c95f23/avd50b-48s3v3b-6l_coc_1502855721_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/9c13fcdc-65a6-409b-97f9-e0f3353e7f62/avd50b-48s3v3tl_coc_1502855761_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/9e09ee3c-4a39-4fb2-8856-6f837f7a5445/avd75b-48s05-6l_coc_1502868595_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/4ad6bcc4-c018-4ed7-b512-fd1e3e3c6227/avd75b-48s05b-6l_coc_1502868648_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/06a62aef-8b45-4c62-9318-9b9a6cc1f20f/avd75b-48s05tl_coc_1502868688_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/17a1fbba-c3e3-469c-a3a3-783f242b55ef/avd75b-48s12-6l_coc_1502868738_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/03ec9d51-204a-43f9-b479-c54b20070b89/avd75b-48s12b-6l_coc_1502868790_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a567728b-653d-4b7b-8639-44b87cbb50a1/avd75b-48s12tl_coc_1502868843_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/4d8cd857-1268-43d6-9a8e-8cb9d757b561/avd75b-48s3v3-6l_coc_1502868454_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/7be5f0b0-0c5f-406e-ac20-c1b77de99a93/avd75b-48s3v3b-6l_coc_1502868502_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/c01b8637-dcaa-4079-aa2b-ffcc3115070b/avd75b-48s3v3tl_coc_1502868544_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/89f44d3c-9922-4b1d-aa71-31aabb8d4ffa/rohs2_coc_avd85-48s3v3-6l_06101467855559_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/d9b8ec9a-26e6-44ea-8a67-8c99572aacd6/avd85b-48s05-6l_coc_1502937888_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/0fd62006-3b52-40a5-819d-bb01cd83103a/avd85b-48s05b-6l_coc_1502937963_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/f5285137-2c42-4b7a-8c49-d49304624a14/avd85b-48s05tl_coc_1502938021_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/018ade1a-d99f-4243-a3c6-eead7c912063/avd85b-48s12-6l_coc_1502938121_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/75a3a142-134b-4d96-bd9c-ad28bf536713/avd85b-48s12b-6l_coc_1502938157_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/c85933cd-19b4-4219-8e63-96fedd84bec2/avd85b-48s12tl_coc_1502938191_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/e7e25fdd-558f-4c35-959a-b7ab991f3c8b/ald-series_tuv_cert_aan09533_1263585801_cert.pdf
+  - https://www.advancedenergy.com/getmedia/0b04e494-3022-4ae2-a4c5-6d2e197ab448/ald-series_ul_report_aan095441263586002_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2b9fce71-4161-4cb8-b16f-9540a2c12844/avd200-48s12xxxxxxxxx_ce_rev001616402488_cert.pdf
+  - https://www.advancedenergy.com/getmedia/24bdb68f-43d3-4907-808c-dbadc102624e/avd200-48s12xxxxxxxxx_tuv_cert1616402450_cert.pdf
+  - https://www.advancedenergy.com/getmedia/dffaf824-d1dc-4797-a569-1d3d99d47735/AVD200-48S12_UL-CoC.pdf
+  - https://www.advancedenergy.com/getmedia/fec88f09-c8d0-423c-beb6-07156c4696ac/avd50b-48s05xxxx_ce_rev00_1502855130_cert.pdf
+  - https://www.advancedenergy.com/getmedia/487b9ba5-3b35-4749-8294-5f5f471a598a/682301612601_dc-dc_converter_a1502855541_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8bb22e19-0cd8-4211-a176-6495050f16f7/avd50b-48s12xxxx_ce_rev00_1502855172_cert.pdf
+  - https://www.advancedenergy.com/getmedia/bca17e0c-8ecd-43fe-a122-901a19ff2137/682301708801_dc-dc_converter_a1502855583_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f0982887-b2bd-4be8-a7fc-5ad35ba9370f/avd50b-48s3v3xxxxxxxxx_ce_rev01502855081_cert.pdf
+  - https://www.advancedenergy.com/getmedia/613d108b-2b7e-49dd-af23-4f2e1e62b87b/682301219302_dc-dc_converter_a1502855499_cert.pdf
+  - https://www.advancedenergy.com/getmedia/eb8dc8f4-752f-42e8-8f61-5059c27f2e6b/avd75b-48s05xxxx_ce_rev00_1502866403_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a05d0b96-ca6e-4150-a496-00d15fa0223e/682301612601_dc-dc_converter_a1502866617_cert.pdf
+  - https://www.advancedenergy.com/getmedia/46a1c5f1-6155-4138-955e-2ce4f11c4cc6/avd75b-48s12xxxx_ce_rev00_1502866456_cert.pdf
+  - https://www.advancedenergy.com/getmedia/697bdb9d-5f0b-462e-b168-52a46f892f8e/682301708801_dc-dc_converter_a1502866669_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cfa9b78e-819f-4628-8df0-35d093eb51f2/avd75b-48s3v3_series_ce_rev00_1502866351_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b7b0a958-c171-4f40-962e-e6ee63d77333/682301608401_dc-dc_converter_a1502866555_cert.pdf
+  - https://www.advancedenergy.com/getmedia/b50c9774-8b4e-47f9-9528-f9f93ef3f7b1/AVD85-48S12XXXXXXXX_CE_rev04.pdf
+  - https://www.advancedenergy.com/getmedia/27c25275-acf7-4d3e-87fd-f066899c1474/AVD85-48S12XXXXXXXXX-_TUV-CERT_B(6821020015201)_18MAR20.pdf
+  - https://www.advancedenergy.com/getmedia/d9844e08-7205-4466-887a-dbb05ff339fb/AVD85-48S12XXXXXXXXX_UK-DoC_rev00.pdf
+  - https://www.advancedenergy.com/getmedia/bab68c3c-66ea-4098-bb37-c747a38ace8d/avd85b-48s05xxxx_ce_rev00_1502937543_cert.pdf
+  - https://www.advancedenergy.com/getmedia/d4fce386-6860-40f6-8282-731ac9a8e1e7/682301612601_dc-dc_converter_a1502937634_cert.pdf
+  - https://www.advancedenergy.com/getmedia/ed9125ef-524c-4bfb-8a02-3754d60254d0/avd85b-48s12xxxx_ce_rev00_1502937583_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8e74fce1-5ac3-4d90-ba89-bc3f8b5d052e/682301708801_dc-dc_converter_a1502937676_cert.pdf
+  - https://www.advancedenergy.com/getmedia/bf7308d1-6a31-4167-aa6f-5a549eb27a92/avd100-48s05-6l_-48s05b-6l_-481429044930_cert.pdf
+  - https://www.advancedenergy.com/getmedia/de6cdbca-48bf-4d3f-83e7-03217d6eb67c/tuv_avd100-48s05_avd85-48s05_1429044974_cert.pdf
+  - https://www.advancedenergy.com/getmedia/99378473-07db-4963-bb87-7050db6bf767/tuv_avd100-48s05_avd85-48s05_1429045171_cert.pdf
+  - https://www.advancedenergy.com/getmedia/9e44d6d5-ba12-4894-8e37-40f5e5d6e206/ul_avd100_nofa-4786779926-1429045046_cert.pdf
+  - https://www.advancedenergy.com/getmedia/4a91492c-3d76-4bec-a146-d6235574f15e/ul_avd100_nofa-4786779926-1429045127_cert.pdf
+  - https://www.advancedenergy.com/getmedia/afb99f63-c941-436b-9eef-4083bbbdc486/ald15_trn_1313022016_techref.pdf
+  - https://www.advancedenergy.com/getmedia/cee410e0-4ff9-45e6-9f9d-3d5eac8298a6/trn_dc_dc_avd100-48s05_release1449942688_techref.pdf
+  - https://www.advancedenergy.com/getmedia/04d6cb84-5fab-4b7e-a65e-043e44eb5f08/trn_dc_dc_avd100-48s05_release1472721778_techref.pdf
+  - https://www.advancedenergy.com/getmedia/745de238-df81-461e-9b37-7133c19e6e2d/trn_dc-dc_avd120-48s12_release1577159484_techref.pdf
+  - https://www.advancedenergy.com/getmedia/dc394a94-65b9-4214-84c8-c98b6cf00922/trn_dc-dc_avd200-48s12_1_2_01616401495_techref.pdf
+  - https://www.advancedenergy.com/getmedia/6bc3b7a9-da7f-4f08-bd83-1333cdca4eaa/trn_dc-dc_avd50-48s05_release_1577158511_techref.pdf
+  - https://www.advancedenergy.com/getmedia/ca064223-fbf2-4ac1-b1b6-b6aec92a0e71/trn_dc-dc_avd50b-48s05_release1597827946_techref.pdf
+  - https://www.advancedenergy.com/getmedia/e3e15d6f-b66f-4096-b167-593054471515/trn_dc-dc_avd50b-48s12_release1577158712_techref.pdf
+  - https://www.advancedenergy.com/getmedia/8350ae64-8c36-46bc-90ae-6f6cbeccbe0a/trn_dc-dc_avd50b-48s3v3_releas1577158587_techref.pdf
+  - https://www.advancedenergy.com/getmedia/9e6d5275-6535-407f-a8b2-7c5cbd1e1ba4/trn_dc-dc_avd75-48s1v2_release1577158798_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a48aa56f-1a60-4b8c-8459-b0e44658867f/trn_dc-dc_avd75-48s3v3_release1577158849_techref.pdf
+  - https://www.advancedenergy.com/getmedia/4ecb1c2a-db64-43c4-b3ab-438ccb2d8344/TRN-DC-DC-AVD75B-48S05-Release-1-5-(08-18-2022).pdf
+  - https://www.advancedenergy.com/getmedia/0c3800df-96c5-46a6-9b35-151d947e2e93/TRN-DC-DC-AVD75B-48S12-Release-2-1-(082923).pdf
+  - https://www.advancedenergy.com/getmedia/04014df7-918b-4032-9c9a-c620970fcb50/trn_dc-dc_avd75b-48s3v3_releas1577158918_techref.pdf
+  - https://www.advancedenergy.com/getmedia/a6ad5391-dfe5-4b9f-a472-5c315c2a1c54/trn_dc-dc_avd85-48s05_release_1577159186_techref.pdf
+  - https://www.advancedenergy.com/getmedia/86b7f157-2041-4630-b6e5-7de9a806a19c/trn_dc-dc_avd85-48s12_release_1585201632_techref.pdf
+  - https://www.advancedenergy.com/getmedia/8727dc22-171a-4735-9952-d5a2c7945dd3/trn_dc-dc_avd85-48s3v3_releas1577159130_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f66a485a-55b3-4550-8996-a43deab969e0/trn_dc-dc_avd85b-48s05_relaese1577159319_techref.pdf
+  - https://www.advancedenergy.com/getmedia/5ee5f23c-4bfd-4c83-97e3-9624cb6cd670/trn_dc-dc_avd85b-48s12_release1585201715_techref.pdf
+  - https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+  - https://www.advancedenergy.com/getmedia/deb1799a-35b2-4ded-9e63-c3d1b8141a0b/ENG-EMI-Management-whitepaper-275-01-2.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c9eced8a-6e7f-4b07-a4c2-47572f36b316/AVD-ALD-1-16th-bricks.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Telecom Isolated DC-DC Brick ConvertersOur brick-type isolated DC-DC converters designed for telecommunications are designed to provide regulated, low-noise power. Customize with various voltage options.
+  ↓
+AVD/ALD 1/16 BricksStandard 1.3 x 0.9 (33 x 23 mm) inch footprintWide input range of 36 to 75 VDCChoice of through-hole or surface-mount termination

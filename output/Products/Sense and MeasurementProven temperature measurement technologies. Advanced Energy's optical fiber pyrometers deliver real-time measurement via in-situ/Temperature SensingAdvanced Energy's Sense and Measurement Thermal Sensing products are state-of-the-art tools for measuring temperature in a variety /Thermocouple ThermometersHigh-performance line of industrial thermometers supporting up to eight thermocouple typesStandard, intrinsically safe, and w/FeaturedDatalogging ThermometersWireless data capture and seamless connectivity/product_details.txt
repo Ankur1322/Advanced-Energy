@@ -1,0 +1,132 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedDatalogging ThermometersWireless data capture and seamless connectivity
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Thermocouple ThermometersHigh-performance line of industrial thermometers supporting up to eight thermocouple typesStandard, intrinsically safe, and wireless datalogging models; single- or dual-inputSupported by a wide range of temperature probe options
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/
+Category Description: Advanced Energy’s thermocouple thermometers family includes digital, intrinsically safe, and datalogging thermometers.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedDatalogging ThermometersWireless data capture and seamless connectivity
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/datalogging-thermometers/
+
+Complete Product Description:
+Advanced Energy's TEGAM 900 Series data logging thermometers are instruments you can rely on every day with confidence.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Software Developers’ Kit Brochure: https://www.advancedenergy.com/getmedia/167b6725-6c15-4cf2-b631-4f3d7d097783/TEG_0098_dev_kit_bro_pages.pdf
+  - TEGAM Thermometry Brochure: https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - 931/932B Datasheet: https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - 931/932 Quick Start Guide-Chinese: https://www.advancedenergy.com/getmedia/10c4703e-f268-411b-b32b-d4d2ef3c5ab9/TEG_0092_931A_guide_5.5x8.5_chinese_RevC.pdf
+  - 931/932 Quick Start Guide-Dutch: https://www.advancedenergy.com/getmedia/c5d83764-14bc-46da-8c46-3ce2e34d58a6/TEG_0092_931A_guide_5.5x8.5_dutch_RevC.pdf
+  - 931/932 Quick Start Guide-English: https://www.advancedenergy.com/getmedia/de6d38c8-434b-420b-a1bc-e67d1517c6e4/TEG_0092_931A_guide_5.5x8.5_english_RevC.pdf
+  - 931/932 Quick Start Guide-French: https://www.advancedenergy.com/getmedia/b3f99ee9-521c-438c-b4b2-5717b172d9d9/TEG_0092_931A_guide_5.5x8.5_french_RevC.pdf
+  - 931/932 Quick Start Guide-German: https://www.advancedenergy.com/getmedia/fa07a088-2742-4e1f-9516-a74bd9e1380e/TEG_0092_931A_guide_5.5x8.5_german_RevC.pdf
+  - 931/932 Quick Start Guide-Japanese: https://www.advancedenergy.com/getmedia/11e7b8c4-e0d6-4372-8414-2c3c4d024b96/TEG_0092_931A_guide_5.5x8.5_japanese_RevC.pdf
+  - 931/932 Quick Start Guide-Korean: https://www.advancedenergy.com/getmedia/1f06fccb-7941-4cff-9524-ded372a6c49c/TEG_0092_931A_guide_5.5x8.5_korean_RevC.pdf
+  - 931/932 Quick Start Guide-Spanish: https://www.advancedenergy.com/getmedia/e1f2fa0b-15d0-4cb4-882e-e2dd242a0412/TEG_0092_931A_guide_5.5x8.5_spanish_RevC.pdf
+  - 931/932 Manual &#8211; Chinese: https://www.advancedenergy.com/getmedia/22d000e3-0a50-441c-a830-b8e89ad5c929/931B-900-Rev-A_Chinese-Simplified-1.pdf
+  - 931/932 Manual &#8211; Dutch: https://www.advancedenergy.com/getmedia/3794dea1-128b-4fb3-a313-7fcb89ef0f96/931B-900-Rev-A_Dutch.pdf
+  - 931/932 Manual &#8211; French: https://www.advancedenergy.com/getmedia/18db3d29-5f84-4a03-bf7f-025efc25822d/931B-900-Rev-A_French.pdf
+  - 931/932 Manual &#8211; German: https://www.advancedenergy.com/getmedia/d4b3391a-935e-4ba9-99d7-e4ec8dac3f2c/931B-900-Rev-A_German.pdf
+  - 931/932 Manual &#8211; Japanese: https://www.advancedenergy.com/getmedia/e5ba6443-11e4-4703-be38-7521e7df3fe4/931B-900-Rev-A_Japanese.pdf
+  - 931/932 Manual &#8211; Korean: https://www.advancedenergy.com/getmedia/c164c3fe-477f-4a2b-9f29-a3f3bbd1f264/931B-900-Rev-A_Korean.pdf
+  - 931/932 Manual &#8211; Spanish: https://www.advancedenergy.com/getmedia/18cfbb1b-6ec1-4515-8e59-378f8cafa95f/931B-900-Rev-A_Spanish-EU.pdf
+  - 931/932B-900 Manual: https://www.advancedenergy.com/getmedia/62b002a8-c8f6-4d04-b5fa-b3236340a573/931B-900-Rev-B.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/167b6725-6c15-4cf2-b631-4f3d7d097783/TEG_0098_dev_kit_bro_pages.pdf
+  - https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - https://www.advancedenergy.com/getmedia/10c4703e-f268-411b-b32b-d4d2ef3c5ab9/TEG_0092_931A_guide_5.5x8.5_chinese_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/c5d83764-14bc-46da-8c46-3ce2e34d58a6/TEG_0092_931A_guide_5.5x8.5_dutch_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/de6d38c8-434b-420b-a1bc-e67d1517c6e4/TEG_0092_931A_guide_5.5x8.5_english_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/b3f99ee9-521c-438c-b4b2-5717b172d9d9/TEG_0092_931A_guide_5.5x8.5_french_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/fa07a088-2742-4e1f-9516-a74bd9e1380e/TEG_0092_931A_guide_5.5x8.5_german_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/11e7b8c4-e0d6-4372-8414-2c3c4d024b96/TEG_0092_931A_guide_5.5x8.5_japanese_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/1f06fccb-7941-4cff-9524-ded372a6c49c/TEG_0092_931A_guide_5.5x8.5_korean_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/e1f2fa0b-15d0-4cb4-882e-e2dd242a0412/TEG_0092_931A_guide_5.5x8.5_spanish_RevC.pdf
+  - https://www.advancedenergy.com/getmedia/22d000e3-0a50-441c-a830-b8e89ad5c929/931B-900-Rev-A_Chinese-Simplified-1.pdf
+  - https://www.advancedenergy.com/getmedia/3794dea1-128b-4fb3-a313-7fcb89ef0f96/931B-900-Rev-A_Dutch.pdf
+  - https://www.advancedenergy.com/getmedia/18db3d29-5f84-4a03-bf7f-025efc25822d/931B-900-Rev-A_French.pdf
+  - https://www.advancedenergy.com/getmedia/d4b3391a-935e-4ba9-99d7-e4ec8dac3f2c/931B-900-Rev-A_German.pdf
+  - https://www.advancedenergy.com/getmedia/e5ba6443-11e4-4703-be38-7521e7df3fe4/931B-900-Rev-A_Japanese.pdf
+  - https://www.advancedenergy.com/getmedia/c164c3fe-477f-4a2b-9f29-a3f3bbd1f264/931B-900-Rev-A_Korean.pdf
+  - https://www.advancedenergy.com/getmedia/18cfbb1b-6ec1-4515-8e59-378f8cafa95f/931B-900-Rev-A_Spanish-EU.pdf
+  - https://www.advancedenergy.com/getmedia/62b002a8-c8f6-4d04-b5fa-b3236340a573/931B-900-Rev-B.pdf
+  - https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d0d80567-82f5-493d-a3ac-8f151b1d019d/931B.png
+  - Image: https://www.advancedenergy.com/getattachment/d0d80567-82f5-493d-a3ac-8f151b1d019d/931B.png
+  - Immersion Temperature Probe details - TEGAM.: https://www.advancedenergy.com/getattachment/bc8b567a-e149-45f5-ba06-29694d5fa04b/Immersion.jpg
+  - Image: https://www.advancedenergy.com/getmetafile/e0f69677-0e3f-42a1-b225-f6583099e2ce/911-910/
+  - Image: https://www.advancedenergy.com/getmetafile/29059bca-9de1-4e1c-93ac-1de3b0d2405c/911-911/
+  - Image: https://www.advancedenergy.com/getmetafile/240bac17-aca3-4881-b5e1-d03886a289c1/8012-Input-Switch-Box-T-C-Type-K-zoom/
+  - Image: https://www.advancedenergy.com/getmetafile/d639a8f6-236d-40b5-a004-96c53b6859f5/8022-Input-Switch-Box-T-C-Type-J-zoom/
+  - Image: https://www.advancedenergy.com/getmetafile/5dc0101e-9be3-452e-84e2-b3cd8a8b2a38/8052-Input-Switch-Box-T-C-Type-T-zoom/
+  - Image: https://www.advancedenergy.com/getmetafile/b8baa4b2-da4a-4391-b97f-99f12af0aca9/911-910-(1)/
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/47d3e4e0-641d-441e-8137-c2e5455bd8eb/911-911,-720-915-and-911-912.png
+  - Software Developer's Kit for Data Thermometers: https://i.ytimg.com/vi/W8_yGArziYA/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b9138f3b-64e1-4304-891c-51a9d427a9fd/921B-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedDigital ThermometersSuperior Accuracy and 2000-hour battery life: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/digital-thermometers/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - FeaturedIntrinsically Safe ThermometersSuperior Accuracy and 2000-hour battery life: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/intrinsically-safe-thermometers/
+  - Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - Food SafetyOur digital temperature instruments are utilized directly on production lines for immediate verification and are essential in calibrating crucial process control equipment, addressing the pervasive issue of foodborne illnesses, and contributing to a safer, healthier food supply chain.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - Explore Food Safety: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - AutomotiveAdvanced Energy provides a range of products for unique test & measurement applications in the manufacturing of automobiles and components. These product applications include low-resistance measurement and thermal sensing.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Thermocouple ThermometersHigh-performance line of industrial thermometers supporting up to eight thermocouple typesStandard, intrinsically safe, and wireless datalogging models; single- or dual-inputSupported by a wide range of temperature probe options
+  ↓
+FeaturedDatalogging ThermometersWireless data capture and seamless connectivity

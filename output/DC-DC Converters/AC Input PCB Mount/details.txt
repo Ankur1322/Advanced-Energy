@@ -1,0 +1,50 @@
+==============================================================================
+PRODUCT DETAILS: AC Input PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC Converters
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: AC Input PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/
+
+Complete Product Description:
+Best suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b58ee931-bf03-415f-97a7-55cdd944f060/AIF500.jpg
+  - Image: https://www.advancedenergy.com/getattachment/556e556b-b50e-42ed-8497-e42fd8c9e460/PFC-BMP-AIF06ZPFC.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9d3d02cf-3cfb-4e10-a4ba-0700b8731928/AIF06.jpg?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC Converters
+  ↓
+AC Input PCB Mount

@@ -1,0 +1,128 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedFlareSpection Flare Stack Flame and Pilot MonitorInfrared Camera System for Continuous Pilot Flame and Flare Stack Monitoring
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Thermal Imagers & SystemsAdvanced technology for industry leading accuracy and sensitivity.Ultra high precision optics and high resolutionsUnmatched dependability, reliability and longevity
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermal-imagers-systems/
+Category Description: Advanced Energy’s turn-key thermal imagers and systems accurately measure temperature and use reliable infrared technology. These high-tech instruments can be used to precisely determine temperature.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedFlareSpection Flare Stack Flame and Pilot MonitorInfrared Camera System for Continuous Pilot Flame and Flare Stack Monitoring
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermal-imagers-systems/flarespection/
+
+Complete Product Description:
+Mikron FlareSpection thermal imaging system enables users to confirm flare operation remotely and automatically, detecting differences in heat signatures of the flare stack.
+
+Features: Not found
+
+Specifications:
+  - Windows-Based, Real-Time Data Acquisition Software
+  - Advanced Thermal Image Processing, Analysis, and Report-Writing Software
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/dfc1c010-3f8c-4d1e-9521-3d09d6c64174/en-ti-flarespection-data-sheet.pdf
+  - LumaSpec RT Datenblatt (1 MB): https://www.advancedenergy.com/getmedia/21e67aa5-8bef-479f-a9d3-a85ad4467fbc/de-ti-lumaspecrt-data-sheet.pdf
+  - LumaSpec RT Data Sheet (2 MB): https://www.advancedenergy.com/getmedia/f91e1818-431a-4145-a204-4ac6cc2cb77b/en-ti-lumaspecrt-data-sheet.pdf
+  - LumaSpec RT Software Manual (12 MB): https://www.advancedenergy.com/getmedia/1567b7df-2c91-4812-8c93-f5bcb0a2512b/en-ti-lumaspec-rt-manual.pdf
+  - LumaSpec Offline Analyzer Data Sheet (890 KB): https://www.advancedenergy.com/getmedia/bac4c621-116a-47c1-8441-60cb1f2e7c29/en-ti-lumaspecoa-data-sheet.pdf
+  - LumaSpec Offline Analyzer Manual (5 MB): https://www.advancedenergy.com/getmedia/d847ed6b-de82-4b42-bc44-b0f7c467b7f8/en-ti-lumaspec-offline-analyzer-manual.pdf
+  - Temperature Measurement for Petrochemical Brochure: https://www.advancedenergy.com/getmedia/e8d12a1b-a363-495e-9eb0-4fb8a04666e4/en-ge-petrochemical-brochure.pdf
+  - Thermal Imaging Cameras Overview: https://www.advancedenergy.com/getmedia/518621be-ebbe-4d69-9a07-57d3d79795f2/en-ti-thermaloverview-brochure.pdf
+  - 为专业工业应用测温设计的热成像相机和系统: https://www.advancedenergy.com/getmedia/9f1eb9b9-6925-45dc-ba66-6f5532f53fe6/zho-ti-thermaloverview-brochure.pdf
+  - 石化测温: https://www.advancedenergy.com/getmedia/f72774ac-dfc5-4ea9-afd5-91d2c9c354c1/zho-ge-petrochemical-brochure.pdf
+  - FlareSpection Data Sheet: https://www.advancedenergy.com/getmedia/dfc1c010-3f8c-4d1e-9521-3d09d6c64174/en-ti-flarespection-data-sheet.pdf
+  - LumaSpec Offline Analyzer Data Sheet: https://www.advancedenergy.com/getmedia/0405828f-4a67-4fef-98b8-c0dfd1ef290f/en-ti-lumaspecoa-data-sheet.pdf
+  - LumaSpec RT Data Sheet: https://www.advancedenergy.com/getmedia/bea19333-e325-4e4e-aaf0-e9bd60e4a001/en-ti-lumaspecrt-data-sheet.pdf
+  - FlareSpection Manual: https://www.advancedenergy.com/getmedia/0be5d938-e0d7-49d7-8471-0167dca532a3/en-ti-flarespection-manual.pdf
+  - Remote Flare Monitoring Solutions Article: https://www.advancedenergy.com/getmedia/61a81b9e-28b1-4d11-928a-c3bb487ffe15/en-op-flare-monitoring-article.pdf
+  - FlareSpection: Safety and Savings for Flare Monitoring: https://www.advancedenergy.com/getmedia/861551ac-ca82-4662-9ff5-905221adc05f/ENG-Flare-Monitoring-Case-Study-295-01.pdf
+  - FlareSpection Application Analysis Form: https://www.advancedenergy.com/getmedia/ace3259e-99b7-4a3a-b9e0-b5251d6a790e/en-ti-flarespection-application-analysis-form.pdf
+  - Thermal Imaging Quotation Request Form: https://www.advancedenergy.com/getmedia/5eccd54d-0cca-4a93-a8d3-f353368cff55/en-ti-quotation-request-form.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/dfc1c010-3f8c-4d1e-9521-3d09d6c64174/en-ti-flarespection-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/21e67aa5-8bef-479f-a9d3-a85ad4467fbc/de-ti-lumaspecrt-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/f91e1818-431a-4145-a204-4ac6cc2cb77b/en-ti-lumaspecrt-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1567b7df-2c91-4812-8c93-f5bcb0a2512b/en-ti-lumaspec-rt-manual.pdf
+  - https://www.advancedenergy.com/getmedia/bac4c621-116a-47c1-8441-60cb1f2e7c29/en-ti-lumaspecoa-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d847ed6b-de82-4b42-bc44-b0f7c467b7f8/en-ti-lumaspec-offline-analyzer-manual.pdf
+  - https://www.advancedenergy.com/getmedia/e8d12a1b-a363-495e-9eb0-4fb8a04666e4/en-ge-petrochemical-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/518621be-ebbe-4d69-9a07-57d3d79795f2/en-ti-thermaloverview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/9f1eb9b9-6925-45dc-ba66-6f5532f53fe6/zho-ti-thermaloverview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/f72774ac-dfc5-4ea9-afd5-91d2c9c354c1/zho-ge-petrochemical-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/dfc1c010-3f8c-4d1e-9521-3d09d6c64174/en-ti-flarespection-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0405828f-4a67-4fef-98b8-c0dfd1ef290f/en-ti-lumaspecoa-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/bea19333-e325-4e4e-aaf0-e9bd60e4a001/en-ti-lumaspecrt-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0be5d938-e0d7-49d7-8471-0167dca532a3/en-ti-flarespection-manual.pdf
+  - https://www.advancedenergy.com/getmedia/61a81b9e-28b1-4d11-928a-c3bb487ffe15/en-op-flare-monitoring-article.pdf
+  - https://www.advancedenergy.com/getmedia/861551ac-ca82-4662-9ff5-905221adc05f/ENG-Flare-Monitoring-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/ace3259e-99b7-4a3a-b9e0-b5251d6a790e/en-ti-flarespection-application-analysis-form.pdf
+  - https://www.advancedenergy.com/getmedia/5eccd54d-0cca-4a93-a8d3-f353368cff55/en-ti-quotation-request-form.pdf
+  - https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/49df6d4b-2184-4e79-841b-bd75b2f8bb79/flarespection-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b1f38263-80df-4994-8ada-3607d08bd108/flarespection-ff-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/37fd0f6e-3456-4532-b4e5-68f5952615ed/flarespection-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e47fca9d-8b16-45d8-8b95-cc3d10553c78/flarespection-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/64aca337-5e47-46d8-a2f9-647756971649/flarespection-ll-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55a48dd3-030e-497a-af1a-c241a9a9f023/flarespection-ls-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d1c60f30-1e31-4f63-90d1-45df5d091081/flarespection-rs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/49df6d4b-2184-4e79-841b-bd75b2f8bb79/flarespection-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b1f38263-80df-4994-8ada-3607d08bd108/flarespection-ff-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/37fd0f6e-3456-4532-b4e5-68f5952615ed/flarespection-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e47fca9d-8b16-45d8-8b95-cc3d10553c78/flarespection-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/64aca337-5e47-46d8-a2f9-647756971649/flarespection-ll-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55a48dd3-030e-497a-af1a-c241a9a9f023/flarespection-ls-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d1c60f30-1e31-4f63-90d1-45df5d091081/flarespection-rs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/49df6d4b-2184-4e79-841b-bd75b2f8bb79/flarespection-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b1f38263-80df-4994-8ada-3607d08bd108/flarespection-ff-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/37fd0f6e-3456-4532-b4e5-68f5952615ed/flarespection-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e47fca9d-8b16-45d8-8b95-cc3d10553c78/flarespection-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/64aca337-5e47-46d8-a2f9-647756971649/flarespection-ll-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55a48dd3-030e-497a-af1a-c241a9a9f023/flarespection-ls-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d1c60f30-1e31-4f63-90d1-45df5d091081/flarespection-rs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d88f0f41-afb5-4a82-8bb1-03afa7ddb431/lumaspecrt_1-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/143c69a8-8319-4457-91f9-57227216cbd5/lumaspec_offline_analyzer-3-wp.jpg
+  - Flare Stack Monitoring with Quasar 2 and FlareSpection: https://i.ytimg.com/vi/Zv5I5NlNHbk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/daca6d38-948c-46b4-a17c-0b76813cb237/1409788161-st.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedADN-C Single Phase SeriesDin Rail Mounting Single-Phase AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/din-rail-psus/adn-c-single-phase/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bb9ea762-2a05-41d7-946a-c841cde53ec2/ENG-ADN-C-Single-Phase-235-01-031925.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Thermal Imagers & SystemsAdvanced technology for industry leading accuracy and sensitivity.Ultra high precision optics and high resolutionsUnmatched dependability, reliability and longevity
+  ↓
+FeaturedFlareSpection Flare Stack Flame and Pilot MonitorInfrared Camera System for Continuous Pilot Flame and Flare Stack Monitoring

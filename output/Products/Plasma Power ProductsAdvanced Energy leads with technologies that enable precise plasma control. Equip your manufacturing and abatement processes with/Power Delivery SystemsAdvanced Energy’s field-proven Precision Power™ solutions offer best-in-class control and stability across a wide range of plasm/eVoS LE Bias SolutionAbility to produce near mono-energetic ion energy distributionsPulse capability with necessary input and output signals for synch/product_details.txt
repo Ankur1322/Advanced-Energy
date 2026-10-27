@@ -1,0 +1,90 @@
+==============================================================================
+PRODUCT DETAILS: eVoS LE Bias SolutionAbility to produce near mono-energetic ion energy distributionsPulse capability with necessary input and output signals for synchronizationIntegrated design and compact size eliminates need for matching network
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Power Delivery SystemsAdvanced Energy’s field-proven Precision Power™ solutions offer best-in-class control and stability across a wide range of plasma power applications.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/power-delivery-systems/
+Category Description: Advanced Energy’s field-proven Precision Power™ solutions offer best-in-class control and stability across a wide range of plasma power applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: eVoS LE Bias SolutionAbility to produce near mono-energetic ion energy distributionsPulse capability with necessary input and output signals for synchronizationIntegrated design and compact size eliminates need for matching network
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/power-delivery-systems/evos-le/
+
+Complete Product Description:
+The eVoS® LE is an asymmetric bias waveform generator designed to achieve direct control of wafer-surface voltage and resulting ion energy distributions (IED) in plasma-based etch and deposition processes.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/95f9ef3b-c70e-4a1d-911c-c72435af0ecd/en-ppg-evos-data-sheet.pdf
+  - eVoS™ Family Brochure: https://www.advancedenergy.com/getmedia/a5414c0d-a96d-4f09-9d5d-7f223c389215/eVoS%e2%84%a2-Family-Brochure.pdf
+  - eVoS™ 非対称バイアス波形ジェネレータ: https://www.advancedenergy.com/getmedia/09d5b527-e92d-4f04-96e2-d7efd5b44807/JPN-eVoS-Family-A4-230-01-screen.pdf
+  - eVos LE Data Sheet: https://www.advancedenergy.com/getmedia/95f9ef3b-c70e-4a1d-911c-c72435af0ecd/en-ppg-evos-data-sheet.pdf
+  - Forward and Reflected Power: What Does It Mean?: https://www.advancedenergy.com/getmedia/71d96329-38ea-4689-8da9-e060f49ba7b8/en-rf-forwardreflectedpower-white-paper.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/95f9ef3b-c70e-4a1d-911c-c72435af0ecd/en-ppg-evos-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/a5414c0d-a96d-4f09-9d5d-7f223c389215/eVoS%e2%84%a2-Family-Brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09d5b527-e92d-4f04-96e2-d7efd5b44807/JPN-eVoS-Family-A4-230-01-screen.pdf
+  - https://www.advancedenergy.com/getmedia/95f9ef3b-c70e-4a1d-911c-c72435af0ecd/en-ppg-evos-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/71d96329-38ea-4689-8da9-e060f49ba7b8/en-rf-forwardreflectedpower-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/2de79231-3328-408c-b426-b22c6fcc9ded/evos_fl_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/354ce1f9-9cca-4366-8551-f0a965f03544/evos_bb_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3033074-7d9a-48fa-acaa-c8ea7779c3ac/evos_fr_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7804c2cf-432d-4070-8c78-e7983a92023b/evos_fs_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/89964e25-9308-44ed-b357-6398d09b34b1/evos_ft_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2de79231-3328-408c-b426-b22c6fcc9ded/evos_fl_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/354ce1f9-9cca-4366-8551-f0a965f03544/evos_bb_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3033074-7d9a-48fa-acaa-c8ea7779c3ac/evos_fr_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7804c2cf-432d-4070-8c78-e7983a92023b/evos_fs_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/89964e25-9308-44ed-b357-6398d09b34b1/evos_ft_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2de79231-3328-408c-b426-b22c6fcc9ded/evos_fl_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/354ce1f9-9cca-4366-8551-f0a965f03544/evos_bb_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3033074-7d9a-48fa-acaa-c8ea7779c3ac/evos_fr_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7804c2cf-432d-4070-8c78-e7983a92023b/evos_fs_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/89964e25-9308-44ed-b357-6398d09b34b1/evos_ft_w_p.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Power Delivery SystemsAdvanced Energy’s field-proven Precision Power™ solutions offer best-in-class control and stability across a wide range of plasma power applications.
+  ↓
+eVoS LE Bias SolutionAbility to produce near mono-energetic ion energy distributionsPulse capability with necessary input and output signals for synchronizationIntegrated design and compact size eliminates need for matching network

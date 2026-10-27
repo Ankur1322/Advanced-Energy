@@ -1,0 +1,86 @@
+==============================================================================
+PRODUCT DETAILS: Featured10,000W CalorimetersRF High Power Precision Calorimeters
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/
+Category Description: Making accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+
+[Level 3] Category Name: High Power RF CalorimetersAdvanced Energy’s TEGAM line of high power RF calorimeters offers precise power measurements, and are widely used by primary labs and industry-leading manufacturers.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-calorimeters/
+Category Description: Advanced Energy’s TEGAM line of high power RF calorimeters offers precise power measurements, and are widely used by primary labs and industry-leading manufacturers.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: Featured10,000W CalorimetersRF High Power Precision Calorimeters
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-calorimeters/10,000w-calorimeters/
+
+Complete Product Description:
+Advanced Energy's line of 10,000 W calorimeters provide highly accurate RF power measurements up to 10,000 W in the 50 Hz to 500 MHz frequency range.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/a9b53a37-2430-4da6-9b97-12437ff6c6ad/1314-909-Rev-EB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b0536fc5-4f69-42de-9bda-16affb0655a7/5540A-909-Rev-CC.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0b073383-fb8e-452a-b44a-66c7e78cbc20/5541A-900_AB.pdf
+  - 1314 Datasheet: https://www.advancedenergy.com/getmedia/a9b53a37-2430-4da6-9b97-12437ff6c6ad/1314-909-Rev-EB.pdf
+  - 1316A-901 Quick Start Guide: https://www.advancedenergy.com/getmedia/d9375c56-1740-4d68-950d-288f261ab5ea/1316A-901-Rev-A-Quick-Start-Guide.pdf
+  - 1316 Precision Calorimeter User Manual: https://www.advancedenergy.com/getmedia/cad68917-2218-4923-bba2-feafab960082/1316-900-Rev-AA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a9b53a37-2430-4da6-9b97-12437ff6c6ad/1314-909-Rev-EB.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/a9b53a37-2430-4da6-9b97-12437ff6c6ad/1314-909-Rev-EB.pdf
+  - https://www.advancedenergy.com/getmedia/b0536fc5-4f69-42de-9bda-16affb0655a7/5540A-909-Rev-CC.pdf
+  - https://www.advancedenergy.com/getmedia/0b073383-fb8e-452a-b44a-66c7e78cbc20/5541A-900_AB.pdf
+  - https://www.advancedenergy.com/getmedia/a9b53a37-2430-4da6-9b97-12437ff6c6ad/1314-909-Rev-EB.pdf
+  - https://www.advancedenergy.com/getmedia/d9375c56-1740-4d68-950d-288f261ab5ea/1316A-901-Rev-A-Quick-Start-Guide.pdf
+  - https://www.advancedenergy.com/getmedia/cad68917-2218-4923-bba2-feafab960082/1316-900-Rev-AA.pdf
+  - https://www.advancedenergy.com/getmedia/a9b53a37-2430-4da6-9b97-12437ff6c6ad/1314-909-Rev-EB.pdf
+
+Images:
+  - 1316A Calorimeter Front Panel: https://www.advancedenergy.com/getattachment/4dedec18-8aa7-42ea-88b0-fca19688c08e/1316-system-AE-TEGAM-Photo.jpg
+  - 1316A Calorimetric Measurement System: https://www.advancedenergy.com/getattachment/7d73a20d-df67-419d-bdf7-4c35afaa35bd/1316A-1.jpg
+  - 1316A Calorimeter Front Panel: https://www.advancedenergy.com/getattachment/4dedec18-8aa7-42ea-88b0-fca19688c08e/1316-system-AE-TEGAM-Photo.jpg
+  - 1316A Calorimetric Measurement System: https://www.advancedenergy.com/getattachment/7d73a20d-df67-419d-bdf7-4c35afaa35bd/1316A-1.jpg
+  - 1316A Calorimeter Front Panel: https://www.advancedenergy.com/getattachment/4dedec18-8aa7-42ea-88b0-fca19688c08e/1316-system-AE-TEGAM-Photo.jpg
+  - 1316A Calorimetric Measurement System: https://www.advancedenergy.com/getattachment/7d73a20d-df67-419d-bdf7-4c35afaa35bd/1316A-1.jpg
+  - Gemini 5500: https://www.advancedenergy.com/getattachment/c9826487-4b44-4cc2-8576-4cda748ae5a1/TEG_AE_5500_Gemini.jpg
+  - Gemini 5541A: https://www.advancedenergy.com/getattachment/8911ad8f-84ca-4a0f-b386-5e68b9194547/TEG_AE_55_Ge41mini_angle_left.png
+  - RF High Power Calorimeter: https://www.advancedenergy.com/getattachment/375ee251-9bfd-47ac-9656-fe58df14f5ea/1314-RF-High-Power-Calorimeter-250-W-283x300.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured250W CalorimetersRF High-Power Precision Calorimeters: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-calorimeters/250w-calorimeters/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a9b53a37-2430-4da6-9b97-12437ff6c6ad/1314-909-Rev-EB.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+  ↓
+High Power RF CalorimetersAdvanced Energy’s TEGAM line of high power RF calorimeters offers precise power measurements, and are widely used by primary labs and industry-leading manufacturers.
+  ↓
+Featured10,000W CalorimetersRF High Power Precision Calorimeters

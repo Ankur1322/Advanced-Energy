@@ -1,0 +1,51 @@
+==============================================================================
+PRODUCT DETAILS: Non-Isolated PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC Converters
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Non-Isolated PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/non-isolated-pcb-mount/
+
+Complete Product Description:
+Minimize losses, overcome noise sensitivity, and ensure tight regulation under dynamic load conditions with our extensive portfolio of non-isolated DC-DC converters, including general-purpose and three application-optimized product families.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/29e4b794-5d4e-4dda-98c2-6e39c9974340/LDO10C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0ca0d605-d73b-428b-9082-afbf2ca8c4e1/LGA20C.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5a6a7c69-6438-4871-94b4-3e90a74631ca/LGA-D.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d31dd685-b42e-4cb2-9aae-0a8db395f2f8/SIL40C2.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC Converters
+  ↓
+Non-Isolated PCB Mount

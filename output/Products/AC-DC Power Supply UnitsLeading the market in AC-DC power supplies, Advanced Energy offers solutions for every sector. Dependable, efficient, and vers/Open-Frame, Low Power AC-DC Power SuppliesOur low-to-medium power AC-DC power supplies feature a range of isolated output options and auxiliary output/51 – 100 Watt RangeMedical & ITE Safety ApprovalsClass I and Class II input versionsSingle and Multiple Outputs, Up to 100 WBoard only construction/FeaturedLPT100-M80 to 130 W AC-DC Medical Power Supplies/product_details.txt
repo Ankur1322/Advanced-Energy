@@ -1,0 +1,124 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLPT100-M80 to 130 W AC-DC Medical Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 51 – 100 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 100 WBoard only construction
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/
+Category Description: Advanced Energy power supplies falling within the 51 to 100 W range are the workhorses of the electronics world.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLPT100-M80 to 130 W AC-DC Medical Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/lpt100-m/
+
+Complete Product Description:
+The LPT100-M series of triple output open-frame AC-DC power supplies features ITE and medical safety approvals.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/b4cb4330-296d-4767-bbc8-66bd618e555d/lpt100-m_ds_05-04-2014_e2ffa03c50.pdf
+  - LPT100-M Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/b4cb4330-296d-4767-bbc8-66bd618e555d/lpt100-m_ds_05-04-2014_e2ffa03c50.pdf
+  - LPT100-M UL/CSA ITE Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/52485e7a-bfd1-4a58-9a7b-43ae540a9442/lpt10x-m_ul_60950-1_1394761216_cert.pdf
+  - LPT10x-M CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/52662833-8365-4e55-910b-17b51478438c/19277.pdf
+  - LPT10x-M TUV ITE CB Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/dcedf4c6-a09a-47bf-9a35-eebcea16598c/lpt10x-m_ite_cb_cert_1394761106_cert.pdf
+  - LPT10x-M TUV ITE/Medical Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/554bd5b6-ab56-4ac4-8dc7-02f56511897e/lpt10x-m_tuv_cert_1394761169_cert.pdf
+  - LPT10x-M TUV Medical CB Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/cd3ec14a-d86d-48c4-b41d-a42ee69ad8b9/lpt10x-m_med_cb_cert_1394761141_cert.pdf
+  - LPT10x-M UL/CSA Certificate ES60601-1 ver 3.0 Safety Certificate: https://www.advancedenergy.com/getmedia/92319797-f929-478e-8e31-101f848ea4cd/lpt10x-m_es_60601-1_1394761067_cert.pdf
+  - LPT10x-M UL/CSA Certificate ES60601-1 ver 3.1 Safety Certificate: https://www.advancedenergy.com/getmedia/2b793205-a3b2-48d8-a07d-cea66329e58b/lpt10x-m_es_60601-1_3_1_1467788165_cert.pdf
+  - LPT100-M Technical Reference Note: https://www.advancedenergy.com/getmedia/58f13ae6-b7f9-4642-8dd3-768adbd1b445/TRN-AC-DC-LPT100-M-Release1-7(031026).pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/d54a8d3c-6201-4c67-83f9-7cd450f07520/tlp150_04-08-2014_26f5cdb746.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b4cb4330-296d-4767-bbc8-66bd618e555d/lpt100-m_ds_05-04-2014_e2ffa03c50.pdf
+  - https://www.advancedenergy.com/getmedia/b4cb4330-296d-4767-bbc8-66bd618e555d/lpt100-m_ds_05-04-2014_e2ffa03c50.pdf
+  - https://www.advancedenergy.com/getmedia/52485e7a-bfd1-4a58-9a7b-43ae540a9442/lpt10x-m_ul_60950-1_1394761216_cert.pdf
+  - https://www.advancedenergy.com/getmedia/52662833-8365-4e55-910b-17b51478438c/19277.pdf
+  - https://www.advancedenergy.com/getmedia/dcedf4c6-a09a-47bf-9a35-eebcea16598c/lpt10x-m_ite_cb_cert_1394761106_cert.pdf
+  - https://www.advancedenergy.com/getmedia/554bd5b6-ab56-4ac4-8dc7-02f56511897e/lpt10x-m_tuv_cert_1394761169_cert.pdf
+  - https://www.advancedenergy.com/getmedia/cd3ec14a-d86d-48c4-b41d-a42ee69ad8b9/lpt10x-m_med_cb_cert_1394761141_cert.pdf
+  - https://www.advancedenergy.com/getmedia/92319797-f929-478e-8e31-101f848ea4cd/lpt10x-m_es_60601-1_1394761067_cert.pdf
+  - https://www.advancedenergy.com/getmedia/2b793205-a3b2-48d8-a07d-cea66329e58b/lpt10x-m_es_60601-1_3_1_1467788165_cert.pdf
+  - https://www.advancedenergy.com/getmedia/58f13ae6-b7f9-4642-8dd3-768adbd1b445/TRN-AC-DC-LPT100-M-Release1-7(031026).pdf
+  - https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - https://www.advancedenergy.com/getmedia/d54a8d3c-6201-4c67-83f9-7cd450f07520/tlp150_04-08-2014_26f5cdb746.pdf
+  - https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+  - https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/1301ae5d-f79b-4d35-909b-3524b9c1ae34/LPT-100M.png
+  - Image: https://www.advancedenergy.com/getattachment/037a14a7-b8c9-4c13-ba94-24361ca93a94/1285211703-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/90f1fe40-0923-4dbc-87a8-5218504486e8/819947319d.jpg
+  - Image: https://www.advancedenergy.com/getattachment/92bbb42d-05e5-4f91-a13b-f5b4e18521f9/948d2774e6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/49dd97c1-f1b1-458c-9e1a-41789edced3e/cd29c7675a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1301ae5d-f79b-4d35-909b-3524b9c1ae34/LPT-100M.png
+  - Image: https://www.advancedenergy.com/getattachment/037a14a7-b8c9-4c13-ba94-24361ca93a94/1285211703-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/90f1fe40-0923-4dbc-87a8-5218504486e8/819947319d.jpg
+  - Image: https://www.advancedenergy.com/getattachment/92bbb42d-05e5-4f91-a13b-f5b4e18521f9/948d2774e6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/49dd97c1-f1b1-458c-9e1a-41789edced3e/cd29c7675a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1301ae5d-f79b-4d35-909b-3524b9c1ae34/LPT-100M.png
+  - Image: https://www.advancedenergy.com/getattachment/037a14a7-b8c9-4c13-ba94-24361ca93a94/1285211703-st.jpg
+  - Image: https://www.advancedenergy.com/getattachment/90f1fe40-0923-4dbc-87a8-5218504486e8/819947319d.jpg
+  - Image: https://www.advancedenergy.com/getattachment/92bbb42d-05e5-4f91-a13b-f5b4e18521f9/948d2774e6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/49dd97c1-f1b1-458c-9e1a-41789edced3e/cd29c7675a.jpg
+  - Image: https://www.advancedenergy.com/getattachment/95744198-95d9-4272-80c2-cf2cac251082/c08f9b7822_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/85a0fbad-6832-444d-a9e6-1fb7b3cb8eca/cf2fcb3d02_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fb12830c-c683-4c71-a65e-ac0807117692/397fdf3599.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3576b6ba-b5ea-4757-b685-bf2eaa25745a/b1cc4b0471_1.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedLPS100-M80 to 150 W AC-DC Medical Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/51-–-100-watt-range/lps100-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6488e491-991e-488e-895a-85a57ef8ec19/lps100-m_ds_c4fa2d6be2.pdf
+  - FeaturedTLP150 Series100 to 150 W AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/tlp150/
+  - Datasheet: https://www.advancedenergy.com/getmedia/d54a8d3c-6201-4c67-83f9-7cd450f07520/tlp150_04-08-2014_26f5cdb746.pdf
+  - FeaturedLPQ200-M Series100 to 200 W Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lpq200-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/9bed8879-313a-43c9-af90-2ed906d68c73/lpq200-m_ds_05-04-2014_e491e69af6.pdf
+  - FeaturedLPS200-M Series125 to 250 W Medical AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lps200-m/
+  - Datasheet: https://www.advancedenergy.com/getmedia/cf71810a-de58-4957-b4c3-ee9cb4b00dbd/lps200-m_ds_1490810129.pdf
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+51 – 100 Watt RangeMedical & ITE Safety ApprovalsClass I and Class II input versionsSingle and Multiple Outputs, Up to 100 WBoard only construction
+  ↓
+FeaturedLPT100-M80 to 130 W AC-DC Medical Power Supplies

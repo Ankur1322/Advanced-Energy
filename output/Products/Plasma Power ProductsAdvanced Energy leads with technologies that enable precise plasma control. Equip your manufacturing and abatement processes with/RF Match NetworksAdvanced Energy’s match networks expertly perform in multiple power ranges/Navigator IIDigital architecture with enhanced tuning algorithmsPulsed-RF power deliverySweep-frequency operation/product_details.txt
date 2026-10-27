@@ -1,0 +1,110 @@
+==============================================================================
+PRODUCT DETAILS: Navigator IIDigital architecture with enhanced tuning algorithmsPulsed-RF power deliverySweep-frequency operation
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: RF Match NetworksAdvanced Energy’s match networks expertly perform in multiple power ranges.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/
+Category Description: Advanced Energy’s match networks expertly perform in multiple power ranges.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Navigator IIDigital architecture with enhanced tuning algorithmsPulsed-RF power deliverySweep-frequency operation
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/navigator-ii/
+
+Complete Product Description:
+The Navigator® ll is equipped with microprocessor-controlled, stepper-motor drives, and advanced tuning algorithms — enabling optimized RF power.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - Navigator II Digital Matching Networks Brochure Navigator II matching network provides rapid, accurate, and reliable matching across a wide range of power requirements. Download Navigator II Brochure for details regarding product specifications, electrical specifications, mechanical specifications and more View Resource: https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - Navigator II Vacuum Capacitor Health Predictive Maintenance with PowerInsight View Resource: https://www.advancedenergy.com/getmedia/c01446b7-274a-4c6b-a5d4-4e1e2dd3a102/en-prdsltn-powerinsight-navigator-ii-case-study.pdf
+  - RF Calibration Solutions View Resource: https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - NAVIGATOR® II 数字匹配网络: https://www.advancedenergy.com/getmedia/0b8d228d-2628-4ee2-a633-6b153d376134/zho-ppg-navigatorii-brochure.pdf
+  - PowerInsight by Advanced Energy: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - RF Calibration Solutions: https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - Navigator II Digital Matching Networks Brochure: https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - Precise Power Control in 3D Device Architectures: https://www.advancedenergy.com/getmedia/b919e271-88c9-45e4-b28d-196c109d025f/en-se-precise-power-3d-architecture-application-note.pdf
+  - Navigator II Vacuum Capacitor Health Predictive Maintenance with PowerInsight: https://www.advancedenergy.com/getmedia/c01446b7-274a-4c6b-a5d4-4e1e2dd3a102/en-prdsltn-powerinsight-navigator-ii-case-study.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c01446b7-274a-4c6b-a5d4-4e1e2dd3a102/en-prdsltn-powerinsight-navigator-ii-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/0b8d228d-2628-4ee2-a633-6b153d376134/zho-ppg-navigatorii-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/251b89ab-67a3-4a39-a8fc-f45c48dbacf4/en-ppg-navigator-digital-matching-networks-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b919e271-88c9-45e4-b28d-196c109d025f/en-se-precise-power-3d-architecture-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/c01446b7-274a-4c6b-a5d4-4e1e2dd3a102/en-prdsltn-powerinsight-navigator-ii-case-study.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/bc430602-47ab-49f0-9033-0d2407694ea2/rf-navigator-ii-66b-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/54e35112-41c3-4a4e-8a08-8888a939cafa/rf-navigator-ii-66b-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/649d0825-82cd-40d0-a2fb-ca993e0765da/rf-navigator-ii-66b-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e21f9592-1be9-474e-a60c-31961dfed066/rf-navigator-ii-66b-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0f1025a7-effb-4030-945b-5e9cc87ef68e/rf-navigator-ii-66b-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bc430602-47ab-49f0-9033-0d2407694ea2/rf-navigator-ii-66b-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/54e35112-41c3-4a4e-8a08-8888a939cafa/rf-navigator-ii-66b-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/649d0825-82cd-40d0-a2fb-ca993e0765da/rf-navigator-ii-66b-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e21f9592-1be9-474e-a60c-31961dfed066/rf-navigator-ii-66b-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0f1025a7-effb-4030-945b-5e9cc87ef68e/rf-navigator-ii-66b-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bc430602-47ab-49f0-9033-0d2407694ea2/rf-navigator-ii-66b-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/54e35112-41c3-4a4e-8a08-8888a939cafa/rf-navigator-ii-66b-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/649d0825-82cd-40d0-a2fb-ca993e0765da/rf-navigator-ii-66b-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e21f9592-1be9-474e-a60c-31961dfed066/rf-navigator-ii-66b-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0f1025a7-effb-4030-945b-5e9cc87ef68e/rf-navigator-ii-66b-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+RF Match NetworksAdvanced Energy’s match networks expertly perform in multiple power ranges.
+  ↓
+Navigator IIDigital architecture with enhanced tuning algorithmsPulsed-RF power deliverySweep-frequency operation

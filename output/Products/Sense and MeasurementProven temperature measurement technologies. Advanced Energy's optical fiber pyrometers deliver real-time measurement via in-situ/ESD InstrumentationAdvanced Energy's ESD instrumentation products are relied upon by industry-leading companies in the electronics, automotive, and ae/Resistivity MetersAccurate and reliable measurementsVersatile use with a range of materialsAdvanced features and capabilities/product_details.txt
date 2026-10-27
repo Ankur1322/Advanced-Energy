@@ -1,0 +1,65 @@
+==============================================================================
+PRODUCT DETAILS: Resistivity MetersAccurate and reliable measurementsVersatile use with a range of materialsAdvanced features and capabilities
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: ESD InstrumentationAdvanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/esd-instrumentation/
+Category Description: Advanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Resistivity MetersAccurate and reliable measurementsVersatile use with a range of materialsAdvanced features and capabilities
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/esd-instrumentation/resistivity-meters/
+
+Complete Product Description:
+Advanced Energy's Trek and Monroe resistivity meters offer accurate and repeatable measurements for surface resistivity, volume resistivity, or resistance to ground.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Trek 152-1 Data Sheet: https://www.advancedenergy.com/getmedia/5a50065c-24a6-4475-93b5-612e925a92ff/ENG-ESD-Resistivity-Trek-152-1-235-01-012126.pdf
+  - Grounding Considerations for the Trek 152 Resistance Meter Technical Note: https://www.advancedenergy.com/getmedia/88d6e988-803f-4906-9dc8-17d58cb4e9c2/en-esd-grounding-trek152-technical-note.pdf
+  - Surface Resistivity and Surface Resistance Measurements Application Note: https://www.advancedenergy.com/getmedia/779e77c3-a07e-4c26-be3b-424bacc6622b/en-esd-surface-resistivity-application-note.pdf
+  - Surface Resistivity and Surface Resistance Measurements Application Note Discussion on surface resistivity and surface resistance measurements using a concentric ring probe technique. View Resource: https://www.advancedenergy.com/getmedia/779e77c3-a07e-4c26-be3b-424bacc6622b/en-esd-surface-resistivity-application-note.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/5a50065c-24a6-4475-93b5-612e925a92ff/ENG-ESD-Resistivity-Trek-152-1-235-01-012126.pdf
+  - https://www.advancedenergy.com/getmedia/88d6e988-803f-4906-9dc8-17d58cb4e9c2/en-esd-grounding-trek152-technical-note.pdf
+  - https://www.advancedenergy.com/getmedia/779e77c3-a07e-4c26-be3b-424bacc6622b/en-esd-surface-resistivity-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/779e77c3-a07e-4c26-be3b-424bacc6622b/en-esd-surface-resistivity-application-note.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/5cdf5b8a-dc3a-4eff-b5e2-00ce7c9a700e/152-1-with-volume-resistance-probe.png
+  - Image: https://www.advancedenergy.com/images/technical-content/application-note.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+ESD InstrumentationAdvanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+  ↓
+Resistivity MetersAccurate and reliable measurementsVersatile use with a range of materialsAdvanced features and capabilities

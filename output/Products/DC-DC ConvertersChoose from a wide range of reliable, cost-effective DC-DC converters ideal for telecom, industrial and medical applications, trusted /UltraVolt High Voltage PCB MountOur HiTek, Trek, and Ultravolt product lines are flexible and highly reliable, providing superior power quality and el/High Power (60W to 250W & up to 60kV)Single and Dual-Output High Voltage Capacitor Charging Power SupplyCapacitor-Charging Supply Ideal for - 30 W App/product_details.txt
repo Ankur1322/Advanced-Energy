@@ -1,0 +1,112 @@
+==============================================================================
+PRODUCT DETAILS: High Power (60W to 250W & up to 60kV)Single and Dual-Output High Voltage Capacitor Charging Power SupplyCapacitor-Charging Supply Ideal for > 30 W ApplicationsRegulated, High-Precision, DC-to-DC High Voltage Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: UltraVolt High Voltage PCB MountOur HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/high-voltage-boost-(u-v)/
+Category Description: Our HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: High Power (60W to 250W & up to 60kV)Single and Dual-Output High Voltage Capacitor Charging Power SupplyCapacitor-Charging Supply Ideal for > 30 W ApplicationsRegulated, High-Precision, DC-to-DC High Voltage Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/high-voltage-boost-(u-v)/high-power-(-60w-up-to-60kv)/
+
+Complete Product Description:
+Advanced Energy's standard-size, high voltage power supplies offer various enhanced interfaces, mounts, and efficiencies.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - High Power 1/8C to 6C Series Data Sheet: https://www.advancedenergy.com/getmedia/c48f750a-a6c6-45db-b2b4-4011b5ec07c5/ENG-HV-High-Power-1-8C-6C-235-01-08-08-24.pdf
+  - UltraVolt Dual Polarity C Series Data Sheet: https://www.advancedenergy.com/getmedia/91c2058d-184d-4bd8-b9b6-a301e9d32c61/en-hv-dual-polarity-c-series-data-sheet.pdf
+  - UltraVolt High Power 40C to 60C Series Data Sheet: https://www.advancedenergy.com/getmedia/fe991819-e052-4b9a-9a67-f623d2555346/en-hv-high-power-40c-60c-series-data-sheet.pdf
+  - UltraVolt High Power 8C to 30C Series Data Sheet: https://www.advancedenergy.com/getmedia/d13f7594-056e-41a2-bb87-38881358d490/ENG-HV-High-Power-8C-30C-06-30-2026-logo-without-R.pdf
+  - Advanced Control and Monitoring with UltraVolt -I5 and -I10 Control Interface Options Application Note: https://www.advancedenergy.com/getmedia/3a1d4303-9498-48ff-b463-660f402a1dfe/en-hv-advanced-control-and-monitoring-I5-and-I10-control-interface-options-application-note.pdf
+  - Derating of Aluminum  Electrolytic Capacitors in High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - Electrical Termination  and Mounting Configurations of High Voltage Power Supplies Application Notes: https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - Interfacing with UltraVolt HVPS High Power C & High Power 8C-30C Series: https://www.advancedenergy.com/getmedia/0997000f-d1f0-4eaa-a796-e9ef3d1024b3/en-hv-interfacing-with-high-voltage-power-supplies-high-power-c-high-power-8c-30c-series-application-note.pdf
+  - Modifiable and efficient power supplies for collaborative robots: https://www.advancedenergy.com/getmedia/81c0e39b-953c-4166-b1e1-7a00066dffdb/ENG-Cobot-AppNote-265-01.pdf
+  - Parallel Operation of UltraVolt HVPS Application Note: https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - Performing Isolation Tests on High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - Protection of High Voltage Power Supplies in Single and Multiple Applications Application Note: https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - Remote Control of High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/4237f6e6-116e-4721-bfe9-384dc3391053/en-hv-remote-control-high-voltage-power-supply-application-note.pdf
+  - UltraVolt HVPS Polarity Reversing Configurations Application Note: https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - Advanced Energy Powers CT Systems with High Power Demands: https://www.advancedenergy.com/getmedia/e4dd84b4-e11c-4d74-837f-0f4a7cf52bac/ENG-CT-High-Power-Demands-Case-Study-295-01.pdf
+  - High Power C Required in Intravascular Lithotripsy System: https://www.advancedenergy.com/getmedia/1b96aa97-402a-41c8-8a70-eeafb7f939ea/ENG-Intravascular-Lithotripsy-Case-Study-295-01.pdf
+  - High Power C Series Required for Transfection of Cells: https://www.advancedenergy.com/getmedia/58f28591-e1cf-469f-b82e-b05a2d736335/ENG-Transfection-of-Cells-Case-Study-295-01.pdf
+  - High Voltage Power Supply for High-Energy X-Ray Source: https://www.advancedenergy.com/getmedia/1661958e-61bd-476f-ae58-4ec67b5920dd/ENG-X-Ray-Source-Case-Study-295-01.pdf
+  - Revolutionizing Medical Devices with AE's Power Solutions for Pulsed Field Ablation: https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/c48f750a-a6c6-45db-b2b4-4011b5ec07c5/ENG-HV-High-Power-1-8C-6C-235-01-08-08-24.pdf
+  - https://www.advancedenergy.com/getmedia/91c2058d-184d-4bd8-b9b6-a301e9d32c61/en-hv-dual-polarity-c-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/fe991819-e052-4b9a-9a67-f623d2555346/en-hv-high-power-40c-60c-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d13f7594-056e-41a2-bb87-38881358d490/ENG-HV-High-Power-8C-30C-06-30-2026-logo-without-R.pdf
+  - https://www.advancedenergy.com/getmedia/3a1d4303-9498-48ff-b463-660f402a1dfe/en-hv-advanced-control-and-monitoring-I5-and-I10-control-interface-options-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/0997000f-d1f0-4eaa-a796-e9ef3d1024b3/en-hv-interfacing-with-high-voltage-power-supplies-high-power-c-high-power-8c-30c-series-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/81c0e39b-953c-4166-b1e1-7a00066dffdb/ENG-Cobot-AppNote-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/4237f6e6-116e-4721-bfe9-384dc3391053/en-hv-remote-control-high-voltage-power-supply-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/e4dd84b4-e11c-4d74-837f-0f4a7cf52bac/ENG-CT-High-Power-Demands-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/1b96aa97-402a-41c8-8a70-eeafb7f939ea/ENG-Intravascular-Lithotripsy-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/58f28591-e1cf-469f-b82e-b05a2d736335/ENG-Transfection-of-Cells-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/1661958e-61bd-476f-ae58-4ec67b5920dd/ENG-X-Ray-Source-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/45522f13-cd1f-4c67-97b9-581441eee17c/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1706458-5ce5-4cf8-92fd-866bcca88287/scanning-electron-microscope_op_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c1706458-5ce5-4cf8-92fd-866bcca88287/scanning-electron-microscope_op_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Mass SpecAdvanced Energy's proven track record of delivering exceptional power solutions for life science analytical instruments ensures the highest level of performance and accuracy in mass spec applications.: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+  - Explore Mass Spectrometry: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+  - SEMOur power solutions are designed to meet the specific requirements of SEM systems, providing high power density, low noise, and high efficiency in a compact form factor.: https://www.advancedenergy.com/en-us/applications/medical/life-science/sem/
+  - Explore SEM: https://www.advancedenergy.com/en-us/applications/medical/life-science/sem/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+UltraVolt High Voltage PCB MountOur HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+  ↓
+High Power (60W to 250W & up to 60kV)Single and Dual-Output High Voltage Capacitor Charging Power SupplyCapacitor-Charging Supply Ideal for > 30 W ApplicationsRegulated, High-Precision, DC-to-DC High Voltage Supplies

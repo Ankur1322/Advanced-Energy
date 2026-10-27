@@ -1,0 +1,90 @@
+==============================================================================
+PRODUCT DETAILS: Featured5541A Series RF Power MetersHigh Power, High Accuracy RF Measurement in a Single Instrument
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/
+Category Description: Making accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+
+[Level 3] Category Name: High Power RF SensorsAdvanced Energy’s TEGAM line of high power RF sensors allow the precise measurement of RF power across a wide range of frequencies.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-sensors/
+Category Description: Advanced Energy’s TEGAM line of high power RF sensors allow the precise measurement of RF power across a wide range of frequencies.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: Featured5541A Series RF Power MetersHigh Power, High Accuracy RF Measurement in a Single Instrument
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-sensors/5541a-series-rf-power-meters/
+
+Complete Product Description:
+Advanced Energy's 5541A Series of RF power meters provide high power, high accuracy measurement in one instrument.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/0b073383-fb8e-452a-b44a-66c7e78cbc20/5541A-900_AB.pdf
+  - 5541A Quick Start Guide: https://www.advancedenergy.com/getmedia/52852ccd-ea64-4500-b9dd-5591d56bfa2b/5541A-901_AA.pdf
+  - 5541A Manual: https://www.advancedenergy.com/getmedia/0b073383-fb8e-452a-b44a-66c7e78cbc20/5541A-900_AB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ef641a14-b7e8-4972-9557-fd52df973813/2601A-909-Rev-BA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b0536fc5-4f69-42de-9bda-16affb0655a7/5540A-909-Rev-CC.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/0b073383-fb8e-452a-b44a-66c7e78cbc20/5541A-900_AB.pdf
+  - https://www.advancedenergy.com/getmedia/52852ccd-ea64-4500-b9dd-5591d56bfa2b/5541A-901_AA.pdf
+  - https://www.advancedenergy.com/getmedia/0b073383-fb8e-452a-b44a-66c7e78cbc20/5541A-900_AB.pdf
+  - https://www.advancedenergy.com/getmedia/ef641a14-b7e8-4972-9557-fd52df973813/2601A-909-Rev-BA.pdf
+  - https://www.advancedenergy.com/getmedia/b0536fc5-4f69-42de-9bda-16affb0655a7/5540A-909-Rev-CC.pdf
+
+Images:
+  - Gemini 5541A: https://www.advancedenergy.com/getattachment/8911ad8f-84ca-4a0f-b386-5e68b9194547/TEG_AE_55_Ge41mini_angle_left.png
+  - Gemini 5541A: https://www.advancedenergy.com/getattachment/8911ad8f-84ca-4a0f-b386-5e68b9194547/TEG_AE_55_Ge41mini_angle_left.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - TEGAM™ GEMINI 5540 RF Power Meter & GEMINI Tools Software: https://i.ytimg.com/vi/EnAWZSx413c/hqdefault.jpg
+  - High Power Transfer Standard, 250 kHz to 1000 MHz: https://www.advancedenergy.com/getattachment/3b940dd8-0e2b-4c0d-91b7-e54fb3e29be6/2601A-495x300.jpg
+  - Gemini 5500: https://www.advancedenergy.com/getattachment/c9826487-4b44-4cc2-8576-4cda748ae5a1/TEG_AE_5500_Gemini.jpg
+  - Gemini Tools: https://www.advancedenergy.com/getattachment/c4c39d32-b26a-4947-8029-a53910185cdf/GEMINI-Tools_Main-Window_Active-493x300.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured2600 Series RF Power Sensors250 kHz to 3500 MHz High Power Transfer Standard: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-sensors/2600-series-rf-power-sensors/
+  - Datasheet: https://www.advancedenergy.com/getmedia/ef641a14-b7e8-4972-9557-fd52df973813/2601A-909-Rev-BA.pdf
+  - Featured5540A Series RF Power MetersHigh Power, High-Accuracy RF Measurement in a Single Instrument: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-sensors/5540a-series-rf-power-meters/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b0536fc5-4f69-42de-9bda-16affb0655a7/5540A-909-Rev-CC.pdf
+  - FeaturedHigh Power Sensor SoftwareGEMINI Tools RF Power Meter Application Data Visualization and Collection Software for GEMINI 5500-Series RF Power Meters: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/high-power-rf-sensors/high-power-sensor-software/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+  ↓
+High Power RF SensorsAdvanced Energy’s TEGAM line of high power RF sensors allow the precise measurement of RF power across a wide range of frequencies.
+  ↓
+Featured5541A Series RF Power MetersHigh Power, High Accuracy RF Measurement in a Single Instrument

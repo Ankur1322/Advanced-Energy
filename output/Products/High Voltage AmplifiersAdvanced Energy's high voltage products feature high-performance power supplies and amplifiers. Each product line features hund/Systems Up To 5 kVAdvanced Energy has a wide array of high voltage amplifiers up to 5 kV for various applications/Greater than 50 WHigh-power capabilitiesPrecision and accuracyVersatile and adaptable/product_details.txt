@@ -1,0 +1,71 @@
+==============================================================================
+PRODUCT DETAILS: Greater than 50 WHigh-power capabilitiesPrecision and accuracyVersatile and adaptable
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage AmplifiersAdvanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/
+Category Description: Advanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+
+[Level 2] Category Name: Systems Up To 5 kVAdvanced Energy has a wide array of high voltage amplifiers up to 5 kV for various applications.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-up-to-5-kv/
+Category Description: Get precise & stable output power with our high-voltage, Trek amplifiers up to 5 kV. Our amplifiers ensure uninterrupted performance.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Greater than 50 WHigh-power capabilitiesPrecision and accuracyVersatile and adaptable
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-up-to-5-kv/greater-than-50-w/
+
+Complete Product Description:
+Advanced Energy offers a range of high voltage solutions designed to meet the demands of industries such as aerospace, defense, research, and industrial manufacturing.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Trek 5/80 Data Sheet: https://www.advancedenergy.com/getmedia/998b5e56-5374-41be-9f0a-82abf7feec5b/ENG-HV-Amplifier-Trek-5-80-HS-235-01-03-10-26.pdf
+  - Trek 609E-6 Data Sheet: https://www.advancedenergy.com/getmedia/8c32bbe6-1ac2-4025-97fe-f3032421a0c3/en-hv-amplifier-trek-609e6-data-sheet.pdf
+  - Trek 623B Data Sheet: https://www.advancedenergy.com/getmedia/413a2104-5d5b-432b-9422-b0c2970c063b/ENG-HV-Amplifier-Trek-623B-235-02-06-19-25.pdf
+  - Trek PZD700A Data Sheet: https://www.advancedenergy.com/getmedia/555b999a-538f-4177-ba43-3db922f997e8/en-hv-amplifier-trek-pzd700a-data-sheet.pdf
+  - Amplifier Selection Calculator | Step-By-Step Procedure: https://www.advancedenergy.com/getmedia/edf34b8d-964e-4bd8-9445-5efb5898cb44/AN-Driving-Capacitive-Loads-with-Trek-Amplifiers-(103123).pdf
+  - Choosing the Correct Capacitive Load: https://www.advancedenergy.com/getmedia/16ca34b7-be4c-4d41-9900-2f316bc8650e/en-hv-amplifier-choosing-amplifier.pdf
+  - Trek Product Catalog Explore our Trek selections of power supply designed to meet you every needs. View Resource: https://www.advancedenergy.com/getmedia/7af25ca1-d538-4e90-8158-26ca4231e27c/ENG-Trek-Product-Catalog-08-28-2025.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/998b5e56-5374-41be-9f0a-82abf7feec5b/ENG-HV-Amplifier-Trek-5-80-HS-235-01-03-10-26.pdf
+  - https://www.advancedenergy.com/getmedia/8c32bbe6-1ac2-4025-97fe-f3032421a0c3/en-hv-amplifier-trek-609e6-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/413a2104-5d5b-432b-9422-b0c2970c063b/ENG-HV-Amplifier-Trek-623B-235-02-06-19-25.pdf
+  - https://www.advancedenergy.com/getmedia/555b999a-538f-4177-ba43-3db922f997e8/en-hv-amplifier-trek-pzd700a-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/edf34b8d-964e-4bd8-9445-5efb5898cb44/AN-Driving-Capacitive-Loads-with-Trek-Amplifiers-(103123).pdf
+  - https://www.advancedenergy.com/getmedia/16ca34b7-be4c-4d41-9900-2f316bc8650e/en-hv-amplifier-choosing-amplifier.pdf
+  - https://www.advancedenergy.com/getmedia/7af25ca1-d538-4e90-8158-26ca4231e27c/ENG-Trek-Product-Catalog-08-28-2025.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/cc810d66-ccfd-44fb-9093-69cc35a6871c/Greater-than-50-W-pzd700a_web.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/pdf.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage AmplifiersAdvanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+  ↓
+Systems Up To 5 kVAdvanced Energy has a wide array of high voltage amplifiers up to 5 kV for various applications.
+  ↓
+Greater than 50 WHigh-power capabilitiesPrecision and accuracyVersatile and adaptable

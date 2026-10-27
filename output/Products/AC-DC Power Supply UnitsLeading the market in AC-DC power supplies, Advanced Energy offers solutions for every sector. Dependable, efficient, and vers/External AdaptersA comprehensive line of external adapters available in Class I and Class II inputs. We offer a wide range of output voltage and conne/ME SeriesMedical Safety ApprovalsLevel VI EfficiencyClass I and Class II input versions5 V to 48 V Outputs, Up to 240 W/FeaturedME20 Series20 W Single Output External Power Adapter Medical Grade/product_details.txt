@@ -1,0 +1,123 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedME20 Series20 W Single Output External Power Adapter Medical Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: ME SeriesMedical Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/
+Category Description: The ME series is part of Advanced Energy's SL Power medical external power supplies and offers 8 products under this family ranging from 10 W to 240 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedME20 Series20 W Single Output External Power Adapter Medical Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me20-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power ME20 series of desktop and wall-plug AC-DC external power adapter comprises nine output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/831f6c9a-d300-4e82-aa2d-fe21439b8550/ME20-01%2011.22.22.pdf
+  - Improving ECG Machine Accuracy with Advanced Energy ME20 Series View Resource: https://www.advancedenergy.com/getmedia/80519240-bbbb-4573-8a14-cf2559bcc2f2/ENG-ECG-Machine-Accuracy-ME20-Series-Case-Study-295-01.pdf
+  - ME20 Series Datasheet: https://www.advancedenergy.com/getmedia/831f6c9a-d300-4e82-aa2d-fe21439b8550/ME20-01%2011.22.22.pdf
+  - ME20 Series Demko Certificate: https://www.advancedenergy.com/getmedia/6c12678e-9a29-4c52-8a98-6fb7e20171c2/ME20_Demko_Cert.pdf
+  - ME20 RoHS Certificate: https://www.advancedenergy.com/getmedia/51d0806b-796e-4dff-899c-c930e8c676c0/ME20_RoHS.pdf
+  - ME10 / ME20 CB Certificate Class II Ed. 3.1: https://www.advancedenergy.com/getmedia/9b112025-bd2c-4e3c-9ffd-6a3bde01d6ec/ME10-and-ME20-CB-Cert-Class-II-Ed3-1-Vietnam.pdf
+  - ME10-90 UKCA Declaration: https://www.advancedenergy.com/getmedia/2b2367ce-0323-49e2-9025-491705ec5179/UKCA%20DoC%20for%20ME10-90%20family.pdf
+  - ME20 Series CB Certificate: https://www.advancedenergy.com/getmedia/a2257822-876f-4402-896a-7ea8c3eec068/ME20_CB_Cert.pdf
+  - ME20 Series UL Certificate: https://www.advancedenergy.com/getmedia/4bed93d1-aed6-43c8-95b0-9dd5579d4cf0/ME20_UL_Cert.pdf
+  - ME10 / ME20 Application Notes: https://www.advancedenergy.com/getmedia/fc363aee-14d5-4594-9e33-be2ce8b1ebe2/ME10_20_AN.pdf
+  - Connector Options: https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - Create Custom Solutions for Medical Products at Advanced Energy’s Customer Solutions Center (CEC): https://www.advancedenergy.com/getmedia/1733dd8c-354e-41fd-883a-ff3cf5906c30/ENG-Infusion-Pump-Case-Study.pdf
+  - Improving ECG Machine Accuracy with Advanced Energy ME20 Series: https://www.advancedenergy.com/getmedia/80519240-bbbb-4573-8a14-cf2559bcc2f2/ENG-ECG-Machine-Accuracy-ME20-Series-Case-Study-295-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ebd7468e-88ea-4201-b508-8d3de365a725/ENG-ME10-01-02-20-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ef9ae472-da8f-482d-adb5-64d741900c01/ENG-SLE18-235-01%2010.24.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/d5e83ebb-10d3-45c6-a27d-07901b09a62c/ENG-GE30D-235-01%2005.18.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/831f6c9a-d300-4e82-aa2d-fe21439b8550/ME20-01%2011.22.22.pdf
+  - https://www.advancedenergy.com/getmedia/80519240-bbbb-4573-8a14-cf2559bcc2f2/ENG-ECG-Machine-Accuracy-ME20-Series-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/831f6c9a-d300-4e82-aa2d-fe21439b8550/ME20-01%2011.22.22.pdf
+  - https://www.advancedenergy.com/getmedia/6c12678e-9a29-4c52-8a98-6fb7e20171c2/ME20_Demko_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/51d0806b-796e-4dff-899c-c930e8c676c0/ME20_RoHS.pdf
+  - https://www.advancedenergy.com/getmedia/9b112025-bd2c-4e3c-9ffd-6a3bde01d6ec/ME10-and-ME20-CB-Cert-Class-II-Ed3-1-Vietnam.pdf
+  - https://www.advancedenergy.com/getmedia/2b2367ce-0323-49e2-9025-491705ec5179/UKCA%20DoC%20for%20ME10-90%20family.pdf
+  - https://www.advancedenergy.com/getmedia/a2257822-876f-4402-896a-7ea8c3eec068/ME20_CB_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/4bed93d1-aed6-43c8-95b0-9dd5579d4cf0/ME20_UL_Cert.pdf
+  - https://www.advancedenergy.com/getmedia/fc363aee-14d5-4594-9e33-be2ce8b1ebe2/ME10_20_AN.pdf
+  - https://www.advancedenergy.com/getmedia/66dc5635-6449-4144-aa21-1a733ab74424/connector_selector_2.pdf
+  - https://www.advancedenergy.com/getmedia/1733dd8c-354e-41fd-883a-ff3cf5906c30/ENG-Infusion-Pump-Case-Study.pdf
+  - https://www.advancedenergy.com/getmedia/80519240-bbbb-4573-8a14-cf2559bcc2f2/ENG-ECG-Machine-Accuracy-ME20-Series-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/ebd7468e-88ea-4201-b508-8d3de365a725/ENG-ME10-01-02-20-24.pdf
+  - https://www.advancedenergy.com/getmedia/ef9ae472-da8f-482d-adb5-64d741900c01/ENG-SLE18-235-01%2010.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - https://www.advancedenergy.com/getmedia/d5e83ebb-10d3-45c6-a27d-07901b09a62c/ENG-GE30D-235-01%2005.18.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/be2bfb30-3d11-46e1-8a53-5baa4abf9dc5/ME20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be2bfb30-3d11-46e1-8a53-5baa4abf9dc5/ME20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fac343b4-4ab9-4a69-b811-f6dd6f268b15/KT1027-img-1594925165.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/getattachment/21208712-6a13-416b-ab50-d4d3f7108745/ME10.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dd6515de-bd34-4c43-9b2b-a12061c97b9f/SLE18-img-1569644821.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3954ae45-c98b-4924-9618-249f21c19d92/TE20.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b313bae0-6118-4d06-9037-209a71d30a02/GE30D-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedME10 Series10 to 12 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me10-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/ebd7468e-88ea-4201-b508-8d3de365a725/ENG-ME10-01-02-20-24.pdf
+  - FeaturedSLE18 Series18 W Single Output Medical/Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle18/
+  - Datasheet: https://www.advancedenergy.com/getmedia/ef9ae472-da8f-482d-adb5-64d741900c01/ENG-SLE18-235-01%2010.24.23.pdf
+  - FeaturedTE20 Series15 W to 20 W Single Output External Power: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te20-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/825c64cf-fb21-448e-82c6-c3c62cae7cac/TE20-01%2011.9.22.pdf
+  - FeaturedGE30D Series24 W Dual Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/ge30d-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/d5e83ebb-10d3-45c6-a27d-07901b09a62c/ENG-GE30D-235-01%2005.18.23.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - DialysisAdvanced Energy’s reliable and efficient power solutions for Patient Monitoring Dialysis equipment are designed to meet the specific power requirements of dialysis machines, which require precise and consistent power delivery for accurate monitoring of patient vital signs.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+  - Explore Dialysis: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+ME SeriesMedical Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 240 W
+  ↓
+FeaturedME20 Series20 W Single Output External Power Adapter Medical Grade

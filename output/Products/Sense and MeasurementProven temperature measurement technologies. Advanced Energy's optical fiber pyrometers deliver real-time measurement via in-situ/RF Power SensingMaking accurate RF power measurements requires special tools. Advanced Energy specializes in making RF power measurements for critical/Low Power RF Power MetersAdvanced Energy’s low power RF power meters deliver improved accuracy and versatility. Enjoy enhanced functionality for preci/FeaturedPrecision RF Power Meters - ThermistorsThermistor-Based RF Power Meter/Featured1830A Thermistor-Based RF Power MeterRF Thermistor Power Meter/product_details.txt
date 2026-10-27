@@ -1,0 +1,131 @@
+==============================================================================
+PRODUCT DETAILS: Featured1830A Thermistor-Based RF Power MeterRF Thermistor Power Meter
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/
+Category Description: Making accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+
+[Level 3] Category Name: Low Power RF Power MetersAdvanced Energy’s low power RF power meters deliver improved accuracy and versatility. Enjoy enhanced functionality for precise RF power measurement applications.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/low-power-rf-power-meters/
+Category Description: Advanced Energy’s low power RF power meters deliver improved accuracy and versatility. Enjoy enhanced functionality for precise RF power measurement applications.
+
+[Level 4] Category Name: FeaturedPrecision RF Power Meters - ThermistorsThermistor-Based RF Power Meter
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/low-power-rf-power-meters/precision-rf-power-meters-thermistors/
+Category Description: Thermistor-based RF power sensors are recognized as the most accurate way to measure and transfer RF power.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 5)
+------------------------------------------------------------------------------
+Product Name: Featured1830A Thermistor-Based RF Power MeterRF Thermistor Power Meter
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/rf-power-sensing/low-power-rf-power-meters/precision-rf-power-meters-thermistors/1830a-thermistor-based-rf-power-meter/
+
+Complete Product Description:
+Thermistor-based RF power sensors are recognized as an exceptionally accurate means to measure and transfer RF power.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c492659a-776b-4364-a2ad-02f2ddbdcdbd/1830A-909-RevBA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ef641a14-b7e8-4972-9557-fd52df973813/2601A-909-Rev-BA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f929096f-48a5-4c76-8228-9dbbb002531d/2602A-909-Rev-BA.pdf
+  - 1830A Data Sheet: https://www.advancedenergy.com/getmedia/c492659a-776b-4364-a2ad-02f2ddbdcdbd/1830A-909-RevBA.pdf
+  - EU Declaration of Conformity for 1830A: https://www.advancedenergy.com/getmedia/9e674352-8b28-419e-9afd-8247694e4fe6/EU-Declaration-of-Conformity-CE-1830A-A.pdf
+  - 1830A Cable Connection Guide: https://www.advancedenergy.com/getmedia/52fe9a3c-5781-40ee-b65e-138198d901af/1830A-cable-connection-guide1.pdf
+  - 1830A Quick Start Guide: https://www.advancedenergy.com/getmedia/2f939c92-2a73-4b79-900d-bfc4703508bb/1830A-Quick-Start-Guide-Rev-B.pdf
+  - Thermistor Power Meter Comparison Chart: https://www.advancedenergy.com/getmedia/a164004e-dda9-4249-824a-ac8450435fdb/Thermistor-Power-Meter-Comparison.pdf
+  - 1830A Firmware Release Notes: https://www.advancedenergy.com/getmedia/71117520-fc87-4523-9f01-36497139550b/1830A-Firmware_Release-Notes.pdf
+  - 1830A Manual: https://www.advancedenergy.com/getmedia/a85bea1d-edf5-423c-8358-e0c95a127d15/1830A-901-01-rev-N-1.pdf
+  - AN217: Measuring Temperature Compensating Thermistors with the TEGAM Model 1830A RF Power Meter: https://www.advancedenergy.com/getmedia/e923e158-7f67-430d-adf3-33099efcad43/AN217.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c492659a-776b-4364-a2ad-02f2ddbdcdbd/1830A-909-RevBA.pdf
+  - https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - https://www.advancedenergy.com/getmedia/ac221677-9224-4872-8ea5-690513a5f547/1505A-2505A-909-RevCA_1.pdf
+  - https://www.advancedenergy.com/getmedia/9c9e272f-0e75-4658-aec4-9e1b5d100720/1510A-2510A-909-RevDA.pdf
+  - https://www.advancedenergy.com/getmedia/ef641a14-b7e8-4972-9557-fd52df973813/2601A-909-Rev-BA.pdf
+  - https://www.advancedenergy.com/getmedia/f929096f-48a5-4c76-8228-9dbbb002531d/2602A-909-Rev-BA.pdf
+  - https://www.advancedenergy.com/getmedia/c492659a-776b-4364-a2ad-02f2ddbdcdbd/1830A-909-RevBA.pdf
+  - https://www.advancedenergy.com/getmedia/9e674352-8b28-419e-9afd-8247694e4fe6/EU-Declaration-of-Conformity-CE-1830A-A.pdf
+  - https://www.advancedenergy.com/getmedia/52fe9a3c-5781-40ee-b65e-138198d901af/1830A-cable-connection-guide1.pdf
+  - https://www.advancedenergy.com/getmedia/2f939c92-2a73-4b79-900d-bfc4703508bb/1830A-Quick-Start-Guide-Rev-B.pdf
+  - https://www.advancedenergy.com/getmedia/a164004e-dda9-4249-824a-ac8450435fdb/Thermistor-Power-Meter-Comparison.pdf
+  - https://www.advancedenergy.com/getmedia/71117520-fc87-4523-9f01-36497139550b/1830A-Firmware_Release-Notes.pdf
+  - https://www.advancedenergy.com/getmedia/a85bea1d-edf5-423c-8358-e0c95a127d15/1830A-901-01-rev-N-1.pdf
+  - https://www.advancedenergy.com/getmedia/e923e158-7f67-430d-adf3-33099efcad43/AN217.pdf
+
+Images:
+  - RF Thermistor Power Meter that supports 100 Ω and 200 Ω thermistors: https://www.advancedenergy.com/getattachment/f78bfe48-7be9-4e08-a867-f0d0c81ff877/1830A-RF-Thermistor-Power-Meter-zoom.jpg
+  - RF Thermistor Power Meter that supports 100 Ω and 200 Ω thermistors: https://www.advancedenergy.com/getattachment/f78bfe48-7be9-4e08-a867-f0d0c81ff877/1830A-RF-Thermistor-Power-Meter-zoom.jpg
+  - 9 kHz to 18 GHz RF Terminating Power Standard: https://www.advancedenergy.com/getattachment/559b65f8-d0db-4f12-ad64-1f77c7f67c44/1505A-Microwave-Calibration-Standard-zoom.jpg
+  - RF Terminating Power Standard 10 MHz to 50 GHz: https://www.advancedenergy.com/getattachment/2d34fdaa-83c1-4a72-be37-aa73aaaf78b0/1510A-Microwave-Calibration-Standard.jpg
+  - Microwave Calibration Standard 2505A: https://www.advancedenergy.com/getattachment/6603ae24-fba5-48b9-a7f5-94b8d1820ad5/2505A-Microwave-Calibration-Standard-zoom.jpg
+  - 10 MHz to 50 GHz Temperature Controlled Coaxial RF Feedthrough RF Power Transfer Standard: https://www.advancedenergy.com/getattachment/f817dad3-f789-4636-9399-5dc2fbd23947/2510A-Microwave-Calibration-Standard.jpg
+  - 9 kHz to 18 GHz RF Terminating Power Standard: https://www.advancedenergy.com/getattachment/559b65f8-d0db-4f12-ad64-1f77c7f67c44/1505A-Microwave-Calibration-Standard-zoom.jpg
+  - RF Terminating Power Standard 10 MHz to 50 GHz: https://www.advancedenergy.com/getattachment/2d34fdaa-83c1-4a72-be37-aa73aaaf78b0/1510A-Microwave-Calibration-Standard.jpg
+  - Microwave Calibration Standard 2505A: https://www.advancedenergy.com/getattachment/6603ae24-fba5-48b9-a7f5-94b8d1820ad5/2505A-Microwave-Calibration-Standard-zoom.jpg
+  - 10 MHz to 50 GHz Temperature Controlled Coaxial RF Feedthrough RF Power Transfer Standard: https://www.advancedenergy.com/getattachment/f817dad3-f789-4636-9399-5dc2fbd23947/2510A-Microwave-Calibration-Standard.jpg
+  - High Power Transfer Standard, 250 kHz to 1000 MHz: https://www.advancedenergy.com/getattachment/021b8f73-536a-4e71-b44c-0f7e25739396/2601A.jpg
+  - TEGAM 2602 High Power RF Transfer Standard: https://www.advancedenergy.com/getattachment/26e9853f-29b9-45f3-92e3-8d18006910ed/2602A-manual-cover.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/ef377f9e-b864-4263-a36a-1489cfa600d7/CA-21-48-_138-645-2_1585-1009.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+RF Power SensingMaking accurate RF power measurements requires special tools. Advanced Energy specializes in making RF power measurements for critical applications. We offer several solutions to make RF power measurements easier and make them more accurately.
+  ↓
+Low Power RF Power MetersAdvanced Energy’s low power RF power meters deliver improved accuracy and versatility. Enjoy enhanced functionality for precise RF power measurement applications.
+  ↓
+FeaturedPrecision RF Power Meters - ThermistorsThermistor-Based RF Power Meter
+  ↓
+Featured1830A Thermistor-Based RF Power MeterRF Thermistor Power Meter

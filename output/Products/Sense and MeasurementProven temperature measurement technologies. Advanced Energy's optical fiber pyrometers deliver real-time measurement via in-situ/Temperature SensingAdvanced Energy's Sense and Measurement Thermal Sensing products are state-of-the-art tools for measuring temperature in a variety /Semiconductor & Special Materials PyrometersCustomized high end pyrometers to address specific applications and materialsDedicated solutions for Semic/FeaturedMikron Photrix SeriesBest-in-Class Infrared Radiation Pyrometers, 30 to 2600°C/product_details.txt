@@ -1,0 +1,88 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedMikron Photrix SeriesBest-in-Class Infrared Radiation Pyrometers, 30 to 2600°C
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Semiconductor & Special Materials PyrometersCustomized high end pyrometers to address specific applications and materialsDedicated solutions for Semiconductor and Thin Film ApplicationsNext generation of temperature sensors developed specifically for GaN-based MOCVD epitaxy processes
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/special-materials-pyrometers/
+Category Description: Specialized pyrometers customized to address specific applications and materials
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedMikron Photrix SeriesBest-in-Class Infrared Radiation Pyrometers, 30 to 2600°C
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/special-materials-pyrometers/mikron-photrix/
+
+Complete Product Description:
+The Mikron PhotriX® pyrometers offer unmatched precision and speed thanks to their superior signal-to-noise ratio.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/3b5a3f4a-e48e-497f-849f-1a180a8aef03/en-op-photrix-data-sheet.pdf
+  - Pyrometer Overview Brochure: https://www.advancedenergy.com/getmedia/2b96786a-cbe6-4630-9dbb-40860ebdef1f/en-op-pyrometer-overview-brochure.pdf
+  - Temperature Measurement for Solar Brochure: https://www.advancedenergy.com/getmedia/17c2642e-ce92-4979-931a-151c32206e3c/en-at-tm-solar-brochure.pdf
+  - 高温计概述 - 用于非接触式测温的高精度红外测温仪: https://www.advancedenergy.com/getmedia/1d37b78d-50f6-4f95-81e5-4bab4888a623/zho-op-pyrometer-overview-brochure.pdf
+  - Mikron Photrix Series Data Sheet: https://www.advancedenergy.com/getmedia/3b5a3f4a-e48e-497f-849f-1a180a8aef03/en-op-photrix-data-sheet.pdf
+  - Atomic Layer Deposition: https://www.advancedenergy.com/getmedia/badc002e-89ea-47ac-8983-5edc101ffff5/en-at-semiconductor-atomic-layer-deposition-application-note.pdf
+  - Multicrystalline Silicon: https://www.advancedenergy.com/getmedia/ee24e769-8726-4378-9d10-6cc010832815/en-at-multicrystalline-silicon-application-note.pdf
+  - Temperature Measurement Quotation Request Form: https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/3b5a3f4a-e48e-497f-849f-1a180a8aef03/en-op-photrix-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/2b96786a-cbe6-4630-9dbb-40860ebdef1f/en-op-pyrometer-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/17c2642e-ce92-4979-931a-151c32206e3c/en-at-tm-solar-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/1d37b78d-50f6-4f95-81e5-4bab4888a623/zho-op-pyrometer-overview-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/3b5a3f4a-e48e-497f-849f-1a180a8aef03/en-op-photrix-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/badc002e-89ea-47ac-8983-5edc101ffff5/en-at-semiconductor-atomic-layer-deposition-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/ee24e769-8726-4378-9d10-6cc010832815/en-at-multicrystalline-silicon-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d2f68e5e-c83b-47f1-a545-6a9252e147e5/en-tm-quotation-request-form.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/eeb136e2-9577-4569-8a82-1be10bf5d34f/photrix1-rs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f3cb79da-086f-49e6-9fdd-2afcae68dfed/photrix2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eeb136e2-9577-4569-8a82-1be10bf5d34f/photrix1-rs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f3cb79da-086f-49e6-9fdd-2afcae68dfed/photrix2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eeb136e2-9577-4569-8a82-1be10bf5d34f/photrix1-rs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f3cb79da-086f-49e6-9fdd-2afcae68dfed/photrix2-fr-wp.jpg
+  - Advanced Pyrometers: Enhancing Process Repeatability: https://i.ytimg.com/vi/teYgES8AyNk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Semiconductor & Special Materials PyrometersCustomized high end pyrometers to address specific applications and materialsDedicated solutions for Semiconductor and Thin Film ApplicationsNext generation of temperature sensors developed specifically for GaN-based MOCVD epitaxy processes
+  ↓
+FeaturedMikron Photrix SeriesBest-in-Class Infrared Radiation Pyrometers, 30 to 2600°C

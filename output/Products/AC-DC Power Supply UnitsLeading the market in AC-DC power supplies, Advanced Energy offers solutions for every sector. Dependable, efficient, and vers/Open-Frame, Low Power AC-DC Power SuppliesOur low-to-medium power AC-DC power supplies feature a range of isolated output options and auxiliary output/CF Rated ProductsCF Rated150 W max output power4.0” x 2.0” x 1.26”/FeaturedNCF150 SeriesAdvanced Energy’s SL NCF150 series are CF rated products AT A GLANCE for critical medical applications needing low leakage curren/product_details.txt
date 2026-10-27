@@ -1,0 +1,123 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNCF150 SeriesAdvanced Energy’s SL NCF150 series are CF rated products AT A GLANCE for critical medical applications needing low leakage current. Voltages of 12 V, 15 V, 19 V, 24 V and 48 V together with an optional 5 V standby and 12 V fan output. Each model accepts a universal input of 85 to 264 VAC. full-load efficiency of greater than 90 percent, These compact switch-mode power supplies feature output overvoltage and short-circuit protection, these units are ideal for use in industrial and medical applications
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: CF Rated ProductsCF Rated150 W max output power4.0” x 2.0” x 1.26”
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/cf-rated-products/
+Category Description: Type CF is the most stringent medical electrical safety classification and is essential for medical products that may come in direct contact with the heart, including dialysis machines, cardiac-related systems, and platforms for electrosurgery. Advanced Energy offers standard, compact products that combine the performance and reliability demanded by complex medical systems with the high isolation voltage and low leakage current essential to CF certification.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNCF150 SeriesAdvanced Energy’s SL NCF150 series are CF rated products AT A GLANCE for critical medical applications needing low leakage current. Voltages of 12 V, 15 V, 19 V, 24 V and 48 V together with an optional 5 V standby and 12 V fan output. Each model accepts a universal input of 85 to 264 VAC. full-load efficiency of greater than 90 percent, These compact switch-mode power supplies feature output overvoltage and short-circuit protection, these units are ideal for use in industrial and medical applications
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/cf-rated-products/ncf150/
+
+Complete Product Description:
+Advanced Energy’s SL NCF150 series are CF rated products AT A GLANCE for critical medical applications needing low leakage current. Voltages of 12 V, 15 V, 19 V, 24 V and 48 V together with an optional 5 V standby and 12 V fan output. Each model accepts a universal input of 85 to 264 VAC. full-load efficiency of greater than 90 percent, These compact switch-mode power supplies feature output overvoltage and short-circuit protection, these units are ideal for use in industrial and medical applications
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/9a379220-3174-4c26-9db0-23e01dc6a5a9/ENG-NCF150-235-01-09-11-24.pdf
+  - NCF150 Data Sheet: https://www.advancedenergy.com/getmedia/9a379220-3174-4c26-9db0-23e01dc6a5a9/ENG-NCF150-235-01-02-02-26.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b5f9bd8b-9a3f-4484-a2f9-6aa38db0428f/ENG-NCF660-11-21-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0ba397fe-cf52-42a2-b5d2-85cb344c60a6/en-datasheet-ncf425-5-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/9a379220-3174-4c26-9db0-23e01dc6a5a9/ENG-NCF150-235-01-09-11-24.pdf
+  - https://www.advancedenergy.com/getmedia/9a379220-3174-4c26-9db0-23e01dc6a5a9/ENG-NCF150-235-01-02-02-26.pdf
+  - https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - https://www.advancedenergy.com/getmedia/b5f9bd8b-9a3f-4484-a2f9-6aa38db0428f/ENG-NCF660-11-21-24.pdf
+  - https://www.advancedenergy.com/getmedia/0ba397fe-cf52-42a2-b5d2-85cb344c60a6/en-datasheet-ncf425-5-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/b70b2739-b9c8-44f2-9772-fefd4c449c13/NCF150S24K-Angle-5-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/a44afea9-53fa-4794-855b-a4b9f8ab2988/NCF150S24K-Angle-0-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/09b1fff5-9221-47ed-908a-1149ba2c6b5a/NCF150S24K-Angle-2.png
+  - Image: https://www.advancedenergy.com/getattachment/f407ae8b-5c41-45fa-a861-9ac1d4252471/NCF150S24K-Angle-3.png
+  - Image: https://www.advancedenergy.com/getattachment/20d2289b-d135-41f9-a6d5-c375fc808a89/NCF150S24K-Angle-4-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/b6326e10-1024-4650-964e-2d2978d36fb8/NCF150S24K-Angle-6-(1).png
+  - Image: https://img.youtube.com/vi/lgmvMMntFI8/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b70b2739-b9c8-44f2-9772-fefd4c449c13/NCF150S24K-Angle-5-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/a44afea9-53fa-4794-855b-a4b9f8ab2988/NCF150S24K-Angle-0-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/09b1fff5-9221-47ed-908a-1149ba2c6b5a/NCF150S24K-Angle-2.png
+  - Image: https://www.advancedenergy.com/getattachment/f407ae8b-5c41-45fa-a861-9ac1d4252471/NCF150S24K-Angle-3.png
+  - Image: https://www.advancedenergy.com/getattachment/20d2289b-d135-41f9-a6d5-c375fc808a89/NCF150S24K-Angle-4-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/b6326e10-1024-4650-964e-2d2978d36fb8/NCF150S24K-Angle-6-(1).png
+  - Image: https://img.youtube.com/vi/lgmvMMntFI8/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b70b2739-b9c8-44f2-9772-fefd4c449c13/NCF150S24K-Angle-5-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/a44afea9-53fa-4794-855b-a4b9f8ab2988/NCF150S24K-Angle-0-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/09b1fff5-9221-47ed-908a-1149ba2c6b5a/NCF150S24K-Angle-2.png
+  - Image: https://www.advancedenergy.com/getattachment/f407ae8b-5c41-45fa-a861-9ac1d4252471/NCF150S24K-Angle-3.png
+  - Image: https://www.advancedenergy.com/getattachment/20d2289b-d135-41f9-a6d5-c375fc808a89/NCF150S24K-Angle-4-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/b6326e10-1024-4650-964e-2d2978d36fb8/NCF150S24K-Angle-6-(1).png
+  - AE's SL Power NCF150 Series: https://i.ytimg.com/vi/lgmvMMntFI8/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/56000d79-600b-4e77-932d-0d8ec647d989/NGB150-img-1701071836.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7f625eba-4d37-4807-9ff2-e4f6f8ad0618/NGB250-img-1633990271.jpg
+  - Image: https://www.advancedenergy.com/getattachment/81cff5b7-6e73-4be1-8e7a-1e9ed0a98c1c/NCF660-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/f3e33d20-d2d3-42ef-bb8c-a6b38fa28743/NCF425-V3-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/b70b2739-b9c8-44f2-9772-fefd4c449c13/NCF150S24K-Angle-5-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/659d202b-e32e-4816-a4c5-337442a4a325/NCF250.png
+  - Image: https://www.advancedenergy.com/getattachment/56000d79-600b-4e77-932d-0d8ec647d989/NGB150-img-1701071836.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3ab301a1-130a-4fa1-b226-f0e0cbecb791/MB120-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/da52adf4-b3a1-48ed-8e9f-a173370b40be/GB130Q-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/5bfa446f-bab4-4663-ab49-484c667f7d7a/Medical-Lasers-Surgical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5bfa446f-bab4-4663-ab49-484c667f7d7a/Medical-Lasers-Surgical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/76d86d43-95b5-4c0c-9e5a-3ba8cb190ea9/Electrosurgery-(2)-(3).jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c5c12b4a-58fa-4cd3-90d5-53d88b490e64/Dialysis-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedNGB150 Series120/150 W Medical/Industrial: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/101-150-watt-range/ngb150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/428279c2-2d4c-4d1d-9fd3-fc94cfdbf0d9/eng-ngb150-235-01-01-22-24.pdf
+  - FeaturedNGB250 Series250 W Single Output Medical and Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/ngb250-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - FeaturedNCF660 SeriesAdvanced Energy’s SL Power NCF660 CF rated*medically AT A GLANCE approved AC-DC power supplies are available with a nominal main output of 12 V, 15 V, 24 V or 48 V. NCF660 series power supplies provide up to 660 W of output power with air flow. All models have output overvoltage, short circuit and overload protection and a 7 x 4 x 1.6 inch form factor.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/cf-rated-products/ncf660/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b5f9bd8b-9a3f-4484-a2f9-6aa38db0428f/ENG-NCF660-11-21-24.pdf
+  - FeaturedNCF425 SeriesUp to 425 W of output power with air flow with a universal input voltage of 85 to 26: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/cf-rated-products/ncf425/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0ba397fe-cf52-42a2-b5d2-85cb344c60a6/en-datasheet-ncf425-5-25.pdf
+  - SurgicalThe surgical laser industry faces various challenges, including finding power supplies that can deliver precise, easily controlled power with low acoustic noise. These power supplies must also be compatible with portable devices, offer multiple output voltages, and preserve a high-power density.: https://www.advancedenergy.com/en-us/applications/medical/medical-lasers/surgical/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/medical/medical-lasers/surgical/
+  - PEF / PFAOur precision power control solutions are designed to empower medical equipment designers to deliver advanced ablation systems that enable more precise targeting of tumors, improve the efficacy of treatments, and ultimately deliver better outcomes for patients and doctors.: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - Explore PEF: https://www.advancedenergy.com/en-us/applications/medical/electrosurgery/pef/
+  - DialysisAdvanced Energy’s reliable and efficient power solutions for Patient Monitoring Dialysis equipment are designed to meet the specific power requirements of dialysis machines, which require precise and consistent power delivery for accurate monitoring of patient vital signs.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+  - Explore Dialysis: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/dialysis/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+CF Rated ProductsCF Rated150 W max output power4.0” x 2.0” x 1.26”
+  ↓
+FeaturedNCF150 SeriesAdvanced Energy’s SL NCF150 series are CF rated products AT A GLANCE for critical medical applications needing low leakage current. Voltages of 12 V, 15 V, 19 V, 24 V and 48 V together with an optional 5 V standby and 12 V fan output. Each model accepts a universal input of 85 to 264 VAC. full-load efficiency of greater than 90 percent, These compact switch-mode power supplies feature output overvoltage and short-circuit protection, these units are ideal for use in industrial and medical applications

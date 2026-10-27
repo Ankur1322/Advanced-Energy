@@ -1,0 +1,103 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedFCM 10 kW ModulesEvergreen’s 36 W/in³ power density provides more power in less space, and > 95% efficiency with 0.98 power factor correction reduces utility costs and minimizes heat.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+[Level 3] Category Name: FCM SeriesHi efficiency >95%Fan Cooled 10kW with output range of 48 to 60 VAdvanced NFC control
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/fcm/
+Category Description: This platform’s 38 W/in3 power density provides more power in less space, and > 95% efficiency with 0.98 power factor correction reduces utility costs and minimizes heat.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedFCM 10 kW ModulesEvergreen’s 36 W/in³ power density provides more power in less space, and > 95% efficiency with 0.98 power factor correction reduces utility costs and minimizes heat.
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/fcm/fcm-10-kw/
+
+Complete Product Description:
+Evergreen’s 36 W/in³ power density provides more power in less space, and > 95% efficiency with 0.98 power factor correction reduces utility costs and minimizes heat. This platform’s 10 kW enclosed power supplies are high performing in an array of industrial, medical, semiconductor, supercomputer and defense applications
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/ffe5d3ee-3ba7-4947-9bdb-5783081f54dd/ENG-FCM10K-235-01-FINAL-03-11-24.pdf
+  - FCM 10k Data Sheet: https://www.advancedenergy.com/getmedia/ffe5d3ee-3ba7-4947-9bdb-5783081f54dd/ENG-FCM10KW-N-235-01-11-26-25.pdf
+  - FCM10K TRN: https://www.advancedenergy.com/getmedia/618d3024-3694-4abc-86d6-72ec6dd9454e/TRN-FCM10KW-N-Release-1-0-(2025-10-22).pdf
+  - High-Density, High-Efficiency, Scalable Power for Advanced Burn-In Systems: https://www.advancedenergy.com/getmedia/4fca6393-3554-4759-8ac8-866d78be3e29/ENG-Scalable-Power-for-Burn-In-Systems-Case-Study-295-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/ffe5d3ee-3ba7-4947-9bdb-5783081f54dd/ENG-FCM10K-235-01-FINAL-03-11-24.pdf
+  - https://www.advancedenergy.com/getmedia/ffe5d3ee-3ba7-4947-9bdb-5783081f54dd/ENG-FCM10KW-N-235-01-11-26-25.pdf
+  - https://www.advancedenergy.com/getmedia/618d3024-3694-4abc-86d6-72ec6dd9454e/TRN-FCM10KW-N-Release-1-0-(2025-10-22).pdf
+  - https://www.advancedenergy.com/getmedia/4fca6393-3554-4759-8ac8-866d78be3e29/ENG-Scalable-Power-for-Burn-In-Systems-Case-Study-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0d3f7cc4-c24d-495c-a903-0d113c5ec78a/FCM10KW-N-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/5b005a88-77f3-4d4c-bd9a-c65015c9f7eb/FCM10K-Pluggable-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/b982bae1-8004-4ebd-9976-3a1acb668095/FCM10K-Pluggable.png
+  - Image: https://www.advancedenergy.com/getattachment/dc67b333-ece3-465e-8bec-c083513d081b/FCM10K-Standalone-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/7bcd8f03-db19-4e46-8741-9b32a3986f04/FCM10K-Standalone.png
+  - Image: https://img.youtube.com/vi/q5LpBQCiwas/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d3f7cc4-c24d-495c-a903-0d113c5ec78a/FCM10KW-N-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/5b005a88-77f3-4d4c-bd9a-c65015c9f7eb/FCM10K-Pluggable-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/b982bae1-8004-4ebd-9976-3a1acb668095/FCM10K-Pluggable.png
+  - Image: https://www.advancedenergy.com/getattachment/dc67b333-ece3-465e-8bec-c083513d081b/FCM10K-Standalone-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/7bcd8f03-db19-4e46-8741-9b32a3986f04/FCM10K-Standalone.png
+  - Image: https://img.youtube.com/vi/q5LpBQCiwas/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0d3f7cc4-c24d-495c-a903-0d113c5ec78a/FCM10KW-N-P2.png
+  - Image: https://www.advancedenergy.com/getattachment/5b005a88-77f3-4d4c-bd9a-c65015c9f7eb/FCM10K-Pluggable-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/b982bae1-8004-4ebd-9976-3a1acb668095/FCM10K-Pluggable.png
+  - Image: https://www.advancedenergy.com/getattachment/dc67b333-ece3-465e-8bec-c083513d081b/FCM10K-Standalone-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/7bcd8f03-db19-4e46-8741-9b32a3986f04/FCM10K-Standalone.png
+  - Image: https://www.advancedenergy.com/getattachment/7bac1867-8345-4466-8ca7-beebb1b7a8cd/PPRO_02.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b2415187-3321-48af-97a9-784122f1ea9b/FCM10K-GUI.PNG
+  - Expanded Evergreen™ high power AC-DC platform: instant customization, uncompromising performance: https://i.ytimg.com/vi/q5LpBQCiwas/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/369645fa-d0ae-496a-8e06-44cf9d5f2bd1/Mil-Aero-and-Transport.png
+  - Image: https://www.advancedenergy.com/getattachment/369645fa-d0ae-496a-8e06-44cf9d5f2bd1/Mil-Aero-and-Transport.png
+  - Image: https://www.advancedenergy.com/getattachment/5772c1c6-84c7-455d-bbcb-4a9a542de8be/Green-Energy.png
+  - Image: https://www.advancedenergy.com/getattachment/5772c1c6-84c7-455d-bbcb-4a9a542de8be/Green-Energy.png
+  - Image: https://www.advancedenergy.com/getattachment/03f7259b-8a4a-4157-8355-645a86278c3e/Burn-In-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/03f7259b-8a4a-4157-8355-645a86278c3e/Burn-In-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Defense and AerospaceDefense and Aerospace applications demand reliable operation in harsh environments. Our AC-DC power supplies and DC-DC converters are critical components for powering sensitive electronics and ensuring safe and dependable operation in rugged conditions.: https://www.advancedenergy.com/en-us/applications/industrial/defense-and-aerospace/
+  - Explore Defense and Aerospace: https://www.advancedenergy.com/en-us/applications/industrial/defense-and-aerospace/
+  - EnergyAs technology continues to develop and is implemented on a larger scale to meet increasing energy demands, our solutions provide reliable power delivery and control to maximize efficiency, while meeting the growing regulatory requirements.: https://www.advancedenergy.com/en-us/applications/industrial/energy/
+  - Explore Energy: https://www.advancedenergy.com/en-us/applications/industrial/energy/
+  - Burn-inAdvanced Energy offers an extensive product portfolio to enable burn-in testing of semiconductors, power supplies and other critical electronics.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/burn-in/
+  - Explore Burn in: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/burn-in/
+  - Semiconductor TestAdvanced Energy is a primary supplier of power conversion solutions to the global semiconductor market.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/semiconductor-test/
+  - Explore Semiconductor Test: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/semiconductor-test/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+FCM SeriesHi efficiency >95%Fan Cooled 10kW with output range of 48 to 60 VAdvanced NFC control
+  ↓
+FeaturedFCM 10 kW ModulesEvergreen’s 36 W/in³ power density provides more power in less space, and > 95% efficiency with 0.98 power factor correction reduces utility costs and minimizes heat.

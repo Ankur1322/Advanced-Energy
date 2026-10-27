@@ -1,0 +1,112 @@
+==============================================================================
+PRODUCT DETAILS: Paramount Plus RF GeneratorPrecise RF and pulse controlFast response to plasma changesBuilt-in diagnostic tools
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: RF Plasma GeneratorsChoose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/
+Category Description: Choose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Paramount Plus RF GeneratorPrecise RF and pulse controlFast response to plasma changesBuilt-in diagnostic tools
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/paramount-plus/
+
+Complete Product Description:
+Paramount Plus offers progressive technology and customizable features that include premier pulsing control.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+  - Paramount Plus Data Sheet View Resource: https://www.advancedenergy.com/getmedia/b7864be3-30ce-45c3-95a9-4c65f40a640a/paramount-plus-data-sheet.pdf
+  - RF Calibration Solutions View Resource: https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - Precise Power Control in 3D Device Architectures View Resource: https://www.advancedenergy.com/getmedia/b919e271-88c9-45e4-b28d-196c109d025f/en-se-precise-power-3d-architecture-application-note.pdf
+  - Substrate Biasing for Sputter Deposition Processes Explore the principles and practices of substrate biasing, examining its impact on thin-film characteristics and the various methods used to achieve optimal results. View Resource: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - RF Calibration Solutions: https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - Paramount Plus Data Sheet: https://www.advancedenergy.com/getmedia/b7864be3-30ce-45c3-95a9-4c65f40a640a/paramount-plus-data-sheet.pdf
+  - Precise Power Control in 3D Device Architectures: https://www.advancedenergy.com/getmedia/b919e271-88c9-45e4-b28d-196c109d025f/en-se-precise-power-3d-architecture-application-note.pdf
+  - Forward and Reflected Power: What Does It Mean?: https://www.advancedenergy.com/getmedia/71d96329-38ea-4689-8da9-e060f49ba7b8/en-rf-forwardreflectedpower-white-paper.pdf
+  - Substrate Biasing for Sputter Deposition Processes: https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b7864be3-30ce-45c3-95a9-4c65f40a640a/paramount-plus-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/b919e271-88c9-45e4-b28d-196c109d025f/en-se-precise-power-3d-architecture-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/cfc16269-86b0-4e5f-9124-b758f83d5d1f/en-srv-ae-global-services-rf-calibration.pdf
+  - https://www.advancedenergy.com/getmedia/b7864be3-30ce-45c3-95a9-4c65f40a640a/paramount-plus-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b919e271-88c9-45e4-b28d-196c109d025f/en-se-precise-power-3d-architecture-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/71d96329-38ea-4689-8da9-e060f49ba7b8/en-rf-forwardreflectedpower-white-paper.pdf
+  - https://www.advancedenergy.com/getmedia/3cedd604-91b2-4985-9efe-55467e6f20d8/ENG-Substrate-Biasing-Sputter-Deposition-Processes-275-01.pdf
+  - https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d7410e5b-fde7-4ec4-b8d2-cc3abdf758fd/paramountplus-mf5002-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2f9cd8d1-11bb-4f2a-8f8b-d3d1b55a5c4d/paramountplus-mf5002-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e5a7fb5b-0931-4d90-8c4b-c019900180de/paramountplus-mf5002-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5edcbaf0-42a3-4f93-b649-b138afbab9c0/paramountplus-mf5002-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7410e5b-fde7-4ec4-b8d2-cc3abdf758fd/paramountplus-mf5002-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2f9cd8d1-11bb-4f2a-8f8b-d3d1b55a5c4d/paramountplus-mf5002-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e5a7fb5b-0931-4d90-8c4b-c019900180de/paramountplus-mf5002-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5edcbaf0-42a3-4f93-b649-b138afbab9c0/paramountplus-mf5002-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7410e5b-fde7-4ec4-b8d2-cc3abdf758fd/paramountplus-mf5002-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2f9cd8d1-11bb-4f2a-8f8b-d3d1b55a5c4d/paramountplus-mf5002-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e5a7fb5b-0931-4d90-8c4b-c019900180de/paramountplus-mf5002-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5edcbaf0-42a3-4f93-b649-b138afbab9c0/paramountplus-mf5002-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/application-note.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/whitepaper.png
+  - Image: https://www.advancedenergy.com/getattachment/ae207771-e982-463b-8472-09ca34526041/paramount_hf_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/592dd56a-d5a8-405e-bb5a-c9d727ee0a4f/etch-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedParamount RF GeneratorIndustry-Leading, Repeatable Power Delivery for Core Plasma Applications: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/paramount/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - EtchHigh-precision plasma power delivery systems provide exacting control of etch applications for high repeatability and yield.: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - Explore Etch: https://www.advancedenergy.com/en-us/applications/semiconductor/etch/
+  - ImplantOur products are engineered with a focus on optimizing efficiency and power density to ensure precise control of ion energy.: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+  - Explore Implant: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+RF Plasma GeneratorsChoose from a broad range of RF plasma generators and access unique features for configuration, control, and application requirements.
+  ↓
+Paramount Plus RF GeneratorPrecise RF and pulse controlFast response to plasma changesBuilt-in diagnostic tools

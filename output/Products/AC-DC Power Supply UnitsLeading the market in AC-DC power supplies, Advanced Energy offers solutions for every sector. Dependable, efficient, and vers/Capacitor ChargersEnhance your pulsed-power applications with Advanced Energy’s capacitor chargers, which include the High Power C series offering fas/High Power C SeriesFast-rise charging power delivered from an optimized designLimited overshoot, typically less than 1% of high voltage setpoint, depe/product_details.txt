@@ -1,0 +1,138 @@
+==============================================================================
+PRODUCT DETAILS: High Power C SeriesFast-rise charging power delivered from an optimized designLimited overshoot, typically less than 1% of high voltage setpoint, depending on the applicationHigh power-to-package size ratio
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Capacitor ChargersEnhance your pulsed-power applications with Advanced Energy’s capacitor chargers, which include the High Power C series offering fast-rise charging power and the Flexicharge ensuring superb pulse-to-pulse repeatability and user power limit control.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/
+Category Description: Enhance your pulsed-power applications with Advanced Energy’s capacitor chargers, which include the High Power C series offering fast-rise charging power and the Flexicharge ensuring superb pulse-to-pulse repeatability and user power limit control.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: High Power C SeriesFast-rise charging power delivered from an optimized designLimited overshoot, typically less than 1% of high voltage setpoint, depending on the applicationHigh power-to-package size ratio
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/high-power-c/
+
+Complete Product Description:
+The High Power C series of regulated DC-to-DC supplies is optimal for your laser, capacitor charging, pulsed power, pulse generator, and test equipment applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c48f750a-a6c6-45db-b2b4-4011b5ec07c5/en-hv-high-power-1.8c-6c-series-data-sheet.pdf
+  - High Voltage Power Supply for High-Energy X-Ray Source View Resource: https://www.advancedenergy.com/getmedia/1661958e-61bd-476f-ae58-4ec67b5920dd/ENG-X-Ray-Source-Case-Study-295-01.pdf
+  - Revolutionizing Medical Devices with AE's Power Solutions for Pulsed Field Ablation View Resource: https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+  - Advanced Energy Powers CT Systems with High Power Demands View Resource: https://www.advancedenergy.com/getmedia/e4dd84b4-e11c-4d74-837f-0f4a7cf52bac/ENG-CT-High-Power-Demands-Case-Study-295-01.pdf
+  - High Power C Series Required for Transfection of Cells View Resource: https://www.advancedenergy.com/getmedia/58f28591-e1cf-469f-b82e-b05a2d736335/ENG-Transfection-of-Cells-Case-Study-295-01.pdf
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - High Power 1/8C to 6C Series Data Sheet: https://www.advancedenergy.com/getmedia/c48f750a-a6c6-45db-b2b4-4011b5ec07c5/ENG-HV-High-Power-1-8C-6C-235-01-08-08-24.pdf
+  - UltraVolt High Power 40C to 60C Series Data Sheet: https://www.advancedenergy.com/getmedia/fe991819-e052-4b9a-9a67-f623d2555346/en-hv-high-power-40c-60c-series-data-sheet.pdf
+  - UltraVolt High Power 8C to 30C Series Data Sheet: https://www.advancedenergy.com/getmedia/d13f7594-056e-41a2-bb87-38881358d490/ENG-HV-High-Power-8C-30C-06-30-2026-logo-without-R.pdf
+  - Advanced Control and Monitoring with UltraVolt -I5 and -I10 Control Interface Options Application Note: https://www.advancedenergy.com/getmedia/3a1d4303-9498-48ff-b463-660f402a1dfe/en-hv-advanced-control-and-monitoring-I5-and-I10-control-interface-options-application-note.pdf
+  - Derating of Aluminum  Electrolytic Capacitors in High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - Electrical Termination  and Mounting Configurations of High Voltage Power Supplies Application Notes: https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - Interfacing with UltraVolt HVPS High Power C & High Power 8C-30C Series: https://www.advancedenergy.com/getmedia/0997000f-d1f0-4eaa-a796-e9ef3d1024b3/en-hv-interfacing-with-high-voltage-power-supplies-high-power-c-high-power-8c-30c-series-application-note.pdf
+  - Parallel Operation of UltraVolt HVPS Application Note: https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - Performing Isolation Tests on High Voltage Power Supplies Application Note: https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - Protection of High Voltage Power Supplies in Single and Multiple Applications Application Note: https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - UltraVolt HVPS Polarity Reversing Configurations Application Note: https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - Advanced Energy Powers CT Systems with High Power Demands: https://www.advancedenergy.com/getmedia/e4dd84b4-e11c-4d74-837f-0f4a7cf52bac/ENG-CT-High-Power-Demands-Case-Study-295-01.pdf
+  - High Power C Required in Intravascular Lithotripsy System: https://www.advancedenergy.com/getmedia/1b96aa97-402a-41c8-8a70-eeafb7f939ea/ENG-Intravascular-Lithotripsy-Case-Study-295-01.pdf
+  - High Power C Series Required for Transfection of Cells: https://www.advancedenergy.com/getmedia/58f28591-e1cf-469f-b82e-b05a2d736335/ENG-Transfection-of-Cells-Case-Study-295-01.pdf
+  - High Voltage Power Supply for High-Energy X-Ray Source: https://www.advancedenergy.com/getmedia/1661958e-61bd-476f-ae58-4ec67b5920dd/ENG-X-Ray-Source-Case-Study-295-01.pdf
+  - Revolutionizing Medical Devices with AE's Power Solutions for Pulsed Field Ablation: https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c48f750a-a6c6-45db-b2b4-4011b5ec07c5/en-hv-high-power-1.8c-6c-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1661958e-61bd-476f-ae58-4ec67b5920dd/ENG-X-Ray-Source-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/e4dd84b4-e11c-4d74-837f-0f4a7cf52bac/ENG-CT-High-Power-Demands-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/58f28591-e1cf-469f-b82e-b05a2d736335/ENG-Transfection-of-Cells-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/c48f750a-a6c6-45db-b2b4-4011b5ec07c5/ENG-HV-High-Power-1-8C-6C-235-01-08-08-24.pdf
+  - https://www.advancedenergy.com/getmedia/fe991819-e052-4b9a-9a67-f623d2555346/en-hv-high-power-40c-60c-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/d13f7594-056e-41a2-bb87-38881358d490/ENG-HV-High-Power-8C-30C-06-30-2026-logo-without-R.pdf
+  - https://www.advancedenergy.com/getmedia/3a1d4303-9498-48ff-b463-660f402a1dfe/en-hv-advanced-control-and-monitoring-I5-and-I10-control-interface-options-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/aa6008bc-4ad5-41a1-9e36-146d1b3d6f68/en-hv-derating-aluminum-electrolytic-capacitors-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d7c3a734-eaf6-4646-9420-19b2efcc0a5b/en-hv-electrical-termination-mounting-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/0997000f-d1f0-4eaa-a796-e9ef3d1024b3/en-hv-interfacing-with-high-voltage-power-supplies-high-power-c-high-power-8c-30c-series-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/0902243e-0bae-42e6-abac-4c25c3923372/en-hv-parallel-operation-of-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/5b0fc8ed-5526-497b-a34e-e418bfa98ca7/en-hv-performing-isolation-tests-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/b76c19ed-9ac2-4e09-aa15-faa908cc8c3e/en-hv-protection-high-voltage-power-supplies-single-multiple-applications-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/85a2b25d-f746-48b0-8108-379041a42d05/en-hv-polarity-reversing-configurations-high-voltage-power-supplies-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/e4dd84b4-e11c-4d74-837f-0f4a7cf52bac/ENG-CT-High-Power-Demands-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/1b96aa97-402a-41c8-8a70-eeafb7f939ea/ENG-Intravascular-Lithotripsy-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/58f28591-e1cf-469f-b82e-b05a2d736335/ENG-Transfection-of-Cells-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/1661958e-61bd-476f-ae58-4ec67b5920dd/ENG-X-Ray-Source-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/efee50f3-2d47-4639-9e12-e46f2c9263fa/ENG-Pulsed-Field-Ablation-New-Case-Study-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/fd48706b-e5f5-4063-9426-f26cca4f0d19/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e4cf35ba-e361-41df-88f4-2ae4df3052cf/high-power-c40-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/11b8bba5-ad42-4c65-a58d-035a9a8cfa9d/high-power-c60-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/99d15998-99ce-4cf7-88f1-4de437b8b0b8/high-power-c-fl-tp.png
+  - Image: https://www.advancedenergy.com/getattachment/74091649-7db2-439e-a496-17daf7cdbbaa/high-power-c-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f670f404-ae0a-486f-80f3-7cd4db743521/high-power-c-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55581e03-e78e-411d-968f-6ec515ec6ce5/high-power-c-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fd48706b-e5f5-4063-9426-f26cca4f0d19/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e4cf35ba-e361-41df-88f4-2ae4df3052cf/high-power-c40-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/11b8bba5-ad42-4c65-a58d-035a9a8cfa9d/high-power-c60-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/99d15998-99ce-4cf7-88f1-4de437b8b0b8/high-power-c-fl-tp.png
+  - Image: https://www.advancedenergy.com/getattachment/74091649-7db2-439e-a496-17daf7cdbbaa/high-power-c-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f670f404-ae0a-486f-80f3-7cd4db743521/high-power-c-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55581e03-e78e-411d-968f-6ec515ec6ce5/high-power-c-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fd48706b-e5f5-4063-9426-f26cca4f0d19/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e4cf35ba-e361-41df-88f4-2ae4df3052cf/high-power-c40-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/11b8bba5-ad42-4c65-a58d-035a9a8cfa9d/high-power-c60-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/99d15998-99ce-4cf7-88f1-4de437b8b0b8/high-power-c-fl-tp.png
+  - Image: https://www.advancedenergy.com/getattachment/74091649-7db2-439e-a496-17daf7cdbbaa/high-power-c-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f670f404-ae0a-486f-80f3-7cd4db743521/high-power-c-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/55581e03-e78e-411d-968f-6ec515ec6ce5/high-power-c-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - AE High Voltage Power Supply Solutions: https://i.ytimg.com/vi/689RpM4haWQ/hqdefault.jpg
+  - AE High Voltage Module Overview: https://i.ytimg.com/vi/AYi4V1WaENY/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fd48706b-e5f5-4063-9426-f26cca4f0d19/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c6e7a8fc-9428-4888-bcaf-6f2a9aa03ddd/c-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a9636656-bada-4678-bb85-7880feafdaa5/a-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5c3cd1a9-f20b-4de2-9a6d-892218f99da5/bi-polar-hp-c-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ac8c987d-d752-4da5-b6c5-8c5353284a43/Frame-905.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ac8c987d-d752-4da5-b6c5-8c5353284a43/Frame-905.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - ElectroporationAdvanced Energy's power solutions are designed to meet the specific power requirements of electroporation equipment, ensuring reliable and consistent power delivery for this critical life science application.: https://www.advancedenergy.com/en-us/applications/medical/life-science/electroporation/
+  - Explore Electroporation: https://www.advancedenergy.com/en-us/applications/medical/life-science/electroporation/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Capacitor ChargersEnhance your pulsed-power applications with Advanced Energy’s capacitor chargers, which include the High Power C series offering fast-rise charging power and the Flexicharge ensuring superb pulse-to-pulse repeatability and user power limit control.
+  ↓
+High Power C SeriesFast-rise charging power delivered from an optimized designLimited overshoot, typically less than 1% of high voltage setpoint, depending on the applicationHigh power-to-package size ratio

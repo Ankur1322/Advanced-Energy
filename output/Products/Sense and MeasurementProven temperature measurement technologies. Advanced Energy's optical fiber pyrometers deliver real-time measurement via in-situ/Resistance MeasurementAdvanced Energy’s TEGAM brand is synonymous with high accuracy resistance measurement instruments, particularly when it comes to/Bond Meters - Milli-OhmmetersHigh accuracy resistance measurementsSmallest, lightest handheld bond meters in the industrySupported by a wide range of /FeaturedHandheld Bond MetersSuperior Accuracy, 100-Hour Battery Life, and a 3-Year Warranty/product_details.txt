@@ -1,0 +1,116 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedHandheld Bond MetersSuperior Accuracy, 100-Hour Battery Life, and a 3-Year Warranty
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/
+Category Description: Advanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+
+[Level 3] Category Name: Bond Meters / Milli-OhmmetersHigh accuracy resistance measurementsSmallest, lightest handheld bond meters in the industrySupported by a wide range of test probe options
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/
+Category Description: Advanced Energy’s milli-ohmmeters boast superior accuracy, a remarkable 100-hour battery life, and a reassuring 3-year warranty, making them reliable choices for various industries.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedHandheld Bond MetersSuperior Accuracy, 100-Hour Battery Life, and a 3-Year Warranty
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/handheld-bond-meters/
+
+Complete Product Description:
+TRUST is an essential feature in any measurement tool and Advanced Energy's TEGAM new 700 Series bond meters and milli-ohmmeters are instruments you can rely on every day with confidence.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+  - 710A Datasheet: https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCC.pdf
+  - 720A Datasheet: https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/720A-909-AH.pdf
+  - 730A Datasheet: https://www.advancedenergy.com/getmedia/6129f12b-351c-4c45-8432-8a1c0bc5d824/730A-909-RevAC.pdf
+  - 700 Series Configuration Guide: https://www.advancedenergy.com/getmedia/590cefbd-370d-4ecc-a2e0-b33456bb5548/TEG_0116_700_Series_Configuration_Guide.pdf
+  - 720A-900 Quick Start: https://www.advancedenergy.com/getmedia/ed0e6293-2e1d-4558-831a-edab70bac500/720A-901_A_01.pdf
+  - Quick Start Guide 710A-901: https://www.advancedenergy.com/getmedia/d4388784-caeb-4bde-93f7-2b8a22c522d3/710A-901_B_02.pdf
+  - TEGAM 700 Series Probe Selector Guide: https://www.advancedenergy.com/getmedia/44335fb9-e1f6-49de-baa6-008ad9787383/eng-selector-guide-tegam-2025.pdf
+  - TEGAM Model 700 Series Selector Guide: https://www.advancedenergy.com/getmedia/42ec1f96-c26b-4848-86f0-f81a89bff265/en-tegam-model700series-selector-guide.pdf
+  - 720A-900 Manual: https://www.advancedenergy.com/getmedia/a8bf76b9-66cd-44b5-af5f-ab3731b066c5/720A-900_A.pdf
+  - 720A-903: https://www.advancedenergy.com/getmedia/d3c0a3d9-03df-451e-b72f-f52428096633/720A-903-Rev-A.pdf
+  - 730A-900 Manual: https://www.advancedenergy.com/getmedia/f76cf66b-33cd-4697-9e36-db1fc628bcb2/TEGAM-730A-900_AB-(2025-2-6).pdf
+  - Manual 710A-900: https://www.advancedenergy.com/getmedia/3647b579-67f5-4759-9d79-82f1a35eeda9/710A-900_B_06.pdf
+  - 720-400 Control Drawing: https://www.advancedenergy.com/getmedia/a61860eb-e187-489e-9fd2-fb287597b1a0/720-400-Rev-AB.pdf
+  - Custom Bond Meter Solution for Aerospace Flight Line Operations: https://www.advancedenergy.com/getmedia/c3d2130a-98df-43f7-9486-a0a9914980a7/ENG-Bond-Meter-for-Aerospace-Case-Study-295-01-(1).pdf
+  - TEGAM MODEL 720A BOND METER KIT COMPARISON: https://www.advancedenergy.com/getmedia/e17ff4ac-3e2e-4782-b054-e46fc0cf2769/ENG-TEG_720A-Bond-Meter-Kit-Comparison-10-24-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/855ad2d4-5fd8-4aeb-bba1-b56ea2458caf/eng-data-sheet-microohmmeter-accessories-2025.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/0d0885d2-4e7e-4114-a7eb-9b9ef0f0e623/TEG_Microohmmeter_Accessories_DS_RevA.pdf
+  - https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCC.pdf
+  - https://www.advancedenergy.com/getmedia/bd0034b5-b46d-4b72-9034-f1c72cc33605/720A-909-AH.pdf
+  - https://www.advancedenergy.com/getmedia/6129f12b-351c-4c45-8432-8a1c0bc5d824/730A-909-RevAC.pdf
+  - https://www.advancedenergy.com/getmedia/590cefbd-370d-4ecc-a2e0-b33456bb5548/TEG_0116_700_Series_Configuration_Guide.pdf
+  - https://www.advancedenergy.com/getmedia/ed0e6293-2e1d-4558-831a-edab70bac500/720A-901_A_01.pdf
+  - https://www.advancedenergy.com/getmedia/d4388784-caeb-4bde-93f7-2b8a22c522d3/710A-901_B_02.pdf
+  - https://www.advancedenergy.com/getmedia/44335fb9-e1f6-49de-baa6-008ad9787383/eng-selector-guide-tegam-2025.pdf
+  - https://www.advancedenergy.com/getmedia/42ec1f96-c26b-4848-86f0-f81a89bff265/en-tegam-model700series-selector-guide.pdf
+  - https://www.advancedenergy.com/getmedia/a8bf76b9-66cd-44b5-af5f-ab3731b066c5/720A-900_A.pdf
+  - https://www.advancedenergy.com/getmedia/d3c0a3d9-03df-451e-b72f-f52428096633/720A-903-Rev-A.pdf
+  - https://www.advancedenergy.com/getmedia/f76cf66b-33cd-4697-9e36-db1fc628bcb2/TEGAM-730A-900_AB-(2025-2-6).pdf
+  - https://www.advancedenergy.com/getmedia/3647b579-67f5-4759-9d79-82f1a35eeda9/710A-900_B_06.pdf
+  - https://www.advancedenergy.com/getmedia/a61860eb-e187-489e-9fd2-fb287597b1a0/720-400-Rev-AB.pdf
+  - https://www.advancedenergy.com/getmedia/c3d2130a-98df-43f7-9486-a0a9914980a7/ENG-Bond-Meter-for-Aerospace-Case-Study-295-01-(1).pdf
+  - https://www.advancedenergy.com/getmedia/e17ff4ac-3e2e-4782-b054-e46fc0cf2769/ENG-TEG_720A-Bond-Meter-Kit-Comparison-10-24-25.pdf
+  - https://www.advancedenergy.com/getmedia/855ad2d4-5fd8-4aeb-bba1-b56ea2458caf/eng-data-sheet-microohmmeter-accessories-2025.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/be5f473b-2ca7-486b-adb1-7c7f5057e0e4/710A-720A-730A.png
+  - Image: https://www.advancedenergy.com/getattachment/be5f473b-2ca7-486b-adb1-7c7f5057e0e4/710A-720A-730A.png
+  - Image: https://www.advancedenergy.com/getattachment/4418f4e0-7b8f-4ca7-9cce-bf48a7bb79a4/TEGAM-Display-Probe.jpg
+  - Image: https://www.advancedenergy.com/getmetafile/5c4c9b3f-55ff-4e33-989e-783e1c67c446/TEG_710A_tilt-stand_strap_front/
+  - Image: https://www.advancedenergy.com/getmetafile/90cae5a0-950d-4645-8546-deb5121d75fe/TEG_700-911_case-768x560/
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/6d41c6c4-6df5-4833-acd7-30e679aabfaf/TEG_AE_700-915_Sure_Grip_Cover/
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/d289c6e6-90b8-420b-9e60-74cfa66a9386/720-911-732x1024/
+  - Image: https://www.advancedenergy.com/getmetafile/a3a5889f-da58-48f2-a56f-7cf4346e9b73/TEG_AE_700-915_Sure_Grip_Cover/
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getattachment/f5733ccb-a5d8-4a32-a2f9-2e2f3f25c4af/700-911,-720-915,-and-700-910.png
+  - Image: https://www.advancedenergy.com/getattachment/c2322e9b-4d2c-4254-9db2-739e70444c5e/R1l-BIR-and-R1L-E2A.png
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedPortable Bond MetersBench Top Milli-Ohmmeter and Bond Meter: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/portable-bond-meters/
+  - Datasheet: https://www.advancedenergy.com/getmedia/855ad2d4-5fd8-4aeb-bba1-b56ea2458caf/eng-data-sheet-microohmmeter-accessories-2025.pdf
+  - AutomotiveAdvanced Energy provides a range of products for unique test & measurement applications in the manufacturing of automobiles and components. These product applications include low-resistance measurement and thermal sensing.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+  ↓
+Bond Meters / Milli-OhmmetersHigh accuracy resistance measurementsSmallest, lightest handheld bond meters in the industrySupported by a wide range of test probe options
+  ↓
+FeaturedHandheld Bond MetersSuperior Accuracy, 100-Hour Battery Life, and a 3-Year Warranty

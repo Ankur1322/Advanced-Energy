@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: RF Match Networks
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power Products
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: RF Match Networks
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-match-networks/
+
+Complete Product Description:
+Advanced Energy’s match networks expertly perform in multiple power ranges.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/bc430602-47ab-49f0-9033-0d2407694ea2/rf-navigator-ii-66b-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18b811de-acaa-4f65-82af-c8c9e1e8a2e0/NavX_Render700x700.png
+  - Image: https://www.advancedenergy.com/getattachment/44778f9b-81c4-43b5-8046-d3a590d14365/rfmatchnetworks_560x235.png?resizemode=force&maxsidesize=512
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg?resizemode=force&maxsidesize=500
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png?resizemode=force&maxsidesize=500
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power Products
+  ↓
+RF Match Networks

@@ -1,0 +1,103 @@
+==============================================================================
+PRODUCT DETAILS: Opti™  RF Power RackOptimized power delivery for 200 mm semiconductor fabs using high-density plasma chemical vapor deposition (HDP/CVD) tools.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/
+Category Description: Advanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+
+[Level 2] Category Name: Integrated SystemsAdvanced Energy's integrated systems combine various AE products into tailored solutions that ensure consistent quality and enhance the efficiency of plasma processes across industries.
+Category URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/integrated-systems/
+Category Description: Advanced Energy's integrated systems combine various AE products into tailored solutions that ensure consistent quality and enhance the efficiency of plasma processes across industries.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Opti™  RF Power RackOptimized power delivery for 200 mm semiconductor fabs using high-density plasma chemical vapor deposition (HDP/CVD) tools.
+Product URL: https://www.advancedenergy.com/en-us/products/plasma-power-products/integrated-systems/opti-rf-power-rack/
+
+Complete Product Description:
+Optimized power delivery for 200 mm semiconductor fabs using high-density plasma chemical vapor deposition (HDP/CVD) tools.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/086a050c-d028-43e9-984f-5984919eb8d5/ENG-Power-Rack-235-01_FINAL.pdf
+  - Opti RF Power Rack Brochure View Resource: https://www.advancedenergy.com/getmedia/086a050c-d028-43e9-984f-5984919eb8d5/ENG-Power-Rack-235-01_FINAL.pdf
+  - Opti RF Power Rack Flyer View Resource: https://www.advancedenergy.com/getmedia/e88a4276-80b4-4424-8e55-770bf1a474f6/Power_Rack_Flyer_FINAL.pdf
+  - PowerInsight by Advanced Energy PowerInsight acts as a flight recorder, capturing AE power delivery system performance data. Download PowerInsight brochure to see how AE's IoT solutions meet your needs. View Resource: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - Opti RF Power Rack Brochure: https://www.advancedenergy.com/getmedia/086a050c-d028-43e9-984f-5984919eb8d5/ENG-Power-Rack-235-01_FINAL.pdf
+  - Opti RF Power Rack Flyer: https://www.advancedenergy.com/getmedia/e88a4276-80b4-4424-8e55-770bf1a474f6/Power_Rack_Flyer_FINAL.pdf
+  - PowerInsight by Advanced Energy: https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - Paramount Plus Data Sheet: https://www.advancedenergy.com/getmedia/b7864be3-30ce-45c3-95a9-4c65f40a640a/paramount-plus-data-sheet.pdf
+  - Paramount Series Data Sheet: https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/086a050c-d028-43e9-984f-5984919eb8d5/ENG-Power-Rack-235-01_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/086a050c-d028-43e9-984f-5984919eb8d5/ENG-Power-Rack-235-01_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/e88a4276-80b4-4424-8e55-770bf1a474f6/Power_Rack_Flyer_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/086a050c-d028-43e9-984f-5984919eb8d5/ENG-Power-Rack-235-01_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/e88a4276-80b4-4424-8e55-770bf1a474f6/Power_Rack_Flyer_FINAL.pdf
+  - https://www.advancedenergy.com/getmedia/3e9f549e-091e-4076-a7c5-bdcd2b047944/ENG-PowerInsight-255-07.pdf
+  - https://www.advancedenergy.com/getmedia/b7864be3-30ce-45c3-95a9-4c65f40a640a/paramount-plus-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/2527d298-d4cf-4ccf-94d3-814abbcb4d4a/power-rack-ISO-render-sb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c41f6921-ea60-4c48-8db6-100f1b3ea75d/power-rack-front-render-sb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a72107ac-4c63-44dd-9a98-bd5aca8ae997/power-rack-rear-render.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2527d298-d4cf-4ccf-94d3-814abbcb4d4a/power-rack-ISO-render-sb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c41f6921-ea60-4c48-8db6-100f1b3ea75d/power-rack-front-render-sb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a72107ac-4c63-44dd-9a98-bd5aca8ae997/power-rack-rear-render.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2527d298-d4cf-4ccf-94d3-814abbcb4d4a/power-rack-ISO-render-sb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c41f6921-ea60-4c48-8db6-100f1b3ea75d/power-rack-front-render-sb.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a72107ac-4c63-44dd-9a98-bd5aca8ae997/power-rack-rear-render.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/brochure.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ae207771-e982-463b-8472-09ca34526041/paramount_hf_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7410e5b-fde7-4ec4-b8d2-cc3abdf758fd/paramountplus-mf5002-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/ea556410-c7d1-4ae0-8258-ec17f3843a05/deposition-sm.png
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedParamount RF GeneratorIndustry-Leading, Repeatable Power Delivery for Core Plasma Applications: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/paramount/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e9ca97ee-27ae-4519-8887-b8e5bf493cb9/en-ppg-paramount-series-data-sheet.pdf
+  - FeaturedParamount Plus RF GeneratorMulti-Level Pulsing and Pulse Waveform Control for Emerging Plasma Applications: https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/paramount-plus/
+  - Datasheet: https://www.advancedenergy.com/getmedia/e5a58a62-832f-4d54-8689-d3d8c1e76136/paramount-plus-data-sheet.pdf
+  - DepositionA comprehensive portfolio for semiconductor deposition, including plasma power delivery, temperature measurement, temperature control, and wafer control solutions.: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - Explore Deposition: https://www.advancedenergy.com/en-us/applications/semiconductor/deposition/
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Plasma Power ProductsAdvanced Energy leads with technologies that enable precise plasma control. Equip your manufacturing and abatement processes with high functionality and exceptional reliability. Customize your chemistry. Expand your operating range. Deliver higher process rates.
+  ↓
+Integrated SystemsAdvanced Energy's integrated systems combine various AE products into tailored solutions that ensure consistent quality and enhance the efficiency of plasma processes across industries.
+  ↓
+Opti™  RF Power RackOptimized power delivery for 200 mm semiconductor fabs using high-density plasma chemical vapor deposition (HDP/CVD) tools.

@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Temperature Sensing
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: Sense and Measurement
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Temperature Sensing
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+
+Complete Product Description:
+Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/26af22f3-8e41-4f0a-90db-7999d274118c/series-cal-med.png
+  - Image: https://www.advancedenergy.com/getattachment/fa9e887a-82d5-4115-9d7d-6e4ebda2371e/series-ti.png
+  - Image: https://www.advancedenergy.com/getattachment/5c2289f1-be39-4119-8e01-b57d2375cb66/Fiber-Optic-4-16-26.png
+  - Image: https://www.advancedenergy.com/getattachment/079c0797-59c8-4379-9310-833e465e7204/Metallic.png
+  - Image: https://www.advancedenergy.com/getattachment/8b79a4a5-2922-4b74-96d0-5199cae2975e/Non-metallic.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and Measurement
+  ↓
+Temperature Sensing

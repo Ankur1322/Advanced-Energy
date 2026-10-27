@@ -1,0 +1,107 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedFC4000Advanced Energy's FC4000 medical capacitor charging power supply, with a built in configurable ACDC power supply is designed to provide he system power needs for medical laser applications. The FC40M can provide both capacitor charging and ACDC low voltage system power due to it’s unique design and intelligent control. The FC40M can be used as a standalone capacitor charger, and if needed, various low voltage modules can be added to the unit to provide further system power. This functionality provides extra flexibility to power other systems and applications. The supply can support analog and digital control using our PMBus interface
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Capacitor ChargersEnhance your pulsed-power applications with Advanced Energy’s capacitor chargers, which include the High Power C series offering fast-rise charging power and the Flexicharge ensuring superb pulse-to-pulse repeatability and user power limit control.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/
+Category Description: Enhance your pulsed-power applications with Advanced Energy’s capacitor chargers, which include the High Power C series offering fast-rise charging power and the Flexicharge ensuring superb pulse-to-pulse repeatability and user power limit control.
+
+[Level 3] Category Name: FlexiCharge SeriesHigh voltage capacitor charger and low voltage power supplyUp to 10 isolated low voltage outputsExcellent pulse to pulse repeatability and user power limit controlAnalog and digital control and monitoring features
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/flexicharge-series/
+Category Description: Simplify your power needs with FlexiCharge Series, offering capacitor charging power supplies, high voltage capacitor charger & low voltage power in one package.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedFC4000Advanced Energy's FC4000 medical capacitor charging power supply, with a built in configurable ACDC power supply is designed to provide he system power needs for medical laser applications. The FC40M can provide both capacitor charging and ACDC low voltage system power due to it’s unique design and intelligent control. The FC40M can be used as a standalone capacitor charger, and if needed, various low voltage modules can be added to the unit to provide further system power. This functionality provides extra flexibility to power other systems and applications. The supply can support analog and digital control using our PMBus interface
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/flexicharge-series/fc4000/
+
+Complete Product Description:
+Simplify your power needs with FlexiCharge Series, offering capacitor charging power supplies, high voltage capacitor charger & low voltage power in one package.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/8a1ed708-a6d1-4999-bc0c-c164b7d80cef/ENG-FC4000-235-01-10-22-24.pdf
+  - FC4000 Data Sheet View Resource: https://www.advancedenergy.com/getmedia/8a1ed708-a6d1-4999-bc0c-c164b7d80cef/ENG-FC4000-235-01-04-03-25.pdf
+  - Achieving Medical Standards with FlexiCharge FC4000 for Aesthetic Lasers View Resource: https://www.advancedenergy.com/getmedia/5abdd797-2c5d-4863-ac80-6ff053074315/ENG-FC4000-for-Aesthetic-Lasers-Case-Study-295-01.pdf
+  - FC4000 Data Sheet: https://www.advancedenergy.com/getmedia/8a1ed708-a6d1-4999-bc0c-c164b7d80cef/ENG-FC4000-235-01-04-03-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/8824294a-ca29-468b-ad9e-ce58aff915b9/en-flexicharge-excelsys-fc15m-data-sheet.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/1a511a2b-ecab-4689-87e3-6f82e624d8ee/ENG-FC2500-235-01_01-9-24-Latest.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/8a1ed708-a6d1-4999-bc0c-c164b7d80cef/ENG-FC4000-235-01-10-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/8a1ed708-a6d1-4999-bc0c-c164b7d80cef/ENG-FC4000-235-01-04-03-25.pdf
+  - https://www.advancedenergy.com/getmedia/5abdd797-2c5d-4863-ac80-6ff053074315/ENG-FC4000-for-Aesthetic-Lasers-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/8a1ed708-a6d1-4999-bc0c-c164b7d80cef/ENG-FC4000-235-01-04-03-25.pdf
+  - https://www.advancedenergy.com/getmedia/8824294a-ca29-468b-ad9e-ce58aff915b9/en-flexicharge-excelsys-fc15m-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/1a511a2b-ecab-4689-87e3-6f82e624d8ee/ENG-FC2500-235-01_01-9-24-Latest.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/33cd7178-2bca-41ec-b4a1-d0f138638945/FC40-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/512dd3ea-7a3f-4896-9bfa-e9226c2c4588/FC40-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/d64e4be5-1bdb-40d1-a333-554e00788e01/FC40-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/99447dee-b94c-4ce5-8879-2c44eb6372b8/FC40-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/c6158b8f-9abf-40e4-b0d4-eeddebdfccea/FC40-V4.png
+  - Image: https://img.youtube.com/vi/4rWgZAk95QI/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33cd7178-2bca-41ec-b4a1-d0f138638945/FC40-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/512dd3ea-7a3f-4896-9bfa-e9226c2c4588/FC40-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/d64e4be5-1bdb-40d1-a333-554e00788e01/FC40-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/99447dee-b94c-4ce5-8879-2c44eb6372b8/FC40-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/c6158b8f-9abf-40e4-b0d4-eeddebdfccea/FC40-V4.png
+  - Image: https://img.youtube.com/vi/4rWgZAk95QI/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33cd7178-2bca-41ec-b4a1-d0f138638945/FC40-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/512dd3ea-7a3f-4896-9bfa-e9226c2c4588/FC40-V1.png
+  - Image: https://www.advancedenergy.com/getattachment/d64e4be5-1bdb-40d1-a333-554e00788e01/FC40-V2.png
+  - Image: https://www.advancedenergy.com/getattachment/99447dee-b94c-4ce5-8879-2c44eb6372b8/FC40-V3.png
+  - Image: https://www.advancedenergy.com/getattachment/c6158b8f-9abf-40e4-b0d4-eeddebdfccea/FC40-V4.png
+  - Image: https://www.advancedenergy.com/images/technical-content/datasheet.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/other.png
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - AE's Excelsys FlexiCharge4000 Series: https://i.ytimg.com/vi/4rWgZAk95QI/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/29476cf2-25e5-4c80-9de8-8f846588cf11/aei_cap_charger_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b203983e-69c1-4866-a619-9e73f57d455d/AEI_Cap_Charger_FL_W-FC2500.png
+  - Image: https://www.advancedenergy.com/getattachment/33cd7178-2bca-41ec-b4a1-d0f138638945/FC40-V5.png
+  - Image: https://www.advancedenergy.com/getattachment/b203983e-69c1-4866-a619-9e73f57d455d/AEI_Cap_Charger_FL_W-FC2500.png
+  - Image: https://www.advancedenergy.com/getattachment/29476cf2-25e5-4c80-9de8-8f846588cf11/aei_cap_charger_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/44c1265d-b63f-47e2-b192-153de0001c51/Medical-Lasers-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/44c1265d-b63f-47e2-b192-153de0001c51/Medical-Lasers-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedFC1500High Voltage 1.5 kJ Capacitor Charger and Low Voltage Power Supply in One Package. Up to 2300 W Total Power.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/flexicharge-series/flexicharge/
+  - Datasheet: https://www.advancedenergy.com/getmedia/8824294a-ca29-468b-ad9e-ce58aff915b9/en-flexicharge-excelsys-fc15m-data-sheet.pdf
+  - FeaturedFC2500High Voltage 2.5 kJ Capacitor Charger and Low Voltage Power Supply in One Package. Up to 3300 W Total Power.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/capacitor-chargers/flexicharge-series/fc2500/
+  - Datasheet: https://www.advancedenergy.com/getmedia/1a511a2b-ecab-4689-87e3-6f82e624d8ee/ENG-FC2500-235-01_01-9-24-Latest.pdf
+  - Medical LasersWe design power supplies for demanding medical and cosmetic laser applications that offer high performance, reliability, and compliance.: https://www.advancedenergy.com/en-us/applications/medical/medical-lasers/
+  - Explore Medical Lasers: https://www.advancedenergy.com/en-us/applications/medical/medical-lasers/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Capacitor ChargersEnhance your pulsed-power applications with Advanced Energy’s capacitor chargers, which include the High Power C series offering fast-rise charging power and the Flexicharge ensuring superb pulse-to-pulse repeatability and user power limit control.
+  ↓
+FlexiCharge SeriesHigh voltage capacitor charger and low voltage power supplyUp to 10 isolated low voltage outputsExcellent pulse to pulse repeatability and user power limit controlAnalog and digital control and monitoring features
+  ↓
+FeaturedFC4000Advanced Energy's FC4000 medical capacitor charging power supply, with a built in configurable ACDC power supply is designed to provide he system power needs for medical laser applications. The FC40M can provide both capacitor charging and ACDC low voltage system power due to it’s unique design and intelligent control. The FC40M can be used as a standalone capacitor charger, and if needed, various low voltage modules can be added to the unit to provide further system power. This functionality provides extra flexibility to power other systems and applications. The supply can support analog and digital control using our PMBus interface

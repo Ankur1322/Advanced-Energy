@@ -1,0 +1,128 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedNGB250 Series250 W Single Output Medical and Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/
+Category Description: Our low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+
+[Level 3] Category Name: 151 - 250 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsAdded features such as standby output and monitoring signals
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/
+Category Description: Advanced Energy power supplies within the 151 to 250 W range are the backbone of many electronics, striking a balance between power and efficiency.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedNGB250 Series250 W Single Output Medical and Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/ngb250-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power NGB250 medically-approved AC-DC power supplies are available with a nominal main output of 12 V, 15 V, 24 V, 28 V, 48 V or 56 V.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - NGB250 Datasheet: https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - NGB250 Long Form Datasheet: https://www.advancedenergy.com/getmedia/549ed37f-056d-4d33-a0ef-e6c6d1b3aa36/ENG-NGB250-04-10-25.pdf
+  - REACH 240 Declaration SL Power NGB250S12K: https://www.advancedenergy.com/getmedia/3dc05567-ce79-4a15-81c9-533901e2c73a/REACH-240-Declaration-%e2%80%93-SL-Power-NGB250S12K-%e2%80%93-May-10-2024.pdf
+  - REACH 251 Declaration SL Power NGB250S12K: https://www.advancedenergy.com/getmedia/c454839e-3c8f-471f-a9d5-1afb7069bc3d/REACH-240-Declaration-%e2%80%93-SL-Power-NGB250S48K-%e2%80%93-Feb-2026.pdf
+  - NGB250 REACH Certificate: https://www.advancedenergy.com/getmedia/b3b7ed3c-a2d2-4e03-9a14-fea2de4d2034/NGB250_REACH.pdf
+  - NGB250 RoHS Certificate: https://www.advancedenergy.com/getmedia/6c996799-9735-4920-905e-5cf58031f62e/NGB250_RoHS.pdf
+  - NGB250 CB 60601 Class I Certificate: https://www.advancedenergy.com/getmedia/c9fdce69-1dcd-43fd-bd7a-66689bb8208c/NGB250_CB_60601_Class%20I.pdf
+  - NGB250 CB 60601 Class II Certificate: https://www.advancedenergy.com/getmedia/ad3dcc79-151c-4215-8bfa-8063488650a0/NGB250_CB_60601_Class%20II.pdf
+  - NGB250 CB 62368 Class I Certificate: https://www.advancedenergy.com/getmedia/015ba03f-bede-47c9-a9d2-b22621bb83c0/NGB250_CB_62368_Class%20I.pdf
+  - NGB250 CB 62368 Class II Certificate: https://www.advancedenergy.com/getmedia/c312066a-0a5a-4524-915d-db5f319c641e/NGB250_CB_62368_Class%20II.pdf
+  - NGB250 UL 62368 Class I Certificate: https://www.advancedenergy.com/getmedia/09a02cdf-a49c-45f4-b4dd-429bda7f867d/NGB250_UL_62368_Class%20I.pdf
+  - NGB250S HT CB Certificate Class I: https://www.advancedenergy.com/getmedia/a103d835-c430-4968-8ddb-611c2ecda83d/NGB250S%20HT%20CB%20Cert%20Class%20I.pdf
+  - NGB250S HT CB Certificate Class II: https://www.advancedenergy.com/getmedia/d365df39-48d9-4d13-a618-7892a8028ca5/NGB250S%20HT%20CB%20Cert%20Class%20II.pdf
+  - NGB250S HT UL CofA: https://www.advancedenergy.com/getmedia/6a7011a2-a01c-4cf7-a5d2-df74e7aeb0bc/NGB250S%20HT%20UL%20CofA.pdf
+  - NGB250 Value Proposition: https://www.advancedenergy.com/getmedia/58882261-d114-43f5-82a6-cabefe24c781/NGB250-Value-Proposition.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/91ab7032-b38f-45b1-9cdc-272baa0a5397/ENG-CINT1200-03.04.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/47288ed3-e19d-49b9-b189-ee4b4671cfd6/ENG-LB240-08.24.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d6a614c-0856-496e-9e1e-7ff1a8f7f82f/ENG-CINT1275-03.04.23.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - https://www.advancedenergy.com/getmedia/985d5f51-98b2-4e10-8a67-266d88d32954/NGB250-01.19.23.pdf
+  - https://www.advancedenergy.com/getmedia/549ed37f-056d-4d33-a0ef-e6c6d1b3aa36/ENG-NGB250-04-10-25.pdf
+  - https://www.advancedenergy.com/getmedia/3dc05567-ce79-4a15-81c9-533901e2c73a/REACH-240-Declaration-%e2%80%93-SL-Power-NGB250S12K-%e2%80%93-May-10-2024.pdf
+  - https://www.advancedenergy.com/getmedia/c454839e-3c8f-471f-a9d5-1afb7069bc3d/REACH-240-Declaration-%e2%80%93-SL-Power-NGB250S48K-%e2%80%93-Feb-2026.pdf
+  - https://www.advancedenergy.com/getmedia/b3b7ed3c-a2d2-4e03-9a14-fea2de4d2034/NGB250_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/6c996799-9735-4920-905e-5cf58031f62e/NGB250_RoHS.pdf
+  - https://www.advancedenergy.com/getmedia/c9fdce69-1dcd-43fd-bd7a-66689bb8208c/NGB250_CB_60601_Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/ad3dcc79-151c-4215-8bfa-8063488650a0/NGB250_CB_60601_Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/015ba03f-bede-47c9-a9d2-b22621bb83c0/NGB250_CB_62368_Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/c312066a-0a5a-4524-915d-db5f319c641e/NGB250_CB_62368_Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/09a02cdf-a49c-45f4-b4dd-429bda7f867d/NGB250_UL_62368_Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/a103d835-c430-4968-8ddb-611c2ecda83d/NGB250S%20HT%20CB%20Cert%20Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/d365df39-48d9-4d13-a618-7892a8028ca5/NGB250S%20HT%20CB%20Cert%20Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/6a7011a2-a01c-4cf7-a5d2-df74e7aeb0bc/NGB250S%20HT%20UL%20CofA.pdf
+  - https://www.advancedenergy.com/getmedia/58882261-d114-43f5-82a6-cabefe24c781/NGB250-Value-Proposition.pdf
+  - https://www.advancedenergy.com/getmedia/91ab7032-b38f-45b1-9cdc-272baa0a5397/ENG-CINT1200-03.04.23.pdf
+  - https://www.advancedenergy.com/getmedia/47288ed3-e19d-49b9-b189-ee4b4671cfd6/ENG-LB240-08.24.23.pdf
+  - https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - https://www.advancedenergy.com/getmedia/0d6a614c-0856-496e-9e1e-7ff1a8f7f82f/ENG-CINT1275-03.04.23.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/7f625eba-4d37-4807-9ff2-e4f6f8ad0618/NGB250-img-1633990271.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7f625eba-4d37-4807-9ff2-e4f6f8ad0618/NGB250-img-1633990271.jpg
+  - AE's SL Power NGB Series: https://i.ytimg.com/vi/1yASKbnvDnQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/73a4a5bd-3e87-4471-b05d-b67faa6da904/CINT1200.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8fd61aef-8355-42f8-b2a5-4d1b43700621/LB240S.jpg
+  - Image: https://www.advancedenergy.com/getattachment/18dd2125-795f-4e6c-a16d-2fffbd14ab19/SLB300-Main.png
+  - Image: https://www.advancedenergy.com/getattachment/9fe71a84-0326-4c49-b154-f88be8f4ca08/CINT1275.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d7b2519d-03c6-47a1-b85f-f71adf18b535/AV-Stage-(Lighting-CTRL)-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedCINT1200 Series200 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/cint1200-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/91ab7032-b38f-45b1-9cdc-272baa0a5397/ENG-CINT1200-03.04.23.pdf
+  - FeaturedLB240S Series240 W Single Output LED Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/151-250-watt-range/lb240s-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/47288ed3-e19d-49b9-b189-ee4b4671cfd6/ENG-LB240-08.24.23.pdf
+  - FeaturedSLB300 Series300 W Single Output Medical & Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/slb300-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300%20-04.27.23.pdf
+  - FeaturedCINT1275 Series275 W Single Output Industrial Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/251-500-watt-range/cint1275-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/0d6a614c-0856-496e-9e1e-7ff1a8f7f82f/ENG-CINT1275-03.04.23.pdf
+  - Entertainment Lighting and AV ControlsInnovative lighting and precise control systems enhance performance atmosphere in motion picture, stage, and studio settings.: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - Explore Entertainment Lighting and AV Controls: https://www.advancedenergy.com/en-us/applications/industrial/industrial-lighting/entertainment-lighting-and-av-controls/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Open-Frame, Low Power AC-DC Power SuppliesOur low-to-medium power AC-DC power supplies feature a range of isolated output options and auxiliary outputs for fans and standby circuits.
+  ↓
+151 - 250 Watt RangeMedical & ITE Safety ApprovalsAirflow and convection power ratingsClass I and Class II input versionsAdded features such as standby output and monitoring signals
+  ↓
+FeaturedNGB250 Series250 W Single Output Medical and Industrial Grade

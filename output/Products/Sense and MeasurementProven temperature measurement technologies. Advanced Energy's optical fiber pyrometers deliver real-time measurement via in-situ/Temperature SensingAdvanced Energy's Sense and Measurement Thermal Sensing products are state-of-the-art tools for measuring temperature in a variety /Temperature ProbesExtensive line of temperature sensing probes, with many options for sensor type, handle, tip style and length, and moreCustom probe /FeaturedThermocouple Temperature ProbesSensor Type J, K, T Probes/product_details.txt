@@ -1,0 +1,100 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedThermocouple Temperature ProbesSensor Type J, K, T Probes
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Temperature ProbesExtensive line of temperature sensing probes, with many options for sensor type, handle, tip style and length, and moreCustom probe options also available
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-probes/
+Category Description: AE TEGAM offers a wide selection of thermocouple, RTD, and Thermistor temperature probes, with many probe tips styles and lengths.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedThermocouple Temperature ProbesSensor Type J, K, T Probes
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-probes/thermocouple-temperature-probes/
+
+Complete Product Description:
+Advanced Energy offers a wide selection of thermocouple probes each designed to meet the challenges you face everyday. Thermocouple probes are ideal for many industrial applications. They offer fast response times, accuracy, and wide temperature ranges making thermocouple probes a great complement to your TEGAM thermometers.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f50307c8-5bc1-45cf-a478-1e5ac9067635/940A-909_RevCB.pdf
+  - TEGAM Thermometry Brochure: https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - Probe Selection Guide: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/f50307c8-5bc1-45cf-a478-1e5ac9067635/940A-909_RevCB.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - https://www.advancedenergy.com/getmedia/f50307c8-5bc1-45cf-a478-1e5ac9067635/940A-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/f50307c8-5bc1-45cf-a478-1e5ac9067635/940A-909_RevCB.pdf
+
+Images:
+  - Immersion Temperature Probe details - TEGAM.: https://www.advancedenergy.com/getattachment/bc8b567a-e149-45f5-ba06-29694d5fa04b/Immersion.jpg
+  - MTC Connector: https://www.advancedenergy.com/getattachment/45ef0a37-7547-4b51-bc3b-9a43f3d1ec4e/MTC-Connector.jpg
+  - Tri Shape Handle: https://www.advancedenergy.com/getattachment/47bc96ce-abfb-4b9e-a54d-92aab1a73c83/Tri-Shape-Handle.jpg
+  - Immersion Temperature Probe details - TEGAM.: https://www.advancedenergy.com/getattachment/bc8b567a-e149-45f5-ba06-29694d5fa04b/Immersion.jpg
+  - MTC Connector: https://www.advancedenergy.com/getattachment/45ef0a37-7547-4b51-bc3b-9a43f3d1ec4e/MTC-Connector.jpg
+  - Tri Shape Handle: https://www.advancedenergy.com/getattachment/47bc96ce-abfb-4b9e-a54d-92aab1a73c83/Tri-Shape-Handle.jpg
+  - Immersion Temperature Probe details - TEGAM.: https://www.advancedenergy.com/getattachment/bc8b567a-e149-45f5-ba06-29694d5fa04b/Immersion.jpg
+  - MTC Connector: https://www.advancedenergy.com/getattachment/45ef0a37-7547-4b51-bc3b-9a43f3d1ec4e/MTC-Connector.jpg
+  - Tri Shape Handle: https://www.advancedenergy.com/getattachment/47bc96ce-abfb-4b9e-a54d-92aab1a73c83/Tri-Shape-Handle.jpg
+  - TEGAM 911B SIngle-Channel Thermocouple Thermometer is a digital thermometer with 2000-hour battery life.: https://www.advancedenergy.com/getattachment/bef50aed-a0bc-4154-abf3-76d824e98b76/911B-Web-Thumbnail.jpg
+  - The TEGAM 931B Thermocouple Thermometer features datalogging capabilities thanks to wireless Bluetooth connectivity for easy and convenient data logging activities.: https://www.advancedenergy.com/getattachment/c9a4c2c5-5ebf-40a8-b488-1965d17ef854/931B-Web-Thumbnail.jpg
+  - TEGAM Thermocouple Calibrator uses 6 batteries vs the competitions 80: https://www.advancedenergy.com/getattachment/099f5ba6-c6a2-4244-bdfb-70306dde2a9a/TEGAM-940A.png
+  - Thermocouple Probe Selection: https://i.ytimg.com/vi/A0QlKTQLzlk/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/522d6560-7b89-4a16-b190-4c83c100b05e/931B.png
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/7006016e-bbd3-4f33-9b6e-2ae104adeda4/Automotive-EV-Battery-Pack-Production-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedThermocouple CalibratorsHandheld Temperature Calibrator: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-calibrators/thermocouple-calibrators/
+  - Datasheet: https://www.advancedenergy.com/getmedia/f50307c8-5bc1-45cf-a478-1e5ac9067635/940A-909_RevCB.pdf
+  - FeaturedThermocouple ThermometersAdvanced Energy’s thermocouple thermometers family includes digital, intrinsically safe, and datalogging thermometers.: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/
+  - AutomotiveAdvanced Energy provides a range of products for unique test & measurement applications in the manufacturing of automobiles and components. These product applications include low-resistance measurement and thermal sensing.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+  - Documentation: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/automotive/
+  - Food SafetyOur digital temperature instruments are utilized directly on production lines for immediate verification and are essential in calibrating crucial process control equipment, addressing the pervasive issue of foodborne illnesses, and contributing to a safer, healthier food supply chain.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - Explore Food Safety: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Temperature ProbesExtensive line of temperature sensing probes, with many options for sensor type, handle, tip style and length, and moreCustom probe options also available
+  ↓
+FeaturedThermocouple Temperature ProbesSensor Type J, K, T Probes

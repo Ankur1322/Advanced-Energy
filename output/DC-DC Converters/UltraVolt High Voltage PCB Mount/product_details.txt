@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: UltraVolt High Voltage PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC Converters
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/high-voltage-boost-(u-v)/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: UltraVolt High Voltage PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/high-voltage-boost-(u-v)/
+
+Complete Product Description:
+Our HiTek, Trek, and Ultravolt product lines are flexible and highly reliable, providing superior power quality and elevating your entire system’s performance.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/72cc7803-3a72-4162-8187-75d149229fc2/m-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5376d210-e42f-49df-9429-63cc7132253f/aa-series-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/45522f13-cd1f-4c67-97b9-581441eee17c/high-power-c-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c220c611-b6a9-404c-9485-37b54e5b71cc/HVA-Series.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0fbffc29-000c-41dd-b6e7-1da6ed3587c3/EFL-and-FL.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC Converters
+  ↓
+UltraVolt High Voltage PCB Mount

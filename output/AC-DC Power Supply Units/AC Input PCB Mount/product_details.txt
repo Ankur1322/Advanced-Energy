@@ -1,0 +1,50 @@
+==============================================================================
+PRODUCT DETAILS: AC Input PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: AC Input PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/encapsulated-pcb-mount/
+
+Complete Product Description:
+Best suited for applications requiring low-power solutions, our power factor correction (PFC) and AC-DC modules enable quick application design-ins.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/df7388ff-cd91-4752-8ccd-215bc6b1c8ca/AIF500.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0863ad1b-f5b1-4b08-b193-b0d086afc66b/PFC-BMP-AIF06ZPFC.jpg
+  - Image: https://www.advancedenergy.com/getattachment/94484285-1a73-45f1-a84f-c6b43e24cb62/MicrosoftTeams-image.png?resizemode=force&maxsidesize=512
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+AC Input PCB Mount

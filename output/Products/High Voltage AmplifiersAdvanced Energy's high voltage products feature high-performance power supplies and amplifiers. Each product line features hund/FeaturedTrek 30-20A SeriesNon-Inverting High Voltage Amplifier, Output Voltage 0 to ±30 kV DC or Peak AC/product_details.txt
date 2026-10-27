@@ -1,0 +1,66 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedTrek 30/20A SeriesNon-Inverting High Voltage Amplifier, Output Voltage 0 to ±30 kV DC or Peak AC
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage AmplifiersAdvanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/
+Category Description: Advanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: FeaturedTrek 30/20A SeriesNon-Inverting High Voltage Amplifier, Output Voltage 0 to ±30 kV DC or Peak AC
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-amplifiers/systems-greater-than-5-kv/600w-and-above/trek-30-20a/
+
+Complete Product Description:
+The high voltage amplifier Trek® 30/20A is DC-stable and has an all-solid-state design that enables a high slew rate, wide bandwidth, and low-noise operation.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/b7d18928-9407-4000-8b4b-e14cab9b1b6f/en-hv-amplifier-trek-30-20a-data-sheet.pdf
+  - Amplifier Selection Calculator | Step-by-Step Procedure (165 KB): https://www.advancedenergy.com/getmedia/e7161b12-99c2-4f7c-8830-47823c819db5/en-hv-amplifier-capacitive-loads.pdf
+  - Trek 30/20A Data Sheet: https://www.advancedenergy.com/getmedia/b7d18928-9407-4000-8b4b-e14cab9b1b6f/en-hv-amplifier-trek-30-20a-data-sheet.pdf
+  - Amplifier Selection Calculator | Step-By-Step Procedure: https://www.advancedenergy.com/getmedia/edf34b8d-964e-4bd8-9445-5efb5898cb44/AN-Driving-Capacitive-Loads-with-Trek-Amplifiers-(103123).pdf
+  - Choosing the Correct Capacitive Load: https://www.advancedenergy.com/getmedia/16ca34b7-be4c-4d41-9900-2f316bc8650e/en-hv-amplifier-choosing-amplifier.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b7d18928-9407-4000-8b4b-e14cab9b1b6f/en-hv-amplifier-trek-30-20a-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/e7161b12-99c2-4f7c-8830-47823c819db5/en-hv-amplifier-capacitive-loads.pdf
+  - https://www.advancedenergy.com/getmedia/b7d18928-9407-4000-8b4b-e14cab9b1b6f/en-hv-amplifier-trek-30-20a-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/edf34b8d-964e-4bd8-9445-5efb5898cb44/AN-Driving-Capacitive-Loads-with-Trek-Amplifiers-(103123).pdf
+  - https://www.advancedenergy.com/getmedia/16ca34b7-be4c-4d41-9900-2f316bc8650e/en-hv-amplifier-choosing-amplifier.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/e23599cd-6965-4b94-99b3-dec3e84d80e5/30-20a-ce_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/e23599cd-6965-4b94-99b3-dec3e84d80e5/30-20a-ce_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d217e503-0081-461e-840f-c94208674cfc/software_12.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - ImplantOur products are engineered with a focus on optimizing efficiency and power density to ensure precise control of ion energy.: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+  - Explore Implant: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage AmplifiersAdvanced Energy's high voltage products feature high-performance power supplies and amplifiers. Each product line features hundreds of units, options, and accessories to meet your application needs.
+  ↓
+FeaturedTrek 30/20A SeriesNon-Inverting High Voltage Amplifier, Output Voltage 0 to ±30 kV DC or Peak AC

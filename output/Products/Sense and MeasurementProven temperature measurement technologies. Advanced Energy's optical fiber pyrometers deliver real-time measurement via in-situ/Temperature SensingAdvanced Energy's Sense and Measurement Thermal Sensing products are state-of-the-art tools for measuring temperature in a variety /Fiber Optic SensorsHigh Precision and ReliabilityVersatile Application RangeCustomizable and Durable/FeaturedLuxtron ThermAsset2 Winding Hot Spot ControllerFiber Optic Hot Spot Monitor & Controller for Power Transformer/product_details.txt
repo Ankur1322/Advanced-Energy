@@ -1,0 +1,83 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLuxtron ThermAsset2 Winding Hot Spot ControllerFiber Optic Hot Spot Monitor & Controller for Power Transformer
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Fiber Optic SensorsHigh Precision and ReliabilityVersatile Application RangeCustomizable and Durable
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/fiber-optic-sensors/
+Category Description: Advanced Energy offers highly reliable and precise fiber optic sensors for temperature measurement and sensing applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLuxtron ThermAsset2 Winding Hot Spot ControllerFiber Optic Hot Spot Monitor & Controller for Power Transformer
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/fiber-optic-sensors/luxtron-thermasset2/
+
+Complete Product Description:
+The Luxtron® ThermAsset®2 controller is designed to measure transformer winding hot spots in real time and activate control of the cooling system.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/7c3fc34b-7f78-44b6-b044-b38fbf9218a9/en-fot-thermasset2-data-sheet.pdf
+  - Fiber Optic Probes Data Sheet (310 KB): https://www.advancedenergy.com/getmedia/385bb882-abd6-4249-8daa-436d3818fc03/en-fot-probes-data-sheet.pdf
+  - Fiber Optic Utility Probes Product Note (365 KB): https://www.advancedenergy.com/getmedia/0d14b71a-d4aa-4956-b677-be7a07f02f06/en-fot-utility-probes-product-note.pdf
+  - Luxtron Tank Wall Plate (395 KB): https://www.advancedenergy.com/getmedia/2b9d8145-66cf-4efb-86de-a592b4314aca/en-fot-tank-wall-plate-data-sheet.pdf
+  - ThermAsset2 Data Sheet: https://www.advancedenergy.com/getmedia/7c3fc34b-7f78-44b6-b044-b38fbf9218a9/en-fot-thermasset2-data-sheet.pdf
+  - ThermAsset2 Manual: https://www.advancedenergy.com/getmedia/b21d9ddb-d045-4148-9780-f54ba49e539f/en-fot-thermasset2-manual.pdf
+  - Fiber Optic Utility Probes Product Note: https://www.advancedenergy.com/getmedia/570cef2d-485c-4bcb-8a13-f369fb18e46f/en-fot-utility-probes-product-note.pdf
+  - FOT Medical Systems and Research Applications Note: https://www.advancedenergy.com/getmedia/3b524835-fbd2-4194-b2ac-78d405f32805/en-ot-medical-systems-research-application-note.pdf
+  - Winding Hot Spot Monitoring Application Note: https://www.advancedenergy.com/getmedia/0a9681f3-73e4-4875-87c4-5af3acfd46c8/en-ge-winding-hot-spot-application-note.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/7c3fc34b-7f78-44b6-b044-b38fbf9218a9/en-fot-thermasset2-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/385bb882-abd6-4249-8daa-436d3818fc03/en-fot-probes-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/0d14b71a-d4aa-4956-b677-be7a07f02f06/en-fot-utility-probes-product-note.pdf
+  - https://www.advancedenergy.com/getmedia/2b9d8145-66cf-4efb-86de-a592b4314aca/en-fot-tank-wall-plate-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/7c3fc34b-7f78-44b6-b044-b38fbf9218a9/en-fot-thermasset2-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b21d9ddb-d045-4148-9780-f54ba49e539f/en-fot-thermasset2-manual.pdf
+  - https://www.advancedenergy.com/getmedia/570cef2d-485c-4bcb-8a13-f369fb18e46f/en-fot-utility-probes-product-note.pdf
+  - https://www.advancedenergy.com/getmedia/3b524835-fbd2-4194-b2ac-78d405f32805/en-ot-medical-systems-research-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/0a9681f3-73e4-4875-87c4-5af3acfd46c8/en-ge-winding-hot-spot-application-note.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0e69899c-3cbe-4c72-bbc3-2e914d6673fb/thermasset2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e69899c-3cbe-4c72-bbc3-2e914d6673fb/thermasset2-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f67279b7-dbb0-4c29-bab8-2be3d4215b16/utilityprobe_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f8313bd4-7019-4c6b-9015-54ee7ad07303/tank-wall-plate-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Fiber Optic SensorsHigh Precision and ReliabilityVersatile Application RangeCustomizable and Durable
+  ↓
+FeaturedLuxtron ThermAsset2 Winding Hot Spot ControllerFiber Optic Hot Spot Monitor & Controller for Power Transformer

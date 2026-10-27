@@ -1,0 +1,101 @@
+==============================================================================
+PRODUCT DETAILS: HFE Series PSU3000 W Output Power40 W/cu-inOptional customer provided air
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+Category Description: Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: HFE Series PSU3000 W Output Power40 W/cu-inOptional customer provided air
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/hfe-series-psu/
+
+Complete Product Description:
+Advanced Energy's Artesyn HFE Series includes the HPS3000 bulk front end AC-DC power supply, and the complementary HPR12K-00 Shelf.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - CSZ3200FT Datasheet: https://www.advancedenergy.com/getmedia/c8e1b3ca-153f-49c4-9ed7-b3901e7101f7/en-datasheet-CSZ3200FT-07-11-25.pdf
+  - HPR12K Rack Operating Instructions Datasheet: https://www.advancedenergy.com/getmedia/ff5581f9-4634-4ebb-9c8f-a431bd41dc5a/TRN-AC-DC-HPR12K-Draft-1-1(2022-09-29).pdf
+  - HPS3000 Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/3e33a1f8-64f3-4c2c-ba65-b0e2aea5d5cd/hps3000_ds_80f8bc0ee4.pdf
+  - HPS3000—Efficiency Test: https://www.advancedenergy.com/getmedia/9a59d96a-943a-47a1-9dab-66107ee1a2fb/app_note-hps3000-9-efficiency_1256041019_rohs_.pdf
+  - HPS3000—RoHS Certificate: https://www.advancedenergy.com/getmedia/1f3525d8-cc37-4101-9bc8-bc24b0e7b3c9/safety-rohs_coc_hps3000-9_1256805998_rohs_.pdf
+  - HPR12K-00 CB Certificate: https://www.advancedenergy.com/getmedia/dfe9635e-1d29-4d1f-b7a4-ce74230799d8/HPR12K-00,-HPR12K-00-401_UL-CB_21MAR23.pdf
+  - HPR12K-00 CCC CV: https://www.advancedenergy.com/getmedia/247b409a-65d4-46db-afc1-234f13dc0541/HPR12K-00,-HPR12K-00-401_CCC-CV_21MAR23.pdf
+  - HPR12K-00 CCC LG: https://www.advancedenergy.com/getmedia/26649789-d42d-4e4c-891b-76f9fad8ce6c/HPR12K-00,-HPR12K-00-401_CCC-LG_10MAY23.pdf
+  - HPR12K-00 CE DoC: https://www.advancedenergy.com/getmedia/86307d15-08e2-4d4f-a1d9-82c61e2bed6f/HPR12K-00,-HPR12K-00-401_CE_211027.pdf
+  - HPR12K-00 DEMKO Certificate: https://www.advancedenergy.com/getmedia/175fcd8b-e343-4fe6-a6aa-c03db2447322/HPR12K-00,-HPR12K-00-401_DEMKO_21MAR23.pdf
+  - HPR12K-00 UKCA: https://www.advancedenergy.com/getmedia/9e2ae03f-0041-498d-9056-c3ffeda42634/HPR12K-00,-HPR12K-00-401_UKCA_210705.pdf
+  - HPR12K-00 UL/CSA Certificate: https://www.advancedenergy.com/getmedia/871a8bcf-025e-4173-a7cf-ba370cbbec5b/HPR12K-00,-HPR12K-00-401_UL-COC_24MAR23.pdf
+  - HPS3000-9 CB Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/2e7f52aa-d9f5-4c03-ace9-eae926132a65/hps3000-9_9-403_dk-46553-ul_1471682360_150.pdf
+  - HPS3000-9 CE Declaration of Conformity Safety Certificate: https://www.advancedenergy.com/getmedia/d7a5d63e-ef59-41b8-b65a-fdec747f573a/hps3000-9_9-403_ce_1471682357_005.pdf
+  - HPS3000-9 CQC Certificate (Cavite) Safety Certificate: https://www.advancedenergy.com/getmedia/4db4832e-6c05-48d2-9076-4dfa460b2d45/hps3000-9_cqc_cv_1471682361_736.pdf
+  - HPS3000-9 CQC Certificate (Laguna) Safety Certificate: https://www.advancedenergy.com/getmedia/b5f772f7-0e3a-46da-973d-5fe94e499d83/hps3000-9_cqc_lg_1471682357_534.pdf
+  - HPS3000-9 Demko Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/0a3ad8ef-0bd1-4f26-a3d6-6871433f0437/hps3000-9_9-403_demko_certific1471662250_cert.pdf
+  - HPS3000-9 UL Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/530b7c04-70cb-4973-aca3-cf945ca36c73/hps3000-9_9-403_ul_60950-1_1471682360_361.pdf
+  - HPR12K-00 Safety Instruction Manual: https://www.advancedenergy.com/getmedia/d71a408f-6745-4d8d-9dc7-33e643d11fee/HPR12K-00-SIM.pdf
+  - HPS3000—Output Power Derating: https://www.advancedenergy.com/getmedia/bb0fe4d5-2f4f-4632-87b0-58c34da2ae23/app_note-hps3000-9-derating_cu1256041754_appnote.pdf
+  - HPS3000 Technical Reference Note: https://www.advancedenergy.com/getmedia/27b37e2a-60b9-44db-825a-26fdd8805fd4/TRN-AC-DC-HPS3000-Release-1-9-(120224).pdf
+  - HPS3000—Mating Connector Drawing: https://www.advancedenergy.com/getmedia/9de4aa7b-f68c-40ed-820c-a65b06aaf641/spec-hps3000-9_mating_connecto1256019755_techref.pdf
+  - HPS3000—Mechanical Drawing: https://www.advancedenergy.com/getmedia/1f07778d-b188-46c8-af11-191f012159fe/mech_dwg-hps3000-9-outline_1256020372_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c8e1b3ca-153f-49c4-9ed7-b3901e7101f7/en-datasheet-CSZ3200FT-07-11-25.pdf
+  - https://www.advancedenergy.com/getmedia/ff5581f9-4634-4ebb-9c8f-a431bd41dc5a/TRN-AC-DC-HPR12K-Draft-1-1(2022-09-29).pdf
+  - https://www.advancedenergy.com/getmedia/3e33a1f8-64f3-4c2c-ba65-b0e2aea5d5cd/hps3000_ds_80f8bc0ee4.pdf
+  - https://www.advancedenergy.com/getmedia/9a59d96a-943a-47a1-9dab-66107ee1a2fb/app_note-hps3000-9-efficiency_1256041019_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/1f3525d8-cc37-4101-9bc8-bc24b0e7b3c9/safety-rohs_coc_hps3000-9_1256805998_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/dfe9635e-1d29-4d1f-b7a4-ce74230799d8/HPR12K-00,-HPR12K-00-401_UL-CB_21MAR23.pdf
+  - https://www.advancedenergy.com/getmedia/247b409a-65d4-46db-afc1-234f13dc0541/HPR12K-00,-HPR12K-00-401_CCC-CV_21MAR23.pdf
+  - https://www.advancedenergy.com/getmedia/26649789-d42d-4e4c-891b-76f9fad8ce6c/HPR12K-00,-HPR12K-00-401_CCC-LG_10MAY23.pdf
+  - https://www.advancedenergy.com/getmedia/86307d15-08e2-4d4f-a1d9-82c61e2bed6f/HPR12K-00,-HPR12K-00-401_CE_211027.pdf
+  - https://www.advancedenergy.com/getmedia/175fcd8b-e343-4fe6-a6aa-c03db2447322/HPR12K-00,-HPR12K-00-401_DEMKO_21MAR23.pdf
+  - https://www.advancedenergy.com/getmedia/9e2ae03f-0041-498d-9056-c3ffeda42634/HPR12K-00,-HPR12K-00-401_UKCA_210705.pdf
+  - https://www.advancedenergy.com/getmedia/871a8bcf-025e-4173-a7cf-ba370cbbec5b/HPR12K-00,-HPR12K-00-401_UL-COC_24MAR23.pdf
+  - https://www.advancedenergy.com/getmedia/2e7f52aa-d9f5-4c03-ace9-eae926132a65/hps3000-9_9-403_dk-46553-ul_1471682360_150.pdf
+  - https://www.advancedenergy.com/getmedia/d7a5d63e-ef59-41b8-b65a-fdec747f573a/hps3000-9_9-403_ce_1471682357_005.pdf
+  - https://www.advancedenergy.com/getmedia/4db4832e-6c05-48d2-9076-4dfa460b2d45/hps3000-9_cqc_cv_1471682361_736.pdf
+  - https://www.advancedenergy.com/getmedia/b5f772f7-0e3a-46da-973d-5fe94e499d83/hps3000-9_cqc_lg_1471682357_534.pdf
+  - https://www.advancedenergy.com/getmedia/0a3ad8ef-0bd1-4f26-a3d6-6871433f0437/hps3000-9_9-403_demko_certific1471662250_cert.pdf
+  - https://www.advancedenergy.com/getmedia/530b7c04-70cb-4973-aca3-cf945ca36c73/hps3000-9_9-403_ul_60950-1_1471682360_361.pdf
+  - https://www.advancedenergy.com/getmedia/d71a408f-6745-4d8d-9dc7-33e643d11fee/HPR12K-00-SIM.pdf
+  - https://www.advancedenergy.com/getmedia/bb0fe4d5-2f4f-4632-87b0-58c34da2ae23/app_note-hps3000-9-derating_cu1256041754_appnote.pdf
+  - https://www.advancedenergy.com/getmedia/27b37e2a-60b9-44db-825a-26fdd8805fd4/TRN-AC-DC-HPS3000-Release-1-9-(120224).pdf
+  - https://www.advancedenergy.com/getmedia/9de4aa7b-f68c-40ed-820c-a65b06aaf641/spec-hps3000-9_mating_connecto1256019755_techref.pdf
+  - https://www.advancedenergy.com/getmedia/1f07778d-b188-46c8-af11-191f012159fe/mech_dwg-hps3000-9-outline_1256020372_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs AC-InputGet best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+  ↓
+HFE Series PSU3000 W Output Power40 W/cu-inOptional customer provided air

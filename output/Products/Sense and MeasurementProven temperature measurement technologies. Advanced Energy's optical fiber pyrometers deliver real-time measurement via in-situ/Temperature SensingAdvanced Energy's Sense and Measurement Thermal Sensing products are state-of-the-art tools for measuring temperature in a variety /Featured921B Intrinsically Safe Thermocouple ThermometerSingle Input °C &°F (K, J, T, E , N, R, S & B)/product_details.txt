@@ -1,0 +1,99 @@
+==============================================================================
+PRODUCT DETAILS: Featured921B Intrinsically Safe Thermocouple ThermometerSingle Input °C &°F (K, J, T, E , N, R, S & B)
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Featured921B Intrinsically Safe Thermocouple ThermometerSingle Input °C &°F (K, J, T, E , N, R, S & B)
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/intrinsically-safe-thermometers/921b-intrinsically-safe-thermocouple-thermometer/
+
+Complete Product Description:
+The Model 921B is a single-channel intrinsically safe digital thermometer compatible with type K, J, T,E , N, R, S  or B thermocouple probes to provide a wide range of temperature measurements, (-418 °F to 2502 °F) certified intrinsically safe for use in potentially hazardous environments. The 921B boasts a 2000 hour battery life using three AA batteries.  The 921B provides dependable and uninterrupted portable measurement capability without expensive batteries, AC adapters or chargers.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - TEGAM Thermometry Brochure: https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - 921/922 Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909-Data-Sheet-921B-922B-Rev-CE.pdf
+  - IECEx/UL Certificate of Conformity 92X: https://www.advancedenergy.com/getmedia/452acfb4-1b78-47d7-88e7-dbf01dd7e651/IECEx-UL-92x-Certification.pdf
+  - Intrinsically Safe Probe Selection Guide: https://www.advancedenergy.com/getmedia/58786300-1689-4f88-8382-f72cf1b79773/IS-Page-from-TEGAM-Probe-Selection-Guide.pdf
+  - 921B-900 Manual: https://www.advancedenergy.com/getmedia/9b7e12ed-7d3b-4b8f-8144-378f89d292b4/921B-900-Rev-EA.pdf
+  - 921-400 Control Drawing: https://www.advancedenergy.com/getmedia/e9e5878e-7028-4ef9-a889-b03c49b1d86d/921-400-Rev-EA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909-Data-Sheet-921B-922B-Rev-CE.pdf
+  - https://www.advancedenergy.com/getmedia/452acfb4-1b78-47d7-88e7-dbf01dd7e651/IECEx-UL-92x-Certification.pdf
+  - https://www.advancedenergy.com/getmedia/58786300-1689-4f88-8382-f72cf1b79773/IS-Page-from-TEGAM-Probe-Selection-Guide.pdf
+  - https://www.advancedenergy.com/getmedia/9b7e12ed-7d3b-4b8f-8144-378f89d292b4/921B-900-Rev-EA.pdf
+  - https://www.advancedenergy.com/getmedia/e9e5878e-7028-4ef9-a889-b03c49b1d86d/921-400-Rev-EA.pdf
+  - https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/983dc5f4-5b18-43a2-a6c3-ba406a72aa4e/921B.png
+  - Image: https://img.youtube.com/vi/ntgHXrVq2VM/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/983dc5f4-5b18-43a2-a6c3-ba406a72aa4e/921B.png
+  - Image: https://img.youtube.com/vi/ntgHXrVq2VM/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/983dc5f4-5b18-43a2-a6c3-ba406a72aa4e/921B.png
+  - Surface Tip: https://www.advancedenergy.com/getattachment/82b7fcff-e246-45f5-9e68-d7f632cfdb6c/Surface-tip.jpg
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/a3a5889f-da58-48f2-a56f-7cf4346e9b73/TEG_AE_700-915_Sure_Grip_Cover/
+  - Image: https://www.advancedenergy.com/getattachment/47d3e4e0-641d-441e-8137-c2e5455bd8eb/911-911,-720-915-and-911-912.png
+  - Features & Functions of the TEGAM 921B & 922B Intrinsically Safe Thermocouple Thermometers: https://i.ytimg.com/vi/ntgHXrVq2VM/hqdefault.jpg
+  - How to Set Up the TEGAM 921B and 922B Intrinsically Safe Thermocouple Thermometers: https://i.ytimg.com/vi/xNr8WTVdj3M/hqdefault.jpg
+  - TEGAM  921B & 922B - Learn Basic Operations & Features: https://i.ytimg.com/vi/hQmdRU7pmZk/hqdefault.jpg
+  - TEGAM  921B & 922B - How to Set-Up: https://i.ytimg.com/vi/W5Fll09FwBM/hqdefault.jpg
+  - TEGAM  921B & 922B - How to Set Probe Offset Feature: https://i.ytimg.com/vi/w6d8eFHQcYQ/hqdefault.jpg
+  - TEGAM  921B & 922B - How to Access & Use Statistics: https://i.ytimg.com/vi/wX1dprTFl-M/hqdefault.jpg
+  - Digital, Dual-Channel Intrinsically Safe Thermometer: https://www.advancedenergy.com/getattachment/f69695bc-46b8-4c16-8bc3-2cc5b45f8353/922-Thumbnail-square-495x300.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured922B Intrinsically Safe Thermocouple ThermometerDual Input °C &°F (K, J , T, E, B, N, R & S): https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/intrinsically-safe-thermometers/922b-intrinsically-safe-thermocouple-thermometer/
+  - Datasheet: https://www.advancedenergy.com/getmedia/12ae1391-5bd1-4ea9-9201-cbacca8bb61d/921B-909_RevCC.pdf
+  - PetrochemicalsAdvanced Energy provides innovative temperature and gas sensing instruments for the petrochemical market that are designed for high-temperature, energy-intensive processes such as reforming and distillation operations..: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Explore Petrochemicals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Food SafetyOur digital temperature instruments are utilized directly on production lines for immediate verification and are essential in calibrating crucial process control equipment, addressing the pervasive issue of foodborne illnesses, and contributing to a safer, healthier food supply chain.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - Explore Food Safety: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Featured921B Intrinsically Safe Thermocouple ThermometerSingle Input °C &°F (K, J, T, E , N, R, S & B)

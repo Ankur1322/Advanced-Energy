@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Front End PSUs AC-Input
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply Units
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Front End PSUs AC-Input
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/
+
+Complete Product Description:
+Get best-in-class and scalable power conversion solutions with our highly reliable AC-DC front-end power supplies. Our market-leading PSUs in power and density include bulk front-end and high rack-mounting options.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0ef7d75b-2e55-4281-a90e-c347f6b0be25/M-CRPS-Series-L4-Thumbnail.png
+  - Image: https://www.advancedenergy.com/getattachment/caf1e055-490e-46ac-a9d2-fc6a7fbb361d/CRPS.png
+  - Image: https://www.advancedenergy.com/getattachment/d36d8106-1093-46f4-b28f-6e71c51443ca/ORV3_Shelf-(2).png
+  - Image: https://www.advancedenergy.com/getattachment/c38180b2-093c-4618-b573-0b58734b06c3/2ef1671731.png
+  - Image: https://www.advancedenergy.com/getattachment/6bed09bc-3cda-40da-888e-3295eb02b866/5a348603b7.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply Units
+  ↓
+Front End PSUs AC-Input

@@ -1,0 +1,62 @@
+==============================================================================
+PRODUCT DETAILS: Reversible Fast SwitchingBi-directional power conversionHigh-power and efficiencyConfigurable and versatile
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+[Level 2] Category Name: ModulesAdvanced Energy keeps the power flowing for various applications, utilizing high stability modules.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Reversible Fast SwitchingBi-directional power conversionHigh-power and efficiencyConfigurable and versatile
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/reversible-fast-switching/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - HiTek Power MSRF Series: https://www.advancedenergy.com/getmedia/66703186-0e7b-40d8-8808-ed7e690cd329/ENG-HV-MSRF-231-06-12-18-24.pdf
+  - HiTek Power MSRZ Series Data Sheet: https://www.advancedenergy.com/getmedia/24e0fbea-e1bd-4c2c-8f0b-1abd272f8c20/ENG-HV-MSRZ-235-01-02-06-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/66703186-0e7b-40d8-8808-ed7e690cd329/ENG-HV-MSRF-231-06-12-18-24.pdf
+  - https://www.advancedenergy.com/getmedia/24e0fbea-e1bd-4c2c-8f0b-1abd272f8c20/ENG-HV-MSRZ-235-01-02-06-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/d8824943-56df-48f7-b30c-d7b2e9f0a7dc/reversible-msrf-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+ModulesAdvanced Energy keeps the power flowing for various applications, utilizing high stability modules.
+  ↓
+Reversible Fast SwitchingBi-directional power conversionHigh-power and efficiencyConfigurable and versatile

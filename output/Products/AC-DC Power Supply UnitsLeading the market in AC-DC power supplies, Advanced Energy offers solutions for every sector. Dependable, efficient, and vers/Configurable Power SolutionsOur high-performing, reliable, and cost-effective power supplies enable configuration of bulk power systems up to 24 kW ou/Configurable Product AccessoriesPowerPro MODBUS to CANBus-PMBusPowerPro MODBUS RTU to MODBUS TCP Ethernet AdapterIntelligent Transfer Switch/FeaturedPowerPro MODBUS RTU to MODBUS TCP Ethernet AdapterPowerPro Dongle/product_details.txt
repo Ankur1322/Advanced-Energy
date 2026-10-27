@@ -1,0 +1,85 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedPowerPro MODBUS RTU to MODBUS TCP Ethernet AdapterPowerPro Dongle
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/
+Category Description: Our high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+
+[Level 3] Category Name: Configurable Product AccessoriesPowerPro MODBUS to CANBus/PMBusPowerPro MODBUS RTU to MODBUS TCP Ethernet AdapterIntelligent Transfer Switch
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/configurable-product-accessories/
+Category Description: Add CANBUS and PMBUS capabilities to Artesyn branded NeoPower and Evergreen products
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedPowerPro MODBUS RTU to MODBUS TCP Ethernet AdapterPowerPro Dongle
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/configurable-product-accessories/powerpro-modbus-rtu-to-modbus-tcp-ethernet-adapter/
+
+Complete Product Description:
+PowerPro Dongle
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/299be99b-c471-4e0a-85e5-e4146519e000/ENG-Artesyn-Powerpro-Dongle-Modbus-RTU-to-Modbus-TCP-04-10-26.pdf
+  - PowerPro Dongle Modbust RTU to MODBUS TCP Ethernet Adapter: https://www.advancedenergy.com/getmedia/299be99b-c471-4e0a-85e5-e4146519e000/ENG-Artesyn-Powerpro-Dongle-Modbus-RTU-to-Modbus-TCP-04-10-26.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/299be99b-c471-4e0a-85e5-e4146519e000/ENG-Artesyn-Powerpro-Dongle-Modbus-RTU-to-Modbus-TCP-04-10-26.pdf
+  - https://www.advancedenergy.com/getmedia/299be99b-c471-4e0a-85e5-e4146519e000/ENG-Artesyn-Powerpro-Dongle-Modbus-RTU-to-Modbus-TCP-04-10-26.pdf
+  - https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/1d304b03-841b-4b42-9e55-2e606c3c8327/modbus-rtu-tcp-1.png
+  - Image: https://www.advancedenergy.com/getattachment/1d304b03-841b-4b42-9e55-2e606c3c8327/modbus-rtu-tcp-1.png
+  - PowerPro CANbus and PMbus Communication Dongle: https://i.ytimg.com/vi/0apjSoUm4BQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/baf74536-83db-4856-8a5d-fa468229a4bc/FCM30K-SHF2-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/4227de99-1166-47a6-8277-7c207df54d89/NP05-(1).png
+  - Image: https://www.advancedenergy.com/getattachment/0d440c91-d12a-4a43-ae44-32d67a9ac539/00f3e32db8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5866427e-9f2a-44a3-b870-dbce7f41d7b1/6fe559910e.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedEvergreen™ Vento FCM SystemsEvergreen high power systems combine instant customization, quick power scaling, intelligent communication and control, and high efficiency, power density and power factor.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/bulk-power-shelves-and-systems/evergreen-vento-fcm-shelf-productfamily/
+  - FeaturedNP05Up to 2400 W Configurable AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/configurable-modular-psus/industrial/np05/
+  - Datasheet: https://www.advancedenergy.com/getmedia/b58edfa3-e459-4dc5-b3d8-714dcfe8b498/ENG-NP-235-01-11-22-24.pdf
+  - FeaturedLCM1000 Series1000 W AC-DC Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm1000/
+  - Datasheet: https://www.advancedenergy.com/getmedia/3f10eb0e-512e-49f9-b5db-ecb9c6605f2e/lcm1000_ds_1489521265.pdf
+  - FeaturedLCM4000HV Series4000 W Bulk Front End Power Module: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/lcm/lcm4000hv/
+  - Datasheet: https://www.advancedenergy.com/getmedia/bd7a344b-dde4-498b-aedb-101b94fe2738/ENG-LCM4000HV_LCM12K-08-20-25.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Configurable Power SolutionsOur high-performing, reliable, and cost-effective power supplies enable configuration of bulk power systems up to 24 kW output capability, featuring extensive built-in intelligence and available in medically approved versions.
+  ↓
+Configurable Product AccessoriesPowerPro MODBUS to CANBus/PMBusPowerPro MODBUS RTU to MODBUS TCP Ethernet AdapterIntelligent Transfer Switch
+  ↓
+FeaturedPowerPro MODBUS RTU to MODBUS TCP Ethernet AdapterPowerPro Dongle

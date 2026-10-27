@@ -1,0 +1,96 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedLuxtron M-900 Fiber Optic Temperature ConverterFiber Optic Temperature Sensing for Medical and Semiconductor OEMs Between -100 to 330ºC
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+[Level 3] Category Name: Fiber Optic SensorsHigh Precision and ReliabilityVersatile Application RangeCustomizable and Durable
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/fiber-optic-sensors/
+Category Description: Advanced Energy offers highly reliable and precise fiber optic sensors for temperature measurement and sensing applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedLuxtron M-900 Fiber Optic Temperature ConverterFiber Optic Temperature Sensing for Medical and Semiconductor OEMs Between -100 to 330ºC
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/fiber-optic-sensors/luxtron-m900/
+
+Complete Product Description:
+Fiber Optic Temperature Sensing for Medical and Semiconductor OEMs between -100 to 330ºC
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/8aecd484-a0b2-445b-8126-ae709e5b945d/en-fot-m924oem-data-sheet.pdf
+  - Luxtron M924 OEM Module Data Sheet: https://www.advancedenergy.com/getmedia/8aecd484-a0b2-445b-8126-ae709e5b945d/en-fot-m924oem-data-sheet.pdf
+  - Luxtron M924 Utility Module Data Sheet: https://www.advancedenergy.com/getmedia/195ab6ad-df89-4fb3-ad43-c1ba77e3bebe/en-fot-m924utility-data-sheet.pdf
+  - Electronics Testing Application Note: https://www.advancedenergy.com/getmedia/ad531b27-628d-49ae-8dab-35019eaad7bd/en-at-electronicstesting-application-note.pdf
+  - Etching and Wafer Fab Equipment Application Note: https://www.advancedenergy.com/getmedia/755f3b16-79aa-4dc9-9248-26c7ddbd39a7/en-at-semiconductor-etching-wafer.pdf
+  - Fiber Optic Utility Probes Product Note: https://www.advancedenergy.com/getmedia/570cef2d-485c-4bcb-8a13-f369fb18e46f/en-fot-utility-probes-product-note.pdf
+  - Flexible, Reliable, Accurate. Fiber Optic Sensors for Precision Temperature Measurement and Sensing Applications: https://www.advancedenergy.com/getmedia/c1abe303-61ce-448c-9b33-f93fd96f6a74/ENG-AppNote-FOT-265-01.pdf
+  - FOT Medical Systems and Research Applications Note: https://www.advancedenergy.com/getmedia/3b524835-fbd2-4194-b2ac-78d405f32805/en-ot-medical-systems-research-application-note.pdf
+  - Winding Hot Spot Monitoring Application Note: https://www.advancedenergy.com/getmedia/0a9681f3-73e4-4875-87c4-5af3acfd46c8/en-ge-winding-hot-spot-application-note.pdf
+  - A Brief History of Phosphor Thermometry: https://www.advancedenergy.com/getmedia/94154ed1-dee1-4fbb-98d7-0d0f29b3350e/a-brief-history-of-phosphor-thermometry_meas-sci-tech-2019.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/8aecd484-a0b2-445b-8126-ae709e5b945d/en-fot-m924oem-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/8aecd484-a0b2-445b-8126-ae709e5b945d/en-fot-m924oem-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/195ab6ad-df89-4fb3-ad43-c1ba77e3bebe/en-fot-m924utility-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/ad531b27-628d-49ae-8dab-35019eaad7bd/en-at-electronicstesting-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/755f3b16-79aa-4dc9-9248-26c7ddbd39a7/en-at-semiconductor-etching-wafer.pdf
+  - https://www.advancedenergy.com/getmedia/570cef2d-485c-4bcb-8a13-f369fb18e46f/en-fot-utility-probes-product-note.pdf
+  - https://www.advancedenergy.com/getmedia/c1abe303-61ce-448c-9b33-f93fd96f6a74/ENG-AppNote-FOT-265-01.pdf
+  - https://www.advancedenergy.com/getmedia/3b524835-fbd2-4194-b2ac-78d405f32805/en-ot-medical-systems-research-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/0a9681f3-73e4-4875-87c4-5af3acfd46c8/en-ge-winding-hot-spot-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/94154ed1-dee1-4fbb-98d7-0d0f29b3350e/a-brief-history-of-phosphor-thermometry_meas-sci-tech-2019.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/a303da6c-7f0c-4dcd-80a6-127434e19aab/m900-1-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/f6e1e819-9c8d-469d-93df-433b493ae874/m900-board-top-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bd2846b4-6c7f-4176-8346-4a99a8e022a4/m900-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a303da6c-7f0c-4dcd-80a6-127434e19aab/m900-1-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/f6e1e819-9c8d-469d-93df-433b493ae874/m900-board-top-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bd2846b4-6c7f-4176-8346-4a99a8e022a4/m900-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a303da6c-7f0c-4dcd-80a6-127434e19aab/m900-1-fr-wp-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/f6e1e819-9c8d-469d-93df-433b493ae874/m900-board-top-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/bd2846b4-6c7f-4176-8346-4a99a8e022a4/m900-bb-wp.jpg
+  - Putting FluorOptic® to Work: https://i.ytimg.com/vi/f3ObUI5IeSk/hqdefault.jpg
+  - m924 OEM Fiber Optic Temperature Sensing: https://i.ytimg.com/vi/qNkwYtDR5S4/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/getattachment/fcbeb8d6-ffe7-4daf-b90d-29ea24592054/semi-2-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - SemiconductorAE provides precision plasma power delivery with sophisticated, high-speed controls for next-generation process innovation.: https://www.advancedenergy.com/en-us/applications/semiconductor/
+  - Explore Semiconductor: https://www.advancedenergy.com/en-us/applications/semiconductor/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Fiber Optic SensorsHigh Precision and ReliabilityVersatile Application RangeCustomizable and Durable
+  ↓
+FeaturedLuxtron M-900 Fiber Optic Temperature ConverterFiber Optic Temperature Sensing for Medical and Semiconductor OEMs Between -100 to 330ºC

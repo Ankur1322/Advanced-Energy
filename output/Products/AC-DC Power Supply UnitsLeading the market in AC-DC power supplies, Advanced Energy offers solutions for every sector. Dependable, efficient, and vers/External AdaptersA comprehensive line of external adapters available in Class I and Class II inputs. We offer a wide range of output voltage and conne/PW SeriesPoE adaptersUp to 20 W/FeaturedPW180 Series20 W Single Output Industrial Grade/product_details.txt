@@ -1,0 +1,89 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedPW180 Series20 W Single Output Industrial Grade
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: PW SeriesPoE adaptersUp to 20 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/pw/
+Category Description: The PW Series is part of Advanced Energy's over Ethernet (PoE) adapters with one product under this family that offers up to 20 W of output power.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedPW180 Series20 W Single Output Industrial Grade
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/pw/pw180/
+
+Complete Product Description:
+Advanced Energy’s SL Power PW180KA AC-DC power supplies are available with a nominal main output 48 V, which have self contained midspan power injector and support power over ethernet up to 20 W.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/51c4ba9f-77f8-4b4c-8b33-b21092629f87/ENG-PW180KB-01-08-24.pdf
+  - PW180KA Datasheet: https://www.advancedenergy.com/getmedia/36c683b3-4508-4588-b3d6-ae3c3307ff83/ENG-PW180KA-10-3-24.pdf
+  - PW180KB Datasheet: https://www.advancedenergy.com/getmedia/51c4ba9f-77f8-4b4c-8b33-b21092629f87/ENG-PW180KB-10-15-24.pdf
+  - PW180 CB Certificate Class I: https://www.advancedenergy.com/getmedia/5b16edc7-290f-44b7-9eab-804fbf46beca/PW180_CB_Cert_Class_I.pdf
+  - PW180 CB Certificate Class II: https://www.advancedenergy.com/getmedia/20c06f82-03b2-452b-8214-5bdd25014eb0/PW180_CB_Cert_Class_II.pdf
+  - PW180 CB Report: https://www.advancedenergy.com/getmedia/4cf55d9a-2964-4013-9001-e592f93048a4/PW180_CB_Report.pdf
+  - PW180 HT CB Certificate Class I: https://www.advancedenergy.com/getmedia/a34103ad-d2a5-405a-b7b5-b6a64db968c6/PW180%20HT%20CB%20Cert%20Class%20I.pdf
+  - PW180 HT CB Certificate Class II: https://www.advancedenergy.com/getmedia/b56f433e-de70-402d-8d26-594f0056a7ad/PW180%20HT%20CB%20Cert%20Class%20II.pdf
+  - PW180 IEC62368-1 CB Certificate: https://www.advancedenergy.com/getmedia/54b6c0ba-1c97-4d98-a065-151b6e0eb69c/PW180%20CB_Certificate%20IEC62368-1.pdf
+  - PW180KA UL Certificate: https://www.advancedenergy.com/getmedia/1e8d3155-afd2-4a52-ba56-882ade6fc12c/PW180KA_UL.pdf
+  - PW180KB UL Certificate: https://www.advancedenergy.com/getmedia/99ba60de-d150-42c6-af5e-c724dc12396c/PW182KB_UL.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/51c4ba9f-77f8-4b4c-8b33-b21092629f87/ENG-PW180KB-01-08-24.pdf
+  - https://www.advancedenergy.com/getmedia/36c683b3-4508-4588-b3d6-ae3c3307ff83/ENG-PW180KA-10-3-24.pdf
+  - https://www.advancedenergy.com/getmedia/51c4ba9f-77f8-4b4c-8b33-b21092629f87/ENG-PW180KB-10-15-24.pdf
+  - https://www.advancedenergy.com/getmedia/5b16edc7-290f-44b7-9eab-804fbf46beca/PW180_CB_Cert_Class_I.pdf
+  - https://www.advancedenergy.com/getmedia/20c06f82-03b2-452b-8214-5bdd25014eb0/PW180_CB_Cert_Class_II.pdf
+  - https://www.advancedenergy.com/getmedia/4cf55d9a-2964-4013-9001-e592f93048a4/PW180_CB_Report.pdf
+  - https://www.advancedenergy.com/getmedia/a34103ad-d2a5-405a-b7b5-b6a64db968c6/PW180%20HT%20CB%20Cert%20Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/b56f433e-de70-402d-8d26-594f0056a7ad/PW180%20HT%20CB%20Cert%20Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/54b6c0ba-1c97-4d98-a065-151b6e0eb69c/PW180%20CB_Certificate%20IEC62368-1.pdf
+  - https://www.advancedenergy.com/getmedia/1e8d3155-afd2-4a52-ba56-882ade6fc12c/PW180KA_UL.pdf
+  - https://www.advancedenergy.com/getmedia/99ba60de-d150-42c6-af5e-c724dc12396c/PW182KB_UL.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/206adccb-1b64-4ee6-8f16-be05b4085c74/PW180.jpg
+  - Image: https://www.advancedenergy.com/getattachment/206adccb-1b64-4ee6-8f16-be05b4085c74/PW180.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35a218c2-757c-4c48-b9f8-07d7e6deded8/Telecom-display-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/35a218c2-757c-4c48-b9f8-07d7e6deded8/Telecom-display-banner.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - TelecomTelecom refers to equipment related to the access network, which connects users to their service provider and the core network, which connects local providers to one another.: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/
+  - Explore Telecom: https://www.advancedenergy.com/en-us/applications/telecom-and-networking/telecom/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+PW SeriesPoE adaptersUp to 20 W
+  ↓
+FeaturedPW180 Series20 W Single Output Industrial Grade

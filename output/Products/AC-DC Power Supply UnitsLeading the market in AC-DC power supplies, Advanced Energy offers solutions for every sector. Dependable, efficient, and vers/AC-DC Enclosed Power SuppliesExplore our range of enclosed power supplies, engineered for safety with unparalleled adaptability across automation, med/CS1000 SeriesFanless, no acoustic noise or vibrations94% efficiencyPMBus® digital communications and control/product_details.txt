@@ -1,0 +1,117 @@
+==============================================================================
+PRODUCT DETAILS: CS1000 SeriesFanless, no acoustic noise or vibrations94% efficiencyPMBus® digital communications and control
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/
+Category Description: Explore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: CS1000 SeriesFanless, no acoustic noise or vibrations94% efficiencyPMBus® digital communications and control
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/enclosed-psus/cs1000/
+
+Complete Product Description:
+The CS1000 fanless power supplies deliver up to 1000 W with natural convection cooling.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/e7ac55ef-f34e-4c4e-b608-5b92190a22bf/en-lv-cs1000-data-sheet.pdf
+  - Optimizing Electrosurgical Generator Performance with Advanced Energy's CS1000 Power Supply View Resource: https://www.advancedenergy.com/getmedia/339ed3a3-815a-4dbc-a7a8-9ba058522265/ENG-CS1000-Electrosurgery-Case-Study-295-01.pdf
+  - Embedded Power Brochure: https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - Medical Power Supplies Brochure: https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - Rapid Modification & Value-Added Engineering Solutions: https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - CS1000 Series Data Sheet: https://www.advancedenergy.com/getmedia/e7ac55ef-f34e-4c4e-b608-5b92190a22bf/en-lv-cs1000-data-sheet.pdf
+  - Medical Power Supplies Selector Guide: https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - CS1000 Designers Manual: https://www.advancedenergy.com/getmedia/bedf4fb0-8ad2-4004-bae8-3a3c98a4307a/en-lv-cs1000-manual.pdf
+  - CS1000 Instruction Manual: https://www.advancedenergy.com/getmedia/8f509648-6f9b-4b01-9dd4-271b0d775a1a/en-lv-cs1000-instruction-manual.pdf
+  - CS1000 Manuel d'instructions: https://www.advancedenergy.com/getmedia/c7ed8876-6968-4de8-a414-6904aafd2fca/fr-lv-cs1000-instruction-manual.pdf
+  - Control Signals in Power Supplies: https://www.advancedenergy.com/getmedia/a5a01144-fc69-47e3-a899-63c0ea25ba94/en-lv-control-signal-application-note.pdf
+  - Convection Cooling in Low Voltage Power Supplies: https://www.advancedenergy.com/getmedia/bbd7608a-aa71-4888-a3f4-bc7dbba559bf/en-lv-convection-cooling-application-note.pdf
+  - Redundancy in Power Supplies: https://www.advancedenergy.com/getmedia/25bf7494-27e3-44cf-a071-f6e386bd4039/en-lv-redundancy-application-note.pdf
+  - Optimizing Electrosurgical Generator Performance with Advanced Energy's CS1000 Power Supply: https://www.advancedenergy.com/getmedia/339ed3a3-815a-4dbc-a7a8-9ba058522265/ENG-CS1000-Electrosurgery-Case-Study-295-01.pdf
+  - Medical Equipment Power Supplies Checklist: https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/e7ac55ef-f34e-4c4e-b608-5b92190a22bf/en-lv-cs1000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/339ed3a3-815a-4dbc-a7a8-9ba058522265/ENG-CS1000-Electrosurgery-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/67ebaaef-1c18-4853-b9cd-a665a44ed611/en-ep-shortform-catalog-255-01-020226-for-external-use.pdf
+  - https://www.advancedenergy.com/getmedia/da023eff-a205-44e7-b706-c309f1b0f3d2/en-ot-medical-power-supplies-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/09b683f3-319c-466f-a932-2cdf4aff7106/en-ep-rapid-modification-brochure-7-2025.pdf
+  - https://www.advancedenergy.com/getmedia/e7ac55ef-f34e-4c4e-b608-5b92190a22bf/en-lv-cs1000-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/2f1d2a03-7cd6-408e-b1c8-6034dba6ee5d/en-ep-medical-power-supply-selector.pdf
+  - https://www.advancedenergy.com/getmedia/bedf4fb0-8ad2-4004-bae8-3a3c98a4307a/en-lv-cs1000-manual.pdf
+  - https://www.advancedenergy.com/getmedia/8f509648-6f9b-4b01-9dd4-271b0d775a1a/en-lv-cs1000-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/c7ed8876-6968-4de8-a414-6904aafd2fca/fr-lv-cs1000-instruction-manual.pdf
+  - https://www.advancedenergy.com/getmedia/a5a01144-fc69-47e3-a899-63c0ea25ba94/en-lv-control-signal-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/bbd7608a-aa71-4888-a3f4-bc7dbba559bf/en-lv-convection-cooling-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/25bf7494-27e3-44cf-a071-f6e386bd4039/en-lv-redundancy-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/339ed3a3-815a-4dbc-a7a8-9ba058522265/ENG-CS1000-Electrosurgery-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/ffddb9f8-4fd8-4661-9786-3edd358e5495/en-ep-find-medical-equipment-power-supply.pdf
+  - https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/eb96a06f-64a9-4dd0-8ccc-302dc5627c70/cs1000-24_lid_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1e14e975-6d7a-4dd7-89f6-b9bb7c34fdf7/cs1000-24_bb_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ee278a93-5b7c-41e8-89af-a3d2cbc97b39/cs1000-24_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/549feba9-714d-45aa-8750-419e04cc94fc/cs1000-24_fs_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c92952e7-0120-4b3f-a1c6-e37443ca65dc/cs1000-24_ft_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb96a06f-64a9-4dd0-8ccc-302dc5627c70/cs1000-24_lid_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1e14e975-6d7a-4dd7-89f6-b9bb7c34fdf7/cs1000-24_bb_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ee278a93-5b7c-41e8-89af-a3d2cbc97b39/cs1000-24_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/549feba9-714d-45aa-8750-419e04cc94fc/cs1000-24_fs_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c92952e7-0120-4b3f-a1c6-e37443ca65dc/cs1000-24_ft_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb96a06f-64a9-4dd0-8ccc-302dc5627c70/cs1000-24_lid_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1e14e975-6d7a-4dd7-89f6-b9bb7c34fdf7/cs1000-24_bb_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ee278a93-5b7c-41e8-89af-a3d2cbc97b39/cs1000-24_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/549feba9-714d-45aa-8750-419e04cc94fc/cs1000-24_fs_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c92952e7-0120-4b3f-a1c6-e37443ca65dc/cs1000-24_ft_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/images/technical-content/casestudy.jpg
+  - Image: https://www.advancedenergy.com/getattachment/b3f7e371-7183-4fc2-91b9-c67ddb41c504/0b0eafdd07.png
+  - Image: https://www.advancedenergy.com/getattachment/8ed922ad-a0ae-4af2-bada-d0be3b3d9847/LCC-family.jpg
+  - Image: https://www.advancedenergy.com/getattachment/eb96a06f-64a9-4dd0-8ccc-302dc5627c70/cs1000-24_lid_fr_w_p_web.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6912b03f-93b0-4fe2-90df-a2af0c13b2d1/Industrial_3.jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Nurse setting up a CT scanner: https://www.advancedenergy.com/getattachment/e4f8a591-0051-4912-8202-12076984fb02/medical-(1).jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedCNS650-MU Series650 W Open Frame AC-DC Power Supplies: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/open-frame-low-power-psus/501-999-watt-range/cns650-mu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/7d4a084f-3e19-4a61-a9bf-660cbddd4184/cns650-m-ds_1481132722.pdf
+  - FeaturedLCC SeriesAdvanced Energy's Embedded Power offers the LCC series of fanless, fully-enclosed AC-DC power supplies.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/conduction-cooled-ip-sealed-psus/lcc-family/
+  - IndustrialRealize higher product quality at lower energy consumption and cost with high-accuracy temperature and gas sensing for the most demanding industrial processes.: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Explore Industrial: https://www.advancedenergy.com/en-us/applications/industrial/
+  - Medical Power SuppliesCustom AC-DC and DC-DC medical power supplies for imaging, life science, electrosurgery, & patient care: Ensuring rapid market readiness & global safety compliance.: https://www.advancedenergy.com/en-us/applications/medical/
+  - Explore Medical: https://www.advancedenergy.com/en-us/applications/medical/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+AC-DC Enclosed Power SuppliesExplore our range of enclosed power supplies, engineered for safety with unparalleled adaptability across automation, medical, and industrial sectors.
+  ↓
+CS1000 SeriesFanless, no acoustic noise or vibrations94% efficiencyPMBus® digital communications and control

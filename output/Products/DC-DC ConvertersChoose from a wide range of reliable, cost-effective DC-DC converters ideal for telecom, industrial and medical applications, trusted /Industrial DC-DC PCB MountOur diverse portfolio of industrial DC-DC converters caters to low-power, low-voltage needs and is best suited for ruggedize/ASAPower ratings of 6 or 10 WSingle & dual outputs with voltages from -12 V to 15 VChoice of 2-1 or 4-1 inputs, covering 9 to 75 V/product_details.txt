@@ -1,0 +1,72 @@
+==============================================================================
+PRODUCT DETAILS: ASAPower ratings of 6 or 10 WSingle & dual outputs with voltages from -12 V to 15 VChoice of 2:1 or 4:1 inputs, covering 9 to 75 V
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/
+Category Description: Choose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+
+[Level 2] Category Name: Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+Category Description: Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: ASAPower ratings of 6 or 10 WSingle & dual outputs with voltages from -12 V to 15 VChoice of 2:1 or 4:1 inputs, covering 9 to 75 V
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/asa/
+
+Complete Product Description:
+Advanced Energy offers isolated DC-DC converters for low power applications in areas like industrial automation, instrumentation, test and measurement, and telecommunications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - ASA 10W Datasheet: https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+  - ASA 6W Datasheet: https://www.advancedenergy.com/getmedia/a4a88636-25f6-47e7-be2c-2d10c691552c/ENG-ASA6W-235-01-11-29-23.pdf
+  - EC Declaration of Conformity: https://www.advancedenergy.com/getmedia/6de56d89-60a0-450e-a6af-a4fb2107a794/reach_coc_211_asa_aee_aet_ser1617796675_REACH.pdf
+  - ASA Series RoHS 6 CoC: https://www.advancedenergy.com/getmedia/a59a17a8-179b-4ab9-b81c-a8a2a3db74fb/cert_of_rohs_compliance_asa_se1204335395_rohs_.pdf
+  - Declaration of Conformity: https://www.advancedenergy.com/getmedia/9b8b161e-97aa-40a4-9ad5-ee02a4b3cb7e/asa_doc_1213884588_cert.pdf
+  - ASA 6W Tech Ref Note 30th March 2017: https://www.advancedenergy.com/getmedia/aadae5f4-c9c2-47c3-88e8-feded28bdfe1/TRN-DC-DC-ASA-6W-Release1-2-(2024-12-03).pdf
+  - ASA10W Tech ref note: https://www.advancedenergy.com/getmedia/a54d55f3-ad9d-4d1d-886b-10627dd40f61/trn_asa_10w_20140325_1437410540_techref.pdf
+  - Product Branding Change notice: https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b57df67b-00ae-4381-88d5-a4ddadb6ff51/asa10w_ds_03-25-14_5c869040a0.pdf
+  - https://www.advancedenergy.com/getmedia/a4a88636-25f6-47e7-be2c-2d10c691552c/ENG-ASA6W-235-01-11-29-23.pdf
+  - https://www.advancedenergy.com/getmedia/6de56d89-60a0-450e-a6af-a4fb2107a794/reach_coc_211_asa_aee_aet_ser1617796675_REACH.pdf
+  - https://www.advancedenergy.com/getmedia/a59a17a8-179b-4ab9-b81c-a8a2a3db74fb/cert_of_rohs_compliance_asa_se1204335395_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/9b8b161e-97aa-40a4-9ad5-ee02a4b3cb7e/asa_doc_1213884588_cert.pdf
+  - https://www.advancedenergy.com/getmedia/aadae5f4-c9c2-47c3-88e8-feded28bdfe1/TRN-DC-DC-ASA-6W-Release1-2-(2024-12-03).pdf
+  - https://www.advancedenergy.com/getmedia/a54d55f3-ad9d-4d1d-886b-10627dd40f61/trn_asa_10w_20140325_1437410540_techref.pdf
+  - https://www.advancedenergy.com/getmedia/f09fbd16-ba85-4324-91b3-3940b11fcf4f/product_change_notice_.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/32694221-9ad9-47da-b836-87da2f376ad1/ASA.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC ConvertersChoose from a wide range of reliable, cost-effective DC-DC converters ideal for telecom, industrial and medical applications, trusted by industry leaders.
+  ↓
+Industrial DC-DC PCB MountOur diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+  ↓
+ASAPower ratings of 6 or 10 WSingle & dual outputs with voltages from -12 V to 15 VChoice of 2:1 or 4:1 inputs, covering 9 to 75 V

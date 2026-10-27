@@ -1,0 +1,89 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedORv3 HPR PMCORv3 HPR PMC is hot pluggable controller, communicating via ethernet port and provides connectivity and communications via DMTF Redfish interface protocol.
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/
+Category Description: Advanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+
+[Level 3] Category Name: ORv3 HPR Power Shelf FamilyHigh Power:  33kW per OU - Enables 100kW+ racksAccurate droop + active current sharing for multiple shelf applicationsHigh Power Factor under dynamic loads such as GPU serversCommunications and control options:  PMC, PMM, PMI
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/orv3-high-power-rack-(hpr)/
+Category Description: 33 kW ORv3 HPR 1OU power shelf that can be paralleled for 100kW+ AI/ML applications
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedORv3 HPR PMCORv3 HPR PMC is hot pluggable controller, communicating via ethernet port and provides connectivity and communications via DMTF Redfish interface protocol.
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/orv3-high-power-rack-(hpr)/orv3-hpr-pmc/
+
+Complete Product Description:
+ORv3 HPR PMC is hot pluggable controller, communicating via ethernet port and provides connectivity and communications via DMTF Redfish interface protocol.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/c172ff77-2e92-4dff-b597-967099bf64e8/ENG-ORV3_HPR_PMC_235-01-09-30-24.pdf
+  - ORV3 HPR PMC Datasheet: https://www.advancedenergy.com/getmedia/c172ff77-2e92-4dff-b597-967099bf64e8/ENG-ORV3_HPR_PMC_235-01-06-12-25.pdf
+  - ORv3 HPR Power Shelf Datasheet: https://www.advancedenergy.com/getmedia/94323236-079b-43cd-9572-a3f3fcb7afeb/ENG-50V-33kW-1OU-ORV3-HPR-Power-Shelves-031026.pdf
+  - ORV3 HPR PSU Datasheet: https://www.advancedenergy.com/getmedia/a0b372ed-7676-4d99-ae69-810fe673007f/ENG-50V-5-5-kW-OPEN-RACK-V3-HPR-PSU-06-12-25.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/94323236-079b-43cd-9572-a3f3fcb7afeb/ENG-50V-33kW-1OU-ORV3-HPR-Power-Shelves-10-03-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/a0b372ed-7676-4d99-ae69-810fe673007f/eng-orv3-hpr-psu-datasheet.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/c172ff77-2e92-4dff-b597-967099bf64e8/ENG-ORV3_HPR_PMC_235-01-09-30-24.pdf
+  - https://www.advancedenergy.com/getmedia/c172ff77-2e92-4dff-b597-967099bf64e8/ENG-ORV3_HPR_PMC_235-01-06-12-25.pdf
+  - https://www.advancedenergy.com/getmedia/94323236-079b-43cd-9572-a3f3fcb7afeb/ENG-50V-33kW-1OU-ORV3-HPR-Power-Shelves-031026.pdf
+  - https://www.advancedenergy.com/getmedia/a0b372ed-7676-4d99-ae69-810fe673007f/ENG-50V-5-5-kW-OPEN-RACK-V3-HPR-PSU-06-12-25.pdf
+  - https://www.advancedenergy.com/getmedia/94323236-079b-43cd-9572-a3f3fcb7afeb/ENG-50V-33kW-1OU-ORV3-HPR-Power-Shelves-10-03-24.pdf
+  - https://www.advancedenergy.com/getmedia/a0b372ed-7676-4d99-ae69-810fe673007f/eng-orv3-hpr-psu-datasheet.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/427fa6d2-38f7-439e-9c73-c8ea1a6cbc19/HPR-PMC.png
+  - Image: https://www.advancedenergy.com/getattachment/427fa6d2-38f7-439e-9c73-c8ea1a6cbc19/HPR-PMC.png
+  - Image: https://www.advancedenergy.com/getattachment/117199de-3cf4-4d7b-b4e1-bc0e33f416b1/HPR_Shelf_Left.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c73de376-1182-49ee-ae11-00f423818bd8/HPR_Back_Left.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9957040b-1ab8-4633-8102-872a6cb3f402/Enterprise-Computing-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9957040b-1ab8-4633-8102-872a6cb3f402/Enterprise-Computing-banner.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c66113c4-dbcd-4ab3-851d-953d5e11cc9b/AE-data-center-design-banner-image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c66113c4-dbcd-4ab3-851d-953d5e11cc9b/AE-data-center-design-banner-image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedORv3 HPR Power Shelf33 kW 48 V OCP ORv3 HPR Power Shelf: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/orv3-high-power-rack-(hpr)/orv3-hpr-power-shelf/
+  - Datasheet: https://www.advancedenergy.com/getmedia/94323236-079b-43cd-9572-a3f3fcb7afeb/ENG-50V-33kW-1OU-ORV3-HPR-Power-Shelves-10-03-24.pdf
+  - FeaturedORv3 HPR Power Supply Unit (PSU)Single-phase AC-DC PSU with input voltage of 180 to 305 VAC, Producing 50 V, 110 A (5.5 kW) DC output.: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/orv3-high-power-rack-(hpr)/orv3-hpr/
+  - Datasheet: https://www.advancedenergy.com/getmedia/a0b372ed-7676-4d99-ae69-810fe673007f/eng-orv3-hpr-psu-datasheet.pdf
+  - Enterprise ComputingAdvanced Energy leads the market with an impressive 97% efficiency in data storage drives, networking equipment, and rack and blade servers.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/
+  - Explore Enterprise Computing: https://www.advancedenergy.com/en-us/applications/datacenter-computing/enterprise-computing/
+  - Data CenterAdvanced Energy's power product portfolio offers a range of solutions designed to simplify the architecture of hyperscale data centers. Our AC-DC and DC-DC front-end power supplies and rack system solutions are optimized for efficiency and power density, reducing the total cost of ownership.: https://www.advancedenergy.com/en-us/applications/datacenter-computing/hyperscale/datacenter/
+  - Explore Datacenter: https://www.advancedenergy.com/en-us/applications/datacenter-computing/hyperscale/datacenter/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+  ↓
+ORv3 HPR Power Shelf FamilyHigh Power:  33kW per OU - Enables 100kW+ racksAccurate droop + active current sharing for multiple shelf applicationsHigh Power Factor under dynamic loads such as GPU serversCommunications and control options:  PMC, PMM, PMI
+  ↓
+FeaturedORv3 HPR PMCORv3 HPR PMC is hot pluggable controller, communicating via ethernet port and provides connectivity and communications via DMTF Redfish interface protocol.

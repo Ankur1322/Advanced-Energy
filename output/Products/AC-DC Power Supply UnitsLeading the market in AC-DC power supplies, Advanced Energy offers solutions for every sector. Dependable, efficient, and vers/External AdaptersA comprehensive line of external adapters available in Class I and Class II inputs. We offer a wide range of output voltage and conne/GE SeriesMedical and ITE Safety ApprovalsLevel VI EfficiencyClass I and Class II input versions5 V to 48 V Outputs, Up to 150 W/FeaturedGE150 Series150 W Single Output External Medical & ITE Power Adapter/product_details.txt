@@ -1,0 +1,106 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedGE150 Series150 W Single Output External Medical & ITE Power Adapter
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+[Level 3] Category Name: GE SeriesMedical and ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 150 W
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/
+Category Description: The GE family is part of Advanced Energy's SL Power line of external adapters and offers 3 products under this family ranging from 30 W to 150 W.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedGE150 Series150 W Single Output External Medical & ITE Power Adapter
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/ge/ge150-series/
+
+Complete Product Description:
+Advanced Energy’s SL Power GE150 series of desktop AT A GLANCE AC-DC external power adapter comprises five output models.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+  - GE150 Datasheet: https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-08-29-24.pdf
+  - EU Declaration of Conformity: https://www.advancedenergy.com/getmedia/1237190c-8f5e-4809-859b-6301eb48caab/EU-Declaration-of-Conformity.pdf
+  - GE150A REACH Declaration: https://www.advancedenergy.com/getmedia/769e5b8a-fc6c-412b-9f88-a0e2f9b4a10c/SL%20Power%20REACH%20209%20GE150A%20Series.pdf
+  - GE150A RoHS Statement: https://www.advancedenergy.com/getmedia/e8d57243-de11-4c0a-93be-2e5bef792305/RoHS%20statement%20SL%20Power%20GE150A%20Series.pdf
+  - GE150, TE150 HT CB Cert Class I: https://www.advancedenergy.com/getmedia/2e466389-a0e9-437b-b645-a82bef2d9130/GE150%20-%20TE150%20HT%20CB%20Cert%20Class%20I.pdf
+  - GE150, TE150 HT CB Cert Class II: https://www.advancedenergy.com/getmedia/8b5a03f1-c78a-4f60-89ae-6103b8cd6d04/GE150%20-%20TE150%20HT%20CB%20Cert%20Class%20II.pdf
+  - GE150 Value Proposition: https://www.advancedenergy.com/getmedia/9387f794-bc1b-4e2c-a47a-47ef21c2a177/GE150-Application-Note.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/196b99dc-c88e-4ee6-8dae-d82530cc5c47/ENG-TE150-01-11-15-23.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4825c327-da05-428b-a1fd-9e8c7cf3d566/ENG-SLE90-235-01%2012.09.22.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-11-15-23.pdf
+  - https://www.advancedenergy.com/getmedia/50b560fb-b762-495f-bba0-ead665fcbd61/ENG-GE150-01-08-29-24.pdf
+  - https://www.advancedenergy.com/getmedia/1237190c-8f5e-4809-859b-6301eb48caab/EU-Declaration-of-Conformity.pdf
+  - https://www.advancedenergy.com/getmedia/769e5b8a-fc6c-412b-9f88-a0e2f9b4a10c/SL%20Power%20REACH%20209%20GE150A%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/e8d57243-de11-4c0a-93be-2e5bef792305/RoHS%20statement%20SL%20Power%20GE150A%20Series.pdf
+  - https://www.advancedenergy.com/getmedia/2e466389-a0e9-437b-b645-a82bef2d9130/GE150%20-%20TE150%20HT%20CB%20Cert%20Class%20I.pdf
+  - https://www.advancedenergy.com/getmedia/8b5a03f1-c78a-4f60-89ae-6103b8cd6d04/GE150%20-%20TE150%20HT%20CB%20Cert%20Class%20II.pdf
+  - https://www.advancedenergy.com/getmedia/9387f794-bc1b-4e2c-a47a-47ef21c2a177/GE150-Application-Note.pdf
+  - https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - https://www.advancedenergy.com/getmedia/196b99dc-c88e-4ee6-8dae-d82530cc5c47/ENG-TE150-01-11-15-23.pdf
+  - https://www.advancedenergy.com/getmedia/4825c327-da05-428b-a1fd-9e8c7cf3d566/ENG-SLE90-235-01%2012.09.22.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/68024c77-d78e-416d-a602-bde2aa7547e3/GE150-img-1601070209.jpg
+  - Image: https://www.advancedenergy.com/getattachment/68024c77-d78e-416d-a602-bde2aa7547e3/GE150-img-1601070209.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8770aaef-1db6-4d5b-9812-da4af76ee818/ME150-2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1c26dd45-4dd2-4e82-b87c-fbe10e5b30fa/SLPower-1619.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7ec26626-87e7-43e0-8734-df408a686edb/SLE90-A.jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/33e0ef97-9cef-4af8-b1e7-c3358c7080a6/infusion_pumps-2-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/93dc7614-72b8-419a-86eb-6906c7c0412d/vital_signs_monitoring-(2).jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d5833665-f7a4-4c3e-9f34-c29387f56ddb/Instrumentation-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedME150 Series150 W Single Output External Power Adapter Medical Grade: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/me/me150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/576f261d-644a-4327-8a9d-43dbcd3c8257/ENG-ME150-01-02-01-24.pdf
+  - FeaturedTE150 Series150 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/te/te150-series/
+  - Datasheet: https://www.advancedenergy.com/getmedia/196b99dc-c88e-4ee6-8dae-d82530cc5c47/ENG-TE150-01-11-15-23.pdf
+  - FeaturedSLE90 Series90 W Single Output External Power Adapters: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/sle/sle90/
+  - Datasheet: https://www.advancedenergy.com/getmedia/4825c327-da05-428b-a1fd-9e8c7cf3d566/ENG-SLE90-235-01%2012.09.22.pdf
+  - Infusion PumpsThese power supply solutions are carefully designed to meet the specific power requirements of infusion pumps, while also prioritizing factors such as reliability, safety, size and weight, efficiency, and compatibility.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Explore Infusion Pumps: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/infusion-pumps/
+  - Vital Signs MonitoringAddressing the growing global need for medical equipment, Advanced Energy offers high-quality, medically certified adapters, open-frame models, and custom solutions for healthcare suppliers of vital signs patient monitors.: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - Explore Vital Signs Monitoring: https://www.advancedenergy.com/en-us/applications/medical/patient-monitoring/vital-signs-monitoring/
+  - InstrumentationInstrumentation equipment is designed to measure many diverse physical or electrical parameters that need to be monitored during the product research, design, development and manufacturing process.: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+  - Explore Instrumentation: https://www.advancedenergy.com/en-us/applications/industrial/analytical-test-and-measurement/instrumentation/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+GE SeriesMedical and ITE Safety ApprovalsLevel VI EfficiencyClass I and Class II input versions5 V to 48 V Outputs, Up to 150 W
+  ↓
+FeaturedGE150 Series150 W Single Output External Medical & ITE Power Adapter

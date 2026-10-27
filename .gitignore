@@ -129,3 +129,11 @@ htmlcov/
 .mypy_cache/
 .ruff_cache/
 .cache/
+
+# -----------------------------
+# Render deployment assets
+# -----------------------------
+!output/
+!output/**
+!chroma_db/
+!chroma_db/**

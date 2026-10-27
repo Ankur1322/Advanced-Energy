@@ -1,0 +1,79 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedMSP SeriesUltra-Low Ripple, Multi-Purpose, Precision Mass Spectrometry Power Supplies
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: FeaturedMSP SeriesUltra-Low Ripple, Multi-Purpose, Precision Mass Spectrometry Power Supplies
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/modules/ultra-low-ripple/msp-series/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/886d881a-964b-4516-ba4f-e80e076a7a93/en-hv-msp-series-data-sheet.pdf
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - MSP Series Data Sheet: https://www.advancedenergy.com/getmedia/886d881a-964b-4516-ba4f-e80e076a7a93/ENG-HV-MSP-235-12-18-24.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/886d881a-964b-4516-ba4f-e80e076a7a93/en-hv-msp-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/886d881a-964b-4516-ba4f-e80e076a7a93/ENG-HV-MSP-235-12-18-24.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/04f3d477-9245-4ac8-a1c1-298635c585a9/msp-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4f9beb3f-a9ae-467c-9a01-17fc0c731c77/msp-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/169c4691-480d-4372-a262-1930de537002/msp-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7fdad194-ae8f-42e4-ab08-fcb33781c777/msp-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04f3d477-9245-4ac8-a1c1-298635c585a9/msp-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4f9beb3f-a9ae-467c-9a01-17fc0c731c77/msp-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/169c4691-480d-4372-a262-1930de537002/msp-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7fdad194-ae8f-42e4-ab08-fcb33781c777/msp-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04f3d477-9245-4ac8-a1c1-298635c585a9/msp-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/4f9beb3f-a9ae-467c-9a01-17fc0c731c77/msp-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/169c4691-480d-4372-a262-1930de537002/msp-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7fdad194-ae8f-42e4-ab08-fcb33781c777/msp-ft-wp.jpg
+  - AE High Voltage Power Supply Solutions: https://i.ytimg.com/vi/689RpM4haWQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/04f3d477-9245-4ac8-a1c1-298635c585a9/msp-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ac901888-4ee1-4019-9795-ef94d921d3d2/msrf-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/265b4f9d-69ee-4294-bd0f-994332dc56e8/msrz-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/3d93a930-64ce-41e5-b36b-404b593146dd/Life-Sciences-Analytical-Instruments.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2ea659e8-8dfa-4f93-8437-3a9db6247ef4/Mass-Spec-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Analytical InstrumentsAdvanced Energy's power solutions are designed to meet the specific power requirements of various analytical instruments such as spectroscopy, mass spectrometry, chromatography, electrophoresis, particle size analyzers, and scanning electron microscopes.: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Explore Analytical Instruments: https://www.advancedenergy.com/en-us/applications/medical/life-science/analytical-instruments/
+  - Mass SpecAdvanced Energy's proven track record of delivering exceptional power solutions for life science analytical instruments ensures the highest level of performance and accuracy in mass spec applications.: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+  - Explore Mass Spectrometry: https://www.advancedenergy.com/en-us/applications/medical/life-science/mass-spec/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+FeaturedMSP SeriesUltra-Low Ripple, Multi-Purpose, Precision Mass Spectrometry Power Supplies

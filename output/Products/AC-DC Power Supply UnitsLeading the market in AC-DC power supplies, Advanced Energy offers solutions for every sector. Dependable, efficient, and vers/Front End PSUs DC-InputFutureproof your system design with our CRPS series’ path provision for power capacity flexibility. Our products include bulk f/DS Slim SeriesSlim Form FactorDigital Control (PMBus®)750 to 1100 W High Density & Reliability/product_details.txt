@@ -1,0 +1,112 @@
+==============================================================================
+PRODUCT DETAILS: DS Slim SeriesSlim Form FactorDigital Control (PMBus®)750 to 1100 W High Density & Reliability
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: Front End PSUs DC-InputFutureproof your system design with our CRPS series’ path provision for power capacity flexibility. Our products include bulk front-end DS series housed in a 1U high rack-mounting enclosure with a short form factor that frees up system space.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/dc-dc-front-end-psu/
+Category Description: Futureproof your system design with our CRPS series’ path provision for power capacity flexibility. Our products include bulk front-end DS series housed in a 1U high rack-mounting enclosure with a short form factor that frees up system space.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: DS Slim SeriesSlim Form FactorDigital Control (PMBus®)750 to 1100 W High Density & Reliability
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/dc-dc-front-end-psu/ds-slim-series/
+
+Complete Product Description:
+The latest Artesyn DS series AC-DC power supplies in the slim form factor are designed to provide a scalable input power conversion solution for computing, storage and networking equipment that uses distributed power architectures (DPA) and intermediate bus architectures (IBA).
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Data Center Power Solutions Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/e522619c-1382-425c-b643-318457fd5b3c/datacenter_brochure_c-2018-24a1524542467.pdf
+  - DS Short Series Brochure_Chinese Version: https://www.advancedenergy.com/getmedia/53a04a82-9647-444a-af4e-a6d7899972e1/f2014927_-_ds_series_folder_sc1493173707.pdf
+  - DS Short Series Brochure_English: https://www.advancedenergy.com/getmedia/b3b1652e-3136-44a3-a669-e9527a4f7005/ds_series-v3g_1488564775_000.pdf
+  - DS Short Series Brochure_Japanese Version: https://www.advancedenergy.com/getmedia/eb662d86-1e1a-4972-9bf8-376f7fbcda38/f2014927_-_ds_series_folder_jp1495093407.pdf
+  - DS1100SDC Series Data Sheet: https://www.advancedenergy.com/getmedia/a0e58ae5-b23d-4d70-8475-74010c4d1043/ds1100sdc_ds_553578caf0.pdf
+  - DS760SL Series Data Sheet Datasheet: https://www.advancedenergy.com/getmedia/dbec02c8-0632-4089-b99a-5f7160eaad32/ENG-DS760SL-235-02-05-23-22.pdf
+  - DS1100SDC-3 RoHS3: https://www.advancedenergy.com/getmedia/a3363281-676b-4554-b636-cdcea1d89c72/ds1100sdc-3_rohs3_1548671005_rohs_.pdf
+  - DS1100SDC-3-405 RoHS2 CoC: https://www.advancedenergy.com/getmedia/89100fee-bdba-4fcd-9bd5-bb3f9bc389b4/rohs2_coc_ds1100sdc-3-405_01081467859363_rohs_.pdf
+  - DS1100SDC_CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/a616b9b4-f7ea-4049-b61e-060baec68306/ds1100sdc-3-xxx_ce_1470753523_938.pdf
+  - DS1100SDC-3 DS500SDC-3 IEC 62368 CB Test Certificate: https://www.advancedenergy.com/getmedia/f0c2306e-674e-4eb5-a3d0-968a96f6cf7a/ds1100sdc-3_ds500sdc-3_62368-11615186977_cert.pdf
+  - DS1100SDC-3_DS1100SDC_IRAM: https://www.advancedenergy.com/getmedia/6dd4f638-6510-42db-bdb8-cc21b6b52efc/ds1100sdc-3_ds1100sdc_iram_1514901781_297.pdf
+  - DS1100SDC-3_DS500SDC-3_CCC Certificate: https://www.advancedenergy.com/getmedia/886962a0-cdf9-4bed-8f85-2ad69362e364/ds1100sdc-3_ds500sdc-3_ccc_1470753518_898.pdf
+  - DS1100SDC-3_DS500SDC-3_DEMKO Certificate: https://www.advancedenergy.com/getmedia/9003a096-6351-4902-89cf-01c976808b89/ds1100sdc-3_ds500sdc-3_demko_c1470753520_878.pdf
+  - DS1100SDC-3_DS500SDC-3_UL Certificate: https://www.advancedenergy.com/getmedia/28f26df3-b22e-41f4-a60f-f11985423764/ds1100sdc-3_ds500sdc-3_ul_cert1470753522_604.pdf
+  - DS760SL-3 BIS Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/5224a437-7769-4db7-9301-4cd8df1662b1/ds760sl-3_bis_1492655718_cert.pdf
+  - DS760SL-3 BSMI Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/a28b0614-ca93-45b7-8851-294111a872dd/ds760sl-3_ds760sl-3__70014971304689959_cert.pdf
+  - DS760SL-3 CB Certificate (ITE) Safety Certificate: https://www.advancedenergy.com/getmedia/5a14c469-7feb-480d-969f-d3faeba92025/ds760sl-3_ds760sl-3__70014971304691123_cert.pdf
+  - DS760SL-3 CCC Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/60176a83-b58b-41a7-8afe-6611bb988156/ds760sl-3_ds760sl-3__70014971304690047_cert.pdf
+  - DS760SL-3 IEC 62368 CB Test Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/c18a19ab-43c4-44c8-b1ac-88683e86bb64/ds760sl-3_62368_211-21201113-01615186157_cert.pdf
+  - DS760SL-3 KC (EMC) Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/08906587-d8a4-4d5c-ae98-9a9b3c4a56ee/ds760sl-3_ds760sl-3__70014971304690330_cert.pdf
+  - DS760SL-3 TUV Certificate Safety Certificate: https://www.advancedenergy.com/getmedia/f7c4ed1a-3e87-4787-9a4c-05ea9a829056/ds760sl-3_001_002_003_403_70011443492147_cert.pdf
+  - DS760SL-3 UL Certificate (ITE) Safety Certificate: https://www.advancedenergy.com/getmedia/c83d1b94-5135-4351-914c-1e619a95476d/ds760sl-3_ds760sl-3__70014971304690101_cert.pdf
+  - DS760SL-3-00x CE Declaration of Conformity: https://www.advancedenergy.com/getmedia/75cd14ee-ecb3-419e-a72f-e20082edf764/ds760sl-3_ce_rev03_1469678086_cert.pdf
+  - DS760SL—KTL: https://www.advancedenergy.com/getmedia/8829bf08-e1cc-4bac-ab72-408cc5387339/ds760sl-3-001_ds760sl-3-003_k1469678778_cert.pdf
+  - DS1100SDC-3 Technical Reference Note: https://www.advancedenergy.com/getmedia/8cdd80fb-759e-4e44-8bbf-6d685beab817/TRN-DC-DC-DS1100SDC-3-Release-1-9-(2022-03-18).pdf
+  - DS1100SDC-3-001 Product Change Notification: https://www.advancedenergy.com/getmedia/f23aa8ba-8349-4774-9ede-cae2ef6347f4/pcn-ew20-ds1100sdc-3-001_stand1521770429_techref.pdf
+  - DS760SL Firmware and Test Process Change Technical Reference: https://www.advancedenergy.com/getmedia/acd500d5-aaf8-4ca8-a978-594076d660ba/marketing_bulletin_ds760sl-3_p1336620199_techref.pdf
+  - PCN: DS760SL Model Label Update Technical Reference: https://www.advancedenergy.com/getmedia/c9b25bf7-f24b-4718-bdf2-b6eeb9993766/ds760sl-3_add_bis_logo_and_roh1493066469_techref.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/e522619c-1382-425c-b643-318457fd5b3c/datacenter_brochure_c-2018-24a1524542467.pdf
+  - https://www.advancedenergy.com/getmedia/53a04a82-9647-444a-af4e-a6d7899972e1/f2014927_-_ds_series_folder_sc1493173707.pdf
+  - https://www.advancedenergy.com/getmedia/b3b1652e-3136-44a3-a669-e9527a4f7005/ds_series-v3g_1488564775_000.pdf
+  - https://www.advancedenergy.com/getmedia/eb662d86-1e1a-4972-9bf8-376f7fbcda38/f2014927_-_ds_series_folder_jp1495093407.pdf
+  - https://www.advancedenergy.com/getmedia/a0e58ae5-b23d-4d70-8475-74010c4d1043/ds1100sdc_ds_553578caf0.pdf
+  - https://www.advancedenergy.com/getmedia/dbec02c8-0632-4089-b99a-5f7160eaad32/ENG-DS760SL-235-02-05-23-22.pdf
+  - https://www.advancedenergy.com/getmedia/a3363281-676b-4554-b636-cdcea1d89c72/ds1100sdc-3_rohs3_1548671005_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/89100fee-bdba-4fcd-9bd5-bb3f9bc389b4/rohs2_coc_ds1100sdc-3-405_01081467859363_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/a616b9b4-f7ea-4049-b61e-060baec68306/ds1100sdc-3-xxx_ce_1470753523_938.pdf
+  - https://www.advancedenergy.com/getmedia/f0c2306e-674e-4eb5-a3d0-968a96f6cf7a/ds1100sdc-3_ds500sdc-3_62368-11615186977_cert.pdf
+  - https://www.advancedenergy.com/getmedia/6dd4f638-6510-42db-bdb8-cc21b6b52efc/ds1100sdc-3_ds1100sdc_iram_1514901781_297.pdf
+  - https://www.advancedenergy.com/getmedia/886962a0-cdf9-4bed-8f85-2ad69362e364/ds1100sdc-3_ds500sdc-3_ccc_1470753518_898.pdf
+  - https://www.advancedenergy.com/getmedia/9003a096-6351-4902-89cf-01c976808b89/ds1100sdc-3_ds500sdc-3_demko_c1470753520_878.pdf
+  - https://www.advancedenergy.com/getmedia/28f26df3-b22e-41f4-a60f-f11985423764/ds1100sdc-3_ds500sdc-3_ul_cert1470753522_604.pdf
+  - https://www.advancedenergy.com/getmedia/5224a437-7769-4db7-9301-4cd8df1662b1/ds760sl-3_bis_1492655718_cert.pdf
+  - https://www.advancedenergy.com/getmedia/a28b0614-ca93-45b7-8851-294111a872dd/ds760sl-3_ds760sl-3__70014971304689959_cert.pdf
+  - https://www.advancedenergy.com/getmedia/5a14c469-7feb-480d-969f-d3faeba92025/ds760sl-3_ds760sl-3__70014971304691123_cert.pdf
+  - https://www.advancedenergy.com/getmedia/60176a83-b58b-41a7-8afe-6611bb988156/ds760sl-3_ds760sl-3__70014971304690047_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c18a19ab-43c4-44c8-b1ac-88683e86bb64/ds760sl-3_62368_211-21201113-01615186157_cert.pdf
+  - https://www.advancedenergy.com/getmedia/08906587-d8a4-4d5c-ae98-9a9b3c4a56ee/ds760sl-3_ds760sl-3__70014971304690330_cert.pdf
+  - https://www.advancedenergy.com/getmedia/f7c4ed1a-3e87-4787-9a4c-05ea9a829056/ds760sl-3_001_002_003_403_70011443492147_cert.pdf
+  - https://www.advancedenergy.com/getmedia/c83d1b94-5135-4351-914c-1e619a95476d/ds760sl-3_ds760sl-3__70014971304690101_cert.pdf
+  - https://www.advancedenergy.com/getmedia/75cd14ee-ecb3-419e-a72f-e20082edf764/ds760sl-3_ce_rev03_1469678086_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8829bf08-e1cc-4bac-ab72-408cc5387339/ds760sl-3-001_ds760sl-3-003_k1469678778_cert.pdf
+  - https://www.advancedenergy.com/getmedia/8cdd80fb-759e-4e44-8bbf-6d685beab817/TRN-DC-DC-DS1100SDC-3-Release-1-9-(2022-03-18).pdf
+  - https://www.advancedenergy.com/getmedia/f23aa8ba-8349-4774-9ede-cae2ef6347f4/pcn-ew20-ds1100sdc-3-001_stand1521770429_techref.pdf
+  - https://www.advancedenergy.com/getmedia/acd500d5-aaf8-4ca8-a978-594076d660ba/marketing_bulletin_ds760sl-3_p1336620199_techref.pdf
+  - https://www.advancedenergy.com/getmedia/c9b25bf7-f24b-4718-bdf2-b6eeb9993766/ds760sl-3_add_bis_logo_and_roh1493066469_techref.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/0819e403-e522-4cfd-9c16-242bac78a5c1/DS760SL.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+Front End PSUs DC-InputFutureproof your system design with our CRPS series’ path provision for power capacity flexibility. Our products include bulk front-end DS series housed in a 1U high rack-mounting enclosure with a short form factor that frees up system space.
+  ↓
+DS Slim SeriesSlim Form FactorDigital Control (PMBus®)750 to 1100 W High Density & Reliability

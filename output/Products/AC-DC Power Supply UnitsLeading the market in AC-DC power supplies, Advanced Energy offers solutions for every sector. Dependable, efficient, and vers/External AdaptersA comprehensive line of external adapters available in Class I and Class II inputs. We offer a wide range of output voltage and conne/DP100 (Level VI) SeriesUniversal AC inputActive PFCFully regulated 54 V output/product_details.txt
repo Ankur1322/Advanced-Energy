@@ -1,0 +1,91 @@
+==============================================================================
+PRODUCT DETAILS: DP100 (Level VI) SeriesUniversal AC inputActive PFCFully regulated 54 V output
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/
+Category Description: A comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: DP100 (Level VI) SeriesUniversal AC inputActive PFCFully regulated 54 V output
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/external-adapters/dp100-(level-vi)/
+
+Complete Product Description:
+The new DP10054P3L is a 100 W freestanding external AC-DC power adapter that provides a very flexible Power over Ethernet (POE) compliant power solution for a wide variety of portable and desktop applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/2be33bd0-6f9e-48c7-b863-c84355a2f6fd/dp10054p3l_1502689312.pdf
+  - DP100 DS Datasheet: https://www.advancedenergy.com/getmedia/2be33bd0-6f9e-48c7-b863-c84355a2f6fd/dp10054p3l_1502689312.pdf
+  - RoHS2 CoC DP10054P3L RoHS Certificate: https://www.advancedenergy.com/getmedia/1e369ab6-c1a0-4134-999d-e54f1bd7cb18/rohs2_coc_dp10054p3l_091817_1506065928_rohs_.pdf
+  - DP100 (Level VI)—DP10054P3L CB Certificate: https://www.advancedenergy.com/getmedia/fc547adf-d517-4df0-bc37-c9cbea210e80/DP10054P3L_UL-CB-cert(DK-129959-UL)_19JUL22.pdf
+  - DP100 (Level VI)—DP10054P3L CCC: https://www.advancedenergy.com/getmedia/948e589e-0744-42ad-ac78-d9572e63732f/DP10054P3L_1288_2024010907692229_240914.pdf
+  - DP100 (Level VI)—DP10054P3L Declaration of Conformity: https://www.advancedenergy.com/getmedia/bd413c09-0437-488e-9872-5d0dab8e0650/DP10054P3L_242_CE_220704.pdf
+  - DP100 (Level VI)—DP10054P3L PSE: https://www.advancedenergy.com/getmedia/f17a993b-41a3-4a16-acdb-4c03adf806c6/DP10054P3L_2678_PSB-JP-2024-0689_240828.pdf
+  - DP100 (Level VI)—DP10054P3L TUV: https://www.advancedenergy.com/getmedia/5d465380-8953-4a10-ba9b-e2064d2e55af/DP10054P3L_2660_Z1-013890-3245-Rev-01_240814.pdf
+  - DP100 (Level VI)—DP10054P3L UK Declaration of Conformity: https://www.advancedenergy.com/getmedia/5b9e7e25-c8b9-4bda-89ea-909df5f7063b/DP10054P3L_3242_UKCA_220704.pdf
+  - DP100 (Level VI)—DP10054P3L UL: https://www.advancedenergy.com/getmedia/ce764c9a-1972-46f3-b4ec-794c05124844/DP10054P3L_UL_CertificateofCompliance22JUL22.pdf
+  - DP10054P3L UKCA: https://www.advancedenergy.com/getmedia/b65d354c-8ce6-4435-9271-121a22781d58/DP10054P3L_UKCA_220704.pdf
+  - DP10054P3L Safety Instruction Manual: https://www.advancedenergy.com/getmedia/aae4c14c-e580-448a-9207-dfb621b2c765/DP10054P3L-SIM.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/2be33bd0-6f9e-48c7-b863-c84355a2f6fd/dp10054p3l_1502689312.pdf
+  - https://www.advancedenergy.com/getmedia/2be33bd0-6f9e-48c7-b863-c84355a2f6fd/dp10054p3l_1502689312.pdf
+  - https://www.advancedenergy.com/getmedia/1e369ab6-c1a0-4134-999d-e54f1bd7cb18/rohs2_coc_dp10054p3l_091817_1506065928_rohs_.pdf
+  - https://www.advancedenergy.com/getmedia/fc547adf-d517-4df0-bc37-c9cbea210e80/DP10054P3L_UL-CB-cert(DK-129959-UL)_19JUL22.pdf
+  - https://www.advancedenergy.com/getmedia/948e589e-0744-42ad-ac78-d9572e63732f/DP10054P3L_1288_2024010907692229_240914.pdf
+  - https://www.advancedenergy.com/getmedia/bd413c09-0437-488e-9872-5d0dab8e0650/DP10054P3L_242_CE_220704.pdf
+  - https://www.advancedenergy.com/getmedia/f17a993b-41a3-4a16-acdb-4c03adf806c6/DP10054P3L_2678_PSB-JP-2024-0689_240828.pdf
+  - https://www.advancedenergy.com/getmedia/5d465380-8953-4a10-ba9b-e2064d2e55af/DP10054P3L_2660_Z1-013890-3245-Rev-01_240814.pdf
+  - https://www.advancedenergy.com/getmedia/5b9e7e25-c8b9-4bda-89ea-909df5f7063b/DP10054P3L_3242_UKCA_220704.pdf
+  - https://www.advancedenergy.com/getmedia/ce764c9a-1972-46f3-b4ec-794c05124844/DP10054P3L_UL_CertificateofCompliance22JUL22.pdf
+  - https://www.advancedenergy.com/getmedia/b65d354c-8ce6-4435-9271-121a22781d58/DP10054P3L_UKCA_220704.pdf
+  - https://www.advancedenergy.com/getmedia/aae4c14c-e580-448a-9207-dfb621b2c765/DP10054P3L-SIM.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/72f49041-185d-4623-87a9-45ae01ea8f92/PageImage.png
+  - Image: https://www.advancedenergy.com/getattachment/8b70b1cd-cc84-4ed8-af10-8e8a1c3f46ab/459f92d2f8-st.png
+  - Image: https://www.advancedenergy.com/getattachment/22ee5d7f-29e2-4432-9314-5766c72b67e8/61dda05318.png
+  - Image: https://www.advancedenergy.com/getattachment/4ea71bc3-1765-4e36-bc33-b3ec4a79e6b7/ce86ae8ec1.png
+  - Image: https://www.advancedenergy.com/getattachment/72f49041-185d-4623-87a9-45ae01ea8f92/PageImage.png
+  - Image: https://www.advancedenergy.com/getattachment/8b70b1cd-cc84-4ed8-af10-8e8a1c3f46ab/459f92d2f8-st.png
+  - Image: https://www.advancedenergy.com/getattachment/22ee5d7f-29e2-4432-9314-5766c72b67e8/61dda05318.png
+  - Image: https://www.advancedenergy.com/getattachment/4ea71bc3-1765-4e36-bc33-b3ec4a79e6b7/ce86ae8ec1.png
+  - Image: https://www.advancedenergy.com/getattachment/72f49041-185d-4623-87a9-45ae01ea8f92/PageImage.png
+  - Image: https://www.advancedenergy.com/getattachment/8b70b1cd-cc84-4ed8-af10-8e8a1c3f46ab/459f92d2f8-st.png
+  - Image: https://www.advancedenergy.com/getattachment/22ee5d7f-29e2-4432-9314-5766c72b67e8/61dda05318.png
+  - Image: https://www.advancedenergy.com/getattachment/4ea71bc3-1765-4e36-bc33-b3ec4a79e6b7/ce86ae8ec1.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+External AdaptersA comprehensive line of external adapters available in Class I and Class II inputs. We offer a wide range of output voltage and connector options suitable for medical and high specification industrial applications. Available in both wall mount and desktop versions meeting various IP ratings for rugged applications.
+  ↓
+DP100 (Level VI) SeriesUniversal AC inputActive PFCFully regulated 54 V output

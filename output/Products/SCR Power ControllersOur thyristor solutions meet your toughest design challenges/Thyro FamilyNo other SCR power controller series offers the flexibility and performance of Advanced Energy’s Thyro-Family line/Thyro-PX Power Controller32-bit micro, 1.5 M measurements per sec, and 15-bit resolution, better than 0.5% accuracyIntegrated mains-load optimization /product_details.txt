@@ -1,0 +1,141 @@
+==============================================================================
+PRODUCT DETAILS: Thyro-PX Power Controller32-bit micro, 1.5 M measurements per sec, and 15-bit resolution, better than 0.5% accuracyIntegrated mains-load optimization (dASM) with digital controlIntegrated soft starting for operation with downstream transformer
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+[Level 2] Category Name: Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+Category URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/
+Category Description: Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Thyro-PX Power Controller32-bit micro, 1.5 M measurements per sec, and 15-bit resolution, better than 0.5% accuracyIntegrated mains-load optimization (dASM) with digital controlIntegrated soft starting for operation with downstream transformer
+Product URL: https://www.advancedenergy.com/en-us/products/scr-power-controllers/thyro-family/thyro-px/
+
+Complete Product Description:
+Explore SCR power controllers from Advanced Energy for precise, efficient power control in industrial heating and process applications.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/64d1de05-548d-4508-83a0-21bbab358960/thyro-px-data-sheet.pdf
+  - Thyro-Touch Data Sheet (443 KB): https://www.advancedenergy.com/getmedia/dae68926-ad6b-4345-aa80-960dbfc1f8b8/en-scr-thyro-touch-data-sheet.pdf
+  - Thyro-PX Software and Touch Display User Guide (2 MB): https://www.advancedenergy.com/getmedia/75378b5d-1883-4893-bdc3-814fdd400e8d/thyro-px-software-and-touch-display-user-guide.pdf
+  - Thyro-PX Anybus Profibus (565 KB): https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - Thyro-PX Anybus Ethernet/IP Operating Manual (302 KB): https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - Thyro-PX Anybus EtherCAT Guide (390 KB): https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - Thyro-PX Anybus EtherCAT Operating Manual (390 KB): https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - Thryo-PX Anybus Profinet Operating Manual (408 KB): https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - Thyro-PX Anybus Modbus TCP Operating Manual (468 KB): https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - Thyro Family Accessories Brochure: https://www.advancedenergy.com/getmedia/bef74c1c-2158-4c7a-8d6d-285a3f4300f8/thyro-family-accessories.pdf
+  - Thyro Family SCR Power Controllers Brochure: https://www.advancedenergy.com/getmedia/10eaf95b-0877-43d0-a9a1-0acea6557dab/en-thyro-family-scr-power-controllers-brochure.pdf
+  - Thyro-PX Digital SCR Power Controller: https://www.advancedenergy.com/getmedia/97f4f452-a225-49ca-993e-ee8e5655da89/ENG-scr-thyroPX-data-sheet.pdf
+  - VSC Technology for SCR Power Controllers Datasheet: https://www.advancedenergy.com/getmedia/f4beaa7d-9c0a-4b98-9440-efef2cc1686e/ENG-VSC-230-08.pdf
+  - Thyro-PX Leistungssteller Benutzerhandbuch: https://www.advancedenergy.com/getmedia/c2d7cc2b-f40d-4fe1-b8dd-dec033e90f00/57010148-G0F.pdf
+  - Thyro-PX Operating Manual: https://www.advancedenergy.com/getmedia/504ae24d-abd0-4ac1-9a9d-aa5186a73a04/EN_Thyro-PX_Manual_57010148-00JB.pdf
+  - Thyro-PX Software and Touch Display User Guide: https://www.advancedenergy.com/getmedia/448b8867-f890-4622-9990-9f9e21bb7815/thyro-px-software-and-touch-display-user-guide.pdf
+  - Advanced Energy responds to the need for 1.5 MW power efficiency in kilns: https://www.advancedenergy.com/getmedia/b04c2668-f100-4c0f-98e8-5b5808f2e125/ENG-Efficiency-in-kilns-Case-Study-295-01.pdf
+  - Electrification of Steam Crackers in the Petrochemical Industry: https://www.advancedenergy.com/getmedia/b7dcca76-2f79-4190-9e72-ab8b0c2b6cd1/ENG-Steam-Crackers-Case-Study-295-01.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/64d1de05-548d-4508-83a0-21bbab358960/thyro-px-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/dae68926-ad6b-4345-aa80-960dbfc1f8b8/en-scr-thyro-touch-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/75378b5d-1883-4893-bdc3-814fdd400e8d/thyro-px-software-and-touch-display-user-guide.pdf
+  - https://www.advancedenergy.com/getmedia/fce88baf-ea15-438a-ab99-939d60d266bc/en-scr-thyro-px-anybus-profibus.pdf
+  - https://www.advancedenergy.com/getmedia/5b93facc-3ae9-468a-8977-4c25a1b78ffc/thyro_px_anybus_ethernetip_om.pdf
+  - https://www.advancedenergy.com/getmedia/c37cf9f1-74d1-4825-837f-f3380efe1f43/thyro_px_anybus_ethercat.pdf
+  - https://www.advancedenergy.com/getmedia/1bca654f-b4e1-475c-8a26-2f3e5f980dff/thyro_px_anybus_ethercat_om.pdf
+  - https://www.advancedenergy.com/getmedia/551873ba-7d74-4c04-be8d-83019eb1ac5c/thryo_px_anybus_profinet_om.pdf
+  - https://www.advancedenergy.com/getmedia/23f4a27d-db7b-4597-b69b-11682ad7cc9c/thyro_px_anybus_modbustcp_om.pdf
+  - https://www.advancedenergy.com/getmedia/bef74c1c-2158-4c7a-8d6d-285a3f4300f8/thyro-family-accessories.pdf
+  - https://www.advancedenergy.com/getmedia/10eaf95b-0877-43d0-a9a1-0acea6557dab/en-thyro-family-scr-power-controllers-brochure.pdf
+  - https://www.advancedenergy.com/getmedia/97f4f452-a225-49ca-993e-ee8e5655da89/ENG-scr-thyroPX-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/f4beaa7d-9c0a-4b98-9440-efef2cc1686e/ENG-VSC-230-08.pdf
+  - https://www.advancedenergy.com/getmedia/c2d7cc2b-f40d-4fe1-b8dd-dec033e90f00/57010148-G0F.pdf
+  - https://www.advancedenergy.com/getmedia/504ae24d-abd0-4ac1-9a9d-aa5186a73a04/EN_Thyro-PX_Manual_57010148-00JB.pdf
+  - https://www.advancedenergy.com/getmedia/448b8867-f890-4622-9990-9f9e21bb7815/thyro-px-software-and-touch-display-user-guide.pdf
+  - https://www.advancedenergy.com/getmedia/b04c2668-f100-4c0f-98e8-5b5808f2e125/ENG-Efficiency-in-kilns-Case-Study-295-01.pdf
+  - https://www.advancedenergy.com/getmedia/b7dcca76-2f79-4190-9e72-ab8b0c2b6cd1/ENG-Steam-Crackers-Case-Study-295-01.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/280d7f46-ea5d-4bee-b5e0-9e602bbec079/thyropx0-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2dc2eb7c-ab58-4011-9776-e9ffdd945b74/thyropx-003-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/816d5bcd-1e86-4f47-9d2f-51600334067a/thyropx-006-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dc3d7bfb-c1bb-4a66-97e1-6fa7227f1126/thyropx0-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/120c03da-aca6-4c65-b1f8-bc504ce5cbc0/thyropx0-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/51037fce-273b-4bc0-ac24-564c1817bdd5/thyropx0-fs-wp.jpg
+  - Image: https://img.youtube.com/vi/8hMgk8nb6xA/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/280d7f46-ea5d-4bee-b5e0-9e602bbec079/thyropx0-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2dc2eb7c-ab58-4011-9776-e9ffdd945b74/thyropx-003-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/816d5bcd-1e86-4f47-9d2f-51600334067a/thyropx-006-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dc3d7bfb-c1bb-4a66-97e1-6fa7227f1126/thyropx0-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/120c03da-aca6-4c65-b1f8-bc504ce5cbc0/thyropx0-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/51037fce-273b-4bc0-ac24-564c1817bdd5/thyropx0-fs-wp.jpg
+  - Image: https://img.youtube.com/vi/8hMgk8nb6xA/2.jpg
+  - Image: https://www.advancedenergy.com/getattachment/280d7f46-ea5d-4bee-b5e0-9e602bbec079/thyropx0-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2dc2eb7c-ab58-4011-9776-e9ffdd945b74/thyropx-003-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/816d5bcd-1e86-4f47-9d2f-51600334067a/thyropx-006-fr-tp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dc3d7bfb-c1bb-4a66-97e1-6fa7227f1126/thyropx0-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/120c03da-aca6-4c65-b1f8-bc504ce5cbc0/thyropx0-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/51037fce-273b-4bc0-ac24-564c1817bdd5/thyropx0-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/5204838d-f0ea-4d49-ac55-7b5ecce2c08d/Thyro_Touch_Display.png
+  - Image: https://www.advancedenergy.com/getattachment/a2094b12-e241-4eea-8ddf-674979594421/2000000405_frame_SEK_2023-04-21.jpg
+  - Image: https://www.advancedenergy.com/getattachment/98465f7b-0554-4251-ae2f-2bef71e6fa10/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9803e0bb-7432-4c54-a349-c84b814bed11/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ffc869bc-c300-4e8f-a07a-a6abd2085cbb/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/f1a03a29-9d05-4299-8b79-e3a9ab615ff1/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/7aa03da6-425d-44e7-b686-e46edb583a2e/thyro-anybus-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6ef05719-25a1-4d11-a060-583f4657dfa1/software_12.jpg
+  - Image: https://www.advancedenergy.com/getattachment/716a1c4a-608f-45fa-b2c7-43168bb540ee/software_12.jpg
+  - Real-Time Diagnostics with Thyro-PX® SCR Power Controllers and Thyro-Tool Pro Software: https://i.ytimg.com/vi/8hMgk8nb6xA/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/280d7f46-ea5d-4bee-b5e0-9e602bbec079/thyropx0-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/ebb8ade5-7344-49e8-9213-f9718710ac18/thyros-035a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8f7c8544-d6c4-42f8-b4f7-b0f508e84315/thyroa-041a-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/9b44778b-405d-49a6-aecc-1a1e7ecc8def/thyroa_onephase_display_fl_w.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/2d04db52-e231-427c-bab2-d3a23ec0db91/steel-testing.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6d6d2d0d-7f3a-467b-94a6-cd63d96e6d3e/Glass-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/136a1f57-98c9-46ce-a70a-b6b813df21c2/Petrochemical.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/getattachment/8d97aefa-20c3-4949-81b4-e4c5fa55bb8e/Flat-Panel-Display-Banner-Image.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Steel & MetalsAdvanced Energy's Steel & Metal solutions provide cutting-edge technology, ease-of-use, and dependability through our non-contact temperature sensors and power controllers.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Explore Steel & Metals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/metals/
+  - Glass Manufacturing Control SolutionsTrusted Solutions for Glass Production: Advanced Energy offers a complete solution for every stage of the manufacturing process for flat glass, container glass, specialty glass, technical glass, and glass coating.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - Explore Glass: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/glass/
+  - PetrochemicalsAdvanced Energy provides innovative temperature and gas sensing instruments for the petrochemical market that are designed for high-temperature, energy-intensive processes such as reforming and distillation operations..: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Explore Petrochemicals: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/petrochemicals/
+  - Flat Panel DisplayAs display size and resolution continue to take off, the demand for high-quality displays is greater than ever.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+  - Explore Flat Panel Display: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/flat-panel-display/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+SCR Power ControllersOur thyristor solutions meet your toughest design challenges.
+  ↓
+Thyro FamilyNo other SCR power controller series offers the flexibility and performance of Advanced Energy’s Thyro-Family line.
+  ↓
+Thyro-PX Power Controller32-bit micro, 1.5 M measurements per sec, and 15-bit resolution, better than 0.5% accuracyIntegrated mains-load optimization (dASM) with digital controlIntegrated soft starting for operation with downstream transformer

@@ -1,0 +1,74 @@
+==============================================================================
+PRODUCT DETAILS: Portable Fieldmeters and VoltmetersHighly portable and versatileAccurate and reliable measurementsEasy-to-use interface
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: ESD InstrumentationAdvanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/esd-instrumentation/
+Category Description: Advanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Portable Fieldmeters and VoltmetersHighly portable and versatileAccurate and reliable measurementsEasy-to-use interface
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/esd-instrumentation/portable-fieldmeters-and-voltmeters/
+
+Complete Product Description:
+Our Monroe fieldmeters use a feedback-driven design to assure accurate, drift-free, non-contacting measurements.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Monroe 282A-IS Data Sheet: https://www.advancedenergy.com/getmedia/b5226e0d-60cb-4108-bcff-c12c1569b228/en-esd-monroe-282a-is-data-sheet.pdf
+  - Monroe 282H Data Sheet: https://www.advancedenergy.com/getmedia/caf6bc25-333c-4ede-94ac-0e987bec1077/ENG-ESD-Monroe-282H-235-01-11-17-25.pdf
+  - Monroe 282L Data Sheet: https://www.advancedenergy.com/getmedia/983798b2-3b8a-474c-bb53-d01e4c10e8fe/en-esd-monroe-282l-data-sheet.pdf
+  - Monroe 282M Data Sheet: https://www.advancedenergy.com/getmedia/c81e8ca0-f938-4471-9908-41379b25e432/en-esd-monroe-282m-data-sheet.pdf
+  - Monroe 284 Data Sheet: https://www.advancedenergy.com/getmedia/eb248e67-59e7-4f1e-bfbc-5d50f9f10579/en-esd-monroe-284-data-sheet.pdf
+  - Trek 520 Series Data Sheet: https://www.advancedenergy.com/getmedia/80b1fed9-cc0d-4366-8c07-b98ae65ed823/en-esd-trek-520-data-sheet.pdf
+  - Trek 876 and Trek 884 Data Sheet: https://www.advancedenergy.com/getmedia/66a0969e-9e2d-4b9e-ae23-bad7791602a2/en-esd-trek-876-884-data-sheet.pdf
+  - An Improved Instrument for Locating Static Charge Problems: https://www.advancedenergy.com/getmedia/b3b53342-75be-4e34-ab7d-423353c74bc1/en-esd-locating-static-charge-application-note.pdf
+  - Plate Self Decay of Charged Plate Monitors Application Note: https://www.advancedenergy.com/getmedia/d8fcbf4f-4ed3-429c-8de1-ca9a87827bd4/en-esd-plate-self-decay-application-note.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b5226e0d-60cb-4108-bcff-c12c1569b228/en-esd-monroe-282a-is-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/caf6bc25-333c-4ede-94ac-0e987bec1077/ENG-ESD-Monroe-282H-235-01-11-17-25.pdf
+  - https://www.advancedenergy.com/getmedia/983798b2-3b8a-474c-bb53-d01e4c10e8fe/en-esd-monroe-282l-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/c81e8ca0-f938-4471-9908-41379b25e432/en-esd-monroe-282m-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/eb248e67-59e7-4f1e-bfbc-5d50f9f10579/en-esd-monroe-284-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/80b1fed9-cc0d-4366-8c07-b98ae65ed823/en-esd-trek-520-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/66a0969e-9e2d-4b9e-ae23-bad7791602a2/en-esd-trek-876-884-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/b3b53342-75be-4e34-ab7d-423353c74bc1/en-esd-locating-static-charge-application-note.pdf
+  - https://www.advancedenergy.com/getmedia/d8fcbf4f-4ed3-429c-8de1-ca9a87827bd4/en-esd-plate-self-decay-application-note.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/71569f59-07f9-4577-b636-96fe3bcd702c/282a-mr_web.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+ESD InstrumentationAdvanced Energy's ESD instrumentation products are relied upon by industry-leading companies in the electronics, automotive, and aerospace sectors for their superior performance, reliability, and ease of use.
+  ↓
+Portable Fieldmeters and VoltmetersHighly portable and versatileAccurate and reliable measurementsEasy-to-use interface

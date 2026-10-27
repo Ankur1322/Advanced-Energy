@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Railway DC-DC PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC Converters
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Railway DC-DC PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/railway-dc-dc-pcb-mount/
+
+Complete Product Description:
+Featuring a reinforced insulation system combined with high EMC immunity, the ERM family’s advanced circuit topology and high efficiency (up to 92%) make it your ideal choice for the many demanding embedded power applications in railway and other transportation systems.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/e2684efb-324c-4ad6-9f1a-ee9e38482d6d/2dbc5050b6.png
+  - Image: https://www.advancedenergy.com/getattachment/17f826a6-5853-4816-97c1-7af33f98dac0/d72e187649.png
+  - Image: https://www.advancedenergy.com/getattachment/51bbb44d-4d71-4f4b-91c2-16d5ed673559/ebf4f45c63.jpg
+  - Image: https://www.advancedenergy.com/getattachment/d6242978-ab24-4139-b1fd-216d493c7338/3e89b68161.png
+  - Image: https://www.advancedenergy.com/getattachment/11889999-6510-4f05-b2a7-4b2648ec7044/e99561530e.jpg
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC Converters
+  ↓
+Railway DC-DC PCB Mount

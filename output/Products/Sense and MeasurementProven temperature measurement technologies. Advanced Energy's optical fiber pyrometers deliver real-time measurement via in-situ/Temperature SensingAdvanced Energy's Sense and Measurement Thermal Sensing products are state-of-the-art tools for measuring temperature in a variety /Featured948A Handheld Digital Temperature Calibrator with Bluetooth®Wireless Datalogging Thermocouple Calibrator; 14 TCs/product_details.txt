@@ -1,0 +1,99 @@
+==============================================================================
+PRODUCT DETAILS: Featured948A Handheld Digital Temperature Calibrator with Bluetooth®Wireless Datalogging Thermocouple Calibrator; 14 TCs
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/
+Category Description: Advanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 3)
+------------------------------------------------------------------------------
+Product Name: Featured948A Handheld Digital Temperature Calibrator with Bluetooth®Wireless Datalogging Thermocouple Calibrator; 14 TCs
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/temperature-calibrators/datalogging-calibrators/948a-handheld-digital-temperature-calibrator-with-bluetooth®/
+
+Complete Product Description:
+New challenges require new tools. TEGAM has rethought temperature calibrators to offer you the performance you need today without complicating your work. The new 940 Series thermocouple temperature calibrators provide laboratory-grade calibrations in a highly portable package that goes to the work site with ease. Industries that measure temperature are being pushed to achieve better results for both quality and product safety. TEGAM has responded by designing a temperature calibration instrument that leads its class in terms of accuracy, battery life, convenience and ease of use.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/50440e4f-e3e3-4f16-b0b6-5c6aa918eb6b/948A_DS_RevAA.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - TEGAM Thermometry Brochure: https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - 948A Datasheet: https://www.advancedenergy.com/getmedia/50440e4f-e3e3-4f16-b0b6-5c6aa918eb6b/948A_DS_RevAA.pdf
+  - 940/945A Manual: https://www.advancedenergy.com/getmedia/efafb929-8d4e-4619-8179-c53c303862c1/94XA-900-Rev-AB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/50440e4f-e3e3-4f16-b0b6-5c6aa918eb6b/948A_DS_RevAA.pdf
+  - https://www.advancedenergy.com/getmedia/76aa8155-cb08-44a1-b97a-07b0835cb6e2/TEG_0127_probe_selection_guide_11x8-5.pdf
+  - https://www.advancedenergy.com/getmedia/7949e884-054a-4c84-af4d-cbf97aa5ec1b/TEG_0130_broch_thermometry_8-5x11-2.pdf
+  - https://www.advancedenergy.com/getmedia/50440e4f-e3e3-4f16-b0b6-5c6aa918eb6b/948A_DS_RevAA.pdf
+  - https://www.advancedenergy.com/getmedia/efafb929-8d4e-4619-8179-c53c303862c1/94XA-900-Rev-AB.pdf
+  - https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+
+Images:
+  - TEGAM 948A handheld thermocouple temperature calibrators for temperature calibration work with 14 probe types.: https://www.advancedenergy.com/getattachment/36c97a1c-894d-4e56-816e-e6f6cc61bbd5/TEG_AE_948A.png
+  - TEGAM 948A handheld thermocouple temperature calibrators for temperature calibration work with 14 probe types.: https://www.advancedenergy.com/getattachment/36c97a1c-894d-4e56-816e-e6f6cc61bbd5/TEG_AE_948A.png
+  - Immersion Temperature Probe details - TEGAM.: https://www.advancedenergy.com/getattachment/bc8b567a-e149-45f5-ba06-29694d5fa04b/Immersion.jpg
+  - Image: https://www.advancedenergy.com/getmetafile/108ac859-a6ee-488a-8504-033c276778ad/TEG_700-315_belt_clip_400x622/
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/e0f69677-0e3f-42a1-b225-f6583099e2ce/911-910/
+  - Image: https://www.advancedenergy.com/getmetafile/29059bca-9de1-4e1c-93ac-1de3b0d2405c/911-911/
+  - Image: https://www.advancedenergy.com/getmetafile/b8baa4b2-da4a-4391-b97f-99f12af0aca9/911-910-(1)/
+  - Image: https://www.advancedenergy.com/getmetafile/b9fd122a-8cdf-473f-9ac3-f2e33d6d1f67/TEG_940_912_E_view2-495x256/
+  - Image: https://www.advancedenergy.com/getmetafile/4705a325-ac46-4973-b75f-a466c12f61c5/TEG_940_912_J_view1-495x355/
+  - Image: https://www.advancedenergy.com/getmetafile/cf2e0d4c-0870-4ef1-84f3-16c1eb8e861e/TEG_940_912_K_view1-495x355/
+  - Image: https://www.advancedenergy.com/getmetafile/47ffacbd-7982-4929-8b76-48e370f76e5b/TEG_940_912_N_view1-495x355/
+  - Image: https://www.advancedenergy.com/getmetafile/c2ea7e76-ced1-4a83-9d71-0634e7c68fa6/TEG_940_912_U-R-S_view1-495x355/
+  - Image: https://www.advancedenergy.com/getmetafile/76b24f51-1992-4ce4-9fd1-c01b4e2069e3/TEG_940-913_cables-495x318/
+  - Image: https://www.advancedenergy.com/getmetafile/502a477a-e9f3-466b-aae7-060b394f80ad/TEG_940_912_U-R-S_view1-495x355-(1)/
+  - Image: https://www.advancedenergy.com/getmetafile/7d707203-2626-428f-9e70-b3dc9884cf8c/TEG_940-913_cables-495x318-(1)/
+  - Image: https://www.advancedenergy.com/images/ae-placholder.png
+  - Image: https://www.advancedenergy.com/getmetafile/6d41c6c4-6df5-4833-acd7-30e679aabfaf/TEG_AE_700-915_Sure_Grip_Cover/
+  - Image: https://www.advancedenergy.com/getattachment/3dc69f22-9aa6-4695-9dbf-a272c6665656/TEG_940_912_T_view1-768x538.png
+  - Image: https://www.advancedenergy.com/getattachment/47d3e4e0-641d-441e-8137-c2e5455bd8eb/911-911,-720-915-and-911-912.png
+  - The TEGAM 931B Thermocouple Thermometer features datalogging capabilities thanks to wireless Bluetooth connectivity for easy and convenient data logging activities.: https://www.advancedenergy.com/getattachment/c9a4c2c5-5ebf-40a8-b488-1965d17ef854/931B-Web-Thumbnail.jpg
+  - TEGAM 911B SIngle-Channel Thermocouple Thermometer is a digital thermometer with 2000-hour battery life.: https://www.advancedenergy.com/getattachment/bef50aed-a0bc-4154-abf3-76d824e98b76/911B-Web-Thumbnail.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1786abbb-031d-4cd6-ae93-8c491fe8f64e/iStock-694782648.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - Featured931B Datalogging ThermometerSingle Input °C &°F (K, J , T, E, B, N, R & S): https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/datalogging-thermometers/931b/
+  - Datasheet: https://www.advancedenergy.com/getmedia/ae7f9b18-192b-4310-bd36-aab0474c1a9c/931B-909_RevAB.pdf
+  - Featured911B Thermocouple ThermometerSingle Input °C &°F (K, J , T & E): https://www.advancedenergy.com/en-us/products/sense-and-measurement/thermal-sensing/thermocouple-thermometers/digital-thermometers/911b-thermocouple-thermometer/
+  - Datasheet: https://www.advancedenergy.com/getmedia/6f677241-9f5e-454f-89ce-b6821878661d/911B-909_RevCB.pdf
+  - Food SafetyOur digital temperature instruments are utilized directly on production lines for immediate verification and are essential in calibrating crucial process control equipment, addressing the pervasive issue of foodborne illnesses, and contributing to a safer, healthier food supply chain.: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+  - Explore Food Safety: https://www.advancedenergy.com/en-us/applications/industrial/manufacturing/food-safety/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Temperature SensingAdvanced Energy's Sense and Measurement Thermal Sensing products are state-of-the-art tools for measuring temperature in a variety of settings. With their advanced infrared technology, these thermal imagers and systems can provide accurate temperature measurements for small and fast-moving objects. These turn-key solutions offer precision and reliability, making them an ideal choice for a range of applications. Whether used in research, manufacturing, or other industries, Advanced Energy's thermal sensing products are designed to meet the most demanding requirements, delivering accurate and reliable temperature data with ease.
+  ↓
+Featured948A Handheld Digital Temperature Calibrator with Bluetooth®Wireless Datalogging Thermocouple Calibrator; 14 TCs

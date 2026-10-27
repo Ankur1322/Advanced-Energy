@@ -1,0 +1,78 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedOLS10K Series10 kW AC-to-HVDC Power Supplies Built for 24 x 7 Processes
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+Category URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/
+Category Description: Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: FeaturedOLS10K Series10 kW AC-to-HVDC Power Supplies Built for 24 x 7 Processes
+Product URL: https://www.advancedenergy.com/en-us/products/high-voltage-power-supplies/high-power/greater-than-1kw/ols10k-series/
+
+Complete Product Description:
+Find reliable high voltage power supplies for precision applications. Choose from custom, PCB, modular, and low- to high-power units engineered to meet your needs.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/705894ad-9678-48c9-bde4-bc8f56d8b267/en-hv-ols10k-series-data-sheet.pdf
+  - High Voltage Power Supplies Brochure: https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - OLS10K Series Data Sheet: https://www.advancedenergy.com/getmedia/705894ad-9678-48c9-bde4-bc8f56d8b267/ENG-HV-OLS10K-235-02-02-07-25.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/705894ad-9678-48c9-bde4-bc8f56d8b267/en-hv-ols10k-series-data-sheet.pdf
+  - https://www.advancedenergy.com/getmedia/09cbe58a-0020-4cf3-8fcc-c1db20564866/en-high-voltage-power-supplies.pdf
+  - https://www.advancedenergy.com/getmedia/705894ad-9678-48c9-bde4-bc8f56d8b267/ENG-HV-OLS10K-235-02-02-07-25.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/570a2f91-d405-44d5-a171-e18f068e5a65/ols10k-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/327fe114-b263-4d2d-8149-085652a0a1c6/ols10k-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/86bfaa4d-29c2-459b-ad4f-f25ee37460f8/ols10k-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6eea7c5c-bedd-425d-b918-ab574c4f0047/ols10k-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a59e4d1f-acda-457a-870c-ced2d8fb0609/ols10k-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/570a2f91-d405-44d5-a171-e18f068e5a65/ols10k-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/327fe114-b263-4d2d-8149-085652a0a1c6/ols10k-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/86bfaa4d-29c2-459b-ad4f-f25ee37460f8/ols10k-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6eea7c5c-bedd-425d-b918-ab574c4f0047/ols10k-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a59e4d1f-acda-457a-870c-ced2d8fb0609/ols10k-ft-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/570a2f91-d405-44d5-a171-e18f068e5a65/ols10k-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/327fe114-b263-4d2d-8149-085652a0a1c6/ols10k-bb-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/86bfaa4d-29c2-459b-ad4f-f25ee37460f8/ols10k-fl-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/6eea7c5c-bedd-425d-b918-ab574c4f0047/ols10k-fs-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/a59e4d1f-acda-457a-870c-ced2d8fb0609/ols10k-ft-wp.jpg
+  - AE High Voltage Power Supply Solutions: https://i.ytimg.com/vi/689RpM4haWQ/hqdefault.jpg
+  - Image: https://www.advancedenergy.com/getattachment/570a2f91-d405-44d5-a171-e18f068e5a65/ols10k-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/758cdea3-259b-49db-9a18-edb59b6ac07b/ols10kd-fr-wp.jpg
+  - Image: https://www.advancedenergy.com/getattachment/489c36d2-ad7d-4873-8415-bb33e0391bc0/olh10k-fr-wp_lm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/getattachment/1aef8d66-b0e2-43e0-855d-c6aa8e037070/Implant-sm.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - ImplantOur products are engineered with a focus on optimizing efficiency and power density to ensure precise control of ion energy.: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+  - Explore Implant: https://www.advancedenergy.com/en-us/applications/semiconductor/implant/
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+High Voltage Power SuppliesAdvanced Energy's high voltage products feature high-performance power supplies. Each product line features a variety of options and accessories to meet your application needs.
+  ↓
+FeaturedOLS10K Series10 kW AC-to-HVDC Power Supplies Built for 24 x 7 Processes

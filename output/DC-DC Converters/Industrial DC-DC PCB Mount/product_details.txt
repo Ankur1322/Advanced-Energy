@@ -1,0 +1,52 @@
+==============================================================================
+PRODUCT DETAILS: Industrial DC-DC PCB Mount
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find reliable power supplies and sensing products.
+
+[Level 1] Category Name: DC-DC Converters
+Category URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 2)
+------------------------------------------------------------------------------
+Product Name: Industrial DC-DC PCB Mount
+Product URL: https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/industrial-dc-dc-pcb-mount/
+
+Complete Product Description:
+Our diverse portfolio of industrial DC-DC converters caters to low-power, low-voltage needs and is best suited for ruggedized applications in harsh environments.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads: Not found
+
+PDF Links: Not found
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/ff5c9b4b-fb4f-4c9d-ad5a-1c9bff94fef6/AEE-40W-and-50W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/0e55cfb2-c4a9-4a7a-87fd-db28475b7615/AET-30W.jpg
+  - Image: https://www.advancedenergy.com/getattachment/32694221-9ad9-47da-b836-87da2f376ad1/ASA.jpg
+  - Image: https://www.advancedenergy.com/getattachment/620e4c42-9b85-455b-8045-ba71dc074e1a/4feccd92dd.jpg
+  - Image: https://www.advancedenergy.com/getattachment/fb64e7d2-577d-4397-827f-1cbdab3c6d87/5393b13e37.png
+
+Related Products: Not found
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+DC-DC Converters
+  ↓
+Industrial DC-DC PCB Mount

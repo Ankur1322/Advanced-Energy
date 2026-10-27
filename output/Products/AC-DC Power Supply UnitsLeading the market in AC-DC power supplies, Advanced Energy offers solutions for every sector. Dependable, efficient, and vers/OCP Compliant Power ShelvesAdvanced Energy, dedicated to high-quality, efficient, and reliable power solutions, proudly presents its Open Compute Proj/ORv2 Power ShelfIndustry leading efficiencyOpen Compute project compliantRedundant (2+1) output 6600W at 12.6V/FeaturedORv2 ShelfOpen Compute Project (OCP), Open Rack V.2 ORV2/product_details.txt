@@ -1,0 +1,78 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedORv2 ShelfOpen Compute Project (OCP), Open Rack V.2 ORV2
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/
+Category Description: Leading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+
+[Level 2] Category Name: OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/
+Category Description: Advanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+
+[Level 3] Category Name: ORv2 Power ShelfIndustry leading efficiencyOpen Compute project compliantRedundant (2+1) output 6600W at 12.6V
+Category URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/orv2-power-shelf/
+Category Description: 6.6kW (n +1) 12.6V, 530A Power Shelf for OCP ORV2 racks
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedORv2 ShelfOpen Compute Project (OCP), Open Rack V.2 ORV2
+Product URL: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/power-shelves/orv2-power-shelf/ocp-orv2-compliant-power-shelf/
+
+Complete Product Description:
+Advanced Energy introduces a 6,600 W V2 power shelf which is powered from a three phase system and has a 12 V main output.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/b89f7bcd-c87c-4844-8a21-75fe760a46eb/orv2_power_shelf_ds_1569468324.pdf
+  - OCP OR2 Compliant PSU Datasheet: https://www.advancedenergy.com/getmedia/4c23fc3d-b822-4c7a-b757-1d2da7ad88e5/ENG-ORV2-PSU-235-01-1-29.pdf
+  - OCP ORV2 Compliant Power Shelf Datasheet: https://www.advancedenergy.com/getmedia/b89f7bcd-c87c-4844-8a21-75fe760a46eb/ENG-ORV2-POWER-SHELF-235-01-1-29.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4c23fc3d-b822-4c7a-b757-1d2da7ad88e5/orv2_power_supplies_ds_1569468393.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/b89f7bcd-c87c-4844-8a21-75fe760a46eb/orv2_power_shelf_ds_1569468324.pdf
+  - https://www.advancedenergy.com/getmedia/4c23fc3d-b822-4c7a-b757-1d2da7ad88e5/ENG-ORV2-PSU-235-01-1-29.pdf
+  - https://www.advancedenergy.com/getmedia/b89f7bcd-c87c-4844-8a21-75fe760a46eb/ENG-ORV2-POWER-SHELF-235-01-1-29.pdf
+  - https://www.advancedenergy.com/getmedia/4c23fc3d-b822-4c7a-b757-1d2da7ad88e5/orv2_power_supplies_ds_1569468393.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c8d7ce4f-2fac-4659-8008-5dabec467762/729c3e46d6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dbb71388-f880-4fd4-9dfe-0acda65470c2/afbc192b94.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c8d7ce4f-2fac-4659-8008-5dabec467762/729c3e46d6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dbb71388-f880-4fd4-9dfe-0acda65470c2/afbc192b94.jpg
+  - Image: https://www.advancedenergy.com/getattachment/c8d7ce4f-2fac-4659-8008-5dabec467762/729c3e46d6.jpg
+  - Image: https://www.advancedenergy.com/getattachment/dbb71388-f880-4fd4-9dfe-0acda65470c2/afbc192b94.jpg
+  - Image: https://www.advancedenergy.com/getattachment/58e95c0e-ac1f-4309-b573-1408140e83cd/35a24554e6.jpg
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedORv2 PSU3300 W OCP ORV2 Power Supply: https://www.advancedenergy.com/en-us/products/ac-dc-power-supply-units/ac-dc-front-end-psus/ocp-compliant-ac-psus/ocp-orv2-compliant-psu/
+  - Datasheet: https://www.advancedenergy.com/getmedia/4c23fc3d-b822-4c7a-b757-1d2da7ad88e5/orv2_power_supplies_ds_1569468393.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+AC-DC Power Supply UnitsLeading the market in AC-DC power supplies, Advanced Energy offers solutions for every sector. Dependable, efficient, and versatile for all applications
+  ↓
+OCP Compliant Power ShelvesAdvanced Energy, dedicated to high-quality, efficient, and reliable power solutions, proudly presents its Open Compute Project (OCP) compliant power products.
+  ↓
+ORv2 Power ShelfIndustry leading efficiencyOpen Compute project compliantRedundant (2+1) output 6600W at 12.6V
+  ↓
+FeaturedORv2 ShelfOpen Compute Project (OCP), Open Rack V.2 ORV2

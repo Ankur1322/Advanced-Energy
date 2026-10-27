@@ -1,0 +1,105 @@
+==============================================================================
+PRODUCT DETAILS: FeaturedPortable Bond MetersBench Top Milli-Ohmmeter and Bond Meter
+==============================================================================
+
+------------------------------------------------------------------------------
+HIERARCHY (root to product, chronological order)
+------------------------------------------------------------------------------
+[Level 0] Category Name: Products
+Category URL: https://www.advancedenergy.com/en-us/products/
+Category Description: Find an ideal power solution for your application needs with our extensive portfolio of highly efficient and cost-effective power supplies and sensing products.
+
+[Level 1] Category Name: Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/
+Category Description: Proven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+
+[Level 2] Category Name: Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/
+Category Description: Advanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+
+[Level 3] Category Name: Bond Meters / Milli-OhmmetersHigh accuracy resistance measurementsSmallest, lightest handheld bond meters in the industrySupported by a wide range of test probe options
+Category URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/
+Category Description: Advanced Energy’s milli-ohmmeters boast superior accuracy, a remarkable 100-hour battery life, and a reassuring 3-year warranty, making them reliable choices for various industries.
+
+------------------------------------------------------------------------------
+FINAL PRODUCT (Level 4)
+------------------------------------------------------------------------------
+Product Name: FeaturedPortable Bond MetersBench Top Milli-Ohmmeter and Bond Meter
+Product URL: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/portable-bond-meters/
+
+Complete Product Description:
+The R1L-BI series Milli-Ohmmeter/Bonding Tester is a digital milli-ohmmeter and bond meter designed to measure resistances from 10 µΩ to 20Ω.
+
+Features: Not found
+
+Specifications: Not found
+
+Applications: Not found
+
+Benefits: Not found
+
+Downloads:
+  - Datasheet: https://www.advancedenergy.com/getmedia/855ad2d4-5fd8-4aeb-bba1-b56ea2458caf/eng-data-sheet-microohmmeter-accessories-2025.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - Microohmmeter Accessories Sheet: https://www.advancedenergy.com/getmedia/855ad2d4-5fd8-4aeb-bba1-b56ea2458caf/eng-data-sheet-microohmmeter-accessories-2025.pdf
+  - R1L-E2A Accessory Sheet: https://www.advancedenergy.com/getmedia/459b0782-93f3-4a29-82f0-f070de653cea/eng-data-sheet-21l-e1a-accessories-2025.pdf
+  - Alkaline Battery SDS: https://www.advancedenergy.com/getmedia/5f02a0c6-b435-42b2-b0e2-98c942ed4e38/Alkaline-Battery-SDS.pdf
+  - R1L-BI AND R1L-BIR Datasheet: https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - R1L-BIR1 Datasheet: https://www.advancedenergy.com/getmedia/41cc8d96-d270-4850-b31d-c63b29b9f30f/R1L-BIR1-909_RevAE.pdf
+  - R1L-D1 Datasheet: https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - R1L-E2A Datasheet: https://www.advancedenergy.com/getmedia/c6664895-541e-493e-89f4-4f08a0c4d5b1/R1L-E2A-909_RevCB.pdf
+  - EU Declaration of Conformity for R1L-E2A: https://www.advancedenergy.com/getmedia/ffa5a0fe-999e-4b44-a58e-565910a9add4/EU-Declaration-of-Conformity-CE-R1LE2A-C.pdf
+  - R1L-E2A PQAN: https://www.advancedenergy.com/getmedia/b1fd3432-a300-4742-b775-92532f260367/R1L-E2A-PQAN.pdf
+  - Microohmmeter Selection Guide: https://www.advancedenergy.com/getmedia/f6fd02d7-2628-42bf-a602-0423cd611582/970-143637-0000.pdf
+  - R1L-E2A vs R1L-E2: https://www.advancedenergy.com/getmedia/ecab7da2-63eb-4c83-97db-c3f3a337ac66/R1L-E2A-vs-R1L-E2-Comparison.pdf
+  - 13742 Control Drawing: https://www.advancedenergy.com/getmedia/c21ca0fb-be55-42aa-b887-f65b8a1eea82/13742-Rev-EB.pdf
+  - R1L-BI & R1L-BIR Manual: https://www.advancedenergy.com/getmedia/81910648-eba2-4d67-87ac-7fbf5292d353/R1L-BI_BIR-900-Rev-BB.pdf
+  - R1L-BIR1 Manual: https://www.advancedenergy.com/getmedia/d5861bc3-826c-4ef8-89b6-72e1e05e5c11/R1L-BIR1-900-Rev-BB.pdf
+  - R1L-D1 Manual: https://www.advancedenergy.com/getmedia/64145a6c-fc97-407a-9900-747e5193b744/R1L-D1-901-01-Rev-H.pdf
+  - R1L-E2A Manual: https://www.advancedenergy.com/getmedia/e890c491-89be-4e64-8fc7-968cf3e093de/R1L-E2A-901-01-Rev-G.pdf
+  - Datasheet: https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCB.pdf
+
+PDF Links:
+  - https://www.advancedenergy.com/getmedia/855ad2d4-5fd8-4aeb-bba1-b56ea2458caf/eng-data-sheet-microohmmeter-accessories-2025.pdf
+  - https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/855ad2d4-5fd8-4aeb-bba1-b56ea2458caf/eng-data-sheet-microohmmeter-accessories-2025.pdf
+  - https://www.advancedenergy.com/getmedia/459b0782-93f3-4a29-82f0-f070de653cea/eng-data-sheet-21l-e1a-accessories-2025.pdf
+  - https://www.advancedenergy.com/getmedia/5f02a0c6-b435-42b2-b0e2-98c942ed4e38/Alkaline-Battery-SDS.pdf
+  - https://www.advancedenergy.com/getmedia/8501ee65-b77e-4a86-9ee3-9374104d7c32/R1L-BI_BIR-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/41cc8d96-d270-4850-b31d-c63b29b9f30f/R1L-BIR1-909_RevAE.pdf
+  - https://www.advancedenergy.com/getmedia/4f91c14e-e48a-4c9b-8f02-3e400ff88556/R1L-D1-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/c6664895-541e-493e-89f4-4f08a0c4d5b1/R1L-E2A-909_RevCB.pdf
+  - https://www.advancedenergy.com/getmedia/ffa5a0fe-999e-4b44-a58e-565910a9add4/EU-Declaration-of-Conformity-CE-R1LE2A-C.pdf
+  - https://www.advancedenergy.com/getmedia/b1fd3432-a300-4742-b775-92532f260367/R1L-E2A-PQAN.pdf
+  - https://www.advancedenergy.com/getmedia/f6fd02d7-2628-42bf-a602-0423cd611582/970-143637-0000.pdf
+  - https://www.advancedenergy.com/getmedia/ecab7da2-63eb-4c83-97db-c3f3a337ac66/R1L-E2A-vs-R1L-E2-Comparison.pdf
+  - https://www.advancedenergy.com/getmedia/c21ca0fb-be55-42aa-b887-f65b8a1eea82/13742-Rev-EB.pdf
+  - https://www.advancedenergy.com/getmedia/81910648-eba2-4d67-87ac-7fbf5292d353/R1L-BI_BIR-900-Rev-BB.pdf
+  - https://www.advancedenergy.com/getmedia/d5861bc3-826c-4ef8-89b6-72e1e05e5c11/R1L-BIR1-900-Rev-BB.pdf
+  - https://www.advancedenergy.com/getmedia/64145a6c-fc97-407a-9900-747e5193b744/R1L-D1-901-01-Rev-H.pdf
+  - https://www.advancedenergy.com/getmedia/e890c491-89be-4e64-8fc7-968cf3e093de/R1L-E2A-901-01-Rev-G.pdf
+  - https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCB.pdf
+
+Images:
+  - Image: https://www.advancedenergy.com/getattachment/c2322e9b-4d2c-4254-9db2-739e70444c5e/R1l-BIR-and-R1L-E2A.png
+  - Image: https://www.advancedenergy.com/getattachment/c2322e9b-4d2c-4254-9db2-739e70444c5e/R1l-BIR-and-R1L-E2A.png
+  - Image: https://www.advancedenergy.com/getattachment/425ff2c6-417f-48bf-8e9e-cddd7b49000f/SKP-8.jpg
+  - Image: https://www.advancedenergy.com/getattachment/be5f473b-2ca7-486b-adb1-7c7f5057e0e4/710A-720A-730A.png
+  - Image: https://www.advancedenergy.com/images/support-image.png
+
+Related Products:
+  - FeaturedHandheld Bond MetersSuperior Accuracy, 100-Hour Battery Life, and a 3-Year Warranty: https://www.advancedenergy.com/en-us/products/sense-and-measurement/resistance-measurement/bond-meters-milli-ohmmeters/handheld-bond-meters/
+  - Datasheet: https://www.advancedenergy.com/getmedia/5ae9801c-cecd-43ba-a12f-b3057bfde330/710A-909_RevCB.pdf
+
+------------------------------------------------------------------------------
+NAVIGATION PATH (Breadcrumb)
+------------------------------------------------------------------------------
+Products
+  ↓
+Sense and MeasurementProven temperature measurement technologies. Advanced Energy's optical fiber pyrometers deliver real-time measurement via in-situ probes, optimizing process control.
+  ↓
+Resistance MeasurementAdvanced Energy’s TEGAM brand is synonymous with high accuracy resistance measurement instruments, particularly when it comes to low-level resistance. The TEGAM line of bond meters, milli-ohmmeters, and high-speed micro-ohmmeters offer performance levels that are among the highest in the industry.
+  ↓
+Bond Meters / Milli-OhmmetersHigh accuracy resistance measurementsSmallest, lightest handheld bond meters in the industrySupported by a wide range of test probe options
+  ↓
+FeaturedPortable Bond MetersBench Top Milli-Ohmmeter and Bond Meter
