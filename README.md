@@ -4,11 +4,16 @@ A full-stack Retrieval-Augmented Generation (RAG) system and interactive Node.js
 
 This project maps the entire Advanced Energy product taxonomy into a local ChromaDB vector space and uses Google Gemini to answer questions with verifiable, cited product specifications and live images.
 
-## Live Demo
+[![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?logo=render&logoColor=white)](https://dashboard.render.com)
+[![Live App](https://img.shields.io/badge/Live_App-Open-0EA5E9)](https://advanced-energy-dashboard.onrender.com)
+[![Documentation](https://img.shields.io/badge/Documentation-README-334155)](#system-architecture)
+[![System Design Report](https://img.shields.io/badge/System_Design-Architecture-7C3AED)](#system-architecture)
 
-[Open the Advanced Energy AE BOT dashboard](https://advanced-energy-dashboard.onrender.com)
+**Live dashboard:** [advanced-energy-dashboard.onrender.com](https://advanced-energy-dashboard.onrender.com)
 
-## Architecture
+## System Architecture
+
+The platform combines a local product-ingestion and retrieval pipeline with a Node.js dashboard:
 
 The project is split into three main components:
 
