@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: advanced-energy-dashboard
+    runtime: docker
+    plan: free
+    dockerfilePath: ./dashboard/Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/status
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: MAX_MEMORY_TURNS
+        value: "20"
+      - key: QUERY_TIMEOUT_MS
+        value: "90000"
