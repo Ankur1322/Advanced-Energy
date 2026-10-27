@@ -4,6 +4,10 @@ A full-stack Retrieval-Augmented Generation (RAG) system and interactive Node.js
 
 This project maps the entire Advanced Energy product taxonomy into a local ChromaDB vector space and uses Google Gemini to answer questions with verifiable, cited product specifications and live images.
 
+## Live Demo
+
+[Open the Advanced Energy AE BOT dashboard](https://advanced-energy-dashboard.onrender.com)
+
 ## Architecture
 
 The project is split into three main components:
@@ -106,6 +110,8 @@ node server.js
 ```
 
 The application will be live at: **http://localhost:3000**
+
+The production dashboard is available at [advanced-energy-dashboard.onrender.com](https://advanced-energy-dashboard.onrender.com).
 
 ### Production deployment
 
